@@ -7,6 +7,6 @@
   "img": "icons/svg/dice-target.svg",
   "scope": "global",
   "command": "const tableName = \"Mystery Event Focus Table\";\n\nconst table = game.tables.getName(tableName);\n\nif (!table) {\n  ui.notifications.error(`RollTable \"${tableName}\" not found.`);\n  return;\n}\n\n// Roll d100\nconst roll = await new Roll(\"1d100\").evaluate();\n\n// Draw from table using roll\nconst draw = await table.draw({\n  roll: roll,\n  displayChat: false\n});\n\nconst result = draw.results[0];\n\n// Output to chat\nlet content = `\n<h2>🎲 Mystery Event Focus</h2>\n\n<p>\n<strong>Roll:</strong> ${roll.total}\n</p>\n\n<p>\n<strong>Result [${roll.total}]:</strong> ${result.text}\n</p>\n`;\n\nChatMessage.create({\n  user: game.user.id,\n  speaker: ChatMessage.getSpeaker(),\n                   content: content\n});\n",
-  "folder": null,
+  "folder": "e435f3b9ce181ba0",
   "flags": {}
 }

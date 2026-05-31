@@ -7,6 +7,6 @@
   "img": "icons/svg/dice-target.svg",
   "scope": "global",
   "command": "const tables = {\n  mechanic: \"Battle Puzzle Mechanic\",\n  descriptor: \"Puzzle Descriptors\",\n  object: \"Fantasy Objects\"\n};\n\nasync function drawFromTable(tableName) {\n  const table = game.tables.getName(tableName);\n\n  if (!table) {\n    ui.notifications.error(`RollTable \"${tableName}\" not found.`);\n    return null;\n  }\n\n  const roll = await table.roll();\n  const result = roll.results[0];\n\n  return {\n    roll: result.range[0],\n    text: result.text\n  };\n}\n\n// Roll number of mechanics\nconst mechanicCountRoll = await new Roll(\"1d3\").evaluate();\nconst mechanicCount = mechanicCountRoll.total;\n\nlet content = `\n<h2>🧩 Battlefield Mechanics</h2>\n\n<p>\n<strong>Mechanics Generated:</strong> ${mechanicCount}\n</p>\n`;\n\nfor (let i = 1; i <= mechanicCount; i++) {\n\n  const mechanic = await drawFromTable(tables.mechanic);\n  const descriptor = await drawFromTable(tables.descriptor);\n  const object = await drawFromTable(tables.object);\n\n  content += `\n    <hr>\n\n    <h3>Mechanic ${i}</h3>\n\n    <ul>\n      <li><strong>Mechanic:</strong> [${mechanic.roll}] ${mechanic.text}</li>\n      <li><strong>Descriptor:</strong> [${descriptor.roll}] ${descriptor.text}</li>\n      <li><strong>Object:</strong> [${object.roll}] ${object.text}</li>\n    </ul>\n  `;\n}\n\nChatMessage.create({\n  user: game.user.id,\n  speaker: ChatMessage.getSpeaker(),\n  content\n});\n",
-  "folder": null,
+  "folder": "838b29fa14b01904",
   "flags": {}
 }

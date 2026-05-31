@@ -7,6 +7,6 @@
   "img": "icons/svg/dice-target.svg",
   "scope": "global",
   "command": "const tableName = \"Puzzle Consequence\";\n\nconst table = game.tables.getName(tableName);\n\nif (!table) {\n    ui.notifications.error(`RollTable \"${tableName}\" not found.`);\n    return;\n}\n\n// Draw 2 puzzle consequences\nconst results = await table.drawMany(2, { displayChat: false });\n\nlet content = `<h2>⚠️ Puzzle Consequences</h2><ol>`;\n\nfor (let r of results.results) {\n    const rollNumber = r.range[0];\n    content += `<li><strong>[${rollNumber}]</strong> ${r.text}</li>`;\n}\n\ncontent += `</ol>`;\n\n// Send to chat\nChatMessage.create({\n    user: game.user.id,\n    speaker: ChatMessage.getSpeaker(),\n                   content: content\n});\n",
-  "folder": null,
+  "folder": "e435f3b9ce181ba0",
   "flags": {}
 }

@@ -519,6 +519,6 @@
   "formula": "1d6 * 10 + 1d6",
   "replacement": true,
   "displayRoll": true,
-  "folder": null,
+  "folder": "b4e3836709c2a39b",
   "flags": {}
 }
