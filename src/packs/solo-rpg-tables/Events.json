@@ -1,11 +1,13 @@
 {
   "_id": "f90a1b8c18e79a19",
+  "_key": "!tables!f90a1b8c18e79a19",
   "name": "Events",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "24b5686427623254",
+      "_key": "!tables.results!f90a1b8c18e79a19.24b5686427623254",
       "type": 0,
       "text": "Ended earlier",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "3e1b26d55c94fdba",
+      "_key": "!tables.results!f90a1b8c18e79a19.3e1b26d55c94fdba",
       "type": 0,
       "text": "Is happening now",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "04eb9d818f2ca178",
+      "_key": "!tables.results!f90a1b8c18e79a19.04eb9d818f2ca178",
       "type": 0,
       "text": "Will take place in the future",
       "weight": 1,

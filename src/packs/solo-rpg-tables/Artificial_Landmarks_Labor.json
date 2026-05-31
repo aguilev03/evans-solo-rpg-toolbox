@@ -1,11 +1,13 @@
 {
   "_id": "1dd51d9056864178",
+  "_key": "!tables!1dd51d9056864178",
   "name": "Artificial Landmarks Labor",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "47cbd41cf3fc90fb",
+      "_key": "!tables.results!1dd51d9056864178.47cbd41cf3fc90fb",
       "type": 0,
       "text": "Barn",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "37501b9299703e8f",
+      "_key": "!tables.results!1dd51d9056864178.37501b9299703e8f",
       "type": 0,
       "text": "Felled trees",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "bca2160f4226a2bd",
+      "_key": "!tables.results!1dd51d9056864178.bca2160f4226a2bd",
       "type": 0,
       "text": "Field",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "d5f20f0899acf2d3",
+      "_key": "!tables.results!1dd51d9056864178.d5f20f0899acf2d3",
       "type": 0,
       "text": "Granary",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "7a975dfa1d8f484e",
+      "_key": "!tables.results!1dd51d9056864178.7a975dfa1d8f484e",
       "type": 0,
       "text": "Labor camp",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "fb6b2cecf36becba",
+      "_key": "!tables.results!1dd51d9056864178.fb6b2cecf36becba",
       "type": 0,
       "text": "Meadow",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "fe85a8fda646792e",
+      "_key": "!tables.results!1dd51d9056864178.fe85a8fda646792e",
       "type": 0,
       "text": "Quarry",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "d26f610dca115a0c",
+      "_key": "!tables.results!1dd51d9056864178.d26f610dca115a0c",
       "type": 0,
       "text": "Straw man",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "892690986f86e8bc",
+      "_key": "!tables.results!1dd51d9056864178.892690986f86e8bc",
       "type": 0,
       "text": "Swidden field",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "1626bf9d690ca9e8",
+      "_key": "!tables.results!1dd51d9056864178.1626bf9d690ca9e8",
       "type": 0,
       "text": "Water tower",
       "weight": 1,

@@ -1,11 +1,13 @@
 {
   "_id": "551c86dddd80efe5",
+  "_key": "!tables!551c86dddd80efe5",
   "name": "Noir Threats",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate a noir threat.",
   "results": [
     {
       "_id": "3f415f3c625acd34",
+      "_key": "!tables.results!551c86dddd80efe5.3f415f3c625acd34",
       "type": 0,
       "text": "Invasive thoughts",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "7311f9f246c15a6d",
+      "_key": "!tables.results!551c86dddd80efe5.7311f9f246c15a6d",
       "type": 0,
       "text": "Sudden landslide",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "1a824149006685f2",
+      "_key": "!tables.results!551c86dddd80efe5.1a824149006685f2",
       "type": 0,
       "text": "Armed individual",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "31115a9777d339c9",
+      "_key": "!tables.results!551c86dddd80efe5.31115a9777d339c9",
       "type": 0,
       "text": "Government agent",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "c53f2e0bd3fee5c9",
+      "_key": "!tables.results!551c86dddd80efe5.c53f2e0bd3fee5c9",
       "type": 0,
       "text": "Restless crowd",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "980b3153da8e65ff",
+      "_key": "!tables.results!551c86dddd80efe5.980b3153da8e65ff",
       "type": 0,
       "text": "Dangerous animal",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "c9702a29bb135aa0",
+      "_key": "!tables.results!551c86dddd80efe5.c9702a29bb135aa0",
       "type": 0,
       "text": "Blazing fire",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "8889137d4049698a",
+      "_key": "!tables.results!551c86dddd80efe5.8889137d4049698a",
       "type": 0,
       "text": "Guard patrol",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "f0bbb9f8a2a3368e",
+      "_key": "!tables.results!551c86dddd80efe5.f0bbb9f8a2a3368e",
       "type": 0,
       "text": "Angry boss",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "71b1136bb3af0714",
+      "_key": "!tables.results!551c86dddd80efe5.71b1136bb3af0714",
       "type": 0,
       "text": "Unrelenting stalker",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "17bbac47dd258b34",
+      "_key": "!tables.results!551c86dddd80efe5.17bbac47dd258b34",
       "type": 0,
       "text": "Security system",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "f2d23dc7f5db516f",
+      "_key": "!tables.results!551c86dddd80efe5.f2d23dc7f5db516f",
       "type": 0,
       "text": "Man-made trap",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "31690f9437e478ce",
+      "_key": "!tables.results!551c86dddd80efe5.31690f9437e478ce",
       "type": 0,
       "text": "Eerie darkness",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "e3bc1bfab2fe4ec3",
+      "_key": "!tables.results!551c86dddd80efe5.e3bc1bfab2fe4ec3",
       "type": 0,
       "text": "Interested faction",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "700a0cd2a2f2cd50",
+      "_key": "!tables.results!551c86dddd80efe5.700a0cd2a2f2cd50",
       "type": 0,
       "text": "Criminal activity",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "29c264101cf49df2",
+      "_key": "!tables.results!551c86dddd80efe5.29c264101cf49df2",
       "type": 0,
       "text": "Police presence",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "a123c1dea969edd4",
+      "_key": "!tables.results!551c86dddd80efe5.a123c1dea969edd4",
       "type": 0,
       "text": "Rival detective",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "39b0991a344f35ba",
+      "_key": "!tables.results!551c86dddd80efe5.39b0991a344f35ba",
       "type": 0,
       "text": "Toxic chemical",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "66000714318270e3",
+      "_key": "!tables.results!551c86dddd80efe5.66000714318270e3",
       "type": 0,
       "text": "Unstable structure",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "1bf454eb4a42878d",
+      "_key": "!tables.results!551c86dddd80efe5.1bf454eb4a42878d",
       "type": 0,
       "text": "Media presence",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "e354ca007be815b8",
+      "_key": "!tables.results!551c86dddd80efe5.e354ca007be815b8",
       "type": 0,
       "text": "Hidden fanatic",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "7428f2dff50b8af7",
+      "_key": "!tables.results!551c86dddd80efe5.7428f2dff50b8af7",
       "type": 0,
       "text": "Drunk bystander",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "899387e3b81f2d46",
+      "_key": "!tables.results!551c86dddd80efe5.899387e3b81f2d46",
       "type": 0,
       "text": "Nauseating stench",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "9590cc06a2a72717",
+      "_key": "!tables.results!551c86dddd80efe5.9590cc06a2a72717",
       "type": 0,
       "text": "Distant pursuer",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "fda5ec25f31bbe77",
+      "_key": "!tables.results!551c86dddd80efe5.fda5ec25f31bbe77",
       "type": 0,
       "text": "Environmental anomaly",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "358c87134a09e79a",
+      "_key": "!tables.results!551c86dddd80efe5.358c87134a09e79a",
       "type": 0,
       "text": "Altered state",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "1737a4c7363be392",
+      "_key": "!tables.results!551c86dddd80efe5.1737a4c7363be392",
       "type": 0,
       "text": "Imposter syndrome",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "0302f4607cd62c3f",
+      "_key": "!tables.results!551c86dddd80efe5.0302f4607cd62c3f",
       "type": 0,
       "text": "Heavy rain",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "05ecb00e68f41123",
+      "_key": "!tables.results!551c86dddd80efe5.05ecb00e68f41123",
       "type": 0,
       "text": "Faulty equipment",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "a3b66e9237b456ac",
+      "_key": "!tables.results!551c86dddd80efe5.a3b66e9237b456ac",
       "type": 0,
       "text": "Distracting noise",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "cb39d556cd78a16a",
+      "_key": "!tables.results!551c86dddd80efe5.cb39d556cd78a16a",
       "type": 0,
       "text": "Consuming fear",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "c811106c3d486c1c",
+      "_key": "!tables.results!551c86dddd80efe5.c811106c3d486c1c",
       "type": 0,
       "text": "Inconsolable victim",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "1b7d88cb4d17aad1",
+      "_key": "!tables.results!551c86dddd80efe5.1b7d88cb4d17aad1",
       "type": 0,
       "text": "Assassin",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "a7b23115a68b382c",
+      "_key": "!tables.results!551c86dddd80efe5.a7b23115a68b382c",
       "type": 0,
       "text": "Trauma trigger",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "3cfec8785c9198bc",
+      "_key": "!tables.results!551c86dddd80efe5.3cfec8785c9198bc",
       "type": 0,
       "text": "Persistent exhaustion",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "3cc47e8e714b0570",
+      "_key": "!tables.results!551c86dddd80efe5.3cc47e8e714b0570",
       "type": 0,
       "text": "Frustrated resident",
       "weight": 1,

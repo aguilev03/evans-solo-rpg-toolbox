@@ -1,11 +1,13 @@
 {
   "_id": "9ed60d189d0058a3",
+  "_key": "!tables!9ed60d189d0058a3",
   "name": "Artificial Landmarks Travel",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "009b05c3878a81dc",
+      "_key": "!tables.results!9ed60d189d0058a3.009b05c3878a81dc",
       "type": 0,
       "text": "Boardwalks",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "d6660ef3a8b5e37d",
+      "_key": "!tables.results!9ed60d189d0058a3.d6660ef3a8b5e37d",
       "type": 0,
       "text": "Boundary stone",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "9561135596a2ac34",
+      "_key": "!tables.results!9ed60d189d0058a3.9561135596a2ac34",
       "type": 0,
       "text": "Bridge",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "4dd57eb7413cca7f",
+      "_key": "!tables.results!9ed60d189d0058a3.4dd57eb7413cca7f",
       "type": 0,
       "text": "Broken bridge",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "156b93423492ac08",
+      "_key": "!tables.results!9ed60d189d0058a3.156b93423492ac08",
       "type": 0,
       "text": "Danger sign",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "a8e06b2c3cb93057",
+      "_key": "!tables.results!9ed60d189d0058a3.a8e06b2c3cb93057",
       "type": 0,
       "text": "Ledge",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "778b9af1667561f2",
+      "_key": "!tables.results!9ed60d189d0058a3.778b9af1667561f2",
       "type": 0,
       "text": "Signboard",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "e80e70ade1dee8db",
+      "_key": "!tables.results!9ed60d189d0058a3.e80e70ade1dee8db",
       "type": 0,
       "text": "Stairs",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "60cb8f8ed34898d5",
+      "_key": "!tables.results!9ed60d189d0058a3.60cb8f8ed34898d5",
       "type": 0,
       "text": "Suspension bridge",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "ea7e56880474e67d",
+      "_key": "!tables.results!9ed60d189d0058a3.ea7e56880474e67d",
       "type": 0,
       "text": "Zipline",
       "weight": 1,

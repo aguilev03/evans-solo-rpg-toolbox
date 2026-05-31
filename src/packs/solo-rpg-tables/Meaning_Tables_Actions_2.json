@@ -1,11 +1,13 @@
 {
   "_id": "ea786860dca400a3",
+  "_key": "!tables!ea786860dca400a3",
   "name": "Meaning Tables Actions 2",
   "img": "icons/svg/d20-grey.svg",
   "description": "Meaning Tables Actions 2",
   "results": [
     {
       "_id": "7aa9e1d1a9978b08",
+      "_key": "!tables.results!ea786860dca400a3.7aa9e1d1a9978b08",
       "type": 0,
       "text": "Goals",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "4cd8afbf204c565b",
+      "_key": "!tables.results!ea786860dca400a3.4cd8afbf204c565b",
       "type": 0,
       "text": "Dreams",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "8043601524cf982f",
+      "_key": "!tables.results!ea786860dca400a3.8043601524cf982f",
       "type": 0,
       "text": "Environment",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "9ba6da4c9ed5b790",
+      "_key": "!tables.results!ea786860dca400a3.9ba6da4c9ed5b790",
       "type": 0,
       "text": "Outside",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "5bf1191fbc537057",
+      "_key": "!tables.results!ea786860dca400a3.5bf1191fbc537057",
       "type": 0,
       "text": "Inside",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "9e4baa241780338b",
+      "_key": "!tables.results!ea786860dca400a3.9e4baa241780338b",
       "type": 0,
       "text": "Reality",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "4617afd34043eb41",
+      "_key": "!tables.results!ea786860dca400a3.4617afd34043eb41",
       "type": 0,
       "text": "Allies",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "540a58155a954155",
+      "_key": "!tables.results!ea786860dca400a3.540a58155a954155",
       "type": 0,
       "text": "Enemies",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "9e4bbb1963869b41",
+      "_key": "!tables.results!ea786860dca400a3.9e4bbb1963869b41",
       "type": 0,
       "text": "Evil",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "c7fe3c9199434e17",
+      "_key": "!tables.results!ea786860dca400a3.c7fe3c9199434e17",
       "type": 0,
       "text": "Good",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "44eb0649565baf47",
+      "_key": "!tables.results!ea786860dca400a3.44eb0649565baf47",
       "type": 0,
       "text": "Emotions",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "b6a6204402f7ea68",
+      "_key": "!tables.results!ea786860dca400a3.b6a6204402f7ea68",
       "type": 0,
       "text": "Opposition",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "ed96bc9701ed61e3",
+      "_key": "!tables.results!ea786860dca400a3.ed96bc9701ed61e3",
       "type": 0,
       "text": "War",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "55de8b0b0f701164",
+      "_key": "!tables.results!ea786860dca400a3.55de8b0b0f701164",
       "type": 0,
       "text": "Peace",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "7182b76a7ef8af5d",
+      "_key": "!tables.results!ea786860dca400a3.7182b76a7ef8af5d",
       "type": 0,
       "text": "Innocent",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "f200ccd95ea19623",
+      "_key": "!tables.results!ea786860dca400a3.f200ccd95ea19623",
       "type": 0,
       "text": "Love",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "dde44e2887a3bc69",
+      "_key": "!tables.results!ea786860dca400a3.dde44e2887a3bc69",
       "type": 0,
       "text": "Spirit",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "d3fa1d00b77bc9c2",
+      "_key": "!tables.results!ea786860dca400a3.d3fa1d00b77bc9c2",
       "type": 0,
       "text": "Intellect",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "097a5097d21cbf59",
+      "_key": "!tables.results!ea786860dca400a3.097a5097d21cbf59",
       "type": 0,
       "text": "Ideas",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "9a0dc55b5729c75b",
+      "_key": "!tables.results!ea786860dca400a3.9a0dc55b5729c75b",
       "type": 0,
       "text": "Joy",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "e2f7613ec62e6ee7",
+      "_key": "!tables.results!ea786860dca400a3.e2f7613ec62e6ee7",
       "type": 0,
       "text": "Messages",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "239beb6b4c6d23c9",
+      "_key": "!tables.results!ea786860dca400a3.239beb6b4c6d23c9",
       "type": 0,
       "text": "Energy",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "cb6d1300699d2bc5",
+      "_key": "!tables.results!ea786860dca400a3.cb6d1300699d2bc5",
       "type": 0,
       "text": "Balance",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "923f8cdbb136dfcc",
+      "_key": "!tables.results!ea786860dca400a3.923f8cdbb136dfcc",
       "type": 0,
       "text": "Tension",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "68be9d28bddf255a",
+      "_key": "!tables.results!ea786860dca400a3.68be9d28bddf255a",
       "type": 0,
       "text": "Friendship",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "ee7075c233263973",
+      "_key": "!tables.results!ea786860dca400a3.ee7075c233263973",
       "type": 0,
       "text": "Physical",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "1c5fca18f0ad8c69",
+      "_key": "!tables.results!ea786860dca400a3.1c5fca18f0ad8c69",
       "type": 0,
       "text": "Project",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "a3c42e965d441fa4",
+      "_key": "!tables.results!ea786860dca400a3.a3c42e965d441fa4",
       "type": 0,
       "text": "Pleasures",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "e950b025c04a06cb",
+      "_key": "!tables.results!ea786860dca400a3.e950b025c04a06cb",
       "type": 0,
       "text": "Pain",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "98bd204e2b86ab33",
+      "_key": "!tables.results!ea786860dca400a3.98bd204e2b86ab33",
       "type": 0,
       "text": "Possessions",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "4a842aade6bde945",
+      "_key": "!tables.results!ea786860dca400a3.4a842aade6bde945",
       "type": 0,
       "text": "Benefits",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "ddc572d757373400",
+      "_key": "!tables.results!ea786860dca400a3.ddc572d757373400",
       "type": 0,
       "text": "Plans",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "58ac5d2d9572227c",
+      "_key": "!tables.results!ea786860dca400a3.58ac5d2d9572227c",
       "type": 0,
       "text": "Lies",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "4df6577a35246ce6",
+      "_key": "!tables.results!ea786860dca400a3.4df6577a35246ce6",
       "type": 0,
       "text": "Expectations",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "96ca0383c9c3cde0",
+      "_key": "!tables.results!ea786860dca400a3.96ca0383c9c3cde0",
       "type": 0,
       "text": "Legal",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "f3c1b52a1aa35668",
+      "_key": "!tables.results!ea786860dca400a3.f3c1b52a1aa35668",
       "type": 0,
       "text": "Bureaucracy",
       "weight": 1,
@@ -510,6 +547,7 @@
     },
     {
       "_id": "2223a60693747aeb",
+      "_key": "!tables.results!ea786860dca400a3.2223a60693747aeb",
       "type": 0,
       "text": "Business",
       "weight": 1,
@@ -524,6 +562,7 @@
     },
     {
       "_id": "46d326b1ab207eda",
+      "_key": "!tables.results!ea786860dca400a3.46d326b1ab207eda",
       "type": 0,
       "text": "Path",
       "weight": 1,
@@ -538,6 +577,7 @@
     },
     {
       "_id": "b817d6a38fe4aa9b",
+      "_key": "!tables.results!ea786860dca400a3.b817d6a38fe4aa9b",
       "type": 0,
       "text": "News",
       "weight": 1,
@@ -552,6 +592,7 @@
     },
     {
       "_id": "3188588ca22e413d",
+      "_key": "!tables.results!ea786860dca400a3.3188588ca22e413d",
       "type": 0,
       "text": "Exterior",
       "weight": 1,
@@ -566,6 +607,7 @@
     },
     {
       "_id": "d4dc05bbfec7fbed",
+      "_key": "!tables.results!ea786860dca400a3.d4dc05bbfec7fbed",
       "type": 0,
       "text": "Advice",
       "weight": 1,
@@ -580,6 +622,7 @@
     },
     {
       "_id": "74cc5a603fc353e5",
+      "_key": "!tables.results!ea786860dca400a3.74cc5a603fc353e5",
       "type": 0,
       "text": "Plot",
       "weight": 1,
@@ -594,6 +637,7 @@
     },
     {
       "_id": "c0df6b0cf381db2a",
+      "_key": "!tables.results!ea786860dca400a3.c0df6b0cf381db2a",
       "type": 0,
       "text": "Competition",
       "weight": 1,
@@ -608,6 +652,7 @@
     },
     {
       "_id": "0972c2ca3d844060",
+      "_key": "!tables.results!ea786860dca400a3.0972c2ca3d844060",
       "type": 0,
       "text": "Prison",
       "weight": 1,
@@ -622,6 +667,7 @@
     },
     {
       "_id": "f13f868b125132a7",
+      "_key": "!tables.results!ea786860dca400a3.f13f868b125132a7",
       "type": 0,
       "text": "Illness",
       "weight": 1,
@@ -636,6 +682,7 @@
     },
     {
       "_id": "29ed3e86d5aa6299",
+      "_key": "!tables.results!ea786860dca400a3.29ed3e86d5aa6299",
       "type": 0,
       "text": "Food",
       "weight": 1,
@@ -650,6 +697,7 @@
     },
     {
       "_id": "dd38986f59417d9d",
+      "_key": "!tables.results!ea786860dca400a3.dd38986f59417d9d",
       "type": 0,
       "text": "Attention",
       "weight": 1,
@@ -664,6 +712,7 @@
     },
     {
       "_id": "449dfdcb8e7acdc9",
+      "_key": "!tables.results!ea786860dca400a3.449dfdcb8e7acdc9",
       "type": 0,
       "text": "Success",
       "weight": 1,
@@ -678,6 +727,7 @@
     },
     {
       "_id": "eed1c8686349df15",
+      "_key": "!tables.results!ea786860dca400a3.eed1c8686349df15",
       "type": 0,
       "text": "Failure",
       "weight": 1,
@@ -692,6 +742,7 @@
     },
     {
       "_id": "4115b974117db841",
+      "_key": "!tables.results!ea786860dca400a3.4115b974117db841",
       "type": 0,
       "text": "Travel",
       "weight": 1,
@@ -706,6 +757,7 @@
     },
     {
       "_id": "d053dcce192016e5",
+      "_key": "!tables.results!ea786860dca400a3.d053dcce192016e5",
       "type": 0,
       "text": "Jealousy",
       "weight": 1,
@@ -720,6 +772,7 @@
     },
     {
       "_id": "4aa1656ff320b36d",
+      "_key": "!tables.results!ea786860dca400a3.4aa1656ff320b36d",
       "type": 0,
       "text": "Dispute",
       "weight": 1,
@@ -734,6 +787,7 @@
     },
     {
       "_id": "bc59f96f83ede001",
+      "_key": "!tables.results!ea786860dca400a3.bc59f96f83ede001",
       "type": 0,
       "text": "Home",
       "weight": 1,
@@ -748,6 +802,7 @@
     },
     {
       "_id": "561352014417995d",
+      "_key": "!tables.results!ea786860dca400a3.561352014417995d",
       "type": 0,
       "text": "Investment",
       "weight": 1,
@@ -762,6 +817,7 @@
     },
     {
       "_id": "1affdd11b3c3fa30",
+      "_key": "!tables.results!ea786860dca400a3.1affdd11b3c3fa30",
       "type": 0,
       "text": "Suffering",
       "weight": 1,
@@ -776,6 +832,7 @@
     },
     {
       "_id": "b327ab7d995e5d0e",
+      "_key": "!tables.results!ea786860dca400a3.b327ab7d995e5d0e",
       "type": 0,
       "text": "Wishes",
       "weight": 1,
@@ -790,6 +847,7 @@
     },
     {
       "_id": "8f55d903de053fa5",
+      "_key": "!tables.results!ea786860dca400a3.8f55d903de053fa5",
       "type": 0,
       "text": "Tactics",
       "weight": 1,
@@ -804,6 +862,7 @@
     },
     {
       "_id": "cb69451e2497180c",
+      "_key": "!tables.results!ea786860dca400a3.cb69451e2497180c",
       "type": 0,
       "text": "Stalemate",
       "weight": 1,
@@ -818,6 +877,7 @@
     },
     {
       "_id": "96da317b26409adb",
+      "_key": "!tables.results!ea786860dca400a3.96da317b26409adb",
       "type": 0,
       "text": "Randomness",
       "weight": 1,
@@ -832,6 +892,7 @@
     },
     {
       "_id": "d5f48d1c866f917a",
+      "_key": "!tables.results!ea786860dca400a3.d5f48d1c866f917a",
       "type": 0,
       "text": "Misfortune",
       "weight": 1,
@@ -846,6 +907,7 @@
     },
     {
       "_id": "af1c5e7f6e454433",
+      "_key": "!tables.results!ea786860dca400a3.af1c5e7f6e454433",
       "type": 0,
       "text": "Death",
       "weight": 1,
@@ -860,6 +922,7 @@
     },
     {
       "_id": "570815966bf2f772",
+      "_key": "!tables.results!ea786860dca400a3.570815966bf2f772",
       "type": 0,
       "text": "Disruption",
       "weight": 1,
@@ -874,6 +937,7 @@
     },
     {
       "_id": "94a5b66b8023895f",
+      "_key": "!tables.results!ea786860dca400a3.94a5b66b8023895f",
       "type": 0,
       "text": "Power",
       "weight": 1,
@@ -888,6 +952,7 @@
     },
     {
       "_id": "99ebda2185abf474",
+      "_key": "!tables.results!ea786860dca400a3.99ebda2185abf474",
       "type": 0,
       "text": "Burden",
       "weight": 1,
@@ -902,6 +967,7 @@
     },
     {
       "_id": "400e4824d5902fb3",
+      "_key": "!tables.results!ea786860dca400a3.400e4824d5902fb3",
       "type": 0,
       "text": "Intrigues",
       "weight": 1,
@@ -916,6 +982,7 @@
     },
     {
       "_id": "6594099dc6da506c",
+      "_key": "!tables.results!ea786860dca400a3.6594099dc6da506c",
       "type": 0,
       "text": "Fears",
       "weight": 1,
@@ -930,6 +997,7 @@
     },
     {
       "_id": "1bd38c36183034e7",
+      "_key": "!tables.results!ea786860dca400a3.1bd38c36183034e7",
       "type": 0,
       "text": "Ambush",
       "weight": 1,
@@ -944,6 +1012,7 @@
     },
     {
       "_id": "c3fd5c275b217473",
+      "_key": "!tables.results!ea786860dca400a3.c3fd5c275b217473",
       "type": 0,
       "text": "Rumor",
       "weight": 1,
@@ -958,6 +1027,7 @@
     },
     {
       "_id": "b99be366a46047a6",
+      "_key": "!tables.results!ea786860dca400a3.b99be366a46047a6",
       "type": 0,
       "text": "Wounds",
       "weight": 1,
@@ -972,6 +1042,7 @@
     },
     {
       "_id": "4ca106573a26f0f2",
+      "_key": "!tables.results!ea786860dca400a3.4ca106573a26f0f2",
       "type": 0,
       "text": "Extravagance",
       "weight": 1,
@@ -986,6 +1057,7 @@
     },
     {
       "_id": "0353c41415a8d1df",
+      "_key": "!tables.results!ea786860dca400a3.0353c41415a8d1df",
       "type": 0,
       "text": "Representative",
       "weight": 1,
@@ -1000,6 +1072,7 @@
     },
     {
       "_id": "eaa56224750872fc",
+      "_key": "!tables.results!ea786860dca400a3.eaa56224750872fc",
       "type": 0,
       "text": "Adversities",
       "weight": 1,
@@ -1014,6 +1087,7 @@
     },
     {
       "_id": "b130e28c1e58ddfd",
+      "_key": "!tables.results!ea786860dca400a3.b130e28c1e58ddfd",
       "type": 0,
       "text": "Opulence",
       "weight": 1,
@@ -1028,6 +1102,7 @@
     },
     {
       "_id": "1358cc35d51db76d",
+      "_key": "!tables.results!ea786860dca400a3.1358cc35d51db76d",
       "type": 0,
       "text": "Liberty",
       "weight": 1,
@@ -1042,6 +1117,7 @@
     },
     {
       "_id": "16c7edf9a62e41fb",
+      "_key": "!tables.results!ea786860dca400a3.16c7edf9a62e41fb",
       "type": 0,
       "text": "Military",
       "weight": 1,
@@ -1056,6 +1132,7 @@
     },
     {
       "_id": "12064fbacd3a7d49",
+      "_key": "!tables.results!ea786860dca400a3.12064fbacd3a7d49",
       "type": 0,
       "text": "Mundane",
       "weight": 1,
@@ -1070,6 +1147,7 @@
     },
     {
       "_id": "7eda15648790c48f",
+      "_key": "!tables.results!ea786860dca400a3.7eda15648790c48f",
       "type": 0,
       "text": "Trials",
       "weight": 1,
@@ -1084,6 +1162,7 @@
     },
     {
       "_id": "4f863cf225836b0b",
+      "_key": "!tables.results!ea786860dca400a3.4f863cf225836b0b",
       "type": 0,
       "text": "Masses",
       "weight": 1,
@@ -1098,6 +1177,7 @@
     },
     {
       "_id": "56086514c04c9ff9",
+      "_key": "!tables.results!ea786860dca400a3.56086514c04c9ff9",
       "type": 0,
       "text": "Vehicle",
       "weight": 1,
@@ -1112,6 +1192,7 @@
     },
     {
       "_id": "1b30e45c318f7330",
+      "_key": "!tables.results!ea786860dca400a3.1b30e45c318f7330",
       "type": 0,
       "text": "Art",
       "weight": 1,
@@ -1126,6 +1207,7 @@
     },
     {
       "_id": "16fe1c39be3e57b6",
+      "_key": "!tables.results!ea786860dca400a3.16fe1c39be3e57b6",
       "type": 0,
       "text": "Victory",
       "weight": 1,
@@ -1140,6 +1222,7 @@
     },
     {
       "_id": "f6621a377d7c664a",
+      "_key": "!tables.results!ea786860dca400a3.f6621a377d7c664a",
       "type": 0,
       "text": "Dispute",
       "weight": 1,
@@ -1154,6 +1237,7 @@
     },
     {
       "_id": "9548e4df97120302",
+      "_key": "!tables.results!ea786860dca400a3.9548e4df97120302",
       "type": 0,
       "text": "Riches",
       "weight": 1,
@@ -1168,6 +1252,7 @@
     },
     {
       "_id": "1e56c48b0b45afdc",
+      "_key": "!tables.results!ea786860dca400a3.1e56c48b0b45afdc",
       "type": 0,
       "text": "Normal",
       "weight": 1,
@@ -1182,6 +1267,7 @@
     },
     {
       "_id": "db9766fcfc289ec9",
+      "_key": "!tables.results!ea786860dca400a3.db9766fcfc289ec9",
       "type": 0,
       "text": "Technology",
       "weight": 1,
@@ -1196,6 +1282,7 @@
     },
     {
       "_id": "ea00f127c08fffb1",
+      "_key": "!tables.results!ea786860dca400a3.ea00f127c08fffb1",
       "type": 0,
       "text": "Hope",
       "weight": 1,
@@ -1210,6 +1297,7 @@
     },
     {
       "_id": "3db2bfcfd61bf8a5",
+      "_key": "!tables.results!ea786860dca400a3.3db2bfcfd61bf8a5",
       "type": 0,
       "text": "Magic",
       "weight": 1,
@@ -1224,6 +1312,7 @@
     },
     {
       "_id": "783dd4779f9415eb",
+      "_key": "!tables.results!ea786860dca400a3.783dd4779f9415eb",
       "type": 0,
       "text": "Illusions",
       "weight": 1,
@@ -1238,6 +1327,7 @@
     },
     {
       "_id": "bd3df6631467209d",
+      "_key": "!tables.results!ea786860dca400a3.bd3df6631467209d",
       "type": 0,
       "text": "Portals",
       "weight": 1,
@@ -1252,6 +1342,7 @@
     },
     {
       "_id": "89f56726c848becf",
+      "_key": "!tables.results!ea786860dca400a3.89f56726c848becf",
       "type": 0,
       "text": "Danger",
       "weight": 1,
@@ -1266,6 +1357,7 @@
     },
     {
       "_id": "2d4af0651813339a",
+      "_key": "!tables.results!ea786860dca400a3.2d4af0651813339a",
       "type": 0,
       "text": "Weapons",
       "weight": 1,
@@ -1280,6 +1372,7 @@
     },
     {
       "_id": "8e0b1c12cf7d97b7",
+      "_key": "!tables.results!ea786860dca400a3.8e0b1c12cf7d97b7",
       "type": 0,
       "text": "Animals",
       "weight": 1,
@@ -1294,6 +1387,7 @@
     },
     {
       "_id": "de3821fe487c717b",
+      "_key": "!tables.results!ea786860dca400a3.de3821fe487c717b",
       "type": 0,
       "text": "Weather",
       "weight": 1,
@@ -1308,6 +1402,7 @@
     },
     {
       "_id": "ac51064232549784",
+      "_key": "!tables.results!ea786860dca400a3.ac51064232549784",
       "type": 0,
       "text": "Elements",
       "weight": 1,
@@ -1322,6 +1417,7 @@
     },
     {
       "_id": "66846bfdf6f6352e",
+      "_key": "!tables.results!ea786860dca400a3.66846bfdf6f6352e",
       "type": 0,
       "text": "Nature",
       "weight": 1,
@@ -1336,6 +1432,7 @@
     },
     {
       "_id": "826a3159d1744093",
+      "_key": "!tables.results!ea786860dca400a3.826a3159d1744093",
       "type": 0,
       "text": "Masses",
       "weight": 1,
@@ -1350,6 +1447,7 @@
     },
     {
       "_id": "c827b6a0bec148b7",
+      "_key": "!tables.results!ea786860dca400a3.c827b6a0bec148b7",
       "type": 0,
       "text": "Leadership",
       "weight": 1,
@@ -1364,6 +1462,7 @@
     },
     {
       "_id": "9bf8ab347815974e",
+      "_key": "!tables.results!ea786860dca400a3.9bf8ab347815974e",
       "type": 0,
       "text": "Fame",
       "weight": 1,
@@ -1378,6 +1477,7 @@
     },
     {
       "_id": "f13567fb28b13774",
+      "_key": "!tables.results!ea786860dca400a3.f13567fb28b13774",
       "type": 0,
       "text": "Anger",
       "weight": 1,
@@ -1392,6 +1492,7 @@
     },
     {
       "_id": "1680947d84532d23",
+      "_key": "!tables.results!ea786860dca400a3.1680947d84532d23",
       "type": 0,
       "text": "Information",
       "weight": 1,

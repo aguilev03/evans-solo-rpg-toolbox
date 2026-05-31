@@ -1,11 +1,13 @@
 {
   "_id": "0838c92626d16305",
+  "_key": "!tables!0838c92626d16305",
   "name": "Tower Inside Appearance",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "8b4241a443aa6f02",
+      "_key": "!tables.results!0838c92626d16305.8b4241a443aa6f02",
       "type": 0,
       "text": "Colorful",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "03bfb3830ef146de",
+      "_key": "!tables.results!0838c92626d16305.03bfb3830ef146de",
       "type": 0,
       "text": "Cozy",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "678035a27b4c9924",
+      "_key": "!tables.results!0838c92626d16305.678035a27b4c9924",
       "type": 0,
       "text": "Dark",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "d1b742f94d45770a",
+      "_key": "!tables.results!0838c92626d16305.d1b742f94d45770a",
       "type": 0,
       "text": "Dusty",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "6595e49d1af680a8",
+      "_key": "!tables.results!0838c92626d16305.6595e49d1af680a8",
       "type": 0,
       "text": "Extravagant",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "e7d57ae33673a42b",
+      "_key": "!tables.results!0838c92626d16305.e7d57ae33673a42b",
       "type": 0,
       "text": "Luxurious",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "74af872975305642",
+      "_key": "!tables.results!0838c92626d16305.74af872975305642",
       "type": 0,
       "text": "Moldy",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "b46212c0b410339d",
+      "_key": "!tables.results!0838c92626d16305.b46212c0b410339d",
       "type": 0,
       "text": "Old fashioned",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "5bc590866e9fa359",
+      "_key": "!tables.results!0838c92626d16305.5bc590866e9fa359",
       "type": 0,
       "text": "Stark",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "2fafbcb9d075e4c4",
+      "_key": "!tables.results!0838c92626d16305.2fafbcb9d075e4c4",
       "type": 0,
       "text": "Well decorated",
       "weight": 1,

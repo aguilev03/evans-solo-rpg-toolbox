@@ -1,11 +1,13 @@
 {
   "_id": "be818c2073585fd2",
+  "_key": "!tables!be818c2073585fd2",
   "name": "City Characteristics",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "ef0c583b22752385",
+      "_key": "!tables.results!be818c2073585fd2.ef0c583b22752385",
       "type": 0,
       "text": "Nothing",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "7aaeb716e52e11a2",
+      "_key": "!tables.results!be818c2073585fd2.7aaeb716e52e11a2",
       "type": 0,
       "text": "Corrupt",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "e082696001ae23cf",
+      "_key": "!tables.results!be818c2073585fd2.e082696001ae23cf",
       "type": 0,
       "text": "Crowded",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "92def3692c2bba2b",
+      "_key": "!tables.results!be818c2073585fd2.92def3692c2bba2b",
       "type": 0,
       "text": "Destroyed",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "a50773d4f7e33f8a",
+      "_key": "!tables.results!be818c2073585fd2.a50773d4f7e33f8a",
       "type": 0,
       "text": "Dry",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "f4606ebc2c0e933f",
+      "_key": "!tables.results!be818c2073585fd2.f4606ebc2c0e933f",
       "type": 0,
       "text": "Filthy",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "631e3c9b7d0b1de1",
+      "_key": "!tables.results!be818c2073585fd2.631e3c9b7d0b1de1",
       "type": 0,
       "text": "Holy city",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "ae2b497938d9aac0",
+      "_key": "!tables.results!be818c2073585fd2.ae2b497938d9aac0",
       "type": 0,
       "text": "Humid",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "c588dc7f440251c6",
+      "_key": "!tables.results!be818c2073585fd2.c588dc7f440251c6",
       "type": 0,
       "text": "Narrow",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "7b56910b12013ff0",
+      "_key": "!tables.results!be818c2073585fd2.7b56910b12013ff0",
       "type": 0,
       "text": "Noisy",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "e9b688fe002e205d",
+      "_key": "!tables.results!be818c2073585fd2.e9b688fe002e205d",
       "type": 0,
       "text": "Open",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "cb1a22bc0d92cf0a",
+      "_key": "!tables.results!be818c2073585fd2.cb1a22bc0d92cf0a",
       "type": 0,
       "text": "Renowned",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "f4e00293bd2cb21d",
+      "_key": "!tables.results!be818c2073585fd2.f4e00293bd2cb21d",
       "type": 0,
       "text": "Silent",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "505e44e3d8e5679a",
+      "_key": "!tables.results!be818c2073585fd2.505e44e3d8e5679a",
       "type": 0,
       "text": "Tiered",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "a8a597c5c3240862",
+      "_key": "!tables.results!be818c2073585fd2.a8a597c5c3240862",
       "type": 0,
       "text": "Unsafe",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "9618f3fa13328073",
+      "_key": "!tables.results!be818c2073585fd2.9618f3fa13328073",
       "type": 0,
       "text": "Windy",
       "weight": 1,

@@ -1,11 +1,13 @@
 {
   "_id": "f76e9ab6ad8c950f",
+  "_key": "!tables!f76e9ab6ad8c950f",
   "name": "Disposition",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "106cea96678478ac",
+      "_key": "!tables.results!f76e9ab6ad8c950f.106cea96678478ac",
       "type": 0,
       "text": "Attack on sight",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "57321ec52ea1e122",
+      "_key": "!tables.results!f76e9ab6ad8c950f.57321ec52ea1e122",
       "type": 0,
       "text": "Hostile",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "c9f3fc9cc3284bb3",
+      "_key": "!tables.results!f76e9ab6ad8c950f.c9f3fc9cc3284bb3",
       "type": 0,
       "text": "Neutral",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "badce0b7ad4a36a4",
+      "_key": "!tables.results!f76e9ab6ad8c950f.badce0b7ad4a36a4",
       "type": 0,
       "text": "Welcoming",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "5dd47f57fbf14699",
+      "_key": "!tables.results!f76e9ab6ad8c950f.5dd47f57fbf14699",
       "type": 0,
       "text": "Enthusiastic",
       "weight": 1,

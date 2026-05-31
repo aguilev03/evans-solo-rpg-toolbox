@@ -1,11 +1,13 @@
 {
   "_id": "165e44b89459d08b",
+  "_key": "!tables!165e44b89459d08b",
   "name": "Traits",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate an investigator trait.",
   "results": [
     {
       "_id": "982c667ef7c24177",
+      "_key": "!tables.results!165e44b89459d08b.982c667ef7c24177",
       "type": 0,
       "text": "Optimistic",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "8bc07692d466e806",
+      "_key": "!tables.results!165e44b89459d08b.8bc07692d466e806",
       "type": 0,
       "text": "Lazy",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "d474ba34b894281f",
+      "_key": "!tables.results!165e44b89459d08b.d474ba34b894281f",
       "type": 0,
       "text": "Blind",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "e6d36ad983a9890d",
+      "_key": "!tables.results!165e44b89459d08b.e6d36ad983a9890d",
       "type": 0,
       "text": "Alter ego",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "985ef0955268d49e",
+      "_key": "!tables.results!165e44b89459d08b.985ef0955268d49e",
       "type": 0,
       "text": "Cocky",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "4bf743c9e4954c07",
+      "_key": "!tables.results!165e44b89459d08b.4bf743c9e4954c07",
       "type": 0,
       "text": "Narcissistic",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "3ee9b742ea324a6f",
+      "_key": "!tables.results!165e44b89459d08b.3ee9b742ea324a6f",
       "type": 0,
       "text": "Soft",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "f9eeb87db1a9d802",
+      "_key": "!tables.results!165e44b89459d08b.f9eeb87db1a9d802",
       "type": 0,
       "text": "Missing limb",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "196e1d037ff733e9",
+      "_key": "!tables.results!165e44b89459d08b.196e1d037ff733e9",
       "type": 0,
       "text": "Insomniac",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "d7dbbe9a33d0e7db",
+      "_key": "!tables.results!165e44b89459d08b.d7dbbe9a33d0e7db",
       "type": 0,
       "text": "Cowardly",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "0378e5d395a615c3",
+      "_key": "!tables.results!165e44b89459d08b.0378e5d395a615c3",
       "type": 0,
       "text": "Superstitious",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "c18304855eac67ed",
+      "_key": "!tables.results!165e44b89459d08b.c18304855eac67ed",
       "type": 0,
       "text": "Adventurous",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "8232e9f18b0d436c",
+      "_key": "!tables.results!165e44b89459d08b.8232e9f18b0d436c",
       "type": 0,
       "text": "Tattooed",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "4261b9e350217542",
+      "_key": "!tables.results!165e44b89459d08b.4261b9e350217542",
       "type": 0,
       "text": "Charming",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "f99390b7204be304",
+      "_key": "!tables.results!165e44b89459d08b.f99390b7204be304",
       "type": 0,
       "text": "Cold",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "b1bdab4750cec7f1",
+      "_key": "!tables.results!165e44b89459d08b.b1bdab4750cec7f1",
       "type": 0,
       "text": "Heavyset",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "1a52e4e28e6087e0",
+      "_key": "!tables.results!165e44b89459d08b.1a52e4e28e6087e0",
       "type": 0,
       "text": "Resilient",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "38ce269b4e05acc4",
+      "_key": "!tables.results!165e44b89459d08b.38ce269b4e05acc4",
       "type": 0,
       "text": "Elegant",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "476f20ae2f59cb3f",
+      "_key": "!tables.results!165e44b89459d08b.476f20ae2f59cb3f",
       "type": 0,
       "text": "Pessimistic",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "309b1f9939b23f53",
+      "_key": "!tables.results!165e44b89459d08b.309b1f9939b23f53",
       "type": 0,
       "text": "Verbal stutter",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "b8ff6857a83e26db",
+      "_key": "!tables.results!165e44b89459d08b.b8ff6857a83e26db",
       "type": 0,
       "text": "Ruthless",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "9f1d55283cb768d4",
+      "_key": "!tables.results!165e44b89459d08b.9f1d55283cb768d4",
       "type": 0,
       "text": "Paranoid",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "af4702734a8daa36",
+      "_key": "!tables.results!165e44b89459d08b.af4702734a8daa36",
       "type": 0,
       "text": "Greedy",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "77e2de0c0db7b9d7",
+      "_key": "!tables.results!165e44b89459d08b.77e2de0c0db7b9d7",
       "type": 0,
       "text": "Depressed",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "1544b63d6949f428",
+      "_key": "!tables.results!165e44b89459d08b.1544b63d6949f428",
       "type": 0,
       "text": "Lean",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "0e00b96095018654",
+      "_key": "!tables.results!165e44b89459d08b.0e00b96095018654",
       "type": 0,
       "text": "Stoic",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "650d65c5fdbbe3f2",
+      "_key": "!tables.results!165e44b89459d08b.650d65c5fdbbe3f2",
       "type": 0,
       "text": "Prosthetic eye",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "ff9d850ae8509e3d",
+      "_key": "!tables.results!165e44b89459d08b.ff9d850ae8509e3d",
       "type": 0,
       "text": "Fidgety",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "cb99d37ce4b2d698",
+      "_key": "!tables.results!165e44b89459d08b.cb99d37ce4b2d698",
       "type": 0,
       "text": "Mute",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "63822e3942eca038",
+      "_key": "!tables.results!165e44b89459d08b.63822e3942eca038",
       "type": 0,
       "text": "Scarred",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "a979ff261884bd17",
+      "_key": "!tables.results!165e44b89459d08b.a979ff261884bd17",
       "type": 0,
       "text": "Forgetful",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "ec2f885b6e29893e",
+      "_key": "!tables.results!165e44b89459d08b.ec2f885b6e29893e",
       "type": 0,
       "text": "Angry",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "39a041cdb22cd741",
+      "_key": "!tables.results!165e44b89459d08b.39a041cdb22cd741",
       "type": 0,
       "text": "Loud",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "e81ce7c40147a0dc",
+      "_key": "!tables.results!165e44b89459d08b.e81ce7c40147a0dc",
       "type": 0,
       "text": "Sickly",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "b6f2fa6bb7892669",
+      "_key": "!tables.results!165e44b89459d08b.b6f2fa6bb7892669",
       "type": 0,
       "text": "Law-abiding",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "72c7f087e86be31c",
+      "_key": "!tables.results!165e44b89459d08b.72c7f087e86be31c",
       "type": 0,
       "text": "Germaphobe",
       "weight": 1,

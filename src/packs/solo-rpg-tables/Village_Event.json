@@ -1,11 +1,13 @@
 {
   "_id": "e1333bf270da5afa",
+  "_key": "!tables!e1333bf270da5afa",
   "name": "Village Event",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "ea15374aa0580420",
+      "_key": "!tables.results!e1333bf270da5afa.ea15374aa0580420",
       "type": 0,
       "text": "Adventurers passing by",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "2c1d06f2764042ec",
+      "_key": "!tables.results!e1333bf270da5afa.2c1d06f2764042ec",
       "type": 0,
       "text": "Announcement by a crier",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "447f193a72925474",
+      "_key": "!tables.results!e1333bf270da5afa.447f193a72925474",
       "type": 0,
       "text": "Ceremony (wedding, etc.)",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "6c781d55ae36a852",
+      "_key": "!tables.results!e1333bf270da5afa.6c781d55ae36a852",
       "type": 0,
       "text": "Controlled by monsters",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "854e1a6efcfbd05e",
+      "_key": "!tables.results!e1333bf270da5afa.854e1a6efcfbd05e",
       "type": 0,
       "text": "Disappearances",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "06ecd4f22a898c91",
+      "_key": "!tables.results!e1333bf270da5afa.06ecd4f22a898c91",
       "type": 0,
       "text": "Famine",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "b36157f7cf1a4341",
+      "_key": "!tables.results!e1333bf270da5afa.b36157f7cf1a4341",
       "type": 0,
       "text": "Festival/Fair",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "df03e3add94fe8f4",
+      "_key": "!tables.results!e1333bf270da5afa.df03e3add94fe8f4",
       "type": 0,
       "text": "Fire",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "b0ea6e68e7525c44",
+      "_key": "!tables.results!e1333bf270da5afa.b0ea6e68e7525c44",
       "type": 0,
       "text": "Looting",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "d60575c794a09a36",
+      "_key": "!tables.results!e1333bf270da5afa.d60575c794a09a36",
       "type": 0,
       "text": "Market day",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "3e6326c0151b2d3b",
+      "_key": "!tables.results!e1333bf270da5afa.3e6326c0151b2d3b",
       "type": 0,
       "text": "Plague",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "860c45ade29b608c",
+      "_key": "!tables.results!e1333bf270da5afa.860c45ade29b608c",
       "type": 0,
       "text": "Visit of a notable (lord, etc.)",
       "weight": 1,

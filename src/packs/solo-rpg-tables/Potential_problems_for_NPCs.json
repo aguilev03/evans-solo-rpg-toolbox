@@ -1,11 +1,13 @@
 {
   "_id": "58fe7eb349da9fed",
+  "_key": "!tables!58fe7eb349da9fed",
   "name": "Potential problems for NPCs",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "5b4b4aa765864496",
+      "_key": "!tables.results!58fe7eb349da9fed.5b4b4aa765864496",
       "type": 0,
       "text": "Amnesia",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "e7396675ee48a722",
+      "_key": "!tables.results!58fe7eb349da9fed.e7396675ee48a722",
       "type": 0,
       "text": "Attacked/Chased",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "85464419ae2fca39",
+      "_key": "!tables.results!58fe7eb349da9fed.85464419ae2fca39",
       "type": 0,
       "text": "Disappearance",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "69ec8162399b3754",
+      "_key": "!tables.results!58fe7eb349da9fed.69ec8162399b3754",
       "type": 0,
       "text": "Hunger/Thirst",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "ed4b64086f1cc0d6",
+      "_key": "!tables.results!58fe7eb349da9fed.ed4b64086f1cc0d6",
       "type": 0,
       "text": "Imprisoned/Enslaved",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "319c7d5c82d45d29",
+      "_key": "!tables.results!58fe7eb349da9fed.319c7d5c82d45d29",
       "type": 0,
       "text": "Injured/Sick",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "44c8c23e7800130a",
+      "_key": "!tables.results!58fe7eb349da9fed.44c8c23e7800130a",
       "type": 0,
       "text": "Lost",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "060143ba24097c9f",
+      "_key": "!tables.results!58fe7eb349da9fed.060143ba24097c9f",
       "type": 0,
       "text": "Stuck/Bogged down",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "531b468d414ab86b",
+      "_key": "!tables.results!58fe7eb349da9fed.531b468d414ab86b",
       "type": 0,
       "text": "Theft",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "feaea4812e10f182",
+      "_key": "!tables.results!58fe7eb349da9fed.feaea4812e10f182",
       "type": 0,
       "text": "Trapped",
       "weight": 1,

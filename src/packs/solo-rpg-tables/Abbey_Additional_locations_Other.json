@@ -1,11 +1,13 @@
 {
   "_id": "1653b9c15be87796",
+  "_key": "!tables!1653b9c15be87796",
   "name": "Abbey Additional locations Other",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "d163e17291fc15ee",
+      "_key": "!tables.results!1653b9c15be87796.d163e17291fc15ee",
       "type": 0,
       "text": "Abbot’s gateway",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "a9aa8745302f8a7a",
+      "_key": "!tables.results!1653b9c15be87796.a9aa8745302f8a7a",
       "type": 0,
       "text": "Barns and stables",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "bc185d43ab162239",
+      "_key": "!tables.results!1653b9c15be87796.bc185d43ab162239",
       "type": 0,
       "text": "Guest rooms",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "a5860fba200605b5",
+      "_key": "!tables.results!1653b9c15be87796.a5860fba200605b5",
       "type": 0,
       "text": "Vestarium (clothing storage)",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "db994e845cd6c27a",
+      "_key": "!tables.results!1653b9c15be87796.db994e845cd6c27a",
       "type": 0,
       "text": "Washhouse",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "62e98f668dc96f66",
+      "_key": "!tables.results!1653b9c15be87796.62e98f668dc96f66",
       "type": 0,
       "text": "Watchtower",
       "weight": 1,

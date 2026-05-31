@@ -1,11 +1,13 @@
 {
   "_id": "3f5977ac1de1ec3f",
+  "_key": "!tables!3f5977ac1de1ec3f",
   "name": "Magic Landmarks",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "7ba330655fdd0b85",
+      "_key": "!tables.results!3f5977ac1de1ec3f.7ba330655fdd0b85",
       "type": 0,
       "text": "Area under a spell",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "f2ee0159ba5d1f2e",
+      "_key": "!tables.results!3f5977ac1de1ec3f.f2ee0159ba5d1f2e",
       "type": 0,
       "text": "Enchanted item",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "8d0b38d3d548a30b",
+      "_key": "!tables.results!3f5977ac1de1ec3f.8d0b38d3d548a30b",
       "type": 0,
       "text": "Magic path",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "30b2e391481bfae6",
+      "_key": "!tables.results!3f5977ac1de1ec3f.30b2e391481bfae6",
       "type": 0,
       "text": "Magic remains",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "2ee87ca4d4c688ac",
+      "_key": "!tables.results!3f5977ac1de1ec3f.2ee87ca4d4c688ac",
       "type": 0,
       "text": "Place of power",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "d9714074045b3e11",
+      "_key": "!tables.results!3f5977ac1de1ec3f.d9714074045b3e11",
       "type": 0,
       "text": "Strange phenomenon",
       "weight": 1,

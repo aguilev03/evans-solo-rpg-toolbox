@@ -1,11 +1,13 @@
 {
   "_id": "6c183e983af22650",
+  "_key": "!tables!6c183e983af22650",
   "name": "Sci-Fi Objects",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate an object with a sci-fi theme.",
   "results": [
     {
       "_id": "c1a85c3b11f47944",
+      "_key": "!tables.results!6c183e983af22650.c1a85c3b11f47944",
       "type": 0,
       "text": "Data set",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "28159281d4913de6",
+      "_key": "!tables.results!6c183e983af22650.28159281d4913de6",
       "type": 0,
       "text": "Microchip",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "a193144e4c097786",
+      "_key": "!tables.results!6c183e983af22650.a193144e4c097786",
       "type": 0,
       "text": "Android",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "4564396637ad2e1d",
+      "_key": "!tables.results!6c183e983af22650.4564396637ad2e1d",
       "type": 0,
       "text": "Chemical",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "64f8f69e0794c4ca",
+      "_key": "!tables.results!6c183e983af22650.64f8f69e0794c4ca",
       "type": 0,
       "text": "Patent",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "b10544b6283be69b",
+      "_key": "!tables.results!6c183e983af22650.b10544b6283be69b",
       "type": 0,
       "text": "AI",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "28afdf57a65387d1",
+      "_key": "!tables.results!6c183e983af22650.28afdf57a65387d1",
       "type": 0,
       "text": "Agent",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "5a6d25ad3a514922",
+      "_key": "!tables.results!6c183e983af22650.5a6d25ad3a514922",
       "type": 0,
       "text": "Contraband shipment",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "0aa94cf1eec8c300",
+      "_key": "!tables.results!6c183e983af22650.0aa94cf1eec8c300",
       "type": 0,
       "text": "Gang",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "e24321092bca5130",
+      "_key": "!tables.results!6c183e983af22650.e24321092bca5130",
       "type": 0,
       "text": "Hardware",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "106340d4e590ecd3",
+      "_key": "!tables.results!6c183e983af22650.106340d4e590ecd3",
       "type": 0,
       "text": "Bioweapon",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "5410f40cd71b82c7",
+      "_key": "!tables.results!6c183e983af22650.5410f40cd71b82c7",
       "type": 0,
       "text": "Flight path",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "7b53cd05aa4106a1",
+      "_key": "!tables.results!6c183e983af22650.7b53cd05aa4106a1",
       "type": 0,
       "text": "CEO",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "9af0872de26d9dc6",
+      "_key": "!tables.results!6c183e983af22650.9af0872de26d9dc6",
       "type": 0,
       "text": "Power source",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "951a6d6b2c537f14",
+      "_key": "!tables.results!6c183e983af22650.951a6d6b2c537f14",
       "type": 0,
       "text": "Communication device",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "d5e99327098c4b8d",
+      "_key": "!tables.results!6c183e983af22650.d5e99327098c4b8d",
       "type": 0,
       "text": "Pilot",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "8259efd61c7f4346",
+      "_key": "!tables.results!6c183e983af22650.8259efd61c7f4346",
       "type": 0,
       "text": "Surveillance system",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "83cc14735e3a2396",
+      "_key": "!tables.results!6c183e983af22650.83cc14735e3a2396",
       "type": 0,
       "text": "Group of workers",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "12ad8a216886f41d",
+      "_key": "!tables.results!6c183e983af22650.12ad8a216886f41d",
       "type": 0,
       "text": "Algorithm",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "2fcefbee730b6074",
+      "_key": "!tables.results!6c183e983af22650.2fcefbee730b6074",
       "type": 0,
       "text": "Life-support system",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "10374bc64cf4169a",
+      "_key": "!tables.results!6c183e983af22650.10374bc64cf4169a",
       "type": 0,
       "text": "Engineer",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "88559f0db0057b47",
+      "_key": "!tables.results!6c183e983af22650.88559f0db0057b47",
       "type": 0,
       "text": "Cargo container",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "057f8a7613139de5",
+      "_key": "!tables.results!6c183e983af22650.057f8a7613139de5",
       "type": 0,
       "text": "Formula",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "ac02d09021a47f37",
+      "_key": "!tables.results!6c183e983af22650.ac02d09021a47f37",
       "type": 0,
       "text": "Program",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "644158fc9757e863",
+      "_key": "!tables.results!6c183e983af22650.644158fc9757e863",
       "type": 0,
       "text": "Occupant",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "3b3955b6d37fe0cf",
+      "_key": "!tables.results!6c183e983af22650.3b3955b6d37fe0cf",
       "type": 0,
       "text": "Tracker",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "4ca5ae2d8735b4b3",
+      "_key": "!tables.results!6c183e983af22650.4ca5ae2d8735b4b3",
       "type": 0,
       "text": "Crew",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "b8c7c77fde50de9e",
+      "_key": "!tables.results!6c183e983af22650.b8c7c77fde50de9e",
       "type": 0,
       "text": "Whistleblower",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "5e5dbfe98318e174",
+      "_key": "!tables.results!6c183e983af22650.5e5dbfe98318e174",
       "type": 0,
       "text": "Doctor",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "9a37904a62043868",
+      "_key": "!tables.results!6c183e983af22650.9a37904a62043868",
       "type": 0,
       "text": "Contract",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "7e7805ff6e77a5e0",
+      "_key": "!tables.results!6c183e983af22650.7e7805ff6e77a5e0",
       "type": 0,
       "text": "Monolith",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "befa5df7f5a3c4c5",
+      "_key": "!tables.results!6c183e983af22650.befa5df7f5a3c4c5",
       "type": 0,
       "text": "Network",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "204d1dcf374cc723",
+      "_key": "!tables.results!6c183e983af22650.204d1dcf374cc723",
       "type": 0,
       "text": "Addict",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "1ed5b4790ac9415a",
+      "_key": "!tables.results!6c183e983af22650.1ed5b4790ac9415a",
       "type": 0,
       "text": "New technology",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "8debaab02f54ab54",
+      "_key": "!tables.results!6c183e983af22650.8debaab02f54ab54",
       "type": 0,
       "text": "Population",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "7a3e4d261c7aaa1e",
+      "_key": "!tables.results!6c183e983af22650.7a3e4d261c7aaa1e",
       "type": 0,
       "text": "Solar array",
       "weight": 1,

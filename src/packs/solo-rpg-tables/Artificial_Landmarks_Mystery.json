@@ -1,11 +1,13 @@
 {
   "_id": "eb496d5c93fad02a",
+  "_key": "!tables!eb496d5c93fad02a",
   "name": "Artificial Landmarks Mystery",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "28987f67cf3cb423",
+      "_key": "!tables.results!eb496d5c93fad02a.28987f67cf3cb423",
       "type": 0,
       "text": "Carved rock",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "9a15f3a9a10541cf",
+      "_key": "!tables.results!eb496d5c93fad02a.9a15f3a9a10541cf",
       "type": 0,
       "text": "Dolmen",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "e66bbd6d376574a4",
+      "_key": "!tables.results!eb496d5c93fad02a.e66bbd6d376574a4",
       "type": 0,
       "text": "Hanging bones",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "6e7cefb52c3277cc",
+      "_key": "!tables.results!eb496d5c93fad02a.6e7cefb52c3277cc",
       "type": 0,
       "text": "Heads on spikes",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "b5274035484f23fb",
+      "_key": "!tables.results!eb496d5c93fad02a.b5274035484f23fb",
       "type": 0,
       "text": "Masks",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "9ecd51a57d9860cf",
+      "_key": "!tables.results!eb496d5c93fad02a.9ecd51a57d9860cf",
       "type": 0,
       "text": "Pile of bones",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "9e4550b080cd13a5",
+      "_key": "!tables.results!eb496d5c93fad02a.9e4550b080cd13a5",
       "type": 0,
       "text": "Rock stack",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "0ce7144399d8c88a",
+      "_key": "!tables.results!eb496d5c93fad02a.0ce7144399d8c88a",
       "type": 0,
       "text": "Standing stones",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "64c1addbb67ae464",
+      "_key": "!tables.results!eb496d5c93fad02a.64c1addbb67ae464",
       "type": 0,
       "text": "Straw dolls",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "c1babbd557d11199",
+      "_key": "!tables.results!eb496d5c93fad02a.c1babbd557d11199",
       "type": 0,
       "text": "Totem",
       "weight": 1,

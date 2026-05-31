@@ -1,11 +1,13 @@
 {
   "_id": "c7fb95e183fd19c7",
+  "_key": "!tables!c7fb95e183fd19c7",
   "name": "E) Adjectives, Colors",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "24dbf85bc64496c4",
+      "_key": "!tables.results!c7fb95e183fd19c7.24dbf85bc64496c4",
       "type": 0,
       "text": "Bad",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "0825bf900b058782",
+      "_key": "!tables.results!c7fb95e183fd19c7.0825bf900b058782",
       "type": 0,
       "text": "Black",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "ccdcf1400ac5f7e8",
+      "_key": "!tables.results!c7fb95e183fd19c7.ccdcf1400ac5f7e8",
       "type": 0,
       "text": "Bloody",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "f6589678532c7dd2",
+      "_key": "!tables.results!c7fb95e183fd19c7.f6589678532c7dd2",
       "type": 0,
       "text": "Blue",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "9b94132b815791cf",
+      "_key": "!tables.results!c7fb95e183fd19c7.9b94132b815791cf",
       "type": 0,
       "text": "Bony",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "220a64afe75e0f47",
+      "_key": "!tables.results!c7fb95e183fd19c7.220a64afe75e0f47",
       "type": 0,
       "text": "Brave",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "8c4d78ec27601206",
+      "_key": "!tables.results!c7fb95e183fd19c7.8c4d78ec27601206",
       "type": 0,
       "text": "Brown",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "b00da720604dd18b",
+      "_key": "!tables.results!c7fb95e183fd19c7.b00da720604dd18b",
       "type": 0,
       "text": "Burnt",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "2c6a169b1b580fce",
+      "_key": "!tables.results!c7fb95e183fd19c7.2c6a169b1b580fce",
       "type": 0,
       "text": "Charming",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "97539662db96f146",
+      "_key": "!tables.results!c7fb95e183fd19c7.97539662db96f146",
       "type": 0,
       "text": "Coal",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "65548506b6202501",
+      "_key": "!tables.results!c7fb95e183fd19c7.65548506b6202501",
       "type": 0,
       "text": "Cold",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "cd263f0b8f544723",
+      "_key": "!tables.results!c7fb95e183fd19c7.cd263f0b8f544723",
       "type": 0,
       "text": "Copper",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "0cfa967c753bc7a4",
+      "_key": "!tables.results!c7fb95e183fd19c7.0cfa967c753bc7a4",
       "type": 0,
       "text": "Coral",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "e9154c82b5914475",
+      "_key": "!tables.results!c7fb95e183fd19c7.e9154c82b5914475",
       "type": 0,
       "text": "Crystal",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "14461a4c08f8d46d",
+      "_key": "!tables.results!c7fb95e183fd19c7.14461a4c08f8d46d",
       "type": 0,
       "text": "Damp",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "252588824eec2bac",
+      "_key": "!tables.results!c7fb95e183fd19c7.252588824eec2bac",
       "type": 0,
       "text": "Dark",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "b00c941c93cd6ddb",
+      "_key": "!tables.results!c7fb95e183fd19c7.b00c941c93cd6ddb",
       "type": 0,
       "text": "Dry",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "1d14b25ec8354b24",
+      "_key": "!tables.results!c7fb95e183fd19c7.1d14b25ec8354b24",
       "type": 0,
       "text": "Dusty",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "a6c8b9cb0c6cbe31",
+      "_key": "!tables.results!c7fb95e183fd19c7.a6c8b9cb0c6cbe31",
       "type": 0,
       "text": "False",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "b3aa9f32145bb892",
+      "_key": "!tables.results!c7fb95e183fd19c7.b3aa9f32145bb892",
       "type": 0,
       "text": "Fast",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "a47ab652e4d8a885",
+      "_key": "!tables.results!c7fb95e183fd19c7.a47ab652e4d8a885",
       "type": 0,
       "text": "Free",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "d708e0d6d7e3e4a2",
+      "_key": "!tables.results!c7fb95e183fd19c7.d708e0d6d7e3e4a2",
       "type": 0,
       "text": "Giant",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "41e09391e44d0ebe",
+      "_key": "!tables.results!c7fb95e183fd19c7.41e09391e44d0ebe",
       "type": 0,
       "text": "Glass",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "18b37db1e4302cd9",
+      "_key": "!tables.results!c7fb95e183fd19c7.18b37db1e4302cd9",
       "type": 0,
       "text": "Gold(en)",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "7788d7d2c29a5428",
+      "_key": "!tables.results!c7fb95e183fd19c7.7788d7d2c29a5428",
       "type": 0,
       "text": "Good",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "501aac6c3feddedd",
+      "_key": "!tables.results!c7fb95e183fd19c7.501aac6c3feddedd",
       "type": 0,
       "text": "Gray",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "2ce6f0bc7590eef0",
+      "_key": "!tables.results!c7fb95e183fd19c7.2ce6f0bc7590eef0",
       "type": 0,
       "text": "Great",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "d11f6502118d36b0",
+      "_key": "!tables.results!c7fb95e183fd19c7.d11f6502118d36b0",
       "type": 0,
       "text": "Green",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "17a63cc84b8ffebe",
+      "_key": "!tables.results!c7fb95e183fd19c7.17a63cc84b8ffebe",
       "type": 0,
       "text": "Hidden",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "11a042b03ae80fcf",
+      "_key": "!tables.results!c7fb95e183fd19c7.11a042b03ae80fcf",
       "type": 0,
       "text": "Hot",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "c7c82eaecf482549",
+      "_key": "!tables.results!c7fb95e183fd19c7.c7c82eaecf482549",
       "type": 0,
       "text": "Indigo",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "938d1cb4ca90872c",
+      "_key": "!tables.results!c7fb95e183fd19c7.938d1cb4ca90872c",
       "type": 0,
       "text": "Iron",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "62a98c1e256e307c",
+      "_key": "!tables.results!c7fb95e183fd19c7.62a98c1e256e307c",
       "type": 0,
       "text": "Light",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "c37d9ab6c1141f54",
+      "_key": "!tables.results!c7fb95e183fd19c7.c37d9ab6c1141f54",
       "type": 0,
       "text": "Long",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "e20463863b2f8887",
+      "_key": "!tables.results!c7fb95e183fd19c7.e20463863b2f8887",
       "type": 0,
       "text": "Metal",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "1a97915b15c5589a",
+      "_key": "!tables.results!c7fb95e183fd19c7.1a97915b15c5589a",
       "type": 0,
       "text": "Mithral",
       "weight": 1,
@@ -510,6 +547,7 @@
     },
     {
       "_id": "d3b96b1530a67e83",
+      "_key": "!tables.results!c7fb95e183fd19c7.d3b96b1530a67e83",
       "type": 0,
       "text": "Obsidian",
       "weight": 1,
@@ -524,6 +562,7 @@
     },
     {
       "_id": "fea178f4bf082ed2",
+      "_key": "!tables.results!c7fb95e183fd19c7.fea178f4bf082ed2",
       "type": 0,
       "text": "Purple",
       "weight": 1,
@@ -538,6 +577,7 @@
     },
     {
       "_id": "bd9c6600fc210eea",
+      "_key": "!tables.results!c7fb95e183fd19c7.bd9c6600fc210eea",
       "type": 0,
       "text": "Red",
       "weight": 1,
@@ -552,6 +592,7 @@
     },
     {
       "_id": "ed2fba81b88b301d",
+      "_key": "!tables.results!c7fb95e183fd19c7.ed2fba81b88b301d",
       "type": 0,
       "text": "Rock",
       "weight": 1,
@@ -566,6 +607,7 @@
     },
     {
       "_id": "0093d3ef16a83990",
+      "_key": "!tables.results!c7fb95e183fd19c7.0093d3ef16a83990",
       "type": 0,
       "text": "Royal",
       "weight": 1,
@@ -580,6 +622,7 @@
     },
     {
       "_id": "fd8950d406b4e258",
+      "_key": "!tables.results!c7fb95e183fd19c7.fd8950d406b4e258",
       "type": 0,
       "text": "Silent",
       "weight": 1,
@@ -594,6 +637,7 @@
     },
     {
       "_id": "8bb49f5fbcb2f8b0",
+      "_key": "!tables.results!c7fb95e183fd19c7.8bb49f5fbcb2f8b0",
       "type": 0,
       "text": "Silver",
       "weight": 1,
@@ -608,6 +652,7 @@
     },
     {
       "_id": "19655943a75185c6",
+      "_key": "!tables.results!c7fb95e183fd19c7.19655943a75185c6",
       "type": 0,
       "text": "Small",
       "weight": 1,
@@ -622,6 +667,7 @@
     },
     {
       "_id": "009ab118900c30da",
+      "_key": "!tables.results!c7fb95e183fd19c7.009ab118900c30da",
       "type": 0,
       "text": "Stone",
       "weight": 1,
@@ -636,6 +682,7 @@
     },
     {
       "_id": "46677b11472260dd",
+      "_key": "!tables.results!c7fb95e183fd19c7.46677b11472260dd",
       "type": 0,
       "text": "True",
       "weight": 1,
@@ -650,6 +697,7 @@
     },
     {
       "_id": "5de1635db35d7d01",
+      "_key": "!tables.results!c7fb95e183fd19c7.5de1635db35d7d01",
       "type": 0,
       "text": "White",
       "weight": 1,
@@ -664,6 +712,7 @@
     },
     {
       "_id": "e60a9db45e066c95",
+      "_key": "!tables.results!c7fb95e183fd19c7.e60a9db45e066c95",
       "type": 0,
       "text": "Wild",
       "weight": 1,
@@ -678,6 +727,7 @@
     },
     {
       "_id": "af08b89c6f341846",
+      "_key": "!tables.results!c7fb95e183fd19c7.af08b89c6f341846",
       "type": 0,
       "text": "Wine",
       "weight": 1,
@@ -692,6 +742,7 @@
     },
     {
       "_id": "f9f60704d964844f",
+      "_key": "!tables.results!c7fb95e183fd19c7.f9f60704d964844f",
       "type": 0,
       "text": "Yellow",
       "weight": 1,

@@ -1,11 +1,13 @@
 {
   "_id": "b9f61dcbb7d20cc1",
+  "_key": "!tables!b9f61dcbb7d20cc1",
   "name": "Motivations",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate an investigator motivation.",
   "results": [
     {
       "_id": "f8ef4569b1f7c59e",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.f8ef4569b1f7c59e",
       "type": 0,
       "text": "Complicit loved one",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "6a9316aab94f1299",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.6a9316aab94f1299",
       "type": 0,
       "text": "Monetary incentive",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "3669ed6fadd01544",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.3669ed6fadd01544",
       "type": 0,
       "text": "Vendetta",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "4588888fc729b643",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.4588888fc729b643",
       "type": 0,
       "text": "Just business",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "2742fb6ec0554eae",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.2742fb6ec0554eae",
       "type": 0,
       "text": "Career advancement",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "5a9df4f8d2de9f3e",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.5a9df4f8d2de9f3e",
       "type": 0,
       "text": "Promise to keep",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "5d49d58df07cc675",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.5d49d58df07cc675",
       "type": 0,
       "text": "Pure curiosity",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "acc3262d42ed4fc9",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.acc3262d42ed4fc9",
       "type": 0,
       "text": "Right a wrong",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "ba765838e633f961",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.ba765838e633f961",
       "type": 0,
       "text": "Personal danger",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "660ea3b9ebd355d6",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.660ea3b9ebd355d6",
       "type": 0,
       "text": "Boredom",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "7020aba18ba44427",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.7020aba18ba44427",
       "type": 0,
       "text": "Love",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "2c6b0e44294be5d3",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.2c6b0e44294be5d3",
       "type": 0,
       "text": "Obsession",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "bd0bc201d701c252",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.bd0bc201d701c252",
       "type": 0,
       "text": "Blackmail",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "0cfcec11968af3c6",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.0cfcec11968af3c6",
       "type": 0,
       "text": "Pursuit of truth",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "eedb59f5da6d5160",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.eedb59f5da6d5160",
       "type": 0,
       "text": "Debilitating guilt",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "f3644cdc458f213d",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.f3644cdc458f213d",
       "type": 0,
       "text": "Proof of worth",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "6bba687c060ea440",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.6bba687c060ea440",
       "type": 0,
       "text": "Sense of duty",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "492755bf4f51c6d6",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.492755bf4f51c6d6",
       "type": 0,
       "text": "Past trauma",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "7cd0bef39a4977cf",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.7cd0bef39a4977cf",
       "type": 0,
       "text": "Faith",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "e040ef94870e843a",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.e040ef94870e843a",
       "type": 0,
       "text": "Reputation to uphold",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "c9a8e5d297b40235",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.c9a8e5d297b40235",
       "type": 0,
       "text": "Thrill-seeking",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "8ac27bec9c8cbe1a",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.8ac27bec9c8cbe1a",
       "type": 0,
       "text": "Rivalry",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "3e21aea7a99c6348",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.3e21aea7a99c6348",
       "type": 0,
       "text": "Dying wish",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "6f6b15765de660ec",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.6f6b15765de660ec",
       "type": 0,
       "text": "One last job",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "8d9d182afe2775f8",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.8d9d182afe2775f8",
       "type": 0,
       "text": "Debt to repay",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "05efc69783a5a6b4",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.05efc69783a5a6b4",
       "type": 0,
       "text": "Hatred",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "7828a18e7157d5cc",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.7828a18e7157d5cc",
       "type": 0,
       "text": "Personal connection",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "f67363589e5c4922",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.f67363589e5c4922",
       "type": 0,
       "text": "Compelling dreams",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "db91eee7582e2487",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.db91eee7582e2487",
       "type": 0,
       "text": "Desperation",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "a3089b4f700b9ab9",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.a3089b4f700b9ab9",
       "type": 0,
       "text": "Nothing to lose",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "5ae7a751c07cf388",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.5ae7a751c07cf388",
       "type": 0,
       "text": "For the challenge",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "faf631fa7fb36dd5",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.faf631fa7fb36dd5",
       "type": 0,
       "text": "Unfinished work",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "1e347437d692957c",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.1e347437d692957c",
       "type": 0,
       "text": "A missing piece",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "be3c9d07a6320802",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.be3c9d07a6320802",
       "type": 0,
       "text": "Curse to break",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "4745716597ccad49",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.4745716597ccad49",
       "type": 0,
       "text": "Protect a secret",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "f363c326a0edc756",
+      "_key": "!tables.results!b9f61dcbb7d20cc1.f363c326a0edc756",
       "type": 0,
       "text": "Academic",
       "weight": 1,

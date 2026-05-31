@@ -1,11 +1,13 @@
 {
   "_id": "8ac41fc42f63d37a",
+  "_key": "!tables!8ac41fc42f63d37a",
   "name": "Mysteries to uncover",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "8e48693dfaf524b0",
+      "_key": "!tables.results!8ac41fc42f63d37a.8e48693dfaf524b0",
       "type": 0,
       "text": "Abductions",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "19a3a6f092b246f8",
+      "_key": "!tables.results!8ac41fc42f63d37a.19a3a6f092b246f8",
       "type": 0,
       "text": "Alleged ghost",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "01909a1b8d303472",
+      "_key": "!tables.results!8ac41fc42f63d37a.01909a1b8d303472",
       "type": 0,
       "text": "Curse",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "9ac3f90992c1d283",
+      "_key": "!tables.results!8ac41fc42f63d37a.9ac3f90992c1d283",
       "type": 0,
       "text": "Miracle",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "9c7374a4ab8ae51c",
+      "_key": "!tables.results!8ac41fc42f63d37a.9c7374a4ab8ae51c",
       "type": 0,
       "text": "Missing items",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "0f6519a2e8ba250e",
+      "_key": "!tables.results!8ac41fc42f63d37a.0f6519a2e8ba250e",
       "type": 0,
       "text": "Mutations",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "a238734ac2d5baf3",
+      "_key": "!tables.results!8ac41fc42f63d37a.a238734ac2d5baf3",
       "type": 0,
       "text": "Odd footprints/tracks",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "9b111ea3ac7130a9",
+      "_key": "!tables.results!8ac41fc42f63d37a.9b111ea3ac7130a9",
       "type": 0,
       "text": "Stalker",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "ab4637ad757e38de",
+      "_key": "!tables.results!8ac41fc42f63d37a.ab4637ad757e38de",
       "type": 0,
       "text": "Strange lights/noises",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "fe8e0b87a41375b1",
+      "_key": "!tables.results!8ac41fc42f63d37a.fe8e0b87a41375b1",
       "type": 0,
       "text": "Unexplained deaths",
       "weight": 1,

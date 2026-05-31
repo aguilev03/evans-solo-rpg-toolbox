@@ -1,11 +1,13 @@
 {
   "_id": "124e557120b49c7d",
+  "_key": "!tables!124e557120b49c7d",
   "name": "Levels connection",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "f08b9679ef6e4a74",
+      "_key": "!tables.results!124e557120b49c7d.f08b9679ef6e4a74",
       "type": 0,
       "text": "Staircase",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "4eccf4574ba07e87",
+      "_key": "!tables.results!124e557120b49c7d.4eccf4574ba07e87",
       "type": 0,
       "text": "Spiral staircase",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "3dea3495b5aaaf97",
+      "_key": "!tables.results!124e557120b49c7d.3dea3495b5aaaf97",
       "type": 0,
       "text": "Ladder",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "5b886f192df1f42c",
+      "_key": "!tables.results!124e557120b49c7d.5b886f192df1f42c",
       "type": 0,
       "text": "Elevator",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "77639c6d58765817",
+      "_key": "!tables.results!124e557120b49c7d.77639c6d58765817",
       "type": 0,
       "text": "Magic elevator",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "d3127f87b741f30a",
+      "_key": "!tables.results!124e557120b49c7d.d3127f87b741f30a",
       "type": 0,
       "text": "Teleportation portals",
       "weight": 1,

@@ -1,11 +1,13 @@
 {
   "_id": "b362daf1a3792b94",
+  "_key": "!tables!b362daf1a3792b94",
   "name": "City Ruler",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "a0065a79690056f1",
+      "_key": "!tables.results!b362daf1a3792b94.a0065a79690056f1",
       "type": 0,
       "text": "Noble",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "70dd4853dcb65560",
+      "_key": "!tables.results!b362daf1a3792b94.70dd4853dcb65560",
       "type": 0,
       "text": "Clergy",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "ecb61920140ab9f3",
+      "_key": "!tables.results!b362daf1a3792b94.ecb61920140ab9f3",
       "type": 0,
       "text": "Council",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "dc202f1f0982d2b7",
+      "_key": "!tables.results!b362daf1a3792b94.dc202f1f0982d2b7",
       "type": 0,
       "text": "Mayor",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "e036a3f1add8c88a",
+      "_key": "!tables.results!b362daf1a3792b94.e036a3f1add8c88a",
       "type": 0,
       "text": "Merchants’ guild",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "6c998b4286e90730",
+      "_key": "!tables.results!b362daf1a3792b94.6c998b4286e90730",
       "type": 0,
       "text": "Thieves’ guild",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "ec399738b0a44170",
+      "_key": "!tables.results!b362daf1a3792b94.ec399738b0a44170",
       "type": 0,
       "text": "Vampire",
       "weight": 1,

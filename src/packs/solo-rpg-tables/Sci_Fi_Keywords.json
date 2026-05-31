@@ -1,11 +1,13 @@
 {
   "_id": "f96d726108b0a1fd",
+  "_key": "!tables!f96d726108b0a1fd",
   "name": "Sci-Fi Keywords",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate a sci-fi keyword.",
   "results": [
     {
       "_id": "c47c09c19565867d",
+      "_key": "!tables.results!f96d726108b0a1fd.c47c09c19565867d",
       "type": 0,
       "text": "Gun",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "e80677c27b3e8c7b",
+      "_key": "!tables.results!f96d726108b0a1fd.e80677c27b3e8c7b",
       "type": 0,
       "text": "Chip",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "2d143bfcc782ff68",
+      "_key": "!tables.results!f96d726108b0a1fd.2d143bfcc782ff68",
       "type": 0,
       "text": "Synthetic",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "a114402b25c34aab",
+      "_key": "!tables.results!f96d726108b0a1fd.a114402b25c34aab",
       "type": 0,
       "text": "Android",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "42d4f6590566bba7",
+      "_key": "!tables.results!f96d726108b0a1fd.42d4f6590566bba7",
       "type": 0,
       "text": "Binary",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "241752e0dedb8650",
+      "_key": "!tables.results!f96d726108b0a1fd.241752e0dedb8650",
       "type": 0,
       "text": "Alien",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "a9bd43b8c6552f8a",
+      "_key": "!tables.results!f96d726108b0a1fd.a9bd43b8c6552f8a",
       "type": 0,
       "text": "Glass",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "a0a0af1abb5dee28",
+      "_key": "!tables.results!f96d726108b0a1fd.a0a0af1abb5dee28",
       "type": 0,
       "text": "Surveillance",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "dc3b631ce8ea90f4",
+      "_key": "!tables.results!f96d726108b0a1fd.dc3b631ce8ea90f4",
       "type": 0,
       "text": "Scan",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "3e8cd0da10b190b3",
+      "_key": "!tables.results!f96d726108b0a1fd.3e8cd0da10b190b3",
       "type": 0,
       "text": "Lock",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "a4dc05fd67e43d4a",
+      "_key": "!tables.results!f96d726108b0a1fd.a4dc05fd67e43d4a",
       "type": 0,
       "text": "Technology",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "146afba503d619a4",
+      "_key": "!tables.results!f96d726108b0a1fd.146afba503d619a4",
       "type": 0,
       "text": "Core",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "e5606f5c7986d4b7",
+      "_key": "!tables.results!f96d726108b0a1fd.e5606f5c7986d4b7",
       "type": 0,
       "text": "Loop",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "e413ac96952ea7c8",
+      "_key": "!tables.results!f96d726108b0a1fd.e413ac96952ea7c8",
       "type": 0,
       "text": "Security",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "5706df51ed0d1685",
+      "_key": "!tables.results!f96d726108b0a1fd.5706df51ed0d1685",
       "type": 0,
       "text": "Engine",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "ef08000b1fe220e9",
+      "_key": "!tables.results!f96d726108b0a1fd.ef08000b1fe220e9",
       "type": 0,
       "text": "Signal",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "8317b309b7a58981",
+      "_key": "!tables.results!f96d726108b0a1fd.8317b309b7a58981",
       "type": 0,
       "text": "Sludge",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "51d71693442e26e3",
+      "_key": "!tables.results!f96d726108b0a1fd.51d71693442e26e3",
       "type": 0,
       "text": "Visor",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "15ade0c6ffaf878a",
+      "_key": "!tables.results!f96d726108b0a1fd.15ade0c6ffaf878a",
       "type": 0,
       "text": "Med-kit",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "caf83dde405fef61",
+      "_key": "!tables.results!f96d726108b0a1fd.caf83dde405fef61",
       "type": 0,
       "text": "Augmentation",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "d282b82f9ac81e06",
+      "_key": "!tables.results!f96d726108b0a1fd.d282b82f9ac81e06",
       "type": 0,
       "text": "Network",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "e6e76829b4bb0dc7",
+      "_key": "!tables.results!f96d726108b0a1fd.e6e76829b4bb0dc7",
       "type": 0,
       "text": "Corporation",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "d1e326fe1ba618c3",
+      "_key": "!tables.results!f96d726108b0a1fd.d1e326fe1ba618c3",
       "type": 0,
       "text": "Bridge",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "c2bd59dc968f9b99",
+      "_key": "!tables.results!f96d726108b0a1fd.c2bd59dc968f9b99",
       "type": 0,
       "text": "Wire",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "b6b731a0e9ceb106",
+      "_key": "!tables.results!f96d726108b0a1fd.b6b731a0e9ceb106",
       "type": 0,
       "text": "Scavenge",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "fbb53bacc7bb69ae",
+      "_key": "!tables.results!f96d726108b0a1fd.fbb53bacc7bb69ae",
       "type": 0,
       "text": "Star",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "15a926a0cad34728",
+      "_key": "!tables.results!f96d726108b0a1fd.15a926a0cad34728",
       "type": 0,
       "text": "Laser",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "43f2cd2de76f23bf",
+      "_key": "!tables.results!f96d726108b0a1fd.43f2cd2de76f23bf",
       "type": 0,
       "text": "Keypad",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "c5afb947eb1befd8",
+      "_key": "!tables.results!f96d726108b0a1fd.c5afb947eb1befd8",
       "type": 0,
       "text": "Digit",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "4d373cae2e4f7c89",
+      "_key": "!tables.results!f96d726108b0a1fd.4d373cae2e4f7c89",
       "type": 0,
       "text": "Station",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "2ee5543c0334d331",
+      "_key": "!tables.results!f96d726108b0a1fd.2ee5543c0334d331",
       "type": 0,
       "text": "Program",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "8a29fcac22c5c060",
+      "_key": "!tables.results!f96d726108b0a1fd.8a29fcac22c5c060",
       "type": 0,
       "text": "Jargon",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "1633c81ebe0a7eeb",
+      "_key": "!tables.results!f96d726108b0a1fd.1633c81ebe0a7eeb",
       "type": 0,
       "text": "Slum",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "cd76aa0bdb3da7ef",
+      "_key": "!tables.results!f96d726108b0a1fd.cd76aa0bdb3da7ef",
       "type": 0,
       "text": "Fluid",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "74fad1934d082d01",
+      "_key": "!tables.results!f96d726108b0a1fd.74fad1934d082d01",
       "type": 0,
       "text": "Orbit",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "c8d12e6269d2fe76",
+      "_key": "!tables.results!f96d726108b0a1fd.c8d12e6269d2fe76",
       "type": 0,
       "text": "Toxic",
       "weight": 1,

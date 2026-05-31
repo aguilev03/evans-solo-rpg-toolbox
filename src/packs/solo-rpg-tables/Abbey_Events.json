@@ -1,11 +1,13 @@
 {
   "_id": "36700515493c5245",
+  "_key": "!tables!36700515493c5245",
   "name": "Abbey Events",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "af86b82aa3f0db7e",
+      "_key": "!tables.results!36700515493c5245.af86b82aa3f0db7e",
       "type": 0,
       "text": "Broken device",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "0d6893ff0dd770c1",
+      "_key": "!tables.results!36700515493c5245.0d6893ff0dd770c1",
       "type": 0,
       "text": "Cowls shrunken/dyed in red",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "463f7ec6e560c29a",
+      "_key": "!tables.results!36700515493c5245.463f7ec6e560c29a",
       "type": 0,
       "text": "Demonic corruption",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "526ebf76ab63199c",
+      "_key": "!tables.results!36700515493c5245.526ebf76ab63199c",
       "type": 0,
       "text": "Disappearance of the abbot",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "91cae00476f90d18",
+      "_key": "!tables.results!36700515493c5245.91cae00476f90d18",
       "type": 0,
       "text": "Drought/Flood",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "14ddea87a782725a",
+      "_key": "!tables.results!36700515493c5245.14ddea87a782725a",
       "type": 0,
       "text": "Festival/Fair",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "795453d074e21f69",
+      "_key": "!tables.results!36700515493c5245.795453d074e21f69",
       "type": 0,
       "text": "Fire",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "b5323f6683191584",
+      "_key": "!tables.results!36700515493c5245.b5323f6683191584",
       "type": 0,
       "text": "Looting",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "2682fcd4a3e4d1c7",
+      "_key": "!tables.results!36700515493c5245.2682fcd4a3e4d1c7",
       "type": 0,
       "text": "Moles/Rats infestation",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "2041f4d3b61a52e8",
+      "_key": "!tables.results!36700515493c5245.2041f4d3b61a52e8",
       "type": 0,
       "text": "Plague",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "698213f29141ec4c",
+      "_key": "!tables.results!36700515493c5245.698213f29141ec4c",
       "type": 0,
       "text": "Scandal",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "9bba1e153bc2f975",
+      "_key": "!tables.results!36700515493c5245.9bba1e153bc2f975",
       "type": 0,
       "text": "Visit of a notable person",
       "weight": 1,

@@ -1,11 +1,13 @@
 {
   "_id": "de577f7b37736f1c",
+  "_key": "!tables!de577f7b37736f1c",
   "name": "Abbey Size",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "9589ce995fd37816",
+      "_key": "!tables.results!de577f7b37736f1c.9589ce995fd37816",
       "type": 0,
       "text": "Small",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "1e94b8ae3730a2c0",
+      "_key": "!tables.results!de577f7b37736f1c.1e94b8ae3730a2c0",
       "type": 0,
       "text": "Major",
       "weight": 1,

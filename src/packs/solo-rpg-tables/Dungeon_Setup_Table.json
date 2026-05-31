@@ -1,11 +1,13 @@
 {
   "_id": "609074cbc19774b4",
+  "_key": "!tables!609074cbc19774b4",
   "name": "Dungeon Setup Table",
   "img": "icons/svg/d20-grey.svg",
   "description": "Types of Dungeon Rooms to build",
   "results": [
     {
       "_id": "b15a3dc6b1fe2bee",
+      "_key": "!tables.results!609074cbc19774b4.b15a3dc6b1fe2bee",
       "type": 0,
       "text": "The Combat",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "006e2a5593466156",
+      "_key": "!tables.results!609074cbc19774b4.006e2a5593466156",
       "type": 0,
       "text": "The Cache",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "02b95e2bf3e6ddf9",
+      "_key": "!tables.results!609074cbc19774b4.02b95e2bf3e6ddf9",
       "type": 0,
       "text": "The Sidekick",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "0263b1cb91c8dc62",
+      "_key": "!tables.results!609074cbc19774b4.0263b1cb91c8dc62",
       "type": 0,
       "text": "The Offshoot",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "15a685a3f1f083bb",
+      "_key": "!tables.results!609074cbc19774b4.15a685a3f1f083bb",
       "type": 0,
       "text": "The Foreshadowing",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "6536c205979e706a",
+      "_key": "!tables.results!609074cbc19774b4.6536c205979e706a",
       "type": 0,
       "text": "The History",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "2adb7f536a6f2bd8",
+      "_key": "!tables.results!609074cbc19774b4.2adb7f536a6f2bd8",
       "type": 0,
       "text": "The Oddity",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "ad0b848569d4ff5e",
+      "_key": "!tables.results!609074cbc19774b4.ad0b848569d4ff5e",
       "type": 0,
       "text": "The Forge",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "440434bb696c2504",
+      "_key": "!tables.results!609074cbc19774b4.440434bb696c2504",
       "type": 0,
       "text": "The Factions",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "61e0119ee3187551",
+      "_key": "!tables.results!609074cbc19774b4.61e0119ee3187551",
       "type": 0,
       "text": "The MapThe Puzzle",
       "weight": 1,

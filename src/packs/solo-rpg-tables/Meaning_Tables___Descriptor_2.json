@@ -1,11 +1,13 @@
 {
   "_id": "a52fc367e2cb5f1a",
+  "_key": "!tables!a52fc367e2cb5f1a",
   "name": "Meaning Tables - Descriptor 2",
   "img": "icons/svg/d20-grey.svg",
   "description": "List of Descriptors",
   "results": [
     {
       "_id": "32fda3d874209fae",
+      "_key": "!tables.results!a52fc367e2cb5f1a.32fda3d874209fae",
       "type": 0,
       "text": "Abandoned",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "5c6a3244d1d35327",
+      "_key": "!tables.results!a52fc367e2cb5f1a.5c6a3244d1d35327",
       "type": 0,
       "text": "Abnormal",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "aab7a93f9f84f250",
+      "_key": "!tables.results!a52fc367e2cb5f1a.aab7a93f9f84f250",
       "type": 0,
       "text": "Amusing",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "76d0e34966c82100",
+      "_key": "!tables.results!a52fc367e2cb5f1a.76d0e34966c82100",
       "type": 0,
       "text": "Ancient",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "5b6bdab92540aec3",
+      "_key": "!tables.results!a52fc367e2cb5f1a.5b6bdab92540aec3",
       "type": 0,
       "text": "Aromatic",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "fe68921f1703ef6b",
+      "_key": "!tables.results!a52fc367e2cb5f1a.fe68921f1703ef6b",
       "type": 0,
       "text": "Average",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "61069c51b6354ff2",
+      "_key": "!tables.results!a52fc367e2cb5f1a.61069c51b6354ff2",
       "type": 0,
       "text": "Beautiful",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "aaf2f3360deed491",
+      "_key": "!tables.results!a52fc367e2cb5f1a.aaf2f3360deed491",
       "type": 0,
       "text": "Bizarre",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "91fbb55bc5886de1",
+      "_key": "!tables.results!a52fc367e2cb5f1a.91fbb55bc5886de1",
       "type": 0,
       "text": "Classy",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "2ce7b94d0fdb6e97",
+      "_key": "!tables.results!a52fc367e2cb5f1a.2ce7b94d0fdb6e97",
       "type": 0,
       "text": "Clean",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "41812b3796ebd2a1",
+      "_key": "!tables.results!a52fc367e2cb5f1a.41812b3796ebd2a1",
       "type": 0,
       "text": "Cold",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "e92adc8ca4188623",
+      "_key": "!tables.results!a52fc367e2cb5f1a.e92adc8ca4188623",
       "type": 0,
       "text": "Colorful",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "34dbef5f1a793d51",
+      "_key": "!tables.results!a52fc367e2cb5f1a.34dbef5f1a793d51",
       "type": 0,
       "text": "Creepy",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "89aa283c26707fca",
+      "_key": "!tables.results!a52fc367e2cb5f1a.89aa283c26707fca",
       "type": 0,
       "text": "Cute",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "557c37e5380bb856",
+      "_key": "!tables.results!a52fc367e2cb5f1a.557c37e5380bb856",
       "type": 0,
       "text": "Damaged",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "3d88f832b3e88d1e",
+      "_key": "!tables.results!a52fc367e2cb5f1a.3d88f832b3e88d1e",
       "type": 0,
       "text": "Dark",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "309de80bf183c6fc",
+      "_key": "!tables.results!a52fc367e2cb5f1a.309de80bf183c6fc",
       "type": 0,
       "text": "Defeated",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "244ac50463c36dc4",
+      "_key": "!tables.results!a52fc367e2cb5f1a.244ac50463c36dc4",
       "type": 0,
       "text": "Delicate",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "8498dc8471865196",
+      "_key": "!tables.results!a52fc367e2cb5f1a.8498dc8471865196",
       "type": 0,
       "text": "Delightful",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "9f07567568f277a6",
+      "_key": "!tables.results!a52fc367e2cb5f1a.9f07567568f277a6",
       "type": 0,
       "text": "Dirty",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "e2d85102f421c67b",
+      "_key": "!tables.results!a52fc367e2cb5f1a.e2d85102f421c67b",
       "type": 0,
       "text": "Disagreeable",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "188504e562cb97fd",
+      "_key": "!tables.results!a52fc367e2cb5f1a.188504e562cb97fd",
       "type": 0,
       "text": "Disgusting",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "d926a30367cfe965",
+      "_key": "!tables.results!a52fc367e2cb5f1a.d926a30367cfe965",
       "type": 0,
       "text": "Drab",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "fcd2e6a9ed174ad5",
+      "_key": "!tables.results!a52fc367e2cb5f1a.fcd2e6a9ed174ad5",
       "type": 0,
       "text": "Dry",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "a9db01b4ba9bfb03",
+      "_key": "!tables.results!a52fc367e2cb5f1a.a9db01b4ba9bfb03",
       "type": 0,
       "text": "Dull",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "c2e3813ca7ab4d10",
+      "_key": "!tables.results!a52fc367e2cb5f1a.c2e3813ca7ab4d10",
       "type": 0,
       "text": "Empty",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "610df22f220ea0ca",
+      "_key": "!tables.results!a52fc367e2cb5f1a.610df22f220ea0ca",
       "type": 0,
       "text": "Enormous",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "019291be6c1e4e28",
+      "_key": "!tables.results!a52fc367e2cb5f1a.019291be6c1e4e28",
       "type": 0,
       "text": "Exotic",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "2298ae931992210d",
+      "_key": "!tables.results!a52fc367e2cb5f1a.2298ae931992210d",
       "type": 0,
       "text": "Faded",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "90ec04aa1341df82",
+      "_key": "!tables.results!a52fc367e2cb5f1a.90ec04aa1341df82",
       "type": 0,
       "text": "Familiar",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "f4ab2b39cca4cb4f",
+      "_key": "!tables.results!a52fc367e2cb5f1a.f4ab2b39cca4cb4f",
       "type": 0,
       "text": "Fancy",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "1c2b5e7115826392",
+      "_key": "!tables.results!a52fc367e2cb5f1a.1c2b5e7115826392",
       "type": 0,
       "text": "Fat",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "be2522039a84e314",
+      "_key": "!tables.results!a52fc367e2cb5f1a.be2522039a84e314",
       "type": 0,
       "text": "Feeble",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "df9a2934e2527592",
+      "_key": "!tables.results!a52fc367e2cb5f1a.df9a2934e2527592",
       "type": 0,
       "text": "Feminine",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "5fef7e4ed9caa870",
+      "_key": "!tables.results!a52fc367e2cb5f1a.5fef7e4ed9caa870",
       "type": 0,
       "text": "Festive",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "865a5505a9f689ce",
+      "_key": "!tables.results!a52fc367e2cb5f1a.865a5505a9f689ce",
       "type": 0,
       "text": "Flawless",
       "weight": 1,
@@ -510,6 +547,7 @@
     },
     {
       "_id": "0c7ec67fdab512e1",
+      "_key": "!tables.results!a52fc367e2cb5f1a.0c7ec67fdab512e1",
       "type": 0,
       "text": "Fresh",
       "weight": 1,
@@ -524,6 +562,7 @@
     },
     {
       "_id": "43ea1aa6b304f34d",
+      "_key": "!tables.results!a52fc367e2cb5f1a.43ea1aa6b304f34d",
       "type": 0,
       "text": "Full",
       "weight": 1,
@@ -538,6 +577,7 @@
     },
     {
       "_id": "c2bb85eba29691b6",
+      "_key": "!tables.results!a52fc367e2cb5f1a.c2bb85eba29691b6",
       "type": 0,
       "text": "Glorious",
       "weight": 1,
@@ -552,6 +592,7 @@
     },
     {
       "_id": "992fbc26b5f773e1",
+      "_key": "!tables.results!a52fc367e2cb5f1a.992fbc26b5f773e1",
       "type": 0,
       "text": "Good",
       "weight": 1,
@@ -566,6 +607,7 @@
     },
     {
       "_id": "3787e9a7fd48ca98",
+      "_key": "!tables.results!a52fc367e2cb5f1a.3787e9a7fd48ca98",
       "type": 0,
       "text": "Graceful",
       "weight": 1,
@@ -580,6 +622,7 @@
     },
     {
       "_id": "5affc610adf76f3d",
+      "_key": "!tables.results!a52fc367e2cb5f1a.5affc610adf76f3d",
       "type": 0,
       "text": "Hard",
       "weight": 1,
@@ -594,6 +637,7 @@
     },
     {
       "_id": "09b83c2b52207a9a",
+      "_key": "!tables.results!a52fc367e2cb5f1a.09b83c2b52207a9a",
       "type": 0,
       "text": "Harsh",
       "weight": 1,
@@ -608,6 +652,7 @@
     },
     {
       "_id": "122334d3118d5c43",
+      "_key": "!tables.results!a52fc367e2cb5f1a.122334d3118d5c43",
       "type": 0,
       "text": "Healthy",
       "weight": 1,
@@ -622,6 +667,7 @@
     },
     {
       "_id": "1bfefbbc56c84ce4",
+      "_key": "!tables.results!a52fc367e2cb5f1a.1bfefbbc56c84ce4",
       "type": 0,
       "text": "Heavy",
       "weight": 1,
@@ -636,6 +682,7 @@
     },
     {
       "_id": "6ba7468e881b0a26",
+      "_key": "!tables.results!a52fc367e2cb5f1a.6ba7468e881b0a26",
       "type": 0,
       "text": "Historical",
       "weight": 1,
@@ -650,6 +697,7 @@
     },
     {
       "_id": "e2cde330712610e2",
+      "_key": "!tables.results!a52fc367e2cb5f1a.e2cde330712610e2",
       "type": 0,
       "text": "Horrible",
       "weight": 1,
@@ -664,6 +712,7 @@
     },
     {
       "_id": "914dc2b72f6fefdd",
+      "_key": "!tables.results!a52fc367e2cb5f1a.914dc2b72f6fefdd",
       "type": 0,
       "text": "Important",
       "weight": 1,
@@ -678,6 +727,7 @@
     },
     {
       "_id": "39f6677dadebf1b6",
+      "_key": "!tables.results!a52fc367e2cb5f1a.39f6677dadebf1b6",
       "type": 0,
       "text": "Interesting",
       "weight": 1,
@@ -692,6 +742,7 @@
     },
     {
       "_id": "e393f020412d7cca",
+      "_key": "!tables.results!a52fc367e2cb5f1a.e393f020412d7cca",
       "type": 0,
       "text": "Juvenile",
       "weight": 1,
@@ -706,6 +757,7 @@
     },
     {
       "_id": "82ca214524c029fb",
+      "_key": "!tables.results!a52fc367e2cb5f1a.82ca214524c029fb",
       "type": 0,
       "text": "Lacking",
       "weight": 1,
@@ -720,6 +772,7 @@
     },
     {
       "_id": "01038f66248be911",
+      "_key": "!tables.results!a52fc367e2cb5f1a.01038f66248be911",
       "type": 0,
       "text": "Lame",
       "weight": 1,
@@ -734,6 +787,7 @@
     },
     {
       "_id": "54b3588ff7ee7012",
+      "_key": "!tables.results!a52fc367e2cb5f1a.54b3588ff7ee7012",
       "type": 0,
       "text": "Large",
       "weight": 1,
@@ -748,6 +802,7 @@
     },
     {
       "_id": "cce1fff0d2f1ae96",
+      "_key": "!tables.results!a52fc367e2cb5f1a.cce1fff0d2f1ae96",
       "type": 0,
       "text": "Lavish",
       "weight": 1,
@@ -762,6 +817,7 @@
     },
     {
       "_id": "b9f6079b6ea03257",
+      "_key": "!tables.results!a52fc367e2cb5f1a.b9f6079b6ea03257",
       "type": 0,
       "text": "Lean",
       "weight": 1,
@@ -776,6 +832,7 @@
     },
     {
       "_id": "53277663f528ab34",
+      "_key": "!tables.results!a52fc367e2cb5f1a.53277663f528ab34",
       "type": 0,
       "text": "Less",
       "weight": 1,
@@ -790,6 +847,7 @@
     },
     {
       "_id": "a3b1449b7debf4b6",
+      "_key": "!tables.results!a52fc367e2cb5f1a.a3b1449b7debf4b6",
       "type": 0,
       "text": "Lethal",
       "weight": 1,
@@ -804,6 +862,7 @@
     },
     {
       "_id": "00b0d34a95a4d9e1",
+      "_key": "!tables.results!a52fc367e2cb5f1a.00b0d34a95a4d9e1",
       "type": 0,
       "text": "Lonely",
       "weight": 1,
@@ -818,6 +877,7 @@
     },
     {
       "_id": "29c9076288fac26e",
+      "_key": "!tables.results!a52fc367e2cb5f1a.29c9076288fac26e",
       "type": 0,
       "text": "Lovely",
       "weight": 1,
@@ -832,6 +892,7 @@
     },
     {
       "_id": "b2bbe0f13b62978b",
+      "_key": "!tables.results!a52fc367e2cb5f1a.b2bbe0f13b62978b",
       "type": 0,
       "text": "Macabre",
       "weight": 1,
@@ -846,6 +907,7 @@
     },
     {
       "_id": "9f2d2d9ca2313e2d",
+      "_key": "!tables.results!a52fc367e2cb5f1a.9f2d2d9ca2313e2d",
       "type": 0,
       "text": "Magnificent",
       "weight": 1,
@@ -860,6 +922,7 @@
     },
     {
       "_id": "e8b690a9c3755066",
+      "_key": "!tables.results!a52fc367e2cb5f1a.e8b690a9c3755066",
       "type": 0,
       "text": "Masculine",
       "weight": 1,
@@ -874,6 +937,7 @@
     },
     {
       "_id": "c1efb7733ce3d17b",
+      "_key": "!tables.results!a52fc367e2cb5f1a.c1efb7733ce3d17b",
       "type": 0,
       "text": "Mature",
       "weight": 1,
@@ -888,6 +952,7 @@
     },
     {
       "_id": "66c0f59c7391e3dd",
+      "_key": "!tables.results!a52fc367e2cb5f1a.66c0f59c7391e3dd",
       "type": 0,
       "text": "Messy",
       "weight": 1,
@@ -902,6 +967,7 @@
     },
     {
       "_id": "b91040644e8dd8d2",
+      "_key": "!tables.results!a52fc367e2cb5f1a.b91040644e8dd8d2",
       "type": 0,
       "text": "Mighty",
       "weight": 1,
@@ -916,6 +982,7 @@
     },
     {
       "_id": "7cc9df19199d5fb4",
+      "_key": "!tables.results!a52fc367e2cb5f1a.7cc9df19199d5fb4",
       "type": 0,
       "text": "Military",
       "weight": 1,
@@ -930,6 +997,7 @@
     },
     {
       "_id": "71dd415d900c8263",
+      "_key": "!tables.results!a52fc367e2cb5f1a.71dd415d900c8263",
       "type": 0,
       "text": "Modern",
       "weight": 1,
@@ -944,6 +1012,7 @@
     },
     {
       "_id": "fda62cec3e71bad6",
+      "_key": "!tables.results!a52fc367e2cb5f1a.fda62cec3e71bad6",
       "type": 0,
       "text": "Extravagant",
       "weight": 1,
@@ -958,6 +1027,7 @@
     },
     {
       "_id": "e68da40716f3fdee",
+      "_key": "!tables.results!a52fc367e2cb5f1a.e68da40716f3fdee",
       "type": 0,
       "text": "Mundane",
       "weight": 1,
@@ -972,6 +1042,7 @@
     },
     {
       "_id": "498b99bd449a7042",
+      "_key": "!tables.results!a52fc367e2cb5f1a.498b99bd449a7042",
       "type": 0,
       "text": "Mysterious",
       "weight": 1,
@@ -986,6 +1057,7 @@
     },
     {
       "_id": "de3b50e9bfa7dcee",
+      "_key": "!tables.results!a52fc367e2cb5f1a.de3b50e9bfa7dcee",
       "type": 0,
       "text": "Natural",
       "weight": 1,
@@ -1000,6 +1072,7 @@
     },
     {
       "_id": "ff06050e6528a321",
+      "_key": "!tables.results!a52fc367e2cb5f1a.ff06050e6528a321",
       "type": 0,
       "text": "Nondescript",
       "weight": 1,
@@ -1014,6 +1087,7 @@
     },
     {
       "_id": "8425fc6b49422e66",
+      "_key": "!tables.results!a52fc367e2cb5f1a.8425fc6b49422e66",
       "type": 0,
       "text": "Odd",
       "weight": 1,
@@ -1028,6 +1102,7 @@
     },
     {
       "_id": "1118d5f0b8509b2a",
+      "_key": "!tables.results!a52fc367e2cb5f1a.1118d5f0b8509b2a",
       "type": 0,
       "text": "Pale",
       "weight": 1,
@@ -1042,6 +1117,7 @@
     },
     {
       "_id": "ab4727515464e339",
+      "_key": "!tables.results!a52fc367e2cb5f1a.ab4727515464e339",
       "type": 0,
       "text": "Petite",
       "weight": 1,
@@ -1056,6 +1132,7 @@
     },
     {
       "_id": "a0b424c09b04efd7",
+      "_key": "!tables.results!a52fc367e2cb5f1a.a0b424c09b04efd7",
       "type": 0,
       "text": "Poor",
       "weight": 1,
@@ -1070,6 +1147,7 @@
     },
     {
       "_id": "60284cd2d5803174",
+      "_key": "!tables.results!a52fc367e2cb5f1a.60284cd2d5803174",
       "type": 0,
       "text": "Powerful",
       "weight": 1,
@@ -1084,6 +1162,7 @@
     },
     {
       "_id": "406f29d2f8232be8",
+      "_key": "!tables.results!a52fc367e2cb5f1a.406f29d2f8232be8",
       "type": 0,
       "text": "Quaint",
       "weight": 1,
@@ -1098,6 +1177,7 @@
     },
     {
       "_id": "771cebec4bc0e9b3",
+      "_key": "!tables.results!a52fc367e2cb5f1a.771cebec4bc0e9b3",
       "type": 0,
       "text": "Rare",
       "weight": 1,
@@ -1112,6 +1192,7 @@
     },
     {
       "_id": "9d94b0754e9b806e",
+      "_key": "!tables.results!a52fc367e2cb5f1a.9d94b0754e9b806e",
       "type": 0,
       "text": "Reassuring",
       "weight": 1,
@@ -1126,6 +1207,7 @@
     },
     {
       "_id": "0753f106f76b14e7",
+      "_key": "!tables.results!a52fc367e2cb5f1a.0753f106f76b14e7",
       "type": 0,
       "text": "Remarkable",
       "weight": 1,
@@ -1140,6 +1222,7 @@
     },
     {
       "_id": "b5a3118b0b01c672",
+      "_key": "!tables.results!a52fc367e2cb5f1a.b5a3118b0b01c672",
       "type": 0,
       "text": "Rotten",
       "weight": 1,
@@ -1154,6 +1237,7 @@
     },
     {
       "_id": "8f95a5213ba51fb9",
+      "_key": "!tables.results!a52fc367e2cb5f1a.8f95a5213ba51fb9",
       "type": 0,
       "text": "Rough",
       "weight": 1,
@@ -1168,6 +1252,7 @@
     },
     {
       "_id": "5123fa54e2da84c4",
+      "_key": "!tables.results!a52fc367e2cb5f1a.5123fa54e2da84c4",
       "type": 0,
       "text": "Ruined",
       "weight": 1,
@@ -1182,6 +1267,7 @@
     },
     {
       "_id": "ec4b9a06c4b2dedb",
+      "_key": "!tables.results!a52fc367e2cb5f1a.ec4b9a06c4b2dedb",
       "type": 0,
       "text": "Rustic",
       "weight": 1,
@@ -1196,6 +1282,7 @@
     },
     {
       "_id": "1e6dcefec026c85d",
+      "_key": "!tables.results!a52fc367e2cb5f1a.1e6dcefec026c85d",
       "type": 0,
       "text": "Scary",
       "weight": 1,
@@ -1210,6 +1297,7 @@
     },
     {
       "_id": "43d4882dd8661bd9",
+      "_key": "!tables.results!a52fc367e2cb5f1a.43d4882dd8661bd9",
       "type": 0,
       "text": "Simple",
       "weight": 1,
@@ -1224,6 +1312,7 @@
     },
     {
       "_id": "940539c1e30fd467",
+      "_key": "!tables.results!a52fc367e2cb5f1a.940539c1e30fd467",
       "type": 0,
       "text": "Small",
       "weight": 1,
@@ -1238,6 +1327,7 @@
     },
     {
       "_id": "371d471f05e842e6",
+      "_key": "!tables.results!a52fc367e2cb5f1a.371d471f05e842e6",
       "type": 0,
       "text": "Smelly",
       "weight": 1,
@@ -1252,6 +1342,7 @@
     },
     {
       "_id": "0a4675b8257e20f0",
+      "_key": "!tables.results!a52fc367e2cb5f1a.0a4675b8257e20f0",
       "type": 0,
       "text": "Smooth",
       "weight": 1,
@@ -1266,6 +1357,7 @@
     },
     {
       "_id": "5fa15cff8bd302de",
+      "_key": "!tables.results!a52fc367e2cb5f1a.5fa15cff8bd302de",
       "type": 0,
       "text": "Soft",
       "weight": 1,
@@ -1280,6 +1372,7 @@
     },
     {
       "_id": "021b4d913a65ee29",
+      "_key": "!tables.results!a52fc367e2cb5f1a.021b4d913a65ee29",
       "type": 0,
       "text": "Strong",
       "weight": 1,
@@ -1294,6 +1387,7 @@
     },
     {
       "_id": "f6855af1c50c0534",
+      "_key": "!tables.results!a52fc367e2cb5f1a.f6855af1c50c0534",
       "type": 0,
       "text": "Tranquil",
       "weight": 1,
@@ -1308,6 +1402,7 @@
     },
     {
       "_id": "52e1ce3e9d3477fa",
+      "_key": "!tables.results!a52fc367e2cb5f1a.52e1ce3e9d3477fa",
       "type": 0,
       "text": "Ugly",
       "weight": 1,
@@ -1322,6 +1417,7 @@
     },
     {
       "_id": "0f91bdb3e64dc3ff",
+      "_key": "!tables.results!a52fc367e2cb5f1a.0f91bdb3e64dc3ff",
       "type": 0,
       "text": "Valuable",
       "weight": 1,
@@ -1336,6 +1432,7 @@
     },
     {
       "_id": "0bb9836c1da10497",
+      "_key": "!tables.results!a52fc367e2cb5f1a.0bb9836c1da10497",
       "type": 0,
       "text": "Warlike",
       "weight": 1,
@@ -1350,6 +1447,7 @@
     },
     {
       "_id": "4d047d2b01018803",
+      "_key": "!tables.results!a52fc367e2cb5f1a.4d047d2b01018803",
       "type": 0,
       "text": "Warm",
       "weight": 1,
@@ -1364,6 +1462,7 @@
     },
     {
       "_id": "2dbc8868e4ba98e0",
+      "_key": "!tables.results!a52fc367e2cb5f1a.2dbc8868e4ba98e0",
       "type": 0,
       "text": "Watery",
       "weight": 1,
@@ -1378,6 +1477,7 @@
     },
     {
       "_id": "619212d86ad204b1",
+      "_key": "!tables.results!a52fc367e2cb5f1a.619212d86ad204b1",
       "type": 0,
       "text": "Weak",
       "weight": 1,
@@ -1392,6 +1492,7 @@
     },
     {
       "_id": "c93e869f24686271",
+      "_key": "!tables.results!a52fc367e2cb5f1a.c93e869f24686271",
       "type": 0,
       "text": "Young",
       "weight": 1,

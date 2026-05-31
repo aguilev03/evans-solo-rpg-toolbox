@@ -1,11 +1,13 @@
 {
   "_id": "15327d0322a0e779",
+  "_key": "!tables!15327d0322a0e779",
   "name": "Village People Notable NPCs",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "155430144c87c918",
+      "_key": "!tables.results!15327d0322a0e779.155430144c87c918",
       "type": 0,
       "text": "Aggressive guard",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "b00bdb21576e7dac",
+      "_key": "!tables.results!15327d0322a0e779.b00bdb21576e7dac",
       "type": 0,
       "text": "Annoying minstrel",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "b2838a851d350502",
+      "_key": "!tables.results!15327d0322a0e779.b2838a851d350502",
       "type": 0,
       "text": "Bandit in disguise",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "9f9c52c17caa5b2a",
+      "_key": "!tables.results!15327d0322a0e779.9f9c52c17caa5b2a",
       "type": 0,
       "text": "Beggar who knows a lot",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "3156668976073357",
+      "_key": "!tables.results!15327d0322a0e779.3156668976073357",
       "type": 0,
       "text": "Curious waitress",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "936a999fa0431292",
+      "_key": "!tables.results!15327d0322a0e779.936a999fa0431292",
       "type": 0,
       "text": "Cute dog",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "6aff96f589634a17",
+      "_key": "!tables.results!15327d0322a0e779.6aff96f589634a17",
       "type": 0,
       "text": "Frightened peasant",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "876306beaf62514a",
+      "_key": "!tables.results!15327d0322a0e779.876306beaf62514a",
       "type": 0,
       "text": "Lonely widow",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "c31b7df2a3363748",
+      "_key": "!tables.results!15327d0322a0e779.c31b7df2a3363748",
       "type": 0,
       "text": "Misunderstood witch",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "2e1aed4b08502f24",
+      "_key": "!tables.results!15327d0322a0e779.2e1aed4b08502f24",
       "type": 0,
       "text": "Old fool/hag",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "d1c170dda9b3aeef",
+      "_key": "!tables.results!15327d0322a0e779.d1c170dda9b3aeef",
       "type": 0,
       "text": "One-handed lumberjack",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "fe4030763ca2f556",
+      "_key": "!tables.results!15327d0322a0e779.fe4030763ca2f556",
       "type": 0,
       "text": "Retired mercenary",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "7f1ad067668f5ac5",
+      "_key": "!tables.results!15327d0322a0e779.7f1ad067668f5ac5",
       "type": 0,
       "text": "Seasoned adventurer",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "0cf9e2e1081a6dcb",
+      "_key": "!tables.results!15327d0322a0e779.0cf9e2e1081a6dcb",
       "type": 0,
       "text": "Sick child",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "e014ce10fa75507c",
+      "_key": "!tables.results!15327d0322a0e779.e014ce10fa75507c",
       "type": 0,
       "text": "Stubborn magician",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "448bfd2033c9df9c",
+      "_key": "!tables.results!15327d0322a0e779.448bfd2033c9df9c",
       "type": 0,
       "text": "Talented craftsman",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "7e60785b755aebae",
+      "_key": "!tables.results!15327d0322a0e779.7e60785b755aebae",
       "type": 0,
       "text": "Traveling merchant",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "4b5c03cb82ccbbec",
+      "_key": "!tables.results!15327d0322a0e779.4b5c03cb82ccbbec",
       "type": 0,
       "text": "Troubled hunter",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "c931b9d45a93e3e8",
+      "_key": "!tables.results!15327d0322a0e779.c931b9d45a93e3e8",
       "type": 0,
       "text": "Vampire/Werewolf hunter",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "7ce1fbabdb9a6ca4",
+      "_key": "!tables.results!15327d0322a0e779.7ce1fbabdb9a6ca4",
       "type": 0,
       "text": "Village idiot",
       "weight": 1,

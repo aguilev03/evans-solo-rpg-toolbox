@@ -1,11 +1,13 @@
 {
   "_id": "287e64e4ffaeabea",
+  "_key": "!tables!287e64e4ffaeabea",
   "name": "Magic Landmarks Strange phenomenon",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "acdfb38f148c65a0",
+      "_key": "!tables.results!287e64e4ffaeabea.acdfb38f148c65a0",
       "type": 0,
       "text": "Everburning tree",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "c92ace0f049e74d6",
+      "_key": "!tables.results!287e64e4ffaeabea.c92ace0f049e74d6",
       "type": 0,
       "text": "Evermelting ice",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "f897a3c1b2c8ee84",
+      "_key": "!tables.results!287e64e4ffaeabea.f897a3c1b2c8ee84",
       "type": 0,
       "text": "Floating crystal",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "6d06353412697bf9",
+      "_key": "!tables.results!287e64e4ffaeabea.6d06353412697bf9",
       "type": 0,
       "text": "Ghost building",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "4dd4bd408d4fd908",
+      "_key": "!tables.results!287e64e4ffaeabea.4dd4bd408d4fd908",
       "type": 0,
       "text": "Luminous engravings",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "c1cfedb817700503",
+      "_key": "!tables.results!287e64e4ffaeabea.c1cfedb817700503",
       "type": 0,
       "text": "Reverse waterfall",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "4003dee9a4d97307",
+      "_key": "!tables.results!287e64e4ffaeabea.4003dee9a4d97307",
       "type": 0,
       "text": "Singing crystal",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "b672b64db4c1987b",
+      "_key": "!tables.results!287e64e4ffaeabea.b672b64db4c1987b",
       "type": 0,
       "text": "Strong magnetism",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "c18901bbb8aa1268",
+      "_key": "!tables.results!287e64e4ffaeabea.c18901bbb8aa1268",
       "type": 0,
       "text": "Talking rock",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "c75a6f6918a67e11",
+      "_key": "!tables.results!287e64e4ffaeabea.c75a6f6918a67e11",
       "type": 0,
       "text": "Whispers in the wind",
       "weight": 1,

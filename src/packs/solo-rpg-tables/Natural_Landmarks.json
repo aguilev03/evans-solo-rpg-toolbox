@@ -1,11 +1,13 @@
 {
   "_id": "f7c379de0e2346d6",
+  "_key": "!tables!f7c379de0e2346d6",
   "name": "Natural Landmarks",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "35d92fc0ff0926cf",
+      "_key": "!tables.results!f7c379de0e2346d6.35d92fc0ff0926cf",
       "type": 0,
       "text": "Fauna",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "fe9864754235c30a",
+      "_key": "!tables.results!f7c379de0e2346d6.fe9864754235c30a",
       "type": 0,
       "text": "Flora (A)",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "9547b1b3dcd9b914",
+      "_key": "!tables.results!f7c379de0e2346d6.9547b1b3dcd9b914",
       "type": 0,
       "text": "Flora (B)",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "48e0defda0e973a5",
+      "_key": "!tables.results!f7c379de0e2346d6.48e0defda0e973a5",
       "type": 0,
       "text": "Geology (A)",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "8dc8c4eb376b259f",
+      "_key": "!tables.results!f7c379de0e2346d6.8dc8c4eb376b259f",
       "type": 0,
       "text": "Geology (B)",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "03ea098817c52ae6",
+      "_key": "!tables.results!f7c379de0e2346d6.03ea098817c52ae6",
       "type": 0,
       "text": "Hydrology",
       "weight": 1,

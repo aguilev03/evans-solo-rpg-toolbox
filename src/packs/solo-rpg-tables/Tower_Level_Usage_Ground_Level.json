@@ -1,11 +1,13 @@
 {
   "_id": "aaea2042870de8e6",
+  "_key": "!tables!aaea2042870de8e6",
   "name": "Tower Level Usage Ground Level",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "020d48dde699f798",
+      "_key": "!tables.results!aaea2042870de8e6.020d48dde699f798",
       "type": 0,
       "text": "Empty and dusty",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "e4637de5f6d2b426",
+      "_key": "!tables.results!aaea2042870de8e6.e4637de5f6d2b426",
       "type": 0,
       "text": "Fortified room",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "cc9f256d683ae151",
+      "_key": "!tables.results!aaea2042870de8e6.cc9f256d683ae151",
       "type": 0,
       "text": "Hallway",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "86dd98817c91612e",
+      "_key": "!tables.results!aaea2042870de8e6.86dd98817c91612e",
       "type": 0,
       "text": "Reception desk",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "17ea51d695788075",
+      "_key": "!tables.results!aaea2042870de8e6.17ea51d695788075",
       "type": 0,
       "text": "Ruined room",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "ae87d221b03166a0",
+      "_key": "!tables.results!aaea2042870de8e6.ae87d221b03166a0",
       "type": 0,
       "text": "Shop/Tavern",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "d6b57fe4cacfd338",
+      "_key": "!tables.results!aaea2042870de8e6.d6b57fe4cacfd338",
       "type": 0,
       "text": "Trapped room",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "d424e45e2d5345b7",
+      "_key": "!tables.results!aaea2042870de8e6.d424e45e2d5345b7",
       "type": 0,
       "text": "Unloading room",
       "weight": 1,

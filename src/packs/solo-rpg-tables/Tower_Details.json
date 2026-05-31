@@ -1,11 +1,13 @@
 {
   "_id": "f348226bdb522076",
+  "_key": "!tables!f348226bdb522076",
   "name": "Tower Details",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "5f9e51d18458958e",
+      "_key": "!tables.results!f348226bdb522076.5f9e51d18458958e",
       "type": 0,
       "text": "Nothing",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "7d1ca7339ee3b133",
+      "_key": "!tables.results!f348226bdb522076.7d1ca7339ee3b133",
       "type": 0,
       "text": "Balcony",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "4e38b865f50ee9f7",
+      "_key": "!tables.results!f348226bdb522076.4e38b865f50ee9f7",
       "type": 0,
       "text": "Banners",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "9a6bb1516be7d1da",
+      "_key": "!tables.results!f348226bdb522076.9a6bb1516be7d1da",
       "type": 0,
       "text": "Battlements",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "bfa5f2e5d0955de7",
+      "_key": "!tables.results!f348226bdb522076.bfa5f2e5d0955de7",
       "type": 0,
       "text": "Climbing plants",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "0016ea586b878318",
+      "_key": "!tables.results!f348226bdb522076.0016ea586b878318",
       "type": 0,
       "text": "Flags",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "aa1566d947c7d5a9",
+      "_key": "!tables.results!f348226bdb522076.aa1566d947c7d5a9",
       "type": 0,
       "text": "Moldings",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "3556797b06fb2680",
+      "_key": "!tables.results!f348226bdb522076.3556797b06fb2680",
       "type": 0,
       "text": "Porch",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "b0ea7e35b5b961c9",
+      "_key": "!tables.results!f348226bdb522076.b0ea7e35b5b961c9",
       "type": 0,
       "text": "Stained glass",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "35ee53525de3a32a",
+      "_key": "!tables.results!f348226bdb522076.35ee53525de3a32a",
       "type": 0,
       "text": "Statues/Gargoyles",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "46a276092a9fee87",
+      "_key": "!tables.results!f348226bdb522076.46a276092a9fee87",
       "type": 0,
       "text": "Turrets",
       "weight": 1,

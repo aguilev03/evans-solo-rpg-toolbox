@@ -1,11 +1,13 @@
 {
   "_id": "fcc73d77dee67ec0",
+  "_key": "!tables!fcc73d77dee67ec0",
   "name": "Settlements",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "68d353fdf361bf26",
+      "_key": "!tables.results!fcc73d77dee67ec0.68d353fdf361bf26",
       "type": 0,
       "text": "Hamlet",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "ff7d13c923df7615",
+      "_key": "!tables.results!fcc73d77dee67ec0.ff7d13c923df7615",
       "type": 0,
       "text": "Village",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "27baa88f8b404d89",
+      "_key": "!tables.results!fcc73d77dee67ec0.27baa88f8b404d89",
       "type": 0,
       "text": "City",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "b139d6e6e4c59ae6",
+      "_key": "!tables.results!fcc73d77dee67ec0.b139d6e6e4c59ae6",
       "type": 0,
       "text": "Castle",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "22f15ffc7951e486",
+      "_key": "!tables.results!fcc73d77dee67ec0.22f15ffc7951e486",
       "type": 0,
       "text": "Tower",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "56fe35c752ab1fa7",
+      "_key": "!tables.results!fcc73d77dee67ec0.56fe35c752ab1fa7",
       "type": 0,
       "text": "Abbey",
       "weight": 1,

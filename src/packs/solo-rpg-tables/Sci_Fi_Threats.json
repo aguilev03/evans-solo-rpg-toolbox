@@ -1,11 +1,13 @@
 {
   "_id": "a17fe112c974d427",
+  "_key": "!tables!a17fe112c974d427",
   "name": "Sci-Fi Threats",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate a sci-fi threat.",
   "results": [
     {
       "_id": "13550df58f94ed46",
+      "_key": "!tables.results!a17fe112c974d427.13550df58f94ed46",
       "type": 0,
       "text": "Chemical fumes",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "6a75496923e9f891",
+      "_key": "!tables.results!a17fe112c974d427.6a75496923e9f891",
       "type": 0,
       "text": "Rogue android",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "ca338c362f07fd9b",
+      "_key": "!tables.results!a17fe112c974d427.ca338c362f07fd9b",
       "type": 0,
       "text": "Drone presence",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "dd1ec02a9ebe9403",
+      "_key": "!tables.results!a17fe112c974d427.dd1ec02a9ebe9403",
       "type": 0,
       "text": "Malfunctioning tech",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "cbb45676414da2d6",
+      "_key": "!tables.results!a17fe112c974d427.cbb45676414da2d6",
       "type": 0,
       "text": "Security turrets",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "d8859c8fb2f86bff",
+      "_key": "!tables.results!a17fe112c974d427.d8859c8fb2f86bff",
       "type": 0,
       "text": "Corporate police",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "c25f50beffc3e3d4",
+      "_key": "!tables.results!a17fe112c974d427.c25f50beffc3e3d4",
       "type": 0,
       "text": "Drug addict",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "1173df5b6eb5f9cb",
+      "_key": "!tables.results!a17fe112c974d427.1173df5b6eb5f9cb",
       "type": 0,
       "text": "Blaring alarm",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "245c4eb853a8e224",
+      "_key": "!tables.results!a17fe112c974d427.245c4eb853a8e224",
       "type": 0,
       "text": "Scavenger",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "27e9c5c0fe1b0ed4",
+      "_key": "!tables.results!a17fe112c974d427.27e9c5c0fe1b0ed4",
       "type": 0,
       "text": "Blackout",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "2bfc206e12544598",
+      "_key": "!tables.results!a17fe112c974d427.2bfc206e12544598",
       "type": 0,
       "text": "Neural hackers",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "209948b697af5b8b",
+      "_key": "!tables.results!a17fe112c974d427.209948b697af5b8b",
       "type": 0,
       "text": "Unknown entity",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "a1446c0d887b9e6d",
+      "_key": "!tables.results!a17fe112c974d427.a1446c0d887b9e6d",
       "type": 0,
       "text": "Scrambler signal",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "8cc716e0c8caba03",
+      "_key": "!tables.results!a17fe112c974d427.8cc716e0c8caba03",
       "type": 0,
       "text": "Military presence",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "123ddef574184c34",
+      "_key": "!tables.results!a17fe112c974d427.123ddef574184c34",
       "type": 0,
       "text": "Toxic rain",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "0d39d66341f8a3c5",
+      "_key": "!tables.results!a17fe112c974d427.0d39d66341f8a3c5",
       "type": 0,
       "text": "Tracer signal",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "64cee6575407eef6",
+      "_key": "!tables.results!a17fe112c974d427.64cee6575407eef6",
       "type": 0,
       "text": "Active firefight",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "16c88da9df313a45",
+      "_key": "!tables.results!a17fe112c974d427.16c88da9df313a45",
       "type": 0,
       "text": "Industrial pollution",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "a3896f4a4ec9a21c",
+      "_key": "!tables.results!a17fe112c974d427.a3896f4a4ec9a21c",
       "type": 0,
       "text": "Singularity",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "e00fc9bc7d6324ee",
+      "_key": "!tables.results!a17fe112c974d427.e00fc9bc7d6324ee",
       "type": 0,
       "text": "Solar storm",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "af0c09a0441fbfe9",
+      "_key": "!tables.results!a17fe112c974d427.af0c09a0441fbfe9",
       "type": 0,
       "text": "Lingering guilt",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "f6e90de346d245cd",
+      "_key": "!tables.results!a17fe112c974d427.f6e90de346d245cd",
       "type": 0,
       "text": "Meteor shower",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "746047b34e2f1790",
+      "_key": "!tables.results!a17fe112c974d427.746047b34e2f1790",
       "type": 0,
       "text": "Oxygen breach",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "8ad07ea88a37b067",
+      "_key": "!tables.results!a17fe112c974d427.8ad07ea88a37b067",
       "type": 0,
       "text": "Organ thief",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "ac6fe9c0363869c5",
+      "_key": "!tables.results!a17fe112c974d427.ac6fe9c0363869c5",
       "type": 0,
       "text": "Space pirates",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "0a2e68b9ef488d54",
+      "_key": "!tables.results!a17fe112c974d427.0a2e68b9ef488d54",
       "type": 0,
       "text": "Post-human activist",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "f1300233aaa7ab60",
+      "_key": "!tables.results!a17fe112c974d427.f1300233aaa7ab60",
       "type": 0,
       "text": "Union riot",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "723e644cca154824",
+      "_key": "!tables.results!a17fe112c974d427.723e644cca154824",
       "type": 0,
       "text": "Freezing temperatures",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "8b3d98d205d3b2f0",
+      "_key": "!tables.results!a17fe112c974d427.8b3d98d205d3b2f0",
       "type": 0,
       "text": "Radiation",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "7e3abd1db1af1758",
+      "_key": "!tables.results!a17fe112c974d427.7e3abd1db1af1758",
       "type": 0,
       "text": "Electrical surge",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "c89acc87e870828f",
+      "_key": "!tables.results!a17fe112c974d427.c89acc87e870828f",
       "type": 0,
       "text": "Bioscanner",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "a190fae6ccaf778a",
+      "_key": "!tables.results!a17fe112c974d427.a190fae6ccaf778a",
       "type": 0,
       "text": "Sentient AI",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "e8c4f30baf46560e",
+      "_key": "!tables.results!a17fe112c974d427.e8c4f30baf46560e",
       "type": 0,
       "text": "Alternative gravity",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "b8f685761e595147",
+      "_key": "!tables.results!a17fe112c974d427.b8f685761e595147",
       "type": 0,
       "text": "Dangerous traffic",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "41a13873d589e50f",
+      "_key": "!tables.results!a17fe112c974d427.41a13873d589e50f",
       "type": 0,
       "text": "Biker gang",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "eaf141103f52084e",
+      "_key": "!tables.results!a17fe112c974d427.eaf141103f52084e",
       "type": 0,
       "text": "Virus",
       "weight": 1,

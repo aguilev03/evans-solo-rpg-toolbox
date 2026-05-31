@@ -291,6 +291,7 @@ parsedTables.forEach(table => {
     const rId = getStableId(`table-${table.name}-result-${idx}-${r.text}`);
     return {
       _id: rId,
+      _key: `!tables.results!${id}.${rId}`,
       type: 0,
       text: r.text,
       weight: 1,
@@ -304,6 +305,7 @@ parsedTables.forEach(table => {
 
   const rollTableDoc = {
     _id: id,
+    _key: `!tables!${id}`,
     name: table.name,
     img: "icons/svg/d20-grey.svg",
     description: table.description || "",
@@ -327,6 +329,7 @@ parsedMacros.forEach(macro => {
   const id = getStableId(`macro-${macro.name}`);
   const macroDoc = {
     _id: id,
+    _key: `!macros!${id}`,
     name: macro.name,
     type: "script",
     author: getStableId("evans-solo-rpg-toolbox"),

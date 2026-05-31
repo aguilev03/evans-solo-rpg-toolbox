@@ -1,11 +1,13 @@
 {
   "_id": "7558a399956314e9",
+  "_key": "!tables!7558a399956314e9",
   "name": "F) Settlement types",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "91be49763033fb79",
+      "_key": "!tables.results!7558a399956314e9.91be49763033fb79",
       "type": 0,
       "text": "Borough",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "712e77775d454ee2",
+      "_key": "!tables.results!7558a399956314e9.712e77775d454ee2",
       "type": 0,
       "text": "B(o)urg",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "91431cf59ef3ff99",
+      "_key": "!tables.results!7558a399956314e9.91431cf59ef3ff99",
       "type": 0,
       "text": "Camp",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "5992f787e485e707",
+      "_key": "!tables.results!7558a399956314e9.5992f787e485e707",
       "type": 0,
       "text": "Cester",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "d0f2625ef8efadb3",
+      "_key": "!tables.results!7558a399956314e9.d0f2625ef8efadb3",
       "type": 0,
       "text": "Citadel",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "906a5bbcb563d2c8",
+      "_key": "!tables.results!7558a399956314e9.906a5bbcb563d2c8",
       "type": 0,
       "text": "City",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "626dd8b244d6abce",
+      "_key": "!tables.results!7558a399956314e9.626dd8b244d6abce",
       "type": 0,
       "text": "County",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "077b5b4345febb04",
+      "_key": "!tables.results!7558a399956314e9.077b5b4345febb04",
       "type": 0,
       "text": "Dorf",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "61de35eee6b09892",
+      "_key": "!tables.results!7558a399956314e9.61de35eee6b09892",
       "type": 0,
       "text": "Ham",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "90343bf003ca9668",
+      "_key": "!tables.results!7558a399956314e9.90343bf003ca9668",
       "type": 0,
       "text": "Hamlet",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "d69c1b558237827c",
+      "_key": "!tables.results!7558a399956314e9.d69c1b558237827c",
       "type": 0,
       "text": "Haven",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "8dd7208da7ef0174",
+      "_key": "!tables.results!7558a399956314e9.8dd7208da7ef0174",
       "type": 0,
       "text": "Heim",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "1c7157e8414a7739",
+      "_key": "!tables.results!7558a399956314e9.1c7157e8414a7739",
       "type": 0,
       "text": "Keep",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "0d29090e4e68591d",
+      "_key": "!tables.results!7558a399956314e9.0d29090e4e68591d",
       "type": 0,
       "text": "Stead",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "89af4e9d2ca0bacc",
+      "_key": "!tables.results!7558a399956314e9.89af4e9d2ca0bacc",
       "type": 0,
       "text": "Town",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "259e872f845de724",
+      "_key": "!tables.results!7558a399956314e9.259e872f845de724",
       "type": 0,
       "text": "Village",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "f3aad9fc5939ece0",
+      "_key": "!tables.results!7558a399956314e9.f3aad9fc5939ece0",
       "type": 0,
       "text": "Ville",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "475bcdc8e89c6920",
+      "_key": "!tables.results!7558a399956314e9.475bcdc8e89c6920",
       "type": 0,
       "text": "Ward",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "f8682142acc27f79",
+      "_key": "!tables.results!7558a399956314e9.f8682142acc27f79",
       "type": 0,
       "text": "Wihr",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "e0e04135aa19af65",
+      "_key": "!tables.results!7558a399956314e9.e0e04135aa19af65",
       "type": 0,
       "text": "Worth",
       "weight": 1,

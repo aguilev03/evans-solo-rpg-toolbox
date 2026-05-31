@@ -1,11 +1,13 @@
 {
   "_id": "a4715b7f6cf68dbd",
+  "_key": "!tables!a4715b7f6cf68dbd",
   "name": "Hex Map - Next Hexes",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "9ed55ff88b8f0c9e",
+      "_key": "!tables.results!a4715b7f6cf68dbd.9ed55ff88b8f0c9e",
       "type": 0,
       "text": "Same as previous hex",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "5d625814e4b0f651",
+      "_key": "!tables.results!a4715b7f6cf68dbd.5d625814e4b0f651",
       "type": 0,
       "text": "Grassland",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "e0ab26059f3316ed",
+      "_key": "!tables.results!a4715b7f6cf68dbd.e0ab26059f3316ed",
       "type": 0,
       "text": "Forest",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "ed508a46af41d1a1",
+      "_key": "!tables.results!a4715b7f6cf68dbd.ed508a46af41d1a1",
       "type": 0,
       "text": "Hills",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "6264ee26903b0057",
+      "_key": "!tables.results!a4715b7f6cf68dbd.6264ee26903b0057",
       "type": 0,
       "text": "Marsh",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "5c57b25738d2440a",
+      "_key": "!tables.results!a4715b7f6cf68dbd.5c57b25738d2440a",
       "type": 0,
       "text": "Mountains",
       "weight": 1,

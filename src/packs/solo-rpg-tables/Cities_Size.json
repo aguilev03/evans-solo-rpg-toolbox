@@ -1,11 +1,13 @@
 {
   "_id": "4e5709f4a86fad16",
+  "_key": "!tables!4e5709f4a86fad16",
   "name": "Cities Size",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "bf3e528d69c44be9",
+      "_key": "!tables.results!4e5709f4a86fad16.bf3e528d69c44be9",
       "type": 0,
       "text": "Small 2",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "ad64a5f9dea524fd",
+      "_key": "!tables.results!4e5709f4a86fad16.ad64a5f9dea524fd",
       "type": 0,
       "text": "Medium 3",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "3384714399429c93",
+      "_key": "!tables.results!4e5709f4a86fad16.3384714399429c93",
       "type": 0,
       "text": "Big 4",
       "weight": 1,

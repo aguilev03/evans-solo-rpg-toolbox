@@ -1,11 +1,13 @@
 {
   "_id": "95df8fe578ecd486",
+  "_key": "!tables!95df8fe578ecd486",
   "name": "Landmark Content",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "2da6af98fa51e962",
+      "_key": "!tables.results!95df8fe578ecd486.2da6af98fa51e962",
       "type": 0,
       "text": "Hazard 25%",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "2f506798c097d3e8",
+      "_key": "!tables.results!95df8fe578ecd486.2f506798c097d3e8",
       "type": 0,
       "text": "Empty 15%",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "b845cbded84afac9",
+      "_key": "!tables.results!95df8fe578ecd486.b845cbded84afac9",
       "type": 0,
       "text": "Special variable",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "ccea01c9c83fadab",
+      "_key": "!tables.results!95df8fe578ecd486.ccea01c9c83fadab",
       "type": 0,
       "text": "Monsters 50%",
       "weight": 1,

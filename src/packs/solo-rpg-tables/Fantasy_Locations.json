@@ -1,11 +1,13 @@
 {
   "_id": "5a0d20297de07763",
+  "_key": "!tables!5a0d20297de07763",
   "name": "Fantasy Locations",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate a location with a fantasy theme.",
   "results": [
     {
       "_id": "2dcfa55bc550e71f",
+      "_key": "!tables.results!5a0d20297de07763.2dcfa55bc550e71f",
       "type": 0,
       "text": "Tavern",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "a3321b865050bc5b",
+      "_key": "!tables.results!5a0d20297de07763.a3321b865050bc5b",
       "type": 0,
       "text": "Castle",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "ed615f6f862666eb",
+      "_key": "!tables.results!5a0d20297de07763.ed615f6f862666eb",
       "type": 0,
       "text": "Dungeon",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "af17cfb6ecd1adae",
+      "_key": "!tables.results!5a0d20297de07763.af17cfb6ecd1adae",
       "type": 0,
       "text": "Smithy",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "dbc5513d801f02e9",
+      "_key": "!tables.results!5a0d20297de07763.dbc5513d801f02e9",
       "type": 0,
       "text": "Forest",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "41b0a2c6422928bb",
+      "_key": "!tables.results!5a0d20297de07763.41b0a2c6422928bb",
       "type": 0,
       "text": "Campsite",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "b5fd960d70525c52",
+      "_key": "!tables.results!5a0d20297de07763.b5fd960d70525c52",
       "type": 0,
       "text": "Armoury",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "39e328ddfc19c98f",
+      "_key": "!tables.results!5a0d20297de07763.39e328ddfc19c98f",
       "type": 0,
       "text": "Monastery",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "39790cec604fd483",
+      "_key": "!tables.results!5a0d20297de07763.39790cec604fd483",
       "type": 0,
       "text": "Carnival",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "0fab9ef3dc06e098",
+      "_key": "!tables.results!5a0d20297de07763.0fab9ef3dc06e098",
       "type": 0,
       "text": "Watch tower",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "f1623fe3c0cf0bb7",
+      "_key": "!tables.results!5a0d20297de07763.f1623fe3c0cf0bb7",
       "type": 0,
       "text": "Ruins",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "73bda742ab3c5df6",
+      "_key": "!tables.results!5a0d20297de07763.73bda742ab3c5df6",
       "type": 0,
       "text": "Mine",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "527d2915a9a3eb5a",
+      "_key": "!tables.results!5a0d20297de07763.527d2915a9a3eb5a",
       "type": 0,
       "text": "Farmland",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "0e9b9eca34b093a5",
+      "_key": "!tables.results!5a0d20297de07763.0e9b9eca34b093a5",
       "type": 0,
       "text": "Apothecary",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "8245cdb597dcd288",
+      "_key": "!tables.results!5a0d20297de07763.8245cdb597dcd288",
       "type": 0,
       "text": "Battlefield",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "c419db035be0a4cf",
+      "_key": "!tables.results!5a0d20297de07763.c419db035be0a4cf",
       "type": 0,
       "text": "Market",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "0c4b3ca4f1feee7c",
+      "_key": "!tables.results!5a0d20297de07763.0c4b3ca4f1feee7c",
       "type": 0,
       "text": "Guild hall",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "c4b35c970339f06a",
+      "_key": "!tables.results!5a0d20297de07763.c4b35c970339f06a",
       "type": 0,
       "text": "Training grounds",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "e2c8ffeb72f2b42e",
+      "_key": "!tables.results!5a0d20297de07763.e2c8ffeb72f2b42e",
       "type": 0,
       "text": "Creature's lair",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "7ac26bfc6fae6dd7",
+      "_key": "!tables.results!5a0d20297de07763.7ac26bfc6fae6dd7",
       "type": 0,
       "text": "Barracks",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "5844fbed2b499512",
+      "_key": "!tables.results!5a0d20297de07763.5844fbed2b499512",
       "type": 0,
       "text": "Mountain path",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "fe56ae768a77c5e9",
+      "_key": "!tables.results!5a0d20297de07763.fe56ae768a77c5e9",
       "type": 0,
       "text": "Lake",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "b2e841e803e4c98d",
+      "_key": "!tables.results!5a0d20297de07763.b2e841e803e4c98d",
       "type": 0,
       "text": "Rampart",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "8f826dc7edd2b785",
+      "_key": "!tables.results!5a0d20297de07763.8f826dc7edd2b785",
       "type": 0,
       "text": "Fighting pits",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "ff84f90d19a048bd",
+      "_key": "!tables.results!5a0d20297de07763.ff84f90d19a048bd",
       "type": 0,
       "text": "Hamlet",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "97afdc39b5f24cf9",
+      "_key": "!tables.results!5a0d20297de07763.97afdc39b5f24cf9",
       "type": 0,
       "text": "Bridge",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "54c78f2a7fea88ff",
+      "_key": "!tables.results!5a0d20297de07763.54c78f2a7fea88ff",
       "type": 0,
       "text": "Sanctuary",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "15cc61c8f39494ec",
+      "_key": "!tables.results!5a0d20297de07763.15cc61c8f39494ec",
       "type": 0,
       "text": "Crypt",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "02e075493f5d2365",
+      "_key": "!tables.results!5a0d20297de07763.02e075493f5d2365",
       "type": 0,
       "text": "Archives",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "a077a77202a076ea",
+      "_key": "!tables.results!5a0d20297de07763.a077a77202a076ea",
       "type": 0,
       "text": "Workshop",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "0c4db9d7468c1c7d",
+      "_key": "!tables.results!5a0d20297de07763.0c4db9d7468c1c7d",
       "type": 0,
       "text": "Tourney grounds",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "ef581b85694b2283",
+      "_key": "!tables.results!5a0d20297de07763.ef581b85694b2283",
       "type": 0,
       "text": "Cave system",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "6b9a921be9a31f93",
+      "_key": "!tables.results!5a0d20297de07763.6b9a921be9a31f93",
       "type": 0,
       "text": "Peasant's home",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "85961308a432dd5c",
+      "_key": "!tables.results!5a0d20297de07763.85961308a432dd5c",
       "type": 0,
       "text": "Cathedral",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "8c88cf3f12c76ade",
+      "_key": "!tables.results!5a0d20297de07763.8c88cf3f12c76ade",
       "type": 0,
       "text": "Town square",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "960f6226c3519435",
+      "_key": "!tables.results!5a0d20297de07763.960f6226c3519435",
       "type": 0,
       "text": "Torture chamber",
       "weight": 1,

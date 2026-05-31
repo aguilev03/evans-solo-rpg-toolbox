@@ -1,11 +1,13 @@
 {
   "_id": "138361d1b95f7007",
+  "_key": "!tables!138361d1b95f7007",
   "name": "Village Occupation",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "9f73d873e9d6064f",
+      "_key": "!tables.results!138361d1b95f7007.9f73d873e9d6064f",
       "type": 0,
       "text": "Brewing (breweries) or Viticulture (vineyards)",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "f7cfb1569042c757",
+      "_key": "!tables.results!138361d1b95f7007.f7cfb1569042c757",
       "type": 0,
       "text": "Fishing (fisheries)",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "74628e188136cfce",
+      "_key": "!tables.results!138361d1b95f7007.74628e188136cfce",
       "type": 0,
       "text": "Hunting (tanneries)",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "8cf0f1dfdb90553d",
+      "_key": "!tables.results!138361d1b95f7007.8cf0f1dfdb90553d",
       "type": 0,
       "text": "Logging (sawmills)",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "99afeb1dd6bf6ccb",
+      "_key": "!tables.results!138361d1b95f7007.99afeb1dd6bf6ccb",
       "type": 0,
       "text": "Mining (mines)",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "db4d340663a85c77",
+      "_key": "!tables.results!138361d1b95f7007.db4d340663a85c77",
       "type": 0,
       "text": "Pottery (workshops)",
       "weight": 1,

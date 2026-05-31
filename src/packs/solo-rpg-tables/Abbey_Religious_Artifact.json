@@ -1,11 +1,13 @@
 {
   "_id": "7af925f697b5f88a",
+  "_key": "!tables!7af925f697b5f88a",
   "name": "Abbey Religious Artifact",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "06ea0a2866ca15f0",
+      "_key": "!tables.results!7af925f697b5f88a.06ea0a2866ca15f0",
       "type": 0,
       "text": "Ancient parchment",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "76fd9996d1e47f02",
+      "_key": "!tables.results!7af925f697b5f88a.76fd9996d1e47f02",
       "type": 0,
       "text": "Art piece",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "865389179238aeb9",
+      "_key": "!tables.results!7af925f697b5f88a.865389179238aeb9",
       "type": 0,
       "text": "Crown",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "d66ba1a4317dd9c2",
+      "_key": "!tables.results!7af925f697b5f88a.d66ba1a4317dd9c2",
       "type": 0,
       "text": "Holy sword",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "0c1be0b8a605c650",
+      "_key": "!tables.results!7af925f697b5f88a.0c1be0b8a605c650",
       "type": 0,
       "text": "Precious book",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "88eed485e04c8639",
+      "_key": "!tables.results!7af925f697b5f88a.88eed485e04c8639",
       "type": 0,
       "text": "Relic",
       "weight": 1,

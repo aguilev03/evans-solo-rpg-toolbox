@@ -1,11 +1,13 @@
 {
   "_id": "5b85c88a3b77688d",
+  "_key": "!tables!5b85c88a3b77688d",
   "name": "Hills",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "966102b82fed524d",
+      "_key": "!tables.results!5b85c88a3b77688d.966102b82fed524d",
       "type": 0,
       "text": "Manticores",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "73fb9b3b88dabf08",
+      "_key": "!tables.results!5b85c88a3b77688d.73fb9b3b88dabf08",
       "type": 0,
       "text": "Basilisks",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "d6788c71615ef5a9",
+      "_key": "!tables.results!5b85c88a3b77688d.d6788c71615ef5a9",
       "type": 0,
       "text": "Ogres",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "6626385c566fd038",
+      "_key": "!tables.results!5b85c88a3b77688d.6626385c566fd038",
       "type": 0,
       "text": "Orcs",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "70bee7577e5db9d1",
+      "_key": "!tables.results!5b85c88a3b77688d.70bee7577e5db9d1",
       "type": 0,
       "text": "Goblins",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "cce8ee9821746489",
+      "_key": "!tables.results!5b85c88a3b77688d.cce8ee9821746489",
       "type": 0,
       "text": "Giant rats",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "4286ac38d2d7a912",
+      "_key": "!tables.results!5b85c88a3b77688d.4286ac38d2d7a912",
       "type": 0,
       "text": "Wolves",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "fbe797618b6b695e",
+      "_key": "!tables.results!5b85c88a3b77688d.fbe797618b6b695e",
       "type": 0,
       "text": "Bandits",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "6ea780f4b9cef879",
+      "_key": "!tables.results!5b85c88a3b77688d.6ea780f4b9cef879",
       "type": 0,
       "text": "Beastmen",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "f9d1d76f9fb0c125",
+      "_key": "!tables.results!5b85c88a3b77688d.f9d1d76f9fb0c125",
       "type": 0,
       "text": "Giants",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "09b585de27a66de6",
+      "_key": "!tables.results!5b85c88a3b77688d.09b585de27a66de6",
       "type": 0,
       "text": "Wyverns",
       "weight": 1,

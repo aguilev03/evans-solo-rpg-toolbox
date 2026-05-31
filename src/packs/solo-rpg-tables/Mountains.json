@@ -1,11 +1,13 @@
 {
   "_id": "619379efd7c6e517",
+  "_key": "!tables!619379efd7c6e517",
   "name": "Mountains",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "27515c54c7e74d9a",
+      "_key": "!tables.results!619379efd7c6e517.27515c54c7e74d9a",
       "type": 0,
       "text": "Giants",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "94f416a62f8142b5",
+      "_key": "!tables.results!619379efd7c6e517.94f416a62f8142b5",
       "type": 0,
       "text": "Griffins",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "48e3ef8f1a15b0af",
+      "_key": "!tables.results!619379efd7c6e517.48e3ef8f1a15b0af",
       "type": 0,
       "text": "Dwarves",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "3fd7dbd88191a817",
+      "_key": "!tables.results!619379efd7c6e517.3fd7dbd88191a817",
       "type": 0,
       "text": "Kobolds",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "e0683b828c6680c4",
+      "_key": "!tables.results!619379efd7c6e517.e0683b828c6680c4",
       "type": 0,
       "text": "Orcs",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "6ac9a9219b654bdc",
+      "_key": "!tables.results!619379efd7c6e517.6ac9a9219b654bdc",
       "type": 0,
       "text": "Bears",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "ac5ff08d19bf6c85",
+      "_key": "!tables.results!619379efd7c6e517.ac5ff08d19bf6c85",
       "type": 0,
       "text": "Wolves",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "085c35a1a0edc754",
+      "_key": "!tables.results!619379efd7c6e517.085c35a1a0edc754",
       "type": 0,
       "text": "Bandits",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "8ba00d85e7fc85fa",
+      "_key": "!tables.results!619379efd7c6e517.8ba00d85e7fc85fa",
       "type": 0,
       "text": "Berserkers",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "1d0e1d91936a404c",
+      "_key": "!tables.results!619379efd7c6e517.1d0e1d91936a404c",
       "type": 0,
       "text": "Smilodons",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "0c0058e67c829895",
+      "_key": "!tables.results!619379efd7c6e517.0c0058e67c829895",
       "type": 0,
       "text": "Vampires",
       "weight": 1,

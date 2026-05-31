@@ -1,11 +1,13 @@
 {
   "_id": "d7cce654ebb99db8",
+  "_key": "!tables!d7cce654ebb99db8",
   "name": "Fantasy Objects",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate an object with a fantasy theme.",
   "results": [
     {
       "_id": "2dce09f9fb42f16c",
+      "_key": "!tables.results!d7cce654ebb99db8.2dce09f9fb42f16c",
       "type": 0,
       "text": "Sky",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "8c508c1aec312f61",
+      "_key": "!tables.results!d7cce654ebb99db8.8c508c1aec312f61",
       "type": 0,
       "text": "Vow",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "192b5c0cff54f8ae",
+      "_key": "!tables.results!d7cce654ebb99db8.192b5c0cff54f8ae",
       "type": 0,
       "text": "Warrior",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "3287ae50fff9456c",
+      "_key": "!tables.results!d7cce654ebb99db8.3287ae50fff9456c",
       "type": 0,
       "text": "Royalty",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "e15763bb7b412ab1",
+      "_key": "!tables.results!d7cce654ebb99db8.e15763bb7b412ab1",
       "type": 0,
       "text": "Assassin",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "b708ae43f72e1622",
+      "_key": "!tables.results!d7cce654ebb99db8.b708ae43f72e1622",
       "type": 0,
       "text": "Treasure",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "bd309a824fb45eba",
+      "_key": "!tables.results!d7cce654ebb99db8.bd309a824fb45eba",
       "type": 0,
       "text": "Treaty",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "4886de884871e8b1",
+      "_key": "!tables.results!d7cce654ebb99db8.4886de884871e8b1",
       "type": 0,
       "text": "Priest",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "8ac875f0fb3c5400",
+      "_key": "!tables.results!d7cce654ebb99db8.8ac875f0fb3c5400",
       "type": 0,
       "text": "Adviser",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "7d193922e41f7b0d",
+      "_key": "!tables.results!d7cce654ebb99db8.7d193922e41f7b0d",
       "type": 0,
       "text": "Tapestry",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "b7a9dbf985bb17b5",
+      "_key": "!tables.results!d7cce654ebb99db8.b7a9dbf985bb17b5",
       "type": 0,
       "text": "Elder",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "e6875898c6298850",
+      "_key": "!tables.results!d7cce654ebb99db8.e6875898c6298850",
       "type": 0,
       "text": "Relative",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "c9de01bcc8cf2961",
+      "_key": "!tables.results!d7cce654ebb99db8.c9de01bcc8cf2961",
       "type": 0,
       "text": "Prophecy",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "e91e96102194df08",
+      "_key": "!tables.results!d7cce654ebb99db8.e91e96102194df08",
       "type": 0,
       "text": "Townsfolk",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "69e8f0ee12ad0c60",
+      "_key": "!tables.results!d7cce654ebb99db8.69e8f0ee12ad0c60",
       "type": 0,
       "text": "Guild",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "2150876d2c55881b",
+      "_key": "!tables.results!d7cce654ebb99db8.2150876d2c55881b",
       "type": 0,
       "text": "Party",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "7b170b544adc6ed2",
+      "_key": "!tables.results!d7cce654ebb99db8.7b170b544adc6ed2",
       "type": 0,
       "text": "Traveller",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "0b0bd1890dc68d1b",
+      "_key": "!tables.results!d7cce654ebb99db8.0b0bd1890dc68d1b",
       "type": 0,
       "text": "Messenger",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "5936f635cab3cceb",
+      "_key": "!tables.results!d7cce654ebb99db8.5936f635cab3cceb",
       "type": 0,
       "text": "Merchant",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "4ee439cad1492162",
+      "_key": "!tables.results!d7cce654ebb99db8.4ee439cad1492162",
       "type": 0,
       "text": "Bodyguard",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "503a5d7303e91079",
+      "_key": "!tables.results!d7cce654ebb99db8.503a5d7303e91079",
       "type": 0,
       "text": "Sorcerer",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "fb7b4e59f3d45142",
+      "_key": "!tables.results!d7cce654ebb99db8.fb7b4e59f3d45142",
       "type": 0,
       "text": "Amulet",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "776e24b517336417",
+      "_key": "!tables.results!d7cce654ebb99db8.776e24b517336417",
       "type": 0,
       "text": "Golem",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "6c8530ef37980ad9",
+      "_key": "!tables.results!d7cce654ebb99db8.6c8530ef37980ad9",
       "type": 0,
       "text": "God",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "bf8b28e85e48473e",
+      "_key": "!tables.results!d7cce654ebb99db8.bf8b28e85e48473e",
       "type": 0,
       "text": "Sword",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "71c0ac275f52f51a",
+      "_key": "!tables.results!d7cce654ebb99db8.71c0ac275f52f51a",
       "type": 0,
       "text": "Horde",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "11c6715518e02dee",
+      "_key": "!tables.results!d7cce654ebb99db8.11c6715518e02dee",
       "type": 0,
       "text": "Natural feature",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "f8f3f93f42acbef3",
+      "_key": "!tables.results!d7cce654ebb99db8.f8f3f93f42acbef3",
       "type": 0,
       "text": "Performer",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "91ee0aa7b558a519",
+      "_key": "!tables.results!d7cce654ebb99db8.91ee0aa7b558a519",
       "type": 0,
       "text": "Relic",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "05380a83a25bfee0",
+      "_key": "!tables.results!d7cce654ebb99db8.05380a83a25bfee0",
       "type": 0,
       "text": "Dragon",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "284d34a58c6e581f",
+      "_key": "!tables.results!d7cce654ebb99db8.284d34a58c6e581f",
       "type": 0,
       "text": "Magic",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "b7e9f4eb3a9439d8",
+      "_key": "!tables.results!d7cce654ebb99db8.b7e9f4eb3a9439d8",
       "type": 0,
       "text": "Successor",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "64d1fd17acad20c7",
+      "_key": "!tables.results!d7cce654ebb99db8.64d1fd17acad20c7",
       "type": 0,
       "text": "Wand",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "1248609d4aa83164",
+      "_key": "!tables.results!d7cce654ebb99db8.1248609d4aa83164",
       "type": 0,
       "text": "Faerie",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "5b9269e8bd0ed31f",
+      "_key": "!tables.results!d7cce654ebb99db8.5b9269e8bd0ed31f",
       "type": 0,
       "text": "Sentient object",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "856b4d75e6897a95",
+      "_key": "!tables.results!d7cce654ebb99db8.856b4d75e6897a95",
       "type": 0,
       "text": "Sacrifice",
       "weight": 1,

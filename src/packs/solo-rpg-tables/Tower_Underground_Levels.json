@@ -1,11 +1,13 @@
 {
   "_id": "48d6bbeebe50045b",
+  "_key": "!tables!48d6bbeebe50045b",
   "name": "Tower Underground Levels",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "cb9514bef2d87c87",
+      "_key": "!tables.results!48d6bbeebe50045b.cb9514bef2d87c87",
       "type": 0,
       "text": "Zero",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "67bf11ee9dd355d5",
+      "_key": "!tables.results!48d6bbeebe50045b.67bf11ee9dd355d5",
       "type": 0,
       "text": "One",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "5dd207be08970711",
+      "_key": "!tables.results!48d6bbeebe50045b.5dd207be08970711",
       "type": 0,
       "text": "Two",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "7633215b85193637",
+      "_key": "!tables.results!48d6bbeebe50045b.7633215b85193637",
       "type": 0,
       "text": "Three",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "28e9234d09f80336",
+      "_key": "!tables.results!48d6bbeebe50045b.28e9234d09f80336",
       "type": 0,
       "text": "Four",
       "weight": 1,

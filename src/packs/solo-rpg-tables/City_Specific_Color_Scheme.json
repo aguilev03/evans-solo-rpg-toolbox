@@ -1,11 +1,13 @@
 {
   "_id": "c78abebe3b430563",
+  "_key": "!tables!c78abebe3b430563",
   "name": "City Specific Color Scheme",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "ba29e0ad8a6e6353",
+      "_key": "!tables.results!c78abebe3b430563.ba29e0ad8a6e6353",
       "type": 0,
       "text": "1. Black and white",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "15a5ac023cbf381e",
+      "_key": "!tables.results!c78abebe3b430563.15a5ac023cbf381e",
       "type": 0,
       "text": "2. Blue and white",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "bab82c1d848c965a",
+      "_key": "!tables.results!c78abebe3b430563.bab82c1d848c965a",
       "type": 0,
       "text": "3. Grayscale",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "723aadb194cc4a9e",
+      "_key": "!tables.results!c78abebe3b430563.723aadb194cc4a9e",
       "type": 0,
       "text": "4. Sand and terracotta",
       "weight": 1,

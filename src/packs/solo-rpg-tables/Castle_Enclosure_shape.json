@@ -1,11 +1,13 @@
 {
   "_id": "8775d0297a765284",
+  "_key": "!tables!8775d0297a765284",
   "name": "Castle Enclosure shape",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "913b11f6ce4ff03f",
+      "_key": "!tables.results!8775d0297a765284.913b11f6ce4ff03f",
       "type": 0,
       "text": "Square/Rectangle 4",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "062f91b328f307f2",
+      "_key": "!tables.results!8775d0297a765284.062f91b328f307f2",
       "type": 0,
       "text": "Trapezium 4",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "a89354021d1ed15a",
+      "_key": "!tables.results!8775d0297a765284.a89354021d1ed15a",
       "type": 0,
       "text": "Pentagon 5",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "2f59671e9e495030",
+      "_key": "!tables.results!8775d0297a765284.2f59671e9e495030",
       "type": 0,
       "text": "Hexagon 6",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "74da5c6c6228a909",
+      "_key": "!tables.results!8775d0297a765284.74da5c6c6228a909",
       "type": 0,
       "text": "Octagon 8",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "78fd2672c366a6a8",
+      "_key": "!tables.results!8775d0297a765284.78fd2672c366a6a8",
       "type": 0,
       "text": "Star 10",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "5ee3558caa797dae",
+      "_key": "!tables.results!8775d0297a765284.5ee3558caa797dae",
       "type": 0,
       "text": "Cross 12",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "ffd5980f41accdc2",
+      "_key": "!tables.results!8775d0297a765284.ffd5980f41accdc2",
       "type": 0,
       "text": "Circle 1d3 + 3",
       "weight": 1,

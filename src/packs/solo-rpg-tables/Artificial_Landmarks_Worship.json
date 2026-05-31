@@ -1,11 +1,13 @@
 {
   "_id": "2decf137ece21b4f",
+  "_key": "!tables!2decf137ece21b4f",
   "name": "Artificial Landmarks Worship",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "bdd5e94775a5a61a",
+      "_key": "!tables.results!2decf137ece21b4f.bdd5e94775a5a61a",
       "type": 0,
       "text": "Bell/Gong",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "fc453e67a752196b",
+      "_key": "!tables.results!2decf137ece21b4f.fc453e67a752196b",
       "type": 0,
       "text": "Calvary",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "b0458c680dd12472",
+      "_key": "!tables.results!2decf137ece21b4f.b0458c680dd12472",
       "type": 0,
       "text": "Cemetery",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "52117872163c2077",
+      "_key": "!tables.results!2decf137ece21b4f.52117872163c2077",
       "type": 0,
       "text": "Cross",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "2e82b91bfbe6179e",
+      "_key": "!tables.results!2decf137ece21b4f.2e82b91bfbe6179e",
       "type": 0,
       "text": "Holy place",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "c3f2b6a7e56134c9",
+      "_key": "!tables.results!2decf137ece21b4f.c3f2b6a7e56134c9",
       "type": 0,
       "text": "Idol",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "12973f195237fb22",
+      "_key": "!tables.results!2decf137ece21b4f.12973f195237fb22",
       "type": 0,
       "text": "Shrine",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "a8dde89d5516aa6b",
+      "_key": "!tables.results!2decf137ece21b4f.a8dde89d5516aa6b",
       "type": 0,
       "text": "Tomb",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "abbe61bb6f73c714",
+      "_key": "!tables.results!2decf137ece21b4f.abbe61bb6f73c714",
       "type": 0,
       "text": "Tumulus",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "aaad1c735d3f3796",
+      "_key": "!tables.results!2decf137ece21b4f.aaad1c735d3f3796",
       "type": 0,
       "text": "Vault",
       "weight": 1,

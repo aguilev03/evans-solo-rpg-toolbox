@@ -1,11 +1,13 @@
 {
   "_id": "18fb582829052dad",
+  "_key": "!tables!18fb582829052dad",
   "name": "Mystery Event Focus Table",
   "img": "icons/svg/d20-grey.svg",
   "description": "Mystery Event Focus Table",
   "results": [
     {
       "_id": "4cb9ef7ab351e572",
+      "_key": "!tables.results!18fb582829052dad.4cb9ef7ab351e572",
       "type": 0,
       "text": "CLUE ELEMENT",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "3aabe069c622ea70",
+      "_key": "!tables.results!18fb582829052dad.3aabe069c622ea70",
       "type": 0,
       "text": "SUSPECT ELEMENT",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "42404cf064463597",
+      "_key": "!tables.results!18fb582829052dad.42404cf064463597",
       "type": 0,
       "text": "REMOTE EVENT",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "d283a35f288b88a5",
+      "_key": "!tables.results!18fb582829052dad.d283a35f288b88a5",
       "type": 0,
       "text": "AMBIGUOUS EVENT",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "b40dd2d2be2e25c2",
+      "_key": "!tables.results!18fb582829052dad.b40dd2d2be2e25c2",
       "type": 0,
       "text": "NEW NPC",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "5e9f710a71956fb6",
+      "_key": "!tables.results!18fb582829052dad.5e9f710a71956fb6",
       "type": 0,
       "text": "NPC ACTION",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "8c0095cb7f4a5139",
+      "_key": "!tables.results!18fb582829052dad.8c0095cb7f4a5139",
       "type": 0,
       "text": "NPC NEGATIVE",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "08562e5619b6c9dd",
+      "_key": "!tables.results!18fb582829052dad.08562e5619b6c9dd",
       "type": 0,
       "text": "NPC POSITIVE",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "b6e1bef3120b77d8",
+      "_key": "!tables.results!18fb582829052dad.b6e1bef3120b77d8",
       "type": 0,
       "text": "MOVE TOWARD A THREAD",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "36f56ddd2089611e",
+      "_key": "!tables.results!18fb582829052dad.36f56ddd2089611e",
       "type": 0,
       "text": "MOVE AWAY FROM A THREAD",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "b4b7f92aef9e1b0c",
+      "_key": "!tables.results!18fb582829052dad.b4b7f92aef9e1b0c",
       "type": 0,
       "text": "CLOSE A THREAD",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "f5516b1a70542da1",
+      "_key": "!tables.results!18fb582829052dad.f5516b1a70542da1",
       "type": 0,
       "text": "PC NEGATIVE",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "52424a5fb4c0e775",
+      "_key": "!tables.results!18fb582829052dad.52424a5fb4c0e775",
       "type": 0,
       "text": "PC POSITIVE",
       "weight": 1,

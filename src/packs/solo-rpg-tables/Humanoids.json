@@ -1,11 +1,13 @@
 {
   "_id": "4ac0f749606f2811",
+  "_key": "!tables!4ac0f749606f2811",
   "name": "Humanoids",
   "img": "icons/svg/d20-grey.svg",
   "description": "Proactively compiled list of humanoids from Biome Encounters",
   "results": [
     {
       "_id": "46ea87b020fb9a57",
+      "_key": "!tables.results!4ac0f749606f2811.46ea87b020fb9a57",
       "type": 0,
       "text": "Bandits",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "25d14675ff51a742",
+      "_key": "!tables.results!4ac0f749606f2811.25d14675ff51a742",
       "type": 0,
       "text": "Berserkers",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "35cf6a6a9e4ff592",
+      "_key": "!tables.results!4ac0f749606f2811.35cf6a6a9e4ff592",
       "type": 0,
       "text": "Dwarves",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "47ee7d470b0645fd",
+      "_key": "!tables.results!4ac0f749606f2811.47ee7d470b0645fd",
       "type": 0,
       "text": "Elves",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "3c6ac3ae9b4e4603",
+      "_key": "!tables.results!4ac0f749606f2811.3c6ac3ae9b4e4603",
       "type": 0,
       "text": "Orcs",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "bebc3d3d8324811c",
+      "_key": "!tables.results!4ac0f749606f2811.bebc3d3d8324811c",
       "type": 0,
       "text": "Goblins",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "ef3349f35e768f0d",
+      "_key": "!tables.results!4ac0f749606f2811.ef3349f35e768f0d",
       "type": 0,
       "text": "Gnolls",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "ce2f234716c980f8",
+      "_key": "!tables.results!4ac0f749606f2811.ce2f234716c980f8",
       "type": 0,
       "text": "Kobolds",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "9596bc4d96bf720c",
+      "_key": "!tables.results!4ac0f749606f2811.9596bc4d96bf720c",
       "type": 0,
       "text": "Lizard-men",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "c3c836a524f8aed5",
+      "_key": "!tables.results!4ac0f749606f2811.c3c836a524f8aed5",
       "type": 0,
       "text": "Snake-men",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "639b2ce89bb23073",
+      "_key": "!tables.results!4ac0f749606f2811.639b2ce89bb23073",
       "type": 0,
       "text": "Frog-men",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "855c5f0e5ae5d4d0",
+      "_key": "!tables.results!4ac0f749606f2811.855c5f0e5ae5d4d0",
       "type": 0,
       "text": "Moth-men",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "221b9c666cd53a14",
+      "_key": "!tables.results!4ac0f749606f2811.221b9c666cd53a14",
       "type": 0,
       "text": "Mushroom-men",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "e4bd905da83dd79b",
+      "_key": "!tables.results!4ac0f749606f2811.e4bd905da83dd79b",
       "type": 0,
       "text": "Beastmen",
       "weight": 1,

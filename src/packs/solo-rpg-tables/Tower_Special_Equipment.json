@@ -1,11 +1,13 @@
 {
   "_id": "835cc65e08bd6950",
+  "_key": "!tables!835cc65e08bd6950",
   "name": "Tower Special Equipment",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "fe21a7614cf4a08c",
+      "_key": "!tables.results!835cc65e08bd6950.fe21a7614cf4a08c",
       "type": 0,
       "text": "Nothing",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "2e01a248265a6e03",
+      "_key": "!tables.results!835cc65e08bd6950.2e01a248265a6e03",
       "type": 0,
       "text": "Acoustic tube",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "cc0b6f9692906263",
+      "_key": "!tables.results!835cc65e08bd6950.cc0b6f9692906263",
       "type": 0,
       "text": "Alarm system",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "ba54d239e5fb064d",
+      "_key": "!tables.results!835cc65e08bd6950.ba54d239e5fb064d",
       "type": 0,
       "text": "Dumbwaiter",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "ab0e09ddd70fbba0",
+      "_key": "!tables.results!835cc65e08bd6950.ab0e09ddd70fbba0",
       "type": 0,
       "text": "Emergency ladder/stairs",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "bde11e247b2847af",
+      "_key": "!tables.results!835cc65e08bd6950.bde11e247b2847af",
       "type": 0,
       "text": "Garbage chute",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "3aabdaf8b0e2ed79",
+      "_key": "!tables.results!835cc65e08bd6950.3aabdaf8b0e2ed79",
       "type": 0,
       "text": "Oversized pet doors",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "150c6c7958873ebe",
+      "_key": "!tables.results!835cc65e08bd6950.150c6c7958873ebe",
       "type": 0,
       "text": "Pneumatic tubes",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "e19d8038fc594f89",
+      "_key": "!tables.results!835cc65e08bd6950.e19d8038fc594f89",
       "type": 0,
       "text": "Secret passage",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "f0c430e5b6863d1b",
+      "_key": "!tables.results!835cc65e08bd6950.f0c430e5b6863d1b",
       "type": 0,
       "text": "Slide",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "4a9f451b37d416cd",
+      "_key": "!tables.results!835cc65e08bd6950.4a9f451b37d416cd",
       "type": 0,
       "text": "Ventilation system",
       "weight": 1,

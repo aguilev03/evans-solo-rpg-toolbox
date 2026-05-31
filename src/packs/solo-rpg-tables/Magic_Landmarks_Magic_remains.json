@@ -1,11 +1,13 @@
 {
   "_id": "6cca9c64cf5b68d5",
+  "_key": "!tables!6cca9c64cf5b68d5",
   "name": "Magic Landmarks Magic remains",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "c5a55791a8242463",
+      "_key": "!tables.results!6cca9c64cf5b68d5.c5a55791a8242463",
       "type": 0,
       "text": "Area covered with fairy dust",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "c59413f8252e6ed4",
+      "_key": "!tables.results!6cca9c64cf5b68d5.c59413f8252e6ed4",
       "type": 0,
       "text": "Bloody altar",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "056a01771b699418",
+      "_key": "!tables.results!6cca9c64cf5b68d5.056a01771b699418",
       "type": 0,
       "text": "Corpse covered in crystals",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "32fd564f877540b8",
+      "_key": "!tables.results!6cca9c64cf5b68d5.32fd564f877540b8",
       "type": 0,
       "text": "Corrupt area",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "3bd35a8323579e0f",
+      "_key": "!tables.results!6cca9c64cf5b68d5.3bd35a8323579e0f",
       "type": 0,
       "text": "Destroyed golem",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "72bbd6419f68adc1",
+      "_key": "!tables.results!6cca9c64cf5b68d5.72bbd6419f68adc1",
       "type": 0,
       "text": "Magic battlefield",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "4e5d9bcd6f5421d5",
+      "_key": "!tables.results!6cca9c64cf5b68d5.4e5d9bcd6f5421d5",
       "type": 0,
       "text": "Old shrine",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "a1c6ac8bd2f09963",
+      "_key": "!tables.results!6cca9c64cf5b68d5.a1c6ac8bd2f09963",
       "type": 0,
       "text": "Petrified travelers",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "44568936e6084955",
+      "_key": "!tables.results!6cca9c64cf5b68d5.44568936e6084955",
       "type": 0,
       "text": "Remnants of a ceremony",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "f2f00c140467def6",
+      "_key": "!tables.results!6cca9c64cf5b68d5.f2f00c140467def6",
       "type": 0,
       "text": "Signs of an explosion",
       "weight": 1,

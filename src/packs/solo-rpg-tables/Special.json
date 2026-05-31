@@ -1,11 +1,13 @@
 {
   "_id": "c90c53e1f39fbcc9",
+  "_key": "!tables!c90c53e1f39fbcc9",
   "name": "Special",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "a0260352cd32654a",
+      "_key": "!tables.results!c90c53e1f39fbcc9.a0260352cd32654a",
       "type": 0,
       "text": "Arbitrate a dispute",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "79e94f0d3feec78f",
+      "_key": "!tables.results!c90c53e1f39fbcc9.79e94f0d3feec78f",
       "type": 0,
       "text": "Prevent a threat",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "0b18cd848557e619",
+      "_key": "!tables.results!c90c53e1f39fbcc9.0b18cd848557e619",
       "type": 0,
       "text": "Solve a puzzle/riddle",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "19fa1ea541a99d1f",
+      "_key": "!tables.results!c90c53e1f39fbcc9.19fa1ea541a99d1f",
       "type": 0,
       "text": "Uncover a mystery",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "d2da330c26586179",
+      "_key": "!tables.results!c90c53e1f39fbcc9.d2da330c26586179",
       "type": 0,
       "text": "NPC(s)/Monster(s) in need",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "b73f0d067146e920",
+      "_key": "!tables.results!c90c53e1f39fbcc9.b73f0d067146e920",
       "type": 0,
       "text": "Related to landmark",
       "weight": 1,

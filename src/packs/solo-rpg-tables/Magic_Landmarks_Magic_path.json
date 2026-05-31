@@ -1,11 +1,13 @@
 {
   "_id": "f38addfa63f4ce11",
+  "_key": "!tables!f38addfa63f4ce11",
   "name": "Magic Landmarks Magic path",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "9a56c1f80b5a2fd1",
+      "_key": "!tables.results!f38addfa63f4ce11.9a56c1f80b5a2fd1",
       "type": 0,
       "text": "Breathable water",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "8c8406c7fff552d6",
+      "_key": "!tables.results!f38addfa63f4ce11.8c8406c7fff552d6",
       "type": 0,
       "text": "Glowing mushrooms trail",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "4032fa44fcaac8b4",
+      "_key": "!tables.results!f38addfa63f4ce11.4032fa44fcaac8b4",
       "type": 0,
       "text": "Illusory path",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "b21b3dfe55b18663",
+      "_key": "!tables.results!f38addfa63f4ce11.b21b3dfe55b18663",
       "type": 0,
       "text": "Invisible bridge",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "c5877658c368a941",
+      "_key": "!tables.results!f38addfa63f4ce11.c5877658c368a941",
       "type": 0,
       "text": "Levitating staircase",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "97ef731fed61817f",
+      "_key": "!tables.results!f38addfa63f4ce11.97ef731fed61817f",
       "type": 0,
       "text": "Magic mirror",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "d1bedd0a60708a00",
+      "_key": "!tables.results!f38addfa63f4ce11.d1bedd0a60708a00",
       "type": 0,
       "text": "Rainbow bridge",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "dd5adb827ead2068",
+      "_key": "!tables.results!f38addfa63f4ce11.dd5adb827ead2068",
       "type": 0,
       "text": "Riddle bridge",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "099efd37e5481c1e",
+      "_key": "!tables.results!f38addfa63f4ce11.099efd37e5481c1e",
       "type": 0,
       "text": "Walkable water",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "9bc0f239abecbb3f",
+      "_key": "!tables.results!f38addfa63f4ce11.9bc0f239abecbb3f",
       "type": 0,
       "text": "Wormhole",
       "weight": 1,

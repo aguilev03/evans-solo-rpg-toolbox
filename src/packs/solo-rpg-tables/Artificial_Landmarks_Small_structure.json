@@ -1,11 +1,13 @@
 {
   "_id": "89c043142d542cd3",
+  "_key": "!tables!89c043142d542cd3",
   "name": "Artificial Landmarks Small structure",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "6f57f655d317b996",
+      "_key": "!tables.results!89c043142d542cd3.6f57f655d317b996",
       "type": 0,
       "text": "Bench",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "a896e46adae6deee",
+      "_key": "!tables.results!89c043142d542cd3.a896e46adae6deee",
       "type": 0,
       "text": "Bivouac area",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "b342e9c4253cb851",
+      "_key": "!tables.results!89c043142d542cd3.b342e9c4253cb851",
       "type": 0,
       "text": "Gazebo",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "b0c199d514b7c366",
+      "_key": "!tables.results!89c043142d542cd3.b0c199d514b7c366",
       "type": 0,
       "text": "Hunter’s cabin",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "ee471e42f5cd8a1e",
+      "_key": "!tables.results!89c043142d542cd3.ee471e42f5cd8a1e",
       "type": 0,
       "text": "Hunting tower",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "83867b19ccb61be3",
+      "_key": "!tables.results!89c043142d542cd3.83867b19ccb61be3",
       "type": 0,
       "text": "Kennel",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "789fdc993cf5623c",
+      "_key": "!tables.results!89c043142d542cd3.789fdc993cf5623c",
       "type": 0,
       "text": "Outhouse",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "48c8f98a190e43dc",
+      "_key": "!tables.results!89c043142d542cd3.48c8f98a190e43dc",
       "type": 0,
       "text": "Palisade",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "c971011c1563415f",
+      "_key": "!tables.results!89c043142d542cd3.c971011c1563415f",
       "type": 0,
       "text": "Well",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "2c5cea39b84efde3",
+      "_key": "!tables.results!89c043142d542cd3.2c5cea39b84efde3",
       "type": 0,
       "text": "Wooden fence",
       "weight": 1,

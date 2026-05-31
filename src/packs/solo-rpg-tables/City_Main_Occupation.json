@@ -1,11 +1,13 @@
 {
   "_id": "d8d31f328852dae7",
+  "_key": "!tables!d8d31f328852dae7",
   "name": "City Main Occupation",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "93b8dd9703caaa80",
+      "_key": "!tables.results!d8d31f328852dae7.93b8dd9703caaa80",
       "type": 0,
       "text": "Brewing (breweries) or",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "1802161038b2b99a",
+      "_key": "!tables.results!d8d31f328852dae7.1802161038b2b99a",
       "type": 0,
       "text": "Viticulture (vineyard)",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "58c158f285320337",
+      "_key": "!tables.results!d8d31f328852dae7.58c158f285320337",
       "type": 0,
       "text": "Cattle breeding",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "87702f11e688c6f4",
+      "_key": "!tables.results!d8d31f328852dae7.87702f11e688c6f4",
       "type": 0,
       "text": "(farms, meadows)",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "165b30b6133a8bca",
+      "_key": "!tables.results!d8d31f328852dae7.165b30b6133a8bca",
       "type": 0,
       "text": "Farming crops (farms, fields)",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "9f9d88dee2ebe6ca",
+      "_key": "!tables.results!d8d31f328852dae7.9f9d88dee2ebe6ca",
       "type": 0,
       "text": "Fishing (fishery)",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "5760dbed78ad9b7d",
+      "_key": "!tables.results!d8d31f328852dae7.5760dbed78ad9b7d",
       "type": 0,
       "text": "Hunting (tannery)",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "2e90b608585a39d6",
+      "_key": "!tables.results!d8d31f328852dae7.2e90b608585a39d6",
       "type": 0,
       "text": "Logging (sawmills)",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "73736b2efa9c1bcf",
+      "_key": "!tables.results!d8d31f328852dae7.73736b2efa9c1bcf",
       "type": 0,
       "text": "Metallurgy (forge, foundry)",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "1463eeaec6f5393d",
+      "_key": "!tables.results!d8d31f328852dae7.1463eeaec6f5393d",
       "type": 0,
       "text": "Mining (mine)",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "a9be1bc326d1e21b",
+      "_key": "!tables.results!d8d31f328852dae7.a9be1bc326d1e21b",
       "type": 0,
       "text": "Pottery (workshop)",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "07192c4681b3186b",
+      "_key": "!tables.results!d8d31f328852dae7.07192c4681b3186b",
       "type": 0,
       "text": "Trading (caravanserai/port)",
       "weight": 1,

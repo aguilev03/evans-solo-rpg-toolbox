@@ -1,11 +1,13 @@
 {
   "_id": "e2722e2b64322d40",
+  "_key": "!tables!e2722e2b64322d40",
   "name": "Natural Landmark Geology (B)",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "5e79e3cf1476a70c",
+      "_key": "!tables.results!e2722e2b64322d40.5e79e3cf1476a70c",
       "type": 0,
       "text": "Ravine",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "d6ac4d7d52882e1b",
+      "_key": "!tables.results!e2722e2b64322d40.d6ac4d7d52882e1b",
       "type": 0,
       "text": "Rift",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "36504aea6bda2ecf",
+      "_key": "!tables.results!e2722e2b64322d40.36504aea6bda2ecf",
       "type": 0,
       "text": "Rock hole",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "ccbaf9d02343809a",
+      "_key": "!tables.results!e2722e2b64322d40.ccbaf9d02343809a",
       "type": 0,
       "text": "Rock needle",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "259877d185c37521",
+      "_key": "!tables.results!e2722e2b64322d40.259877d185c37521",
       "type": 0,
       "text": "Scree",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "67c30acfef86fb4e",
+      "_key": "!tables.results!e2722e2b64322d40.67c30acfef86fb4e",
       "type": 0,
       "text": "Sinkhole",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "72739d538e5fcb13",
+      "_key": "!tables.results!e2722e2b64322d40.72739d538e5fcb13",
       "type": 0,
       "text": "Stone arch",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "70756e55a96e4aec",
+      "_key": "!tables.results!e2722e2b64322d40.70756e55a96e4aec",
       "type": 0,
       "text": "Stone bridge",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "81cca255bb14c848",
+      "_key": "!tables.results!e2722e2b64322d40.81cca255bb14c848",
       "type": 0,
       "text": "Stone stairs",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "095ec91ff73b438d",
+      "_key": "!tables.results!e2722e2b64322d40.095ec91ff73b438d",
       "type": 0,
       "text": "Very big rock",
       "weight": 1,

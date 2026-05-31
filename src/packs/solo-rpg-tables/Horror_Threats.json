@@ -1,11 +1,13 @@
 {
   "_id": "01781e5f5b095917",
+  "_key": "!tables!01781e5f5b095917",
   "name": "Horror Threats",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate a horror threat.",
   "results": [
     {
       "_id": "a59f42c7c2e9b60a",
+      "_key": "!tables.results!01781e5f5b095917.a59f42c7c2e9b60a",
       "type": 0,
       "text": "Demonic presence",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "d7fc97a69393766c",
+      "_key": "!tables.results!01781e5f5b095917.d7fc97a69393766c",
       "type": 0,
       "text": "Skulking shadows",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "e5ce45d11d1d356c",
+      "_key": "!tables.results!01781e5f5b095917.e5ce45d11d1d356c",
       "type": 0,
       "text": "Restless peasant",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "7de014954be81261",
+      "_key": "!tables.results!01781e5f5b095917.7de014954be81261",
       "type": 0,
       "text": "Unstable mind",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "67157124e65886f2",
+      "_key": "!tables.results!01781e5f5b095917.67157124e65886f2",
       "type": 0,
       "text": "Hopeless thoughts",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "92e82f269ba49225",
+      "_key": "!tables.results!01781e5f5b095917.92e82f269ba49225",
       "type": 0,
       "text": "Nagging twitch",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "7f6e00f40a4236f1",
+      "_key": "!tables.results!01781e5f5b095917.7f6e00f40a4236f1",
       "type": 0,
       "text": "Grasping hands",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "e5a984b6b2de1f85",
+      "_key": "!tables.results!01781e5f5b095917.e5a984b6b2de1f85",
       "type": 0,
       "text": "Unhappy gentry",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "30dd923a61623a82",
+      "_key": "!tables.results!01781e5f5b095917.30dd923a61623a82",
       "type": 0,
       "text": "Growing mould",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "b98d1555583cdd46",
+      "_key": "!tables.results!01781e5f5b095917.b98d1555583cdd46",
       "type": 0,
       "text": "Watchful eyes",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "bc2dd427b5009423",
+      "_key": "!tables.results!01781e5f5b095917.bc2dd427b5009423",
       "type": 0,
       "text": "Sickly substance",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "7f297e5df48efbc5",
+      "_key": "!tables.results!01781e5f5b095917.7f297e5df48efbc5",
       "type": 0,
       "text": "Floating grimoire",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "f88c78cd0931c9e2",
+      "_key": "!tables.results!01781e5f5b095917.f88c78cd0931c9e2",
       "type": 0,
       "text": "Summoning circle",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "27f639a8a64ab432",
+      "_key": "!tables.results!01781e5f5b095917.27f639a8a64ab432",
       "type": 0,
       "text": "Lurking insecurity",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "d6a6084559de8651",
+      "_key": "!tables.results!01781e5f5b095917.d6a6084559de8651",
       "type": 0,
       "text": "Ceaseless tickling",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "d6c508a247f87883",
+      "_key": "!tables.results!01781e5f5b095917.d6c508a247f87883",
       "type": 0,
       "text": "Rat swarm",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "f71c385a6fe5d99f",
+      "_key": "!tables.results!01781e5f5b095917.f71c385a6fe5d99f",
       "type": 0,
       "text": "Prowling monster",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "60f713914cc88639",
+      "_key": "!tables.results!01781e5f5b095917.60f713914cc88639",
       "type": 0,
       "text": "Ferocious storm",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "2bb2f1dfedd2e687",
+      "_key": "!tables.results!01781e5f5b095917.2bb2f1dfedd2e687",
       "type": 0,
       "text": "Cultists",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "3b04289c427722b0",
+      "_key": "!tables.results!01781e5f5b095917.3b04289c427722b0",
       "type": 0,
       "text": "Encroaching screeching",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "12a564700837308a",
+      "_key": "!tables.results!01781e5f5b095917.12a564700837308a",
       "type": 0,
       "text": "Meddling sibling",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "158d767d8faee199",
+      "_key": "!tables.results!01781e5f5b095917.158d767d8faee199",
       "type": 0,
       "text": "Disruptive servant",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "9c328ec9f4d85d4c",
+      "_key": "!tables.results!01781e5f5b095917.9c328ec9f4d85d4c",
       "type": 0,
       "text": "Unhallowed ground",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "dcfa994a8de18471",
+      "_key": "!tables.results!01781e5f5b095917.dcfa994a8de18471",
       "type": 0,
       "text": "Witch hunter",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "db40dcf68d44f0af",
+      "_key": "!tables.results!01781e5f5b095917.db40dcf68d44f0af",
       "type": 0,
       "text": "Village mob",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "d4a99071b684e55d",
+      "_key": "!tables.results!01781e5f5b095917.d4a99071b684e55d",
       "type": 0,
       "text": "Supernatural lord",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "d0680e19ad7b373d",
+      "_key": "!tables.results!01781e5f5b095917.d0680e19ad7b373d",
       "type": 0,
       "text": "Indescribable horror",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "d8c51293f6b53c7a",
+      "_key": "!tables.results!01781e5f5b095917.d8c51293f6b53c7a",
       "type": 0,
       "text": "Maddening bells",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "77e3982b0e05ff9f",
+      "_key": "!tables.results!01781e5f5b095917.77e3982b0e05ff9f",
       "type": 0,
       "text": "Strange reflection",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "2785cec594b44ed9",
+      "_key": "!tables.results!01781e5f5b095917.2785cec594b44ed9",
       "type": 0,
       "text": "Pulsing void",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "e3e4345f89e5c7a3",
+      "_key": "!tables.results!01781e5f5b095917.e3e4345f89e5c7a3",
       "type": 0,
       "text": "Sudden vertigo",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "5fa5e59b55f1ad19",
+      "_key": "!tables.results!01781e5f5b095917.5fa5e59b55f1ad19",
       "type": 0,
       "text": "Shifting structures",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "bc921225774ed891",
+      "_key": "!tables.results!01781e5f5b095917.bc921225774ed891",
       "type": 0,
       "text": "Jealous lover",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "b5c3e9e4d4d7b2ae",
+      "_key": "!tables.results!01781e5f5b095917.b5c3e9e4d4d7b2ae",
       "type": 0,
       "text": "Crushing anxiety",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "1dacbb115a863c35",
+      "_key": "!tables.results!01781e5f5b095917.1dacbb115a863c35",
       "type": 0,
       "text": "Hidden trap",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "df31d3b045bd9a43",
+      "_key": "!tables.results!01781e5f5b095917.df31d3b045bd9a43",
       "type": 0,
       "text": "Corrupt constable",
       "weight": 1,

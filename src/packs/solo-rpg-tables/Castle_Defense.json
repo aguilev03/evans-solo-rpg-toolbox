@@ -1,11 +1,13 @@
 {
   "_id": "485aff89d1f17c03",
+  "_key": "!tables!485aff89d1f17c03",
   "name": "Castle Defense",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "7a8ebb70834928f7",
+      "_key": "!tables.results!485aff89d1f17c03.7a8ebb70834928f7",
       "type": 0,
       "text": "Stone walls and towers",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "3138d75c2cfb648f",
+      "_key": "!tables.results!485aff89d1f17c03.3138d75c2cfb648f",
       "type": 0,
       "text": "Moat (= trench)",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "a972277e21299ec0",
+      "_key": "!tables.results!485aff89d1f17c03.a972277e21299ec0",
       "type": 0,
       "text": "Motte (= mound)",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "6dbc2809d369b4b0",
+      "_key": "!tables.results!485aff89d1f17c03.6dbc2809d369b4b0",
       "type": 0,
       "text": "Wooden palisade",
       "weight": 1,

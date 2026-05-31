@@ -1,11 +1,13 @@
 {
   "_id": "5db8df7abab7ea75",
+  "_key": "!tables!5db8df7abab7ea75",
   "name": "Castle Non-defensive Feature",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "c047c5f487e4007b",
+      "_key": "!tables.results!5db8df7abab7ea75.c047c5f487e4007b",
       "type": 0,
       "text": "None",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "73bac637820e5a0f",
+      "_key": "!tables.results!5db8df7abab7ea75.73bac637820e5a0f",
       "type": 0,
       "text": "Banners/Flags",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "8f39af37d25604f2",
+      "_key": "!tables.results!5db8df7abab7ea75.8f39af37d25604f2",
       "type": 0,
       "text": "Gargoyles",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "f8328a567952cc01",
+      "_key": "!tables.results!5db8df7abab7ea75.f8328a567952cc01",
       "type": 0,
       "text": "Heads/Bodies",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "d999dd18d403ebc3",
+      "_key": "!tables.results!5db8df7abab7ea75.d999dd18d403ebc3",
       "type": 0,
       "text": "Overgrown",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "67745eed840e0584",
+      "_key": "!tables.results!5db8df7abab7ea75.67745eed840e0584",
       "type": 0,
       "text": "Religious symbols",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "3edaee8464b49f0e",
+      "_key": "!tables.results!5db8df7abab7ea75.3edaee8464b49f0e",
       "type": 0,
       "text": "Secret passage",
       "weight": 1,

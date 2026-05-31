@@ -1,11 +1,13 @@
 {
   "_id": "806635d6d1683671",
+  "_key": "!tables!806635d6d1683671",
   "name": "City Business",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "80d216219fa23818",
+      "_key": "!tables.results!806635d6d1683671.80d216219fa23818",
       "type": 0,
       "text": "Alchemist",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "09db669958f74b59",
+      "_key": "!tables.results!806635d6d1683671.09db669958f74b59",
       "type": 0,
       "text": "Animal trainer",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "80994751675684eb",
+      "_key": "!tables.results!806635d6d1683671.80994751675684eb",
       "type": 0,
       "text": "Apothecary",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "8e1c768df3f95f9e",
+      "_key": "!tables.results!806635d6d1683671.8e1c768df3f95f9e",
       "type": 0,
       "text": "Armorer",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "67a307be59f4d560",
+      "_key": "!tables.results!806635d6d1683671.67a307be59f4d560",
       "type": 0,
       "text": "Artist",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "30fff24b7184c7f6",
+      "_key": "!tables.results!806635d6d1683671.30fff24b7184c7f6",
       "type": 0,
       "text": "Astronomer",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "5af3729517cffa3f",
+      "_key": "!tables.results!806635d6d1683671.5af3729517cffa3f",
       "type": 0,
       "text": "Baker",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "f44653eeb36a7d26",
+      "_key": "!tables.results!806635d6d1683671.f44653eeb36a7d26",
       "type": 0,
       "text": "Bank",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "7eba6ca58acc58f7",
+      "_key": "!tables.results!806635d6d1683671.7eba6ca58acc58f7",
       "type": 0,
       "text": "Blacksmith",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "0259c15b4217b63d",
+      "_key": "!tables.results!806635d6d1683671.0259c15b4217b63d",
       "type": 0,
       "text": "Bookmaker",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "0450dab4efc3b55d",
+      "_key": "!tables.results!806635d6d1683671.0450dab4efc3b55d",
       "type": 0,
       "text": "Botanist",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "54ce739c1eede12e",
+      "_key": "!tables.results!806635d6d1683671.54ce739c1eede12e",
       "type": 0,
       "text": "Brewery",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "30bba8caa6616e5d",
+      "_key": "!tables.results!806635d6d1683671.30bba8caa6616e5d",
       "type": 0,
       "text": "Brothel",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "69505c1a205b5655",
+      "_key": "!tables.results!806635d6d1683671.69505c1a205b5655",
       "type": 0,
       "text": "Butcher",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "106e347efe667278",
+      "_key": "!tables.results!806635d6d1683671.106e347efe667278",
       "type": 0,
       "text": "Candlemaker",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "e6d17f276ec1ec3c",
+      "_key": "!tables.results!806635d6d1683671.e6d17f276ec1ec3c",
       "type": 0,
       "text": "Candy shop",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "ad4950bb422050f7",
+      "_key": "!tables.results!806635d6d1683671.ad4950bb422050f7",
       "type": 0,
       "text": "Carpenter",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "66f7b2e8e04cd8f6",
+      "_key": "!tables.results!806635d6d1683671.66f7b2e8e04cd8f6",
       "type": 0,
       "text": "Cartographer",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "62cd604817f527aa",
+      "_key": "!tables.results!806635d6d1683671.62cd604817f527aa",
       "type": 0,
       "text": "Casino",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "597b026419ec11c7",
+      "_key": "!tables.results!806635d6d1683671.597b026419ec11c7",
       "type": 0,
       "text": "Cheesemaker",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "45c4fa16da96f486",
+      "_key": "!tables.results!806635d6d1683671.45c4fa16da96f486",
       "type": 0,
       "text": "Doctor",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "19c2d2d8526f6a02",
+      "_key": "!tables.results!806635d6d1683671.19c2d2d8526f6a02",
       "type": 0,
       "text": "Dollmaker",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "4f242a63fdee713a",
+      "_key": "!tables.results!806635d6d1683671.4f242a63fdee713a",
       "type": 0,
       "text": "Florist",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "497c03ebed9fd0a7",
+      "_key": "!tables.results!806635d6d1683671.497c03ebed9fd0a7",
       "type": 0,
       "text": "Fortuneteller",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "49833ccdb2531875",
+      "_key": "!tables.results!806635d6d1683671.49833ccdb2531875",
       "type": 0,
       "text": "Foundry",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "51787382f961d4f0",
+      "_key": "!tables.results!806635d6d1683671.51787382f961d4f0",
       "type": 0,
       "text": "General store",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "f5e4043ccc8cd3c1",
+      "_key": "!tables.results!806635d6d1683671.f5e4043ccc8cd3c1",
       "type": 0,
       "text": "Glassblower",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "78695b83b826e5c4",
+      "_key": "!tables.results!806635d6d1683671.78695b83b826e5c4",
       "type": 0,
       "text": "Hairdresser",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "a8c27e5d65109ca7",
+      "_key": "!tables.results!806635d6d1683671.a8c27e5d65109ca7",
       "type": 0,
       "text": "Hardware store",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "d0d86027184af62b",
+      "_key": "!tables.results!806635d6d1683671.d0d86027184af62b",
       "type": 0,
       "text": "Jeweler",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "fa23fabc45a6571e",
+      "_key": "!tables.results!806635d6d1683671.fa23fabc45a6571e",
       "type": 0,
       "text": "Lawyer",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "a8ef107e9c22db2e",
+      "_key": "!tables.results!806635d6d1683671.a8ef107e9c22db2e",
       "type": 0,
       "text": "Locksmith",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "34d39afe4831ab89",
+      "_key": "!tables.results!806635d6d1683671.34d39afe4831ab89",
       "type": 0,
       "text": "Pawnshop",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "26200a4f9e1ae445",
+      "_key": "!tables.results!806635d6d1683671.26200a4f9e1ae445",
       "type": 0,
       "text": "Perfumer",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "52268dc1c681e0ac",
+      "_key": "!tables.results!806635d6d1683671.52268dc1c681e0ac",
       "type": 0,
       "text": "Pet shop",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "83bacbded4ec41e7",
+      "_key": "!tables.results!806635d6d1683671.83bacbded4ec41e7",
       "type": 0,
       "text": "Potter",
       "weight": 1,
@@ -510,6 +547,7 @@
     },
     {
       "_id": "c50694d0de357e4c",
+      "_key": "!tables.results!806635d6d1683671.c50694d0de357e4c",
       "type": 0,
       "text": "Restaurant",
       "weight": 1,
@@ -524,6 +562,7 @@
     },
     {
       "_id": "23f0beae545d4b99",
+      "_key": "!tables.results!806635d6d1683671.23f0beae545d4b99",
       "type": 0,
       "text": "Sage",
       "weight": 1,
@@ -538,6 +577,7 @@
     },
     {
       "_id": "3bd35da5dc51e0c1",
+      "_key": "!tables.results!806635d6d1683671.3bd35da5dc51e0c1",
       "type": 0,
       "text": "Sauna",
       "weight": 1,
@@ -552,6 +592,7 @@
     },
     {
       "_id": "511de92763ea5b06",
+      "_key": "!tables.results!806635d6d1683671.511de92763ea5b06",
       "type": 0,
       "text": "Scribe",
       "weight": 1,
@@ -566,6 +607,7 @@
     },
     {
       "_id": "6110de5cd9e72006",
+      "_key": "!tables.results!806635d6d1683671.6110de5cd9e72006",
       "type": 0,
       "text": "Siege engines seller",
       "weight": 1,
@@ -580,6 +622,7 @@
     },
     {
       "_id": "6ace27f98ad20d2c",
+      "_key": "!tables.results!806635d6d1683671.6ace27f98ad20d2c",
       "type": 0,
       "text": "Slaughterhouse",
       "weight": 1,
@@ -594,6 +637,7 @@
     },
     {
       "_id": "257548af7b6085ca",
+      "_key": "!tables.results!806635d6d1683671.257548af7b6085ca",
       "type": 0,
       "text": "Stables",
       "weight": 1,
@@ -608,6 +652,7 @@
     },
     {
       "_id": "2b87857b8984e5a2",
+      "_key": "!tables.results!806635d6d1683671.2b87857b8984e5a2",
       "type": 0,
       "text": "Tailor",
       "weight": 1,
@@ -622,6 +667,7 @@
     },
     {
       "_id": "e36fa452b019b737",
+      "_key": "!tables.results!806635d6d1683671.e36fa452b019b737",
       "type": 0,
       "text": "Tanner",
       "weight": 1,
@@ -636,6 +682,7 @@
     },
     {
       "_id": "09780fbf447e6e82",
+      "_key": "!tables.results!806635d6d1683671.09780fbf447e6e82",
       "type": 0,
       "text": "Tapestry maker",
       "weight": 1,
@@ -650,6 +697,7 @@
     },
     {
       "_id": "3fcd0a74c66f9943",
+      "_key": "!tables.results!806635d6d1683671.3fcd0a74c66f9943",
       "type": 0,
       "text": "Tavern",
       "weight": 1,
@@ -664,6 +712,7 @@
     },
     {
       "_id": "2ecdaacfbf7624ca",
+      "_key": "!tables.results!806635d6d1683671.2ecdaacfbf7624ca",
       "type": 0,
       "text": "Tinker",
       "weight": 1,
@@ -678,6 +727,7 @@
     },
     {
       "_id": "0056300f70c9f897",
+      "_key": "!tables.results!806635d6d1683671.0056300f70c9f897",
       "type": 0,
       "text": "Veterinarian",
       "weight": 1,
@@ -692,6 +742,7 @@
     },
     {
       "_id": "0a7dba8c20a66918",
+      "_key": "!tables.results!806635d6d1683671.0a7dba8c20a66918",
       "type": 0,
       "text": "Wine merchant",
       "weight": 1,

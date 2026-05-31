@@ -1,11 +1,13 @@
 {
   "_id": "d0d0a8f3f2c4338e",
+  "_key": "!tables!d0d0a8f3f2c4338e",
   "name": "Abbey Activities Other",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "71547a0427584f90",
+      "_key": "!tables.results!d0d0a8f3f2c4338e.71547a0427584f90",
       "type": 0,
       "text": "Bee keeping",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "5235e06b25432031",
+      "_key": "!tables.results!d0d0a8f3f2c4338e.5235e06b25432031",
       "type": 0,
       "text": "Bookshop",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "a2f4b5cb6750495b",
+      "_key": "!tables.results!d0d0a8f3f2c4338e.a2f4b5cb6750495b",
       "type": 0,
       "text": "Catering",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "3b2b3097a01d0a01",
+      "_key": "!tables.results!d0d0a8f3f2c4338e.3b2b3097a01d0a01",
       "type": 0,
       "text": "Copy & translation",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "6fcb7ba39bc5eae4",
+      "_key": "!tables.results!d0d0a8f3f2c4338e.6fcb7ba39bc5eae4",
       "type": 0,
       "text": "Exorcism",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "a84f972c8ba50aab",
+      "_key": "!tables.results!d0d0a8f3f2c4338e.a84f972c8ba50aab",
       "type": 0,
       "text": "Guided tour",
       "weight": 1,

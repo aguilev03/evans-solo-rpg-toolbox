@@ -1,11 +1,13 @@
 {
   "_id": "f7cf8349bf030471",
+  "_key": "!tables!f7cf8349bf030471",
   "name": "Natural Landmark Flora (B)",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "3bd069d522e13bd7",
+      "_key": "!tables.results!f7cf8349bf030471.3bd069d522e13bd7",
       "type": 0,
       "text": "Giant mushroom",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "1d933ad8d6429a18",
+      "_key": "!tables.results!f7cf8349bf030471.1d933ad8d6429a18",
       "type": 0,
       "text": "Hollow tree",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "24d4101ef16e4b66",
+      "_key": "!tables.results!f7cf8349bf030471.24d4101ef16e4b66",
       "type": 0,
       "text": "Impenetrable thicket",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "edbb4ba3d4e858c9",
+      "_key": "!tables.results!f7cf8349bf030471.edbb4ba3d4e858c9",
       "type": 0,
       "text": "Mushroom circle",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "7382a8083ab7b021",
+      "_key": "!tables.results!f7cf8349bf030471.7382a8083ab7b021",
       "type": 0,
       "text": "Mushroom spot",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "0a36ad5e81bfc071",
+      "_key": "!tables.results!f7cf8349bf030471.0a36ad5e81bfc071",
       "type": 0,
       "text": "Mycelial proliferation",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "b630df7c206993fc",
+      "_key": "!tables.results!f7cf8349bf030471.b630df7c206993fc",
       "type": 0,
       "text": "Rare plant spot",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "640dbac9eecb8370",
+      "_key": "!tables.results!f7cf8349bf030471.640dbac9eecb8370",
       "type": 0,
       "text": "Root arch",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "8af6a3ab8e56a9de",
+      "_key": "!tables.results!f7cf8349bf030471.8af6a3ab8e56a9de",
       "type": 0,
       "text": "Tree alignment",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "0dba156abfa9058f",
+      "_key": "!tables.results!f7cf8349bf030471.0dba156abfa9058f",
       "type": 0,
       "text": "Water-filled plant",
       "weight": 1,

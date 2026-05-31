@@ -1,11 +1,13 @@
 {
   "_id": "2570c9656113435e",
+  "_key": "!tables!2570c9656113435e",
   "name": "Fantasy Obligations",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate a fantasy obligation.",
   "results": [
     {
       "_id": "63964e66a623936f",
+      "_key": "!tables.results!2570c9656113435e.63964e66a623936f",
       "type": 0,
       "text": "Protect a relic",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "5f2408ee4d02b3e1",
+      "_key": "!tables.results!2570c9656113435e.5f2408ee4d02b3e1",
       "type": 0,
       "text": "Serve a monarch",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "c0282cd9b79f73c0",
+      "_key": "!tables.results!2570c9656113435e.c0282cd9b79f73c0",
       "type": 0,
       "text": "Avoid a prophecy",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "4cddd32db5d2bbf6",
+      "_key": "!tables.results!2570c9656113435e.4cddd32db5d2bbf6",
       "type": 0,
       "text": "Mentor young warriors",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "be51ec1ad47e8a46",
+      "_key": "!tables.results!2570c9656113435e.be51ec1ad47e8a46",
       "type": 0,
       "text": "Sustain a devotion",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "ad8a9957bcba845f",
+      "_key": "!tables.results!2570c9656113435e.ad8a9957bcba845f",
       "type": 0,
       "text": "Secure a bloodline",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "65c566f2467a51ce",
+      "_key": "!tables.results!2570c9656113435e.65c566f2467a51ce",
       "type": 0,
       "text": "Provide for a household",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "2ef5a2d5432f6a26",
+      "_key": "!tables.results!2570c9656113435e.2ef5a2d5432f6a26",
       "type": 0,
       "text": "Reclaim a lost title",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "695dfc31b1476c10",
+      "_key": "!tables.results!2570c9656113435e.695dfc31b1476c10",
       "type": 0,
       "text": "Discover lost archives",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "4e851b5ec9216198",
+      "_key": "!tables.results!2570c9656113435e.4e851b5ec9216198",
       "type": 0,
       "text": "Seek power",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "a73042d2b69ae21e",
+      "_key": "!tables.results!2570c9656113435e.a73042d2b69ae21e",
       "type": 0,
       "text": "Revive a lost craft",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "5c8b18fa3af951f1",
+      "_key": "!tables.results!2570c9656113435e.5c8b18fa3af951f1",
       "type": 0,
       "text": "Prepare for a war",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "8469592a3f9cd7bc",
+      "_key": "!tables.results!2570c9656113435e.8469592a3f9cd7bc",
       "type": 0,
       "text": "Fend off creatures",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "7f9e2b4acbcd7b0c",
+      "_key": "!tables.results!2570c9656113435e.7f9e2b4acbcd7b0c",
       "type": 0,
       "text": "Rebuild a hometown",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "f1eecc3d32c0583c",
+      "_key": "!tables.results!2570c9656113435e.f1eecc3d32c0583c",
       "type": 0,
       "text": "Support a guild",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "629b3365dc5107b7",
+      "_key": "!tables.results!2570c9656113435e.629b3365dc5107b7",
       "type": 0,
       "text": "Forge a weapon",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "bf22141aadf50ad4",
+      "_key": "!tables.results!2570c9656113435e.bf22141aadf50ad4",
       "type": 0,
       "text": "Repair an old castle",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "243ca0cb6712d61f",
+      "_key": "!tables.results!2570c9656113435e.243ca0cb6712d61f",
       "type": 0,
       "text": "Care for a beast",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "a09323a2cbbfb59e",
+      "_key": "!tables.results!2570c9656113435e.a09323a2cbbfb59e",
       "type": 0,
       "text": "Interrogate a prisoner",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "3d290c8ce36d324a",
+      "_key": "!tables.results!2570c9656113435e.3d290c8ce36d324a",
       "type": 0,
       "text": "Ward off corruption",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "fc7b6b2c69917267",
+      "_key": "!tables.results!2570c9656113435e.fc7b6b2c69917267",
       "type": 0,
       "text": "Repel invaders",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "bd783de39f671220",
+      "_key": "!tables.results!2570c9656113435e.bd783de39f671220",
       "type": 0,
       "text": "Learn magic",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "9acb9ce3aeb4b1c7",
+      "_key": "!tables.results!2570c9656113435e.9acb9ce3aeb4b1c7",
       "type": 0,
       "text": "Obey a demon",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "fe6211335519bd57",
+      "_key": "!tables.results!2570c9656113435e.fe6211335519bd57",
       "type": 0,
       "text": "Protect a village",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "8cd363bbcc7d3ed4",
+      "_key": "!tables.results!2570c9656113435e.8cd363bbcc7d3ed4",
       "type": 0,
       "text": "Learn from a mentor",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "a6252bb216a706f7",
+      "_key": "!tables.results!2570c9656113435e.a6252bb216a706f7",
       "type": 0,
       "text": "Gamble in a tavern",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "582d6bfb95adbcb7",
+      "_key": "!tables.results!2570c9656113435e.582d6bfb95adbcb7",
       "type": 0,
       "text": "Run a tavern",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "45b299ef4784ce8f",
+      "_key": "!tables.results!2570c9656113435e.45b299ef4784ce8f",
       "type": 0,
       "text": "Overthrow a leader",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "2ab5f29e8fc756dc",
+      "_key": "!tables.results!2570c9656113435e.2ab5f29e8fc756dc",
       "type": 0,
       "text": "Guard ancestral lands",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "f10c5dc6c4dc073a",
+      "_key": "!tables.results!2570c9656113435e.f10c5dc6c4dc073a",
       "type": 0,
       "text": "Tax peasants",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "10549d9976181e58",
+      "_key": "!tables.results!2570c9656113435e.10549d9976181e58",
       "type": 0,
       "text": "Train with a weapon",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "417e9555d1207dda",
+      "_key": "!tables.results!2570c9656113435e.417e9555d1207dda",
       "type": 0,
       "text": "Find bounty work",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "31f579de49ef8759",
+      "_key": "!tables.results!2570c9656113435e.31f579de49ef8759",
       "type": 0,
       "text": "Replenish supplies",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "df45f9c820fc3910",
+      "_key": "!tables.results!2570c9656113435e.df45f9c820fc3910",
       "type": 0,
       "text": "Honour the gods",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "1e912329f3386521",
+      "_key": "!tables.results!2570c9656113435e.1e912329f3386521",
       "type": 0,
       "text": "Best your rival",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "8a94cd3203e8b2b6",
+      "_key": "!tables.results!2570c9656113435e.8a94cd3203e8b2b6",
       "type": 0,
       "text": "Hone skills",
       "weight": 1,

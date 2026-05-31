@@ -1,11 +1,13 @@
 {
   "_id": "57b272615f3251a7",
+  "_key": "!tables!57b272615f3251a7",
   "name": "Outside appearance Materials",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "12981112bfa38139",
+      "_key": "!tables.results!57b272615f3251a7.12981112bfa38139",
       "type": 0,
       "text": "Cobblestone",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "69d5bfe7e93fbc8a",
+      "_key": "!tables.results!57b272615f3251a7.69d5bfe7e93fbc8a",
       "type": 0,
       "text": "Wood",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "e3f441b8579b6fb0",
+      "_key": "!tables.results!57b272615f3251a7.e3f441b8579b6fb0",
       "type": 0,
       "text": "Bricks",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "2f14cda0901fa2de",
+      "_key": "!tables.results!57b272615f3251a7.2f14cda0901fa2de",
       "type": 0,
       "text": "Sandstone",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "d524c57dfc2128bf",
+      "_key": "!tables.results!57b272615f3251a7.d524c57dfc2128bf",
       "type": 0,
       "text": "Limestone",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "d216701420e427f5",
+      "_key": "!tables.results!57b272615f3251a7.d216701420e427f5",
       "type": 0,
       "text": "Marble",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "9d5711ca52dc7961",
+      "_key": "!tables.results!57b272615f3251a7.9d5711ca52dc7961",
       "type": 0,
       "text": "Metal",
       "weight": 1,

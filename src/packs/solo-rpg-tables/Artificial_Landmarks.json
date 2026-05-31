@@ -1,11 +1,13 @@
 {
   "_id": "d66b377016e57ebf",
+  "_key": "!tables!d66b377016e57ebf",
   "name": "Artificial Landmarks",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "e3d1f906459c0a73",
+      "_key": "!tables.results!d66b377016e57ebf.e3d1f906459c0a73",
       "type": 0,
       "text": "Labor",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "79fbab4b30362643",
+      "_key": "!tables.results!d66b377016e57ebf.79fbab4b30362643",
       "type": 0,
       "text": "Mystery",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "8025529e0db4d6a6",
+      "_key": "!tables.results!d66b377016e57ebf.8025529e0db4d6a6",
       "type": 0,
       "text": "Ruin",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "2c44ced68a1136d9",
+      "_key": "!tables.results!d66b377016e57ebf.2c44ced68a1136d9",
       "type": 0,
       "text": "Small structure",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "03e7ca71d64caf68",
+      "_key": "!tables.results!d66b377016e57ebf.03e7ca71d64caf68",
       "type": 0,
       "text": "Travel",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "2426b06f8606a745",
+      "_key": "!tables.results!d66b377016e57ebf.2426b06f8606a745",
       "type": 0,
       "text": "Worship",
       "weight": 1,

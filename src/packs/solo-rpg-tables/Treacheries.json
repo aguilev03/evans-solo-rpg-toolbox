@@ -1,11 +1,13 @@
 {
   "_id": "a206ef285e096636",
+  "_key": "!tables!a206ef285e096636",
   "name": "Treacheries",
   "img": "icons/svg/d20-grey.svg",
   "description": "When creating a problem for your mystery, roll on this table to generate the treachery that befell the object.",
   "results": [
     {
       "_id": "f837b2579e2a1e84",
+      "_key": "!tables.results!a206ef285e096636.f837b2579e2a1e84",
       "type": 0,
       "text": "Vanished",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "ecb6a82e58b4a4ad",
+      "_key": "!tables.results!a206ef285e096636.ecb6a82e58b4a4ad",
       "type": 0,
       "text": "Changed",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "0c9d7a0f4cd43c55",
+      "_key": "!tables.results!a206ef285e096636.0c9d7a0f4cd43c55",
       "type": 0,
       "text": "Perished",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "6ffeb7a6c3ba08ab",
+      "_key": "!tables.results!a206ef285e096636.6ffeb7a6c3ba08ab",
       "type": 0,
       "text": "Suffered",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "2b072e2ceffb3ea4",
+      "_key": "!tables.results!a206ef285e096636.2b072e2ceffb3ea4",
       "type": 0,
       "text": "Failed",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "e959e06dade435e0",
+      "_key": "!tables.results!a206ef285e096636.e959e06dade435e0",
       "type": 0,
       "text": "Was replaced",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "19c0e23128b28e27",
+      "_key": "!tables.results!a206ef285e096636.19c0e23128b28e27",
       "type": 0,
       "text": "Was destroyed",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "b80cd91dcf3317a8",
+      "_key": "!tables.results!a206ef285e096636.b80cd91dcf3317a8",
       "type": 0,
       "text": "Was depleted",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "3850346b3d093bf9",
+      "_key": "!tables.results!a206ef285e096636.3850346b3d093bf9",
       "type": 0,
       "text": "Became vulnerable",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "ac37e13d2b287247",
+      "_key": "!tables.results!a206ef285e096636.ac37e13d2b287247",
       "type": 0,
       "text": "Was stolen",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "179c355201afe252",
+      "_key": "!tables.results!a206ef285e096636.179c355201afe252",
       "type": 0,
       "text": "Became exposed",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "0fd99530853b8f06",
+      "_key": "!tables.results!a206ef285e096636.0fd99530853b8f06",
       "type": 0,
       "text": "Appeared",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "7b6b4114ce89da2f",
+      "_key": "!tables.results!a206ef285e096636.7b6b4114ce89da2f",
       "type": 0,
       "text": "Was disrupted",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "0cbd62aeb08870b8",
+      "_key": "!tables.results!a206ef285e096636.0cbd62aeb08870b8",
       "type": 0,
       "text": "Was consumed",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "7b104aa82c01f210",
+      "_key": "!tables.results!a206ef285e096636.7b104aa82c01f210",
       "type": 0,
       "text": "Became corrupted",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "563a0d68eb4b3df6",
+      "_key": "!tables.results!a206ef285e096636.563a0d68eb4b3df6",
       "type": 0,
       "text": "Was sealed away",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "b0212aa8d70ebec8",
+      "_key": "!tables.results!a206ef285e096636.b0212aa8d70ebec8",
       "type": 0,
       "text": "Evolved",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "5122f0c0e735e680",
+      "_key": "!tables.results!a206ef285e096636.5122f0c0e735e680",
       "type": 0,
       "text": "Warped",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "df20402360adcc1a",
+      "_key": "!tables.results!a206ef285e096636.df20402360adcc1a",
       "type": 0,
       "text": "Deteriorated",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "cc360da1fbb12a24",
+      "_key": "!tables.results!a206ef285e096636.cc360da1fbb12a24",
       "type": 0,
       "text": "Evaporated",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "148cb4f8cbfce456",
+      "_key": "!tables.results!a206ef285e096636.148cb4f8cbfce456",
       "type": 0,
       "text": "Crumbled",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "9e5bdc976fa8a71c",
+      "_key": "!tables.results!a206ef285e096636.9e5bdc976fa8a71c",
       "type": 0,
       "text": "Withered",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "9b72af07d5c2cce3",
+      "_key": "!tables.results!a206ef285e096636.9b72af07d5c2cce3",
       "type": 0,
       "text": "Was erased",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "23b77485512d2646",
+      "_key": "!tables.results!a206ef285e096636.23b77485512d2646",
       "type": 0,
       "text": "Exploded",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "a25b2e1c998dd7aa",
+      "_key": "!tables.results!a206ef285e096636.a25b2e1c998dd7aa",
       "type": 0,
       "text": "Disappeared",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "441a2c2c1ace8870",
+      "_key": "!tables.results!a206ef285e096636.441a2c2c1ace8870",
       "type": 0,
       "text": "Was revealed",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "677f26c0069fb6dc",
+      "_key": "!tables.results!a206ef285e096636.677f26c0069fb6dc",
       "type": 0,
       "text": "Transformed",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "84c57cc05afda9a1",
+      "_key": "!tables.results!a206ef285e096636.84c57cc05afda9a1",
       "type": 0,
       "text": "Was modified",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "1439bccd1d1dc996",
+      "_key": "!tables.results!a206ef285e096636.1439bccd1d1dc996",
       "type": 0,
       "text": "Manifested",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "ec4513fd5c0f42ff",
+      "_key": "!tables.results!a206ef285e096636.ec4513fd5c0f42ff",
       "type": 0,
       "text": "Was hidden",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "6207202591e65482",
+      "_key": "!tables.results!a206ef285e096636.6207202591e65482",
       "type": 0,
       "text": "Damaged the [object]",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "ed7a3467983653c4",
+      "_key": "!tables.results!a206ef285e096636.ed7a3467983653c4",
       "type": 0,
       "text": "Changed the [object]",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "57c3e3b73d981c34",
+      "_key": "!tables.results!a206ef285e096636.57c3e3b73d981c34",
       "type": 0,
       "text": "Destroyed the [object]",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "c96c2525f19f1a2b",
+      "_key": "!tables.results!a206ef285e096636.c96c2525f19f1a2b",
       "type": 0,
       "text": "Revealed the [object]",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "3e6e4ade0db4d465",
+      "_key": "!tables.results!a206ef285e096636.3e6e4ade0db4d465",
       "type": 0,
       "text": "Exposed the [object]",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "9e8c596e1e717bda",
+      "_key": "!tables.results!a206ef285e096636.9e8c596e1e717bda",
       "type": 0,
       "text": "Became the [object]",
       "weight": 1,

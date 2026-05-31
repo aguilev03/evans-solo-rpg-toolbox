@@ -1,11 +1,13 @@
 {
   "_id": "e05ccf11da985041",
+  "_key": "!tables!e05ccf11da985041",
   "name": "Magic Landmarks Area under a spell",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "e38945a6b322c943",
+      "_key": "!tables.results!e05ccf11da985041.e38945a6b322c943",
       "type": 0,
       "text": "Always snowy area",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "cb71dccc2203c2bf",
+      "_key": "!tables.results!e05ccf11da985041.cb71dccc2203c2bf",
       "type": 0,
       "text": "Anti-magic zone",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "3b7291774d62e265",
+      "_key": "!tables.results!e05ccf11da985041.3b7291774d62e265",
       "type": 0,
       "text": "Area bringing back the dead",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "c0141864a47a61c9",
+      "_key": "!tables.results!e05ccf11da985041.c0141864a47a61c9",
       "type": 0,
       "text": "Area where nothing grows",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "bdec84cab6348f50",
+      "_key": "!tables.results!e05ccf11da985041.bdec84cab6348f50",
       "type": 0,
       "text": "Bad luck area",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "50b47ebb2f5954e4",
+      "_key": "!tables.results!e05ccf11da985041.50b47ebb2f5954e4",
       "type": 0,
       "text": "Dome of darkness",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "6ce639de68635df4",
+      "_key": "!tables.results!e05ccf11da985041.6ce639de68635df4",
       "type": 0,
       "text": "Force field",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "0b1df5dad67d60ea",
+      "_key": "!tables.results!e05ccf11da985041.0b1df5dad67d60ea",
       "type": 0,
       "text": "Incessant cyclone",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "d1005539732c3124",
+      "_key": "!tables.results!e05ccf11da985041.d1005539732c3124",
       "type": 0,
       "text": "Protection from Evil",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "f555482a2ec7beb2",
+      "_key": "!tables.results!e05ccf11da985041.f555482a2ec7beb2",
       "type": 0,
       "text": "Time is frozen",
       "weight": 1,

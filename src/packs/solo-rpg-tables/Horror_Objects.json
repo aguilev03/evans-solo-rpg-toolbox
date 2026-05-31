@@ -1,11 +1,13 @@
 {
   "_id": "23d960be6f9a3a7e",
+  "_key": "!tables!23d960be6f9a3a7e",
   "name": "Horror Objects",
   "img": "icons/svg/d20-grey.svg",
   "description": "Generate an object with a horror theme.",
   "results": [
     {
       "_id": "16d5e22c22aa53be",
+      "_key": "!tables.results!23d960be6f9a3a7e.16d5e22c22aa53be",
       "type": 0,
       "text": "Sun",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "f1f86f617e30d630",
+      "_key": "!tables.results!23d960be6f9a3a7e.f1f86f617e30d630",
       "type": 0,
       "text": "Servant",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "fda593fbdcc15758",
+      "_key": "!tables.results!23d960be6f9a3a7e.fda593fbdcc15758",
       "type": 0,
       "text": "Doll",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "7f592cd943e0129c",
+      "_key": "!tables.results!23d960be6f9a3a7e.7f592cd943e0129c",
       "type": 0,
       "text": "Letter",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "c0cbdcbb6b9b4409",
+      "_key": "!tables.results!23d960be6f9a3a7e.c0cbdcbb6b9b4409",
       "type": 0,
       "text": "Heirloom",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "2d74637f56c13945",
+      "_key": "!tables.results!23d960be6f9a3a7e.2d74637f56c13945",
       "type": 0,
       "text": "Sibling",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "e1b7096dcd22d0b6",
+      "_key": "!tables.results!23d960be6f9a3a7e.e1b7096dcd22d0b6",
       "type": 0,
       "text": "Grimoire",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "1e95b7642a9a44eb",
+      "_key": "!tables.results!23d960be6f9a3a7e.1e95b7642a9a44eb",
       "type": 0,
       "text": "Partygoer",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "50eda18e1a59faed",
+      "_key": "!tables.results!23d960be6f9a3a7e.50eda18e1a59faed",
       "type": 0,
       "text": "Fortune",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "dad8596213f294e8",
+      "_key": "!tables.results!23d960be6f9a3a7e.dad8596213f294e8",
       "type": 0,
       "text": "Family",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "0fb010463950201b",
+      "_key": "!tables.results!23d960be6f9a3a7e.0fb010463950201b",
       "type": 0,
       "text": "Animal",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "a82df0e6f04d3cb6",
+      "_key": "!tables.results!23d960be6f9a3a7e.a82df0e6f04d3cb6",
       "type": 0,
       "text": "Deed",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "9f8fdabe9b63a26c",
+      "_key": "!tables.results!23d960be6f9a3a7e.9f8fdabe9b63a26c",
       "type": 0,
       "text": "Gentleperson",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "aef0eea8364e3e0b",
+      "_key": "!tables.results!23d960be6f9a3a7e.aef0eea8364e3e0b",
       "type": 0,
       "text": "Cult",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "03ed98e1ee93b286",
+      "_key": "!tables.results!23d960be6f9a3a7e.03ed98e1ee93b286",
       "type": 0,
       "text": "Reflection",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "1b0ec659c0525fc1",
+      "_key": "!tables.results!23d960be6f9a3a7e.1b0ec659c0525fc1",
       "type": 0,
       "text": "Creature",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "5b423f023ee656fa",
+      "_key": "!tables.results!23d960be6f9a3a7e.5b423f023ee656fa",
       "type": 0,
       "text": "Spirit",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "5040d5c6aae37eef",
+      "_key": "!tables.results!23d960be6f9a3a7e.5040d5c6aae37eef",
       "type": 0,
       "text": "Lord",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "b4721614d46e9e76",
+      "_key": "!tables.results!23d960be6f9a3a7e.b4721614d46e9e76",
       "type": 0,
       "text": "Vampire",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "330f6c78fad57f02",
+      "_key": "!tables.results!23d960be6f9a3a7e.330f6c78fad57f02",
       "type": 0,
       "text": "Storm",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "a04c17db5f9465f9",
+      "_key": "!tables.results!23d960be6f9a3a7e.a04c17db5f9465f9",
       "type": 0,
       "text": "Journal",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "15712cd44bcc9b70",
+      "_key": "!tables.results!23d960be6f9a3a7e.15712cd44bcc9b70",
       "type": 0,
       "text": "Memory",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "56fef055bcc854ac",
+      "_key": "!tables.results!23d960be6f9a3a7e.56fef055bcc854ac",
       "type": 0,
       "text": "Heiress",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "e09ce8c18d843b56",
+      "_key": "!tables.results!23d960be6f9a3a7e.e09ce8c18d843b56",
       "type": 0,
       "text": "Painting",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "9bd7ea458cae9911",
+      "_key": "!tables.results!23d960be6f9a3a7e.9bd7ea458cae9911",
       "type": 0,
       "text": "Curse",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "a80e8dffc60af832",
+      "_key": "!tables.results!23d960be6f9a3a7e.a80e8dffc60af832",
       "type": 0,
       "text": "Vagrant",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "046c91af52dcf564",
+      "_key": "!tables.results!23d960be6f9a3a7e.046c91af52dcf564",
       "type": 0,
       "text": "Corpse",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "749e813878617302",
+      "_key": "!tables.results!23d960be6f9a3a7e.749e813878617302",
       "type": 0,
       "text": "Oracle",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "d2702a4ec2ed01de",
+      "_key": "!tables.results!23d960be6f9a3a7e.d2702a4ec2ed01de",
       "type": 0,
       "text": "Secret",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "2d1c9120a0d2ffca",
+      "_key": "!tables.results!23d960be6f9a3a7e.2d1c9120a0d2ffca",
       "type": 0,
       "text": "Veil",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "d0106af6b4c9f8bd",
+      "_key": "!tables.results!23d960be6f9a3a7e.d0106af6b4c9f8bd",
       "type": 0,
       "text": "Statue",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "a1ef9538c487fd82",
+      "_key": "!tables.results!23d960be6f9a3a7e.a1ef9538c487fd82",
       "type": 0,
       "text": "Light",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "8345079a7c897303",
+      "_key": "!tables.results!23d960be6f9a3a7e.8345079a7c897303",
       "type": 0,
       "text": "Thrall",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "abd8096b0732c6ec",
+      "_key": "!tables.results!23d960be6f9a3a7e.abd8096b0732c6ec",
       "type": 0,
       "text": "Memoir",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "ff6b15df9246b227",
+      "_key": "!tables.results!23d960be6f9a3a7e.ff6b15df9246b227",
       "type": 0,
       "text": "Lady",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "58f3af00c1864397",
+      "_key": "!tables.results!23d960be6f9a3a7e.58f3af00c1864397",
       "type": 0,
       "text": "Decorative saber",
       "weight": 1,

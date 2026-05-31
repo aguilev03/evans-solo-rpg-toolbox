@@ -1,11 +1,13 @@
 {
   "_id": "97e7f0563d400772",
+  "_key": "!tables!97e7f0563d400772",
   "name": "Puzzle Consequence",
   "img": "icons/svg/d20-grey.svg",
   "description": "Name Meaning Table Elements - Puzzle Consequence",
   "results": [
     {
       "_id": "562a9a9dc374687c",
+      "_key": "!tables.results!97e7f0563d400772.562a9a9dc374687c",
       "type": 0,
       "text": "Adversity",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "0be34a01b8774ecd",
+      "_key": "!tables.results!97e7f0563d400772.0be34a01b8774ecd",
       "type": 0,
       "text": "Alarm",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "75d00c585798a3fe",
+      "_key": "!tables.results!97e7f0563d400772.75d00c585798a3fe",
       "type": 0,
       "text": "Betray",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "e7a10c5771f784bf",
+      "_key": "!tables.results!97e7f0563d400772.e7a10c5771f784bf",
       "type": 0,
       "text": "Bizarre",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "0ec3b407b7105ec9",
+      "_key": "!tables.results!97e7f0563d400772.0ec3b407b7105ec9",
       "type": 0,
       "text": "Blades",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "8f89f59e9837bff8",
+      "_key": "!tables.results!97e7f0563d400772.8f89f59e9837bff8",
       "type": 0,
       "text": "Block",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "519f4643bf273855",
+      "_key": "!tables.results!97e7f0563d400772.519f4643bf273855",
       "type": 0,
       "text": "Ceiling",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "bf71dbf0c2727f8c",
+      "_key": "!tables.results!97e7f0563d400772.bf71dbf0c2727f8c",
       "type": 0,
       "text": "Change",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "59cc8d08db331266",
+      "_key": "!tables.results!97e7f0563d400772.59cc8d08db331266",
       "type": 0,
       "text": "Choice",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "f6c50ee977e04f62",
+      "_key": "!tables.results!97e7f0563d400772.f6c50ee977e04f62",
       "type": 0,
       "text": "Cloud",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "9f858343a51a95dd",
+      "_key": "!tables.results!97e7f0563d400772.9f858343a51a95dd",
       "type": 0,
       "text": "Conflict",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "efd454a00ffe8c9f",
+      "_key": "!tables.results!97e7f0563d400772.efd454a00ffe8c9f",
       "type": 0,
       "text": "Consequence",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "5b5e4af6b8cf6bdf",
+      "_key": "!tables.results!97e7f0563d400772.5b5e4af6b8cf6bdf",
       "type": 0,
       "text": "Constrain",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "16194d2b3bc42a63",
+      "_key": "!tables.results!97e7f0563d400772.16194d2b3bc42a63",
       "type": 0,
       "text": "Control",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "b7867b444b0aea98",
+      "_key": "!tables.results!97e7f0563d400772.b7867b444b0aea98",
       "type": 0,
       "text": "Countdown",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "2992437a8cfa35c3",
+      "_key": "!tables.results!97e7f0563d400772.2992437a8cfa35c3",
       "type": 0,
       "text": "Create",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "39baa52e56efb451",
+      "_key": "!tables.results!97e7f0563d400772.39baa52e56efb451",
       "type": 0,
       "text": "Creature",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "3436755732562799",
+      "_key": "!tables.results!97e7f0563d400772.3436755732562799",
       "type": 0,
       "text": "Damage",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "e85ad22a0b435993",
+      "_key": "!tables.results!97e7f0563d400772.e85ad22a0b435993",
       "type": 0,
       "text": "Danger",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "e94aee04ba163483",
+      "_key": "!tables.results!97e7f0563d400772.e94aee04ba163483",
       "type": 0,
       "text": "Deceive",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "0930d0e3d65cf1aa",
+      "_key": "!tables.results!97e7f0563d400772.0930d0e3d65cf1aa",
       "type": 0,
       "text": "Decrease",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "e088c76d383cc58d",
+      "_key": "!tables.results!97e7f0563d400772.e088c76d383cc58d",
       "type": 0,
       "text": "Delay",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "a9ced16a4f7a9820",
+      "_key": "!tables.results!97e7f0563d400772.a9ced16a4f7a9820",
       "type": 0,
       "text": "Depletion",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "04214b2696e596bf",
+      "_key": "!tables.results!97e7f0563d400772.04214b2696e596bf",
       "type": 0,
       "text": "Deprive",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "581528242aef8edb",
+      "_key": "!tables.results!97e7f0563d400772.581528242aef8edb",
       "type": 0,
       "text": "Destruction",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "3be3cdcc094af363",
+      "_key": "!tables.results!97e7f0563d400772.3be3cdcc094af363",
       "type": 0,
       "text": "Disrupt",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "8e1f4b8ce7f3277b",
+      "_key": "!tables.results!97e7f0563d400772.8e1f4b8ce7f3277b",
       "type": 0,
       "text": "Divide",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "df57d8539a8de1ce",
+      "_key": "!tables.results!97e7f0563d400772.df57d8539a8de1ce",
       "type": 0,
       "text": "Drop",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "6a70d919e39608c0",
+      "_key": "!tables.results!97e7f0563d400772.6a70d919e39608c0",
       "type": 0,
       "text": "Elements",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "76e0b916ad80ca2e",
+      "_key": "!tables.results!97e7f0563d400772.76e0b916ad80ca2e",
       "type": 0,
       "text": "Enemies",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "1763c79d3e46dece",
+      "_key": "!tables.results!97e7f0563d400772.1763c79d3e46dece",
       "type": 0,
       "text": "Energy",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "ae1217713cb717ad",
+      "_key": "!tables.results!97e7f0563d400772.ae1217713cb717ad",
       "type": 0,
       "text": "Environment",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "299d25949cde1ef8",
+      "_key": "!tables.results!97e7f0563d400772.299d25949cde1ef8",
       "type": 0,
       "text": "Escape",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "4d7dbed786a2ee3b",
+      "_key": "!tables.results!97e7f0563d400772.4d7dbed786a2ee3b",
       "type": 0,
       "text": "Explode",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "ace4604ec1e19462",
+      "_key": "!tables.results!97e7f0563d400772.ace4604ec1e19462",
       "type": 0,
       "text": "Expose",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "abc900e6d04da241",
+      "_key": "!tables.results!97e7f0563d400772.abc900e6d04da241",
       "type": 0,
       "text": "Failure",
       "weight": 1,
@@ -510,6 +547,7 @@
     },
     {
       "_id": "b9db41fc17099f52",
+      "_key": "!tables.results!97e7f0563d400772.b9db41fc17099f52",
       "type": 0,
       "text": "Fall",
       "weight": 1,
@@ -524,6 +562,7 @@
     },
     {
       "_id": "68abc4543d4590eb",
+      "_key": "!tables.results!97e7f0563d400772.68abc4543d4590eb",
       "type": 0,
       "text": "Fear",
       "weight": 1,
@@ -538,6 +577,7 @@
     },
     {
       "_id": "e77e35de05b58990",
+      "_key": "!tables.results!97e7f0563d400772.e77e35de05b58990",
       "type": 0,
       "text": "Fight",
       "weight": 1,
@@ -552,6 +592,7 @@
     },
     {
       "_id": "35b133fc8568cf65",
+      "_key": "!tables.results!97e7f0563d400772.35b133fc8568cf65",
       "type": 0,
       "text": "Fire",
       "weight": 1,
@@ -566,6 +607,7 @@
     },
     {
       "_id": "69696c7a2340f7de",
+      "_key": "!tables.results!97e7f0563d400772.69696c7a2340f7de",
       "type": 0,
       "text": "Floor",
       "weight": 1,
@@ -580,6 +622,7 @@
     },
     {
       "_id": "2c599717190ebf79",
+      "_key": "!tables.results!97e7f0563d400772.2c599717190ebf79",
       "type": 0,
       "text": "Frantic",
       "weight": 1,
@@ -594,6 +637,7 @@
     },
     {
       "_id": "124ce63faab541d9",
+      "_key": "!tables.results!97e7f0563d400772.124ce63faab541d9",
       "type": 0,
       "text": "Free",
       "weight": 1,
@@ -608,6 +652,7 @@
     },
     {
       "_id": "09cf1674e9d43e1b",
+      "_key": "!tables.results!97e7f0563d400772.09cf1674e9d43e1b",
       "type": 0,
       "text": "Free",
       "weight": 1,
@@ -622,6 +667,7 @@
     },
     {
       "_id": "ba752d8f022d2c96",
+      "_key": "!tables.results!97e7f0563d400772.ba752d8f022d2c96",
       "type": 0,
       "text": "Frightening",
       "weight": 1,
@@ -636,6 +682,7 @@
     },
     {
       "_id": "56b0a1691243b549",
+      "_key": "!tables.results!97e7f0563d400772.56b0a1691243b549",
       "type": 0,
       "text": "Harm",
       "weight": 1,
@@ -650,6 +697,7 @@
     },
     {
       "_id": "d5dee3bb538d7214",
+      "_key": "!tables.results!97e7f0563d400772.d5dee3bb538d7214",
       "type": 0,
       "text": "Heavy",
       "weight": 1,
@@ -664,6 +712,7 @@
     },
     {
       "_id": "b971c9621c0e813b",
+      "_key": "!tables.results!97e7f0563d400772.b971c9621c0e813b",
       "type": 0,
       "text": "Helpless",
       "weight": 1,
@@ -678,6 +727,7 @@
     },
     {
       "_id": "0bc24d993c28ced3",
+      "_key": "!tables.results!97e7f0563d400772.0bc24d993c28ced3",
       "type": 0,
       "text": "Illness",
       "weight": 1,
@@ -692,6 +742,7 @@
     },
     {
       "_id": "8c6ee92a8afc8fc1",
+      "_key": "!tables.results!97e7f0563d400772.8c6ee92a8afc8fc1",
       "type": 0,
       "text": "Illusion",
       "weight": 1,
@@ -706,6 +757,7 @@
     },
     {
       "_id": "d45f40a879a582fe",
+      "_key": "!tables.results!97e7f0563d400772.d45f40a879a582fe",
       "type": 0,
       "text": "Imitate",
       "weight": 1,
@@ -720,6 +772,7 @@
     },
     {
       "_id": "f1c79f57301e6a52",
+      "_key": "!tables.results!97e7f0563d400772.f1c79f57301e6a52",
       "type": 0,
       "text": "Imprison",
       "weight": 1,
@@ -734,6 +787,7 @@
     },
     {
       "_id": "950a4cfa384151c2",
+      "_key": "!tables.results!97e7f0563d400772.950a4cfa384151c2",
       "type": 0,
       "text": "Increase",
       "weight": 1,
@@ -748,6 +802,7 @@
     },
     {
       "_id": "fe0f15f9ae807da2",
+      "_key": "!tables.results!97e7f0563d400772.fe0f15f9ae807da2",
       "type": 0,
       "text": "Information",
       "weight": 1,
@@ -762,6 +817,7 @@
     },
     {
       "_id": "ff42d2f334488d63",
+      "_key": "!tables.results!97e7f0563d400772.ff42d2f334488d63",
       "type": 0,
       "text": "Injure",
       "weight": 1,
@@ -776,6 +832,7 @@
     },
     {
       "_id": "afa26533bbe29725",
+      "_key": "!tables.results!97e7f0563d400772.afa26533bbe29725",
       "type": 0,
       "text": "Inside",
       "weight": 1,
@@ -790,6 +847,7 @@
     },
     {
       "_id": "2594e917f928ad6a",
+      "_key": "!tables.results!97e7f0563d400772.2594e917f928ad6a",
       "type": 0,
       "text": "Key",
       "weight": 1,
@@ -804,6 +862,7 @@
     },
     {
       "_id": "59707fbc52658e6e",
+      "_key": "!tables.results!97e7f0563d400772.59707fbc52658e6e",
       "type": 0,
       "text": "Lethal",
       "weight": 1,
@@ -818,6 +877,7 @@
     },
     {
       "_id": "03bb685684cca316",
+      "_key": "!tables.results!97e7f0563d400772.03bb685684cca316",
       "type": 0,
       "text": "Loss",
       "weight": 1,
@@ -832,6 +892,7 @@
     },
     {
       "_id": "a61b859fb52b7179",
+      "_key": "!tables.results!97e7f0563d400772.a61b859fb52b7179",
       "type": 0,
       "text": "Lost",
       "weight": 1,
@@ -846,6 +907,7 @@
     },
     {
       "_id": "ed645e5549b3ec37",
+      "_key": "!tables.results!97e7f0563d400772.ed645e5549b3ec37",
       "type": 0,
       "text": "Mechanism",
       "weight": 1,
@@ -860,6 +922,7 @@
     },
     {
       "_id": "529c664947625391",
+      "_key": "!tables.results!97e7f0563d400772.529c664947625391",
       "type": 0,
       "text": "Mental",
       "weight": 1,
@@ -874,6 +937,7 @@
     },
     {
       "_id": "cf5423e80b6f3ebf",
+      "_key": "!tables.results!97e7f0563d400772.cf5423e80b6f3ebf",
       "type": 0,
       "text": "Message",
       "weight": 1,
@@ -888,6 +952,7 @@
     },
     {
       "_id": "d0c05e28f885563b",
+      "_key": "!tables.results!97e7f0563d400772.d0c05e28f885563b",
       "type": 0,
       "text": "Misfortune",
       "weight": 1,
@@ -902,6 +967,7 @@
     },
     {
       "_id": "3210dbad6ec4c377",
+      "_key": "!tables.results!97e7f0563d400772.3210dbad6ec4c377",
       "type": 0,
       "text": "Move",
       "weight": 1,
@@ -916,6 +982,7 @@
     },
     {
       "_id": "142637023b77436b",
+      "_key": "!tables.results!97e7f0563d400772.142637023b77436b",
       "type": 0,
       "text": "Mundane",
       "weight": 1,
@@ -930,6 +997,7 @@
     },
     {
       "_id": "f03e818d59f40f4a",
+      "_key": "!tables.results!97e7f0563d400772.f03e818d59f40f4a",
       "type": 0,
       "text": "Mysterious",
       "weight": 1,
@@ -944,6 +1012,7 @@
     },
     {
       "_id": "61b47e802dd8d6a4",
+      "_key": "!tables.results!97e7f0563d400772.61b47e802dd8d6a4",
       "type": 0,
       "text": "Open",
       "weight": 1,
@@ -958,6 +1027,7 @@
     },
     {
       "_id": "402a489cce99bc5e",
+      "_key": "!tables.results!97e7f0563d400772.402a489cce99bc5e",
       "type": 0,
       "text": "Pain",
       "weight": 1,
@@ -972,6 +1042,7 @@
     },
     {
       "_id": "2e0ece9964ab9e1c",
+      "_key": "!tables.results!97e7f0563d400772.2e0ece9964ab9e1c",
       "type": 0,
       "text": "Path",
       "weight": 1,
@@ -986,6 +1057,7 @@
     },
     {
       "_id": "6aae860c77d82b99",
+      "_key": "!tables.results!97e7f0563d400772.6aae860c77d82b99",
       "type": 0,
       "text": "Physical",
       "weight": 1,
@@ -1000,6 +1072,7 @@
     },
     {
       "_id": "addb7bad94e4d3fd",
+      "_key": "!tables.results!97e7f0563d400772.addb7bad94e4d3fd",
       "type": 0,
       "text": "Portal",
       "weight": 1,
@@ -1014,6 +1087,7 @@
     },
     {
       "_id": "d6b9265fd5f9e53c",
+      "_key": "!tables.results!97e7f0563d400772.d6b9265fd5f9e53c",
       "type": 0,
       "text": "Possessions",
       "weight": 1,
@@ -1028,6 +1102,7 @@
     },
     {
       "_id": "7f884f3feb4bb283",
+      "_key": "!tables.results!97e7f0563d400772.7f884f3feb4bb283",
       "type": 0,
       "text": "Postpone",
       "weight": 1,
@@ -1042,6 +1117,7 @@
     },
     {
       "_id": "3e855e1bc12c34af",
+      "_key": "!tables.results!97e7f0563d400772.3e855e1bc12c34af",
       "type": 0,
       "text": "Power",
       "weight": 1,
@@ -1056,6 +1132,7 @@
     },
     {
       "_id": "44f80d165537fc2e",
+      "_key": "!tables.results!97e7f0563d400772.44f80d165537fc2e",
       "type": 0,
       "text": "Projectile",
       "weight": 1,
@@ -1070,6 +1147,7 @@
     },
     {
       "_id": "084ec56cd63e6066",
+      "_key": "!tables.results!97e7f0563d400772.084ec56cd63e6066",
       "type": 0,
       "text": "Punish",
       "weight": 1,
@@ -1084,6 +1162,7 @@
     },
     {
       "_id": "ab4f711c95480a51",
+      "_key": "!tables.results!97e7f0563d400772.ab4f711c95480a51",
       "type": 0,
       "text": "Release",
       "weight": 1,
@@ -1098,6 +1177,7 @@
     },
     {
       "_id": "6d247b346c284844",
+      "_key": "!tables.results!97e7f0563d400772.6d247b346c284844",
       "type": 0,
       "text": "Reveal",
       "weight": 1,
@@ -1112,6 +1192,7 @@
     },
     {
       "_id": "f4d3c2bd1fdee074",
+      "_key": "!tables.results!97e7f0563d400772.f4d3c2bd1fdee074",
       "type": 0,
       "text": "Ruin",
       "weight": 1,
@@ -1126,6 +1207,7 @@
     },
     {
       "_id": "9c3d158d4570ade6",
+      "_key": "!tables.results!97e7f0563d400772.9c3d158d4570ade6",
       "type": 0,
       "text": "Scary",
       "weight": 1,
@@ -1140,6 +1222,7 @@
     },
     {
       "_id": "d0fe34ddc37c2f0d",
+      "_key": "!tables.results!97e7f0563d400772.d0fe34ddc37c2f0d",
       "type": 0,
       "text": "Setback",
       "weight": 1,
@@ -1154,6 +1237,7 @@
     },
     {
       "_id": "6baa09e3ac8d1661",
+      "_key": "!tables.results!97e7f0563d400772.6baa09e3ac8d1661",
       "type": 0,
       "text": "Simple",
       "weight": 1,
@@ -1168,6 +1252,7 @@
     },
     {
       "_id": "53ddcf94ce64df23",
+      "_key": "!tables.results!97e7f0563d400772.53ddcf94ce64df23",
       "type": 0,
       "text": "Stab",
       "weight": 1,
@@ -1182,6 +1267,7 @@
     },
     {
       "_id": "9d1f830573f512e9",
+      "_key": "!tables.results!97e7f0563d400772.9d1f830573f512e9",
       "type": 0,
       "text": "Start",
       "weight": 1,
@@ -1196,6 +1282,7 @@
     },
     {
       "_id": "1c9856e62f7b0ffe",
+      "_key": "!tables.results!97e7f0563d400772.1c9856e62f7b0ffe",
       "type": 0,
       "text": "Stop",
       "weight": 1,
@@ -1210,6 +1297,7 @@
     },
     {
       "_id": "1d4eb6e30e078da7",
+      "_key": "!tables.results!97e7f0563d400772.1d4eb6e30e078da7",
       "type": 0,
       "text": "Strange",
       "weight": 1,
@@ -1224,6 +1312,7 @@
     },
     {
       "_id": "ec7db34b894a8e78",
+      "_key": "!tables.results!97e7f0563d400772.ec7db34b894a8e78",
       "type": 0,
       "text": "Struggle",
       "weight": 1,
@@ -1238,6 +1327,7 @@
     },
     {
       "_id": "c0c1156e384ed563",
+      "_key": "!tables.results!97e7f0563d400772.c0c1156e384ed563",
       "type": 0,
       "text": "Suffering",
       "weight": 1,
@@ -1252,6 +1342,7 @@
     },
     {
       "_id": "a62c1dda0d113796",
+      "_key": "!tables.results!97e7f0563d400772.a62c1dda0d113796",
       "type": 0,
       "text": "Summon",
       "weight": 1,
@@ -1266,6 +1357,7 @@
     },
     {
       "_id": "7859b6f3b1cdc312",
+      "_key": "!tables.results!97e7f0563d400772.7859b6f3b1cdc312",
       "type": 0,
       "text": "Suppress",
       "weight": 1,
@@ -1280,6 +1372,7 @@
     },
     {
       "_id": "b388f51eb049fbb8",
+      "_key": "!tables.results!97e7f0563d400772.b388f51eb049fbb8",
       "type": 0,
       "text": "Take",
       "weight": 1,
@@ -1294,6 +1387,7 @@
     },
     {
       "_id": "f2aebdfff069c547",
+      "_key": "!tables.results!97e7f0563d400772.f2aebdfff069c547",
       "type": 0,
       "text": "Threaten",
       "weight": 1,
@@ -1308,6 +1402,7 @@
     },
     {
       "_id": "8981a11a63741f9a",
+      "_key": "!tables.results!97e7f0563d400772.8981a11a63741f9a",
       "type": 0,
       "text": "Toxin",
       "weight": 1,
@@ -1322,6 +1417,7 @@
     },
     {
       "_id": "a7a2f40413237a78",
+      "_key": "!tables.results!97e7f0563d400772.a7a2f40413237a78",
       "type": 0,
       "text": "Trigger",
       "weight": 1,
@@ -1336,6 +1432,7 @@
     },
     {
       "_id": "8af7e71caff131ae",
+      "_key": "!tables.results!97e7f0563d400772.8af7e71caff131ae",
       "type": 0,
       "text": "Trouble",
       "weight": 1,
@@ -1350,6 +1447,7 @@
     },
     {
       "_id": "f714386541e3389d",
+      "_key": "!tables.results!97e7f0563d400772.f714386541e3389d",
       "type": 0,
       "text": "Violent",
       "weight": 1,
@@ -1364,6 +1462,7 @@
     },
     {
       "_id": "030012b855f091d6",
+      "_key": "!tables.results!97e7f0563d400772.030012b855f091d6",
       "type": 0,
       "text": "Walls",
       "weight": 1,
@@ -1378,6 +1477,7 @@
     },
     {
       "_id": "e5f5374e19afd1fb",
+      "_key": "!tables.results!97e7f0563d400772.e5f5374e19afd1fb",
       "type": 0,
       "text": "Water",
       "weight": 1,
@@ -1392,6 +1492,7 @@
     },
     {
       "_id": "9f454841625abdab",
+      "_key": "!tables.results!97e7f0563d400772.9f454841625abdab",
       "type": 0,
       "text": "Weapon",
       "weight": 1,

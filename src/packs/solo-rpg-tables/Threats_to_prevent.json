@@ -1,11 +1,13 @@
 {
   "_id": "3230c3b17dd26fcd",
+  "_key": "!tables!3230c3b17dd26fcd",
   "name": "Threats to prevent",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "71cd9385e5aa8a4f",
+      "_key": "!tables.results!3230c3b17dd26fcd.71cd9385e5aa8a4f",
       "type": 0,
       "text": "Evil ceremony",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "83cbc4ff27caf30f",
+      "_key": "!tables.results!3230c3b17dd26fcd.83cbc4ff27caf30f",
       "type": 0,
       "text": "Flood",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "bac79123bd30f0ca",
+      "_key": "!tables.results!3230c3b17dd26fcd.bac79123bd30f0ca",
       "type": 0,
       "text": "Frenzied migratory animals",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "7c051da39700a12b",
+      "_key": "!tables.results!3230c3b17dd26fcd.7c051da39700a12b",
       "type": 0,
       "text": "Magic corruption",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "96d05659a149e229",
+      "_key": "!tables.results!3230c3b17dd26fcd.96d05659a149e229",
       "type": 0,
       "text": "Plague",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "adb719d460d76d0e",
+      "_key": "!tables.results!3230c3b17dd26fcd.adb719d460d76d0e",
       "type": 0,
       "text": "Wildfire",
       "weight": 1,

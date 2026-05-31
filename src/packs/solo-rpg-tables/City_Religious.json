@@ -1,11 +1,13 @@
 {
   "_id": "31351bd8bd349158",
+  "_key": "!tables!31351bd8bd349158",
   "name": "City Religious",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "c37a728deb8f35d0",
+      "_key": "!tables.results!31351bd8bd349158.c37a728deb8f35d0",
       "type": 0,
       "text": "Catacombs",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "cd33cbacce7c7aa9",
+      "_key": "!tables.results!31351bd8bd349158.cd33cbacce7c7aa9",
       "type": 0,
       "text": "Cathedral",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "52b89b76bfbb8165",
+      "_key": "!tables.results!31351bd8bd349158.52b89b76bfbb8165",
       "type": 0,
       "text": "Church",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "6ac6a98943f1a7b7",
+      "_key": "!tables.results!31351bd8bd349158.6ac6a98943f1a7b7",
       "type": 0,
       "text": "Covent",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "879224682a2250bb",
+      "_key": "!tables.results!31351bd8bd349158.879224682a2250bb",
       "type": 0,
       "text": "Mausoleum",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "6bf95b43bc3a3676",
+      "_key": "!tables.results!31351bd8bd349158.6bf95b43bc3a3676",
       "type": 0,
       "text": "Monastery",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "268bbeea7eaa7c67",
+      "_key": "!tables.results!31351bd8bd349158.268bbeea7eaa7c67",
       "type": 0,
       "text": "Necropolis",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "9058af2b51995bd7",
+      "_key": "!tables.results!31351bd8bd349158.9058af2b51995bd7",
       "type": 0,
       "text": "Orphanage",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "9651eb83ad7c2486",
+      "_key": "!tables.results!31351bd8bd349158.9651eb83ad7c2486",
       "type": 0,
       "text": "Sanctuary",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "1ab472bd1fcbb23c",
+      "_key": "!tables.results!31351bd8bd349158.1ab472bd1fcbb23c",
       "type": 0,
       "text": "Seminar",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "c7b604cef6e311fd",
+      "_key": "!tables.results!31351bd8bd349158.c7b604cef6e311fd",
       "type": 0,
       "text": "Shrine",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "7cd7300bbedd7aec",
+      "_key": "!tables.results!31351bd8bd349158.7cd7300bbedd7aec",
       "type": 0,
       "text": "Ziggurat",
       "weight": 1,

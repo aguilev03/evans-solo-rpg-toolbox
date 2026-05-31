@@ -1,11 +1,13 @@
 {
   "_id": "06a0b1faa7c0d8a7",
+  "_key": "!tables!06a0b1faa7c0d8a7",
   "name": "City Housing",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "3e42afef38de034a",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.3e42afef38de034a",
       "type": 0,
       "text": "Studio",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "3684c7b0030e0f9a",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.3684c7b0030e0f9a",
       "type": 0,
       "text": "One bedroom apartment",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "e8620c9c3fff7843",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.e8620c9c3fff7843",
       "type": 0,
       "text": "Two bedrooms apartment",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "19d4a96b13decc6d",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.19d4a96b13decc6d",
       "type": 0,
       "text": "Bungalow",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "ee379597ada305ec",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.ee379597ada305ec",
       "type": 0,
       "text": "Maisonnette",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "7b06390143f75c67",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.7b06390143f75c67",
       "type": 0,
       "text": "Penthouse",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "f49ebf1a507613b1",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.f49ebf1a507613b1",
       "type": 0,
       "text": "Mansion",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "5172022c2ebab883",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.5172022c2ebab883",
       "type": 0,
       "text": "Hotel room",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "ef40df39cb1da795",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.ef40df39cb1da795",
       "type": 0,
       "text": "Tower",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "17218942405e78e0",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.17218942405e78e0",
       "type": 0,
       "text": "Boarding house",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "3d44dd771d8e86de",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.3d44dd771d8e86de",
       "type": 0,
       "text": "Tent",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "fd3012fbf0c0ba46",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.fd3012fbf0c0ba46",
       "type": 0,
       "text": "Houseboat",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "1f79f1ee0f4e0533",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.1f79f1ee0f4e0533",
       "type": 0,
       "text": "Under a bridge",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "47a412f7e2f55fa0",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.47a412f7e2f55fa0",
       "type": 0,
       "text": "Shanty",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "fce59f5e5dbb07e1",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.fce59f5e5dbb07e1",
       "type": 0,
       "text": "Squat",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "dd9de903ec82a1f1",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.dd9de903ec82a1f1",
       "type": 0,
       "text": "Underground bunker",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "7d418918742dbdbc",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.7d418918742dbdbc",
       "type": 0,
       "text": "Wagon",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "0f329866fc7fc27a",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.0f329866fc7fc27a",
       "type": 0,
       "text": "Treehouse",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "5049548cdf9df35e",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.5049548cdf9df35e",
       "type": 0,
       "text": "Basement",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "e568bd6257fa24de",
+      "_key": "!tables.results!06a0b1faa7c0d8a7.e568bd6257fa24de",
       "type": 0,
       "text": "Hut",
       "weight": 1,

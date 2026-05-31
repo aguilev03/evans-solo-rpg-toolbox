@@ -1,11 +1,13 @@
 {
   "_id": "4c71aa48d7d2e905",
+  "_key": "!tables!4c71aa48d7d2e905",
   "name": "Monsters",
   "img": "icons/svg/d20-grey.svg",
   "description": "Proactively compiled list of monsters from Biome Encounters",
   "results": [
     {
       "_id": "c6dec0b20bfb4c4b",
+      "_key": "!tables.results!4c71aa48d7d2e905.c6dec0b20bfb4c4b",
       "type": 0,
       "text": "Dinosaurs",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "1f7af9c2cadbf370",
+      "_key": "!tables.results!4c71aa48d7d2e905.1f7af9c2cadbf370",
       "type": 0,
       "text": "Ogres",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "ba3515bdc5b0f978",
+      "_key": "!tables.results!4c71aa48d7d2e905.ba3515bdc5b0f978",
       "type": 0,
       "text": "Giant rats",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "0d691ef307f7380b",
+      "_key": "!tables.results!4c71aa48d7d2e905.0d691ef307f7380b",
       "type": 0,
       "text": "Wolves",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "04406c62e98ceaba",
+      "_key": "!tables.results!4c71aa48d7d2e905.04406c62e98ceaba",
       "type": 0,
       "text": "Worgs",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "922715ff26e46315",
+      "_key": "!tables.results!4c71aa48d7d2e905.922715ff26e46315",
       "type": 0,
       "text": "Werewolves",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "04752f412a1faf2b",
+      "_key": "!tables.results!4c71aa48d7d2e905.04752f412a1faf2b",
       "type": 0,
       "text": "Ents",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "8919833a363a14b4",
+      "_key": "!tables.results!4c71aa48d7d2e905.8919833a363a14b4",
       "type": 0,
       "text": "Giant spiders",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "88182dba2786f51d",
+      "_key": "!tables.results!4c71aa48d7d2e905.88182dba2786f51d",
       "type": 0,
       "text": "Bears",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "abc6d018d348e000",
+      "_key": "!tables.results!4c71aa48d7d2e905.abc6d018d348e000",
       "type": 0,
       "text": "Boars",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "3c65646035a4b1dd",
+      "_key": "!tables.results!4c71aa48d7d2e905.3c65646035a4b1dd",
       "type": 0,
       "text": "Dryads",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "2bf1d793e7d3c9de",
+      "_key": "!tables.results!4c71aa48d7d2e905.2bf1d793e7d3c9de",
       "type": 0,
       "text": "Manticores",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "75228e5b918b328d",
+      "_key": "!tables.results!4c71aa48d7d2e905.75228e5b918b328d",
       "type": 0,
       "text": "Basilisks",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "c0c99991c9b80d4b",
+      "_key": "!tables.results!4c71aa48d7d2e905.c0c99991c9b80d4b",
       "type": 0,
       "text": "Giants",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "06de979723e25cdb",
+      "_key": "!tables.results!4c71aa48d7d2e905.06de979723e25cdb",
       "type": 0,
       "text": "Wyverns",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "e3aa4fd8e425e338",
+      "_key": "!tables.results!4c71aa48d7d2e905.e3aa4fd8e425e338",
       "type": 0,
       "text": "Trolls",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "23879ef60c2da3a7",
+      "_key": "!tables.results!4c71aa48d7d2e905.23879ef60c2da3a7",
       "type": 0,
       "text": "Skeletons",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "792babc6b72e58bc",
+      "_key": "!tables.results!4c71aa48d7d2e905.792babc6b72e58bc",
       "type": 0,
       "text": "Crocodiles",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "c33fbf00585fb659",
+      "_key": "!tables.results!4c71aa48d7d2e905.c33fbf00585fb659",
       "type": 0,
       "text": "Zombies",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "1c68982e21b2fe15",
+      "_key": "!tables.results!4c71aa48d7d2e905.1c68982e21b2fe15",
       "type": 0,
       "text": "Hydras",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "0a6a3d7553b2d350",
+      "_key": "!tables.results!4c71aa48d7d2e905.0a6a3d7553b2d350",
       "type": 0,
       "text": "Griffins",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "1eb6d82a43259be1",
+      "_key": "!tables.results!4c71aa48d7d2e905.1eb6d82a43259be1",
       "type": 0,
       "text": "Smilodons",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "20917c1b4fe9d803",
+      "_key": "!tables.results!4c71aa48d7d2e905.20917c1b4fe9d803",
       "type": 0,
       "text": "Vampires",
       "weight": 1,

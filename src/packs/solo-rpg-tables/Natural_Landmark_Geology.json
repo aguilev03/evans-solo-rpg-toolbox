@@ -1,11 +1,13 @@
 {
   "_id": "bfd6ec9e4558e500",
+  "_key": "!tables!bfd6ec9e4558e500",
   "name": "Natural Landmark Geology",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "019665967de283fb",
+      "_key": "!tables.results!bfd6ec9e4558e500.019665967de283fb",
       "type": 0,
       "text": "Animal shaped rock",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "5fa4e3171d779c32",
+      "_key": "!tables.results!bfd6ec9e4558e500.5fa4e3171d779c32",
       "type": 0,
       "text": "Cave",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "e1250bfa0663dba0",
+      "_key": "!tables.results!bfd6ec9e4558e500.e1250bfa0663dba0",
       "type": 0,
       "text": "Chasm",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "9b961768d224941b",
+      "_key": "!tables.results!bfd6ec9e4558e500.9b961768d224941b",
       "type": 0,
       "text": "Crater",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "817376c6aa3177bf",
+      "_key": "!tables.results!bfd6ec9e4558e500.817376c6aa3177bf",
       "type": 0,
       "text": "Crystalline proliferation",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "ca15c578f19e5603",
+      "_key": "!tables.results!bfd6ec9e4558e500.ca15c578f19e5603",
       "type": 0,
       "text": "Giant crystal",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "1f7ba65f18b7c612",
+      "_key": "!tables.results!bfd6ec9e4558e500.1f7ba65f18b7c612",
       "type": 0,
       "text": "Lava pool",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "fdd3d3d5058d7e34",
+      "_key": "!tables.results!bfd6ec9e4558e500.fdd3d3d5058d7e34",
       "type": 0,
       "text": "Mudpit",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "fde6e723e9a8fd40",
+      "_key": "!tables.results!bfd6ec9e4558e500.fde6e723e9a8fd40",
       "type": 0,
       "text": "Pit",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "7d75015c8342d228",
+      "_key": "!tables.results!bfd6ec9e4558e500.7d75015c8342d228",
       "type": 0,
       "text": "Precious metal vein",
       "weight": 1,

@@ -1,11 +1,13 @@
 {
   "_id": "a0f5d18b83b85d66",
+  "_key": "!tables!a0f5d18b83b85d66",
   "name": "Mystery Elements Table - Suspects",
   "img": "icons/svg/d20-grey.svg",
   "description": "Mystery Elements Table - Suspects",
   "results": [
     {
       "_id": "a0a61f87509cd33b",
+      "_key": "!tables.results!a0f5d18b83b85d66.a0a61f87509cd33b",
       "type": 0,
       "text": "New Suspect",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "a3633009e15b8f65",
+      "_key": "!tables.results!a0f5d18b83b85d66.a3633009e15b8f65",
       "type": 0,
       "text": "New Linked Suspect",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "8520b3797b8b3289",
+      "_key": "!tables.results!a0f5d18b83b85d66.8520b3797b8b3289",
       "type": 0,
       "text": "Link Clue To Suspect or New Suspect",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "c9310e2bd8b4ac3f",
+      "_key": "!tables.results!a0f5d18b83b85d66.c9310e2bd8b4ac3f",
       "type": 0,
       "text": "Roll Twice or Link Clue To Suspect",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "54e8a1a287667c70",
+      "_key": "!tables.results!a0f5d18b83b85d66.54e8a1a287667c70",
       "type": 0,
       "text": "New Suspect",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "2fcd40bc6ece2050",
+      "_key": "!tables.results!a0f5d18b83b85d66.2fcd40bc6ece2050",
       "type": 0,
       "text": "Special",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "9ad41c9f0597d9e0",
+      "_key": "!tables.results!a0f5d18b83b85d66.9ad41c9f0597d9e0",
       "type": 0,
       "text": "Link Clue To Suspect",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "b88ab7fac8b0f7d3",
+      "_key": "!tables.results!a0f5d18b83b85d66.b88ab7fac8b0f7d3",
       "type": 0,
       "text": "Link Clue To Suspect, PP-6",
       "weight": 1,

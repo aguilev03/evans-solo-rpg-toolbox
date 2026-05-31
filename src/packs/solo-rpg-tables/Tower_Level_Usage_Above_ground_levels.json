@@ -1,11 +1,13 @@
 {
   "_id": "8c66e022579c3023",
+  "_key": "!tables!8c66e022579c3023",
   "name": "Tower Level Usage Above ground levels",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "0b37fc3b2540fd06",
+      "_key": "!tables.results!8c66e022579c3023.0b37fc3b2540fd06",
       "type": 0,
       "text": "Abandoned/Cursed level",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "ec7ae9d82911128c",
+      "_key": "!tables.results!8c66e022579c3023.ec7ae9d82911128c",
       "type": 0,
       "text": "Archives",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "f15943013281d8cd",
+      "_key": "!tables.results!8c66e022579c3023.f15943013281d8cd",
       "type": 0,
       "text": "Armory",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "8d7e36ff29377153",
+      "_key": "!tables.results!8c66e022579c3023.8d7e36ff29377153",
       "type": 0,
       "text": "Bedroom(s)",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "d3df07c2725108e0",
+      "_key": "!tables.results!8c66e022579c3023.d3df07c2725108e0",
       "type": 0,
       "text": "Kitchen and dining room",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "d32a24b70fb88f13",
+      "_key": "!tables.results!8c66e022579c3023.d32a24b70fb88f13",
       "type": 0,
       "text": "Laboratory",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "6e78017712888c01",
+      "_key": "!tables.results!8c66e022579c3023.6e78017712888c01",
       "type": 0,
       "text": "Library",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "d0eb57641d60f94e",
+      "_key": "!tables.results!8c66e022579c3023.d0eb57641d60f94e",
       "type": 0,
       "text": "Meeting room",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "c9e523c8c0ccdcbd",
+      "_key": "!tables.results!8c66e022579c3023.c9e523c8c0ccdcbd",
       "type": 0,
       "text": "Museum",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "edea26ec481fa346",
+      "_key": "!tables.results!8c66e022579c3023.edea26ec481fa346",
       "type": 0,
       "text": "Music room/Art room",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "6634f765a50c47af",
+      "_key": "!tables.results!8c66e022579c3023.6634f765a50c47af",
       "type": 0,
       "text": "Office/Study",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "4d75c9f6e6052bbf",
+      "_key": "!tables.results!8c66e022579c3023.4d75c9f6e6052bbf",
       "type": 0,
       "text": "Storage room",
       "weight": 1,

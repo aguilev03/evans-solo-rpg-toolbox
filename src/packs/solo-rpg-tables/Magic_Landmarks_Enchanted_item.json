@@ -1,11 +1,13 @@
 {
   "_id": "7e3fb5eed6027709",
+  "_key": "!tables!7e3fb5eed6027709",
   "name": "Magic Landmarks Enchanted item",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "22539ccd2dd3a395",
+      "_key": "!tables.results!7e3fb5eed6027709.22539ccd2dd3a395",
       "type": 0,
       "text": "Curative basin",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "9c3d1bb230d489d8",
+      "_key": "!tables.results!7e3fb5eed6027709.9c3d1bb230d489d8",
       "type": 0,
       "text": "Enchanted bell",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "ff61325b380a88f2",
+      "_key": "!tables.results!7e3fb5eed6027709.ff61325b380a88f2",
       "type": 0,
       "text": "Fertility stone",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "d2d60262d59cdfa5",
+      "_key": "!tables.results!7e3fb5eed6027709.d2d60262d59cdfa5",
       "type": 0,
       "text": "Magic fountain/spring",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "7a476cb839574762",
+      "_key": "!tables.results!7e3fb5eed6027709.7a476cb839574762",
       "type": 0,
       "text": "Magic fruits tree",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "eeb582bb2476c4f4",
+      "_key": "!tables.results!7e3fb5eed6027709.eeb582bb2476c4f4",
       "type": 0,
       "text": "Mutation pit",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "13f742e0b2132dab",
+      "_key": "!tables.results!7e3fb5eed6027709.13f742e0b2132dab",
       "type": 0,
       "text": "Stone of knowledge",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "b3552d964f9b9913",
+      "_key": "!tables.results!7e3fb5eed6027709.b3552d964f9b9913",
       "type": 0,
       "text": "Sword stuck in a rock",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "7d736aef679c012f",
+      "_key": "!tables.results!7e3fb5eed6027709.7d736aef679c012f",
       "type": 0,
       "text": "Visions pool",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "da20b4b3da094b60",
+      "_key": "!tables.results!7e3fb5eed6027709.da20b4b3da094b60",
       "type": 0,
       "text": "Witch cauldron",
       "weight": 1,

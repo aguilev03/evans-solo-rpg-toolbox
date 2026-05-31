@@ -1,11 +1,13 @@
 {
   "_id": "a21ef19fdccf37ca",
+  "_key": "!tables!a21ef19fdccf37ca",
   "name": "Tower Underground levels",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "7abf9ee919e68c34",
+      "_key": "!tables.results!a21ef19fdccf37ca.7abf9ee919e68c34",
       "type": 0,
       "text": "Abandoned/Cursed level",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "57ba848ad13794d0",
+      "_key": "!tables.results!a21ef19fdccf37ca.57ba848ad13794d0",
       "type": 0,
       "text": "Alchemy lab",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "61c86c3aad1cd443",
+      "_key": "!tables.results!a21ef19fdccf37ca.61c86c3aad1cd443",
       "type": 0,
       "text": "Cellar",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "d9264719932e16ae",
+      "_key": "!tables.results!a21ef19fdccf37ca.d9264719932e16ae",
       "type": 0,
       "text": "Chapel",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "37ba85e29dc09d67",
+      "_key": "!tables.results!a21ef19fdccf37ca.37ba85e29dc09d67",
       "type": 0,
       "text": "Forge",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "5e3d85d0727f5293",
+      "_key": "!tables.results!a21ef19fdccf37ca.5e3d85d0727f5293",
       "type": 0,
       "text": "Menagerie",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "78c9ec2b4efe2f29",
+      "_key": "!tables.results!a21ef19fdccf37ca.78c9ec2b4efe2f29",
       "type": 0,
       "text": "Mushroom cave",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "088a157971530e41",
+      "_key": "!tables.results!a21ef19fdccf37ca.088a157971530e41",
       "type": 0,
       "text": "Prison",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "b4bfa288750a54b8",
+      "_key": "!tables.results!a21ef19fdccf37ca.b4bfa288750a54b8",
       "type": 0,
       "text": "Rituals room",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "c4ed6408ad00b96e",
+      "_key": "!tables.results!a21ef19fdccf37ca.c4ed6408ad00b96e",
       "type": 0,
       "text": "Storage",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "a8c67c87219d44fa",
+      "_key": "!tables.results!a21ef19fdccf37ca.a8c67c87219d44fa",
       "type": 0,
       "text": "Torture room",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "a0ece4e8d935e7b9",
+      "_key": "!tables.results!a21ef19fdccf37ca.a0ece4e8d935e7b9",
       "type": 0,
       "text": "Wine cellar",
       "weight": 1,

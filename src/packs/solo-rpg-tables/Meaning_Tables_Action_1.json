@@ -1,11 +1,13 @@
 {
   "_id": "0cc545b4cee363fa",
+  "_key": "!tables!0cc545b4cee363fa",
   "name": "Meaning Tables Action 1",
   "img": "icons/svg/d20-grey.svg",
   "description": "Meaning Tables Actions 1",
   "results": [
     {
       "_id": "4553d5913e86931f",
+      "_key": "!tables.results!0cc545b4cee363fa.4553d5913e86931f",
       "type": 0,
       "text": "Attainment",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "7e265334f680bef3",
+      "_key": "!tables.results!0cc545b4cee363fa.7e265334f680bef3",
       "type": 0,
       "text": "Starting",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "1eb8b45183baafc7",
+      "_key": "!tables.results!0cc545b4cee363fa.1eb8b45183baafc7",
       "type": 0,
       "text": "Neglect",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "e8923c4c4aeb8ff0",
+      "_key": "!tables.results!0cc545b4cee363fa.e8923c4c4aeb8ff0",
       "type": 0,
       "text": "Fight",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "b90140dc4afaa4da",
+      "_key": "!tables.results!0cc545b4cee363fa.b90140dc4afaa4da",
       "type": 0,
       "text": "Recruit",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "4895027d9de5e39b",
+      "_key": "!tables.results!0cc545b4cee363fa.4895027d9de5e39b",
       "type": 0,
       "text": "Triumph",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "7445ec4f67d2f0c8",
+      "_key": "!tables.results!0cc545b4cee363fa.7445ec4f67d2f0c8",
       "type": 0,
       "text": "Violate",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "4ccd6b2c3732a03e",
+      "_key": "!tables.results!0cc545b4cee363fa.4ccd6b2c3732a03e",
       "type": 0,
       "text": "Oppose",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "afa763c9d8ef57fa",
+      "_key": "!tables.results!0cc545b4cee363fa.afa763c9d8ef57fa",
       "type": 0,
       "text": "Malice",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "328fdbb4d28dd2de",
+      "_key": "!tables.results!0cc545b4cee363fa.328fdbb4d28dd2de",
       "type": 0,
       "text": "Communicate",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "f70b05dbcc8e02df",
+      "_key": "!tables.results!0cc545b4cee363fa.f70b05dbcc8e02df",
       "type": 0,
       "text": "Persecute",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "3b16b9c472101a89",
+      "_key": "!tables.results!0cc545b4cee363fa.3b16b9c472101a89",
       "type": 0,
       "text": "Increase",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "572479540ad5bf30",
+      "_key": "!tables.results!0cc545b4cee363fa.572479540ad5bf30",
       "type": 0,
       "text": "Decrease",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "41e59afc14bfaa9f",
+      "_key": "!tables.results!0cc545b4cee363fa.41e59afc14bfaa9f",
       "type": 0,
       "text": "Abandon",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "84aff5ba90a8d317",
+      "_key": "!tables.results!0cc545b4cee363fa.84aff5ba90a8d317",
       "type": 0,
       "text": "Gratify",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "eb28e5f59c349b2e",
+      "_key": "!tables.results!0cc545b4cee363fa.eb28e5f59c349b2e",
       "type": 0,
       "text": "Inquire",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "63171b549733b1bb",
+      "_key": "!tables.results!0cc545b4cee363fa.63171b549733b1bb",
       "type": 0,
       "text": "Antagonize",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "fe052510e1513332",
+      "_key": "!tables.results!0cc545b4cee363fa.fe052510e1513332",
       "type": 0,
       "text": "Move",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "7f83dc1811ad7d11",
+      "_key": "!tables.results!0cc545b4cee363fa.7f83dc1811ad7d11",
       "type": 0,
       "text": "Waste",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "dc591a4502486e76",
+      "_key": "!tables.results!0cc545b4cee363fa.dc591a4502486e76",
       "type": 0,
       "text": "Truce",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "cbec997cf3e44347",
+      "_key": "!tables.results!0cc545b4cee363fa.cbec997cf3e44347",
       "type": 0,
       "text": "Release",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "100f02d4a167e5a6",
+      "_key": "!tables.results!0cc545b4cee363fa.100f02d4a167e5a6",
       "type": 0,
       "text": "Befriend",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "45d474e78c77614e",
+      "_key": "!tables.results!0cc545b4cee363fa.45d474e78c77614e",
       "type": 0,
       "text": "Judge",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "731501a2e9b54b7f",
+      "_key": "!tables.results!0cc545b4cee363fa.731501a2e9b54b7f",
       "type": 0,
       "text": "Desert",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "1342fa265c2dd23a",
+      "_key": "!tables.results!0cc545b4cee363fa.1342fa265c2dd23a",
       "type": 0,
       "text": "Dominate",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "90c35343b28f950e",
+      "_key": "!tables.results!0cc545b4cee363fa.90c35343b28f950e",
       "type": 0,
       "text": "Procrastinate",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "5cd0c3ccaf0339e4",
+      "_key": "!tables.results!0cc545b4cee363fa.5cd0c3ccaf0339e4",
       "type": 0,
       "text": "Praise",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "02fe439ef1fd28e5",
+      "_key": "!tables.results!0cc545b4cee363fa.02fe439ef1fd28e5",
       "type": 0,
       "text": "Separate",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "530c2100ecddb8e3",
+      "_key": "!tables.results!0cc545b4cee363fa.530c2100ecddb8e3",
       "type": 0,
       "text": "Take",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "6adf16f514985628",
+      "_key": "!tables.results!0cc545b4cee363fa.6adf16f514985628",
       "type": 0,
       "text": "Break",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "d3d907009846c6b9",
+      "_key": "!tables.results!0cc545b4cee363fa.d3d907009846c6b9",
       "type": 0,
       "text": "Heal",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "db4f19baec2fb850",
+      "_key": "!tables.results!0cc545b4cee363fa.db4f19baec2fb850",
       "type": 0,
       "text": "Delay",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "adf7c30f0a232bba",
+      "_key": "!tables.results!0cc545b4cee363fa.adf7c30f0a232bba",
       "type": 0,
       "text": "Stop",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "ae7886c52a2c326d",
+      "_key": "!tables.results!0cc545b4cee363fa.ae7886c52a2c326d",
       "type": 0,
       "text": "Lie",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "992df20bc8998870",
+      "_key": "!tables.results!0cc545b4cee363fa.992df20bc8998870",
       "type": 0,
       "text": "Return",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "3f78c30833e7dcb9",
+      "_key": "!tables.results!0cc545b4cee363fa.3f78c30833e7dcb9",
       "type": 0,
       "text": "Imitate",
       "weight": 1,
@@ -510,6 +547,7 @@
     },
     {
       "_id": "ad15c2d94078a8f0",
+      "_key": "!tables.results!0cc545b4cee363fa.ad15c2d94078a8f0",
       "type": 0,
       "text": "Struggle",
       "weight": 1,
@@ -524,6 +562,7 @@
     },
     {
       "_id": "0307f0e43ddef81c",
+      "_key": "!tables.results!0cc545b4cee363fa.0307f0e43ddef81c",
       "type": 0,
       "text": "Inform",
       "weight": 1,
@@ -538,6 +577,7 @@
     },
     {
       "_id": "477f8081913cb2e9",
+      "_key": "!tables.results!0cc545b4cee363fa.477f8081913cb2e9",
       "type": 0,
       "text": "Bestow",
       "weight": 1,
@@ -552,6 +592,7 @@
     },
     {
       "_id": "228f9a3d1ec90b67",
+      "_key": "!tables.results!0cc545b4cee363fa.228f9a3d1ec90b67",
       "type": 0,
       "text": "Postpone",
       "weight": 1,
@@ -566,6 +607,7 @@
     },
     {
       "_id": "381fcce69ada5338",
+      "_key": "!tables.results!0cc545b4cee363fa.381fcce69ada5338",
       "type": 0,
       "text": "Expose",
       "weight": 1,
@@ -580,6 +622,7 @@
     },
     {
       "_id": "5ec20c084e11dca8",
+      "_key": "!tables.results!0cc545b4cee363fa.5ec20c084e11dca8",
       "type": 0,
       "text": "Haggle",
       "weight": 1,
@@ -594,6 +637,7 @@
     },
     {
       "_id": "2b2912d26f9dec12",
+      "_key": "!tables.results!0cc545b4cee363fa.2b2912d26f9dec12",
       "type": 0,
       "text": "Imprison",
       "weight": 1,
@@ -608,6 +652,7 @@
     },
     {
       "_id": "f2f4f0a2411ccea4",
+      "_key": "!tables.results!0cc545b4cee363fa.f2f4f0a2411ccea4",
       "type": 0,
       "text": "Release",
       "weight": 1,
@@ -622,6 +667,7 @@
     },
     {
       "_id": "9ca8f277ac4bac8b",
+      "_key": "!tables.results!0cc545b4cee363fa.9ca8f277ac4bac8b",
       "type": 0,
       "text": "Celebrate",
       "weight": 1,
@@ -636,6 +682,7 @@
     },
     {
       "_id": "b4e73f58b20a41a9",
+      "_key": "!tables.results!0cc545b4cee363fa.b4e73f58b20a41a9",
       "type": 0,
       "text": "Develop",
       "weight": 1,
@@ -650,6 +697,7 @@
     },
     {
       "_id": "98448244de20d7cc",
+      "_key": "!tables.results!0cc545b4cee363fa.98448244de20d7cc",
       "type": 0,
       "text": "Travel",
       "weight": 1,
@@ -664,6 +712,7 @@
     },
     {
       "_id": "54c0539388717b02",
+      "_key": "!tables.results!0cc545b4cee363fa.54c0539388717b02",
       "type": 0,
       "text": "Block",
       "weight": 1,
@@ -678,6 +727,7 @@
     },
     {
       "_id": "f20f191d854d4252",
+      "_key": "!tables.results!0cc545b4cee363fa.f20f191d854d4252",
       "type": 0,
       "text": "Harm",
       "weight": 1,
@@ -692,6 +742,7 @@
     },
     {
       "_id": "10320eacabf1a143",
+      "_key": "!tables.results!0cc545b4cee363fa.10320eacabf1a143",
       "type": 0,
       "text": "Debase",
       "weight": 1,
@@ -706,6 +757,7 @@
     },
     {
       "_id": "c57c7efea67e72ba",
+      "_key": "!tables.results!0cc545b4cee363fa.c57c7efea67e72ba",
       "type": 0,
       "text": "Overindulge",
       "weight": 1,
@@ -720,6 +772,7 @@
     },
     {
       "_id": "8ac87dd7e72c0b4c",
+      "_key": "!tables.results!0cc545b4cee363fa.8ac87dd7e72c0b4c",
       "type": 0,
       "text": "Adjourn",
       "weight": 1,
@@ -734,6 +787,7 @@
     },
     {
       "_id": "b74359e3d5e2006d",
+      "_key": "!tables.results!0cc545b4cee363fa.b74359e3d5e2006d",
       "type": 0,
       "text": "Adversity",
       "weight": 1,
@@ -748,6 +802,7 @@
     },
     {
       "_id": "6b864365ef430d64",
+      "_key": "!tables.results!0cc545b4cee363fa.6b864365ef430d64",
       "type": 0,
       "text": "Kill",
       "weight": 1,
@@ -762,6 +817,7 @@
     },
     {
       "_id": "66ad409bb610c06d",
+      "_key": "!tables.results!0cc545b4cee363fa.66ad409bb610c06d",
       "type": 0,
       "text": "Disrupt",
       "weight": 1,
@@ -776,6 +832,7 @@
     },
     {
       "_id": "35fbc075582d8d53",
+      "_key": "!tables.results!0cc545b4cee363fa.35fbc075582d8d53",
       "type": 0,
       "text": "Usurp",
       "weight": 1,
@@ -790,6 +847,7 @@
     },
     {
       "_id": "b3ce9533c628c926",
+      "_key": "!tables.results!0cc545b4cee363fa.b3ce9533c628c926",
       "type": 0,
       "text": "Create",
       "weight": 1,
@@ -804,6 +862,7 @@
     },
     {
       "_id": "2fdb58f3add0a794",
+      "_key": "!tables.results!0cc545b4cee363fa.2fdb58f3add0a794",
       "type": 0,
       "text": "Betray",
       "weight": 1,
@@ -818,6 +877,7 @@
     },
     {
       "_id": "4796ff73f18855b2",
+      "_key": "!tables.results!0cc545b4cee363fa.4796ff73f18855b2",
       "type": 0,
       "text": "Agree",
       "weight": 1,
@@ -832,6 +892,7 @@
     },
     {
       "_id": "bdccba009e73b20c",
+      "_key": "!tables.results!0cc545b4cee363fa.bdccba009e73b20c",
       "type": 0,
       "text": "Abuse",
       "weight": 1,
@@ -846,6 +907,7 @@
     },
     {
       "_id": "24b7df1e7ebc76ea",
+      "_key": "!tables.results!0cc545b4cee363fa.24b7df1e7ebc76ea",
       "type": 0,
       "text": "Oppress",
       "weight": 1,
@@ -860,6 +922,7 @@
     },
     {
       "_id": "7d45a6e2f5ab8cbb",
+      "_key": "!tables.results!0cc545b4cee363fa.7d45a6e2f5ab8cbb",
       "type": 0,
       "text": "Inspect",
       "weight": 1,
@@ -874,6 +937,7 @@
     },
     {
       "_id": "bfe1faf345d71710",
+      "_key": "!tables.results!0cc545b4cee363fa.bfe1faf345d71710",
       "type": 0,
       "text": "Ambush",
       "weight": 1,
@@ -888,6 +952,7 @@
     },
     {
       "_id": "baa1fd05445968a2",
+      "_key": "!tables.results!0cc545b4cee363fa.baa1fd05445968a2",
       "type": 0,
       "text": "Spy",
       "weight": 1,
@@ -902,6 +967,7 @@
     },
     {
       "_id": "a9faef86464847d3",
+      "_key": "!tables.results!0cc545b4cee363fa.a9faef86464847d3",
       "type": 0,
       "text": "Attach",
       "weight": 1,
@@ -916,6 +982,7 @@
     },
     {
       "_id": "ed84ef234477b298",
+      "_key": "!tables.results!0cc545b4cee363fa.ed84ef234477b298",
       "type": 0,
       "text": "Carry",
       "weight": 1,
@@ -930,6 +997,7 @@
     },
     {
       "_id": "fd08d2a85208bad7",
+      "_key": "!tables.results!0cc545b4cee363fa.fd08d2a85208bad7",
       "type": 0,
       "text": "Open",
       "weight": 1,
@@ -944,6 +1012,7 @@
     },
     {
       "_id": "9f6411bc817c1d9e",
+      "_key": "!tables.results!0cc545b4cee363fa.9f6411bc817c1d9e",
       "type": 0,
       "text": "Carelessness",
       "weight": 1,
@@ -958,6 +1027,7 @@
     },
     {
       "_id": "d0d0c46360837703",
+      "_key": "!tables.results!0cc545b4cee363fa.d0d0c46360837703",
       "type": 0,
       "text": "Ruin",
       "weight": 1,
@@ -972,6 +1042,7 @@
     },
     {
       "_id": "ab2b2602c318e3e1",
+      "_key": "!tables.results!0cc545b4cee363fa.ab2b2602c318e3e1",
       "type": 0,
       "text": "Extravagance",
       "weight": 1,
@@ -986,6 +1057,7 @@
     },
     {
       "_id": "8e325c9b41489f26",
+      "_key": "!tables.results!0cc545b4cee363fa.8e325c9b41489f26",
       "type": 0,
       "text": "Trick",
       "weight": 1,
@@ -1000,6 +1072,7 @@
     },
     {
       "_id": "23e12318fc089790",
+      "_key": "!tables.results!0cc545b4cee363fa.23e12318fc089790",
       "type": 0,
       "text": "Arrive",
       "weight": 1,
@@ -1014,6 +1087,7 @@
     },
     {
       "_id": "b7c39df8d0011ef9",
+      "_key": "!tables.results!0cc545b4cee363fa.b7c39df8d0011ef9",
       "type": 0,
       "text": "Propose",
       "weight": 1,
@@ -1028,6 +1102,7 @@
     },
     {
       "_id": "e11490d4cef78727",
+      "_key": "!tables.results!0cc545b4cee363fa.e11490d4cef78727",
       "type": 0,
       "text": "Divide",
       "weight": 1,
@@ -1042,6 +1117,7 @@
     },
     {
       "_id": "7fc65476f102a3a2",
+      "_key": "!tables.results!0cc545b4cee363fa.7fc65476f102a3a2",
       "type": 0,
       "text": "Refuse",
       "weight": 1,
@@ -1056,6 +1132,7 @@
     },
     {
       "_id": "ff1f07e9f4ec3e53",
+      "_key": "!tables.results!0cc545b4cee363fa.ff1f07e9f4ec3e53",
       "type": 0,
       "text": "Mistrust",
       "weight": 1,
@@ -1070,6 +1147,7 @@
     },
     {
       "_id": "709b0ed3b0fec511",
+      "_key": "!tables.results!0cc545b4cee363fa.709b0ed3b0fec511",
       "type": 0,
       "text": "Deceive",
       "weight": 1,
@@ -1084,6 +1162,7 @@
     },
     {
       "_id": "9016585998eed3fd",
+      "_key": "!tables.results!0cc545b4cee363fa.9016585998eed3fd",
       "type": 0,
       "text": "Cruelty",
       "weight": 1,
@@ -1098,6 +1177,7 @@
     },
     {
       "_id": "70e261209b5d317d",
+      "_key": "!tables.results!0cc545b4cee363fa.70e261209b5d317d",
       "type": 0,
       "text": "Intolerance",
       "weight": 1,
@@ -1112,6 +1192,7 @@
     },
     {
       "_id": "ed7895105095db18",
+      "_key": "!tables.results!0cc545b4cee363fa.ed7895105095db18",
       "type": 0,
       "text": "Trust",
       "weight": 1,
@@ -1126,6 +1207,7 @@
     },
     {
       "_id": "51c7effd25fd5ac1",
+      "_key": "!tables.results!0cc545b4cee363fa.51c7effd25fd5ac1",
       "type": 0,
       "text": "Excitement",
       "weight": 1,
@@ -1140,6 +1222,7 @@
     },
     {
       "_id": "ee3255342fb8c349",
+      "_key": "!tables.results!0cc545b4cee363fa.ee3255342fb8c349",
       "type": 0,
       "text": "Activity",
       "weight": 1,
@@ -1154,6 +1237,7 @@
     },
     {
       "_id": "43afcfa98d4f8145",
+      "_key": "!tables.results!0cc545b4cee363fa.43afcfa98d4f8145",
       "type": 0,
       "text": "Assist",
       "weight": 1,
@@ -1168,6 +1252,7 @@
     },
     {
       "_id": "e1cdaeba7fbc3343",
+      "_key": "!tables.results!0cc545b4cee363fa.e1cdaeba7fbc3343",
       "type": 0,
       "text": "Care",
       "weight": 1,
@@ -1182,6 +1267,7 @@
     },
     {
       "_id": "812b48d41350dc22",
+      "_key": "!tables.results!0cc545b4cee363fa.812b48d41350dc22",
       "type": 0,
       "text": "Negligence",
       "weight": 1,
@@ -1196,6 +1282,7 @@
     },
     {
       "_id": "c373fea9e3da007c",
+      "_key": "!tables.results!0cc545b4cee363fa.c373fea9e3da007c",
       "type": 0,
       "text": "Passion",
       "weight": 1,
@@ -1210,6 +1297,7 @@
     },
     {
       "_id": "adb05c18115c2918",
+      "_key": "!tables.results!0cc545b4cee363fa.adb05c18115c2918",
       "type": 0,
       "text": "Work",
       "weight": 1,
@@ -1224,6 +1312,7 @@
     },
     {
       "_id": "df183030fce05abe",
+      "_key": "!tables.results!0cc545b4cee363fa.df183030fce05abe",
       "type": 0,
       "text": "Control",
       "weight": 1,
@@ -1238,6 +1327,7 @@
     },
     {
       "_id": "c1813d875fb429de",
+      "_key": "!tables.results!0cc545b4cee363fa.c1813d875fb429de",
       "type": 0,
       "text": "Attract",
       "weight": 1,
@@ -1252,6 +1342,7 @@
     },
     {
       "_id": "92fcabe7e67bf072",
+      "_key": "!tables.results!0cc545b4cee363fa.92fcabe7e67bf072",
       "type": 0,
       "text": "Failure",
       "weight": 1,
@@ -1266,6 +1357,7 @@
     },
     {
       "_id": "aa25e62d0c01b2db",
+      "_key": "!tables.results!0cc545b4cee363fa.aa25e62d0c01b2db",
       "type": 0,
       "text": "Pursue",
       "weight": 1,
@@ -1280,6 +1372,7 @@
     },
     {
       "_id": "a4ca25fb731854ef",
+      "_key": "!tables.results!0cc545b4cee363fa.a4ca25fb731854ef",
       "type": 0,
       "text": "Vengeance",
       "weight": 1,
@@ -1294,6 +1387,7 @@
     },
     {
       "_id": "a5562790cbb1ef82",
+      "_key": "!tables.results!0cc545b4cee363fa.a5562790cbb1ef82",
       "type": 0,
       "text": "Proceedings",
       "weight": 1,
@@ -1308,6 +1402,7 @@
     },
     {
       "_id": "beefd1b31f24fd96",
+      "_key": "!tables.results!0cc545b4cee363fa.beefd1b31f24fd96",
       "type": 0,
       "text": "Dispute",
       "weight": 1,
@@ -1322,6 +1417,7 @@
     },
     {
       "_id": "f764c254c316a27d",
+      "_key": "!tables.results!0cc545b4cee363fa.f764c254c316a27d",
       "type": 0,
       "text": "Punish",
       "weight": 1,
@@ -1336,6 +1432,7 @@
     },
     {
       "_id": "5aa764aeacc13c58",
+      "_key": "!tables.results!0cc545b4cee363fa.5aa764aeacc13c58",
       "type": 0,
       "text": "Guide",
       "weight": 1,
@@ -1350,6 +1447,7 @@
     },
     {
       "_id": "68f1ab8f09de2b0c",
+      "_key": "!tables.results!0cc545b4cee363fa.68f1ab8f09de2b0c",
       "type": 0,
       "text": "Transform",
       "weight": 1,
@@ -1364,6 +1462,7 @@
     },
     {
       "_id": "609f551794c64949",
+      "_key": "!tables.results!0cc545b4cee363fa.609f551794c64949",
       "type": 0,
       "text": "Overthrow",
       "weight": 1,
@@ -1378,6 +1477,7 @@
     },
     {
       "_id": "776e49bbc0c1268c",
+      "_key": "!tables.results!0cc545b4cee363fa.776e49bbc0c1268c",
       "type": 0,
       "text": "Oppress",
       "weight": 1,
@@ -1392,6 +1492,7 @@
     },
     {
       "_id": "ba0c29ef1f217d88",
+      "_key": "!tables.results!0cc545b4cee363fa.ba0c29ef1f217d88",
       "type": 0,
       "text": "Change",
       "weight": 1,

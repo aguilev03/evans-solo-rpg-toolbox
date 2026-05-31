@@ -1,11 +1,13 @@
 {
   "_id": "f020c53fc61582d9",
+  "_key": "!tables!f020c53fc61582d9",
   "name": "Outside appearance Shape",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "62816c03d035007e",
+      "_key": "!tables.results!f020c53fc61582d9.62816c03d035007e",
       "type": 0,
       "text": "Square",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "4d3af90797a1daad",
+      "_key": "!tables.results!f020c53fc61582d9.4d3af90797a1daad",
       "type": 0,
       "text": "Round",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "f6de37161c0c75dc",
+      "_key": "!tables.results!f020c53fc61582d9.f6de37161c0c75dc",
       "type": 0,
       "text": "Conical",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "e9f025de4c7a5c31",
+      "_key": "!tables.results!f020c53fc61582d9.e9f025de4c7a5c31",
       "type": 0,
       "text": "Tilted",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "545befd5fb2d8fff",
+      "_key": "!tables.results!f020c53fc61582d9.545befd5fb2d8fff",
       "type": 0,
       "text": "Asymmetrical",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "e86b60de62f04467",
+      "_key": "!tables.results!f020c53fc61582d9.e86b60de62f04467",
       "type": 0,
       "text": "S-shaped",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "3db79b9095f30cf2",
+      "_key": "!tables.results!f020c53fc61582d9.3db79b9095f30cf2",
       "type": 0,
       "text": "Stacked",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "8423eeb1eea9acba",
+      "_key": "!tables.results!f020c53fc61582d9.8423eeb1eea9acba",
       "type": 0,
       "text": "Twisted",
       "weight": 1,

@@ -1,11 +1,13 @@
 {
   "_id": "295d215142f16663",
+  "_key": "!tables!295d215142f16663",
   "name": "Abbey Additional locations Religious buildings",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "e95b32d0db7bcffa",
+      "_key": "!tables.results!295d215142f16663.e95b32d0db7bcffa",
       "type": 0,
       "text": "Chapter house (for meetings)",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "853f0c1594f4679c",
+      "_key": "!tables.results!295d215142f16663.853f0c1594f4679c",
       "type": 0,
       "text": "Parlour",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "012e6436196e65de",
+      "_key": "!tables.results!295d215142f16663.012e6436196e65de",
       "type": 0,
       "text": "School",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "f78b57cecbb3c2b1",
+      "_key": "!tables.results!295d215142f16663.f78b57cecbb3c2b1",
       "type": 0,
       "text": "Scriptorium and library",
       "weight": 1,

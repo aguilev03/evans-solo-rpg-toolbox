@@ -1,11 +1,13 @@
 {
   "_id": "d504e1adc27a1a2f",
+  "_key": "!tables!d504e1adc27a1a2f",
   "name": "Castle Second name",
   "img": "icons/svg/d20-grey.svg",
   "description": "",
   "results": [
     {
       "_id": "c469895989b9f5c8",
+      "_key": "!tables.results!d504e1adc27a1a2f.c469895989b9f5c8",
       "type": 0,
       "text": "Bane",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "94009306ad9c27fe",
+      "_key": "!tables.results!d504e1adc27a1a2f.94009306ad9c27fe",
       "type": 0,
       "text": "Bridge",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "e44b02079ec79dab",
+      "_key": "!tables.results!d504e1adc27a1a2f.e44b02079ec79dab",
       "type": 0,
       "text": "Fall/Fell",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "1d9447f364baf9fd",
+      "_key": "!tables.results!d504e1adc27a1a2f.1d9447f364baf9fd",
       "type": 0,
       "text": "Fang",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "73abc9899f88fb16",
+      "_key": "!tables.results!d504e1adc27a1a2f.73abc9899f88fb16",
       "type": 0,
       "text": "Foot",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "c113ecbf9cb8f02d",
+      "_key": "!tables.results!d504e1adc27a1a2f.c113ecbf9cb8f02d",
       "type": 0,
       "text": "Heart",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "6b44593be32f140d",
+      "_key": "!tables.results!d504e1adc27a1a2f.6b44593be32f140d",
       "type": 0,
       "text": "Herd",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "b667a0085d203916",
+      "_key": "!tables.results!d504e1adc27a1a2f.b667a0085d203916",
       "type": 0,
       "text": "Hold",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "fd8e1b9bff1f6780",
+      "_key": "!tables.results!d504e1adc27a1a2f.fd8e1b9bff1f6780",
       "type": 0,
       "text": "Hook",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "def5ed14515f74dc",
+      "_key": "!tables.results!d504e1adc27a1a2f.def5ed14515f74dc",
       "type": 0,
       "text": "Keep",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "98155e6b5a12af83",
+      "_key": "!tables.results!d504e1adc27a1a2f.98155e6b5a12af83",
       "type": 0,
       "text": "Maw",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "e18aa3c294d55ea1",
+      "_key": "!tables.results!d504e1adc27a1a2f.e18aa3c294d55ea1",
       "type": 0,
       "text": "Mist",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "355f260390529011",
+      "_key": "!tables.results!d504e1adc27a1a2f.355f260390529011",
       "type": 0,
       "text": "Moor",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "1b3aefb5dfffddb4",
+      "_key": "!tables.results!d504e1adc27a1a2f.1b3aefb5dfffddb4",
       "type": 0,
       "text": "Peak",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "5df019e62d9fb56a",
+      "_key": "!tables.results!d504e1adc27a1a2f.5df019e62d9fb56a",
       "type": 0,
       "text": "Rock",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "102dbf9e0cd7e47c",
+      "_key": "!tables.results!d504e1adc27a1a2f.102dbf9e0cd7e47c",
       "type": 0,
       "text": "Shield",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "5f9bb2db5689074b",
+      "_key": "!tables.results!d504e1adc27a1a2f.5f9bb2db5689074b",
       "type": 0,
       "text": "Skull",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "80c49c3dfd7ab005",
+      "_key": "!tables.results!d504e1adc27a1a2f.80c49c3dfd7ab005",
       "type": 0,
       "text": "Song",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "c1802f3c85f7fe60",
+      "_key": "!tables.results!d504e1adc27a1a2f.c1802f3c85f7fe60",
       "type": 0,
       "text": "Soul",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "4eaa6ed40c81f609",
+      "_key": "!tables.results!d504e1adc27a1a2f.4eaa6ed40c81f609",
       "type": 0,
       "text": "Storm",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "95b945918de16407",
+      "_key": "!tables.results!d504e1adc27a1a2f.95b945918de16407",
       "type": 0,
       "text": "Thorn",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "c0a9c85eb951e62a",
+      "_key": "!tables.results!d504e1adc27a1a2f.c0a9c85eb951e62a",
       "type": 0,
       "text": "Vale",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "7b73378cc28c3f9c",
+      "_key": "!tables.results!d504e1adc27a1a2f.7b73378cc28c3f9c",
       "type": 0,
       "text": "Way",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "d42f39c5d313b652",
+      "_key": "!tables.results!d504e1adc27a1a2f.d42f39c5d313b652",
       "type": 0,
       "text": "Wood",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "94ca495013744668",
+      "_key": "!tables.results!d504e1adc27a1a2f.94ca495013744668",
       "type": 0,
       "text": "Castle Condition",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "e13b3095002d7db6",
+      "_key": "!tables.results!d504e1adc27a1a2f.e13b3095002d7db6",
       "type": 0,
       "text": "Perfect",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "f9c5bc804e46f2dd",
+      "_key": "!tables.results!d504e1adc27a1a2f.f9c5bc804e46f2dd",
       "type": 0,
       "text": "Worn",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "cf3a9b0f130fee76",
+      "_key": "!tables.results!d504e1adc27a1a2f.cf3a9b0f130fee76",
       "type": 0,
       "text": "Aged",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "fbf5a01c5fd27d1f",
+      "_key": "!tables.results!d504e1adc27a1a2f.fbf5a01c5fd27d1f",
       "type": 0,
       "text": "Crumbling",
       "weight": 1,

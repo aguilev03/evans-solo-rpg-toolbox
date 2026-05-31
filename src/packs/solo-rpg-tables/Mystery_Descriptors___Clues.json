@@ -1,11 +1,13 @@
 {
   "_id": "1c2f043938e8cc88",
+  "_key": "!tables!1c2f043938e8cc88",
   "name": "Mystery Descriptors - Clues",
   "img": "icons/svg/d20-grey.svg",
   "description": "List of Possible clues",
   "results": [
     {
       "_id": "a92e354e726f019a",
+      "_key": "!tables.results!1c2f043938e8cc88.a92e354e726f019a",
       "type": 0,
       "text": "Abandoned",
       "weight": 1,
@@ -20,6 +22,7 @@
     },
     {
       "_id": "bd05290256bc3241",
+      "_key": "!tables.results!1c2f043938e8cc88.bd05290256bc3241",
       "type": 0,
       "text": "Abnormal",
       "weight": 1,
@@ -34,6 +37,7 @@
     },
     {
       "_id": "49cf083fea2434de",
+      "_key": "!tables.results!1c2f043938e8cc88.49cf083fea2434de",
       "type": 0,
       "text": "Academic",
       "weight": 1,
@@ -48,6 +52,7 @@
     },
     {
       "_id": "541324c1ab1426ec",
+      "_key": "!tables.results!1c2f043938e8cc88.541324c1ab1426ec",
       "type": 0,
       "text": "Amusing",
       "weight": 1,
@@ -62,6 +67,7 @@
     },
     {
       "_id": "4af184927795856b",
+      "_key": "!tables.results!1c2f043938e8cc88.4af184927795856b",
       "type": 0,
       "text": "Animal",
       "weight": 1,
@@ -76,6 +82,7 @@
     },
     {
       "_id": "6fa89ecc81d84a7d",
+      "_key": "!tables.results!1c2f043938e8cc88.6fa89ecc81d84a7d",
       "type": 0,
       "text": "Aromatic",
       "weight": 1,
@@ -90,6 +97,7 @@
     },
     {
       "_id": "8b71f24baa7974ad",
+      "_key": "!tables.results!1c2f043938e8cc88.8b71f24baa7974ad",
       "type": 0,
       "text": "Art",
       "weight": 1,
@@ -104,6 +112,7 @@
     },
     {
       "_id": "ac7bd191b563b9ed",
+      "_key": "!tables.results!1c2f043938e8cc88.ac7bd191b563b9ed",
       "type": 0,
       "text": "Awkward",
       "weight": 1,
@@ -118,6 +127,7 @@
     },
     {
       "_id": "d53379ad03112ec9",
+      "_key": "!tables.results!1c2f043938e8cc88.d53379ad03112ec9",
       "type": 0,
       "text": "Beautiful",
       "weight": 1,
@@ -132,6 +142,7 @@
     },
     {
       "_id": "c27ca847d775547d",
+      "_key": "!tables.results!1c2f043938e8cc88.c27ca847d775547d",
       "type": 0,
       "text": "Bizarre",
       "weight": 1,
@@ -146,6 +157,7 @@
     },
     {
       "_id": "5c2692d375bc703d",
+      "_key": "!tables.results!1c2f043938e8cc88.5c2692d375bc703d",
       "type": 0,
       "text": "Business",
       "weight": 1,
@@ -160,6 +172,7 @@
     },
     {
       "_id": "03916c923c2ecaf0",
+      "_key": "!tables.results!1c2f043938e8cc88.03916c923c2ecaf0",
       "type": 0,
       "text": "Careless",
       "weight": 1,
@@ -174,6 +187,7 @@
     },
     {
       "_id": "55ba9146be479cb3",
+      "_key": "!tables.results!1c2f043938e8cc88.55ba9146be479cb3",
       "type": 0,
       "text": "Classy",
       "weight": 1,
@@ -188,6 +202,7 @@
     },
     {
       "_id": "cc8aed2669249535",
+      "_key": "!tables.results!1c2f043938e8cc88.cc8aed2669249535",
       "type": 0,
       "text": "Clean",
       "weight": 1,
@@ -202,6 +217,7 @@
     },
     {
       "_id": "9d557baefdb7ef13",
+      "_key": "!tables.results!1c2f043938e8cc88.9d557baefdb7ef13",
       "type": 0,
       "text": "Clothing",
       "weight": 1,
@@ -216,6 +232,7 @@
     },
     {
       "_id": "65f53e868fc6c79d",
+      "_key": "!tables.results!1c2f043938e8cc88.65f53e868fc6c79d",
       "type": 0,
       "text": "Cold",
       "weight": 1,
@@ -230,6 +247,7 @@
     },
     {
       "_id": "d7e78ea275f90f49",
+      "_key": "!tables.results!1c2f043938e8cc88.d7e78ea275f90f49",
       "type": 0,
       "text": "Colorful",
       "weight": 1,
@@ -244,6 +262,7 @@
     },
     {
       "_id": "8c05b3f2e5155811",
+      "_key": "!tables.results!1c2f043938e8cc88.8c05b3f2e5155811",
       "type": 0,
       "text": "Communication",
       "weight": 1,
@@ -258,6 +277,7 @@
     },
     {
       "_id": "85ff199dec616f5d",
+      "_key": "!tables.results!1c2f043938e8cc88.85ff199dec616f5d",
       "type": 0,
       "text": "Complicated",
       "weight": 1,
@@ -272,6 +292,7 @@
     },
     {
       "_id": "f4575c78271ec1fc",
+      "_key": "!tables.results!1c2f043938e8cc88.f4575c78271ec1fc",
       "type": 0,
       "text": "Container",
       "weight": 1,
@@ -286,6 +307,7 @@
     },
     {
       "_id": "62aa08dc3089e9e6",
+      "_key": "!tables.results!1c2f043938e8cc88.62aa08dc3089e9e6",
       "type": 0,
       "text": "Creepy",
       "weight": 1,
@@ -300,6 +322,7 @@
     },
     {
       "_id": "6e796932c939195b",
+      "_key": "!tables.results!1c2f043938e8cc88.6e796932c939195b",
       "type": 0,
       "text": "Damaged",
       "weight": 1,
@@ -314,6 +337,7 @@
     },
     {
       "_id": "c36ea43fafe49eb8",
+      "_key": "!tables.results!1c2f043938e8cc88.c36ea43fafe49eb8",
       "type": 0,
       "text": "Dangerous",
       "weight": 1,
@@ -328,6 +352,7 @@
     },
     {
       "_id": "6890ea57fc0ab759",
+      "_key": "!tables.results!1c2f043938e8cc88.6890ea57fc0ab759",
       "type": 0,
       "text": "Delicate",
       "weight": 1,
@@ -342,6 +367,7 @@
     },
     {
       "_id": "5b89f6b778fa780c",
+      "_key": "!tables.results!1c2f043938e8cc88.5b89f6b778fa780c",
       "type": 0,
       "text": "Descriptive",
       "weight": 1,
@@ -356,6 +382,7 @@
     },
     {
       "_id": "cf8b9b4da8064ad9",
+      "_key": "!tables.results!1c2f043938e8cc88.cf8b9b4da8064ad9",
       "type": 0,
       "text": "Detailed",
       "weight": 1,
@@ -370,6 +397,7 @@
     },
     {
       "_id": "a3c56dfde4079305",
+      "_key": "!tables.results!1c2f043938e8cc88.a3c56dfde4079305",
       "type": 0,
       "text": "Dirty",
       "weight": 1,
@@ -384,6 +412,7 @@
     },
     {
       "_id": "7b66abfe9f1b3023",
+      "_key": "!tables.results!1c2f043938e8cc88.7b66abfe9f1b3023",
       "type": 0,
       "text": "Disgusting",
       "weight": 1,
@@ -398,6 +427,7 @@
     },
     {
       "_id": "5af547a959f52ab2",
+      "_key": "!tables.results!1c2f043938e8cc88.5af547a959f52ab2",
       "type": 0,
       "text": "Dispute",
       "weight": 1,
@@ -412,6 +442,7 @@
     },
     {
       "_id": "9d3f023d21b64dd3",
+      "_key": "!tables.results!1c2f043938e8cc88.9d3f023d21b64dd3",
       "type": 0,
       "text": "Empty",
       "weight": 1,
@@ -426,6 +457,7 @@
     },
     {
       "_id": "4202e39571ab5d24",
+      "_key": "!tables.results!1c2f043938e8cc88.4202e39571ab5d24",
       "type": 0,
       "text": "Exotic",
       "weight": 1,
@@ -440,6 +472,7 @@
     },
     {
       "_id": "5209d4276e5a633a",
+      "_key": "!tables.results!1c2f043938e8cc88.5209d4276e5a633a",
       "type": 0,
       "text": "Extravagant",
       "weight": 1,
@@ -454,6 +487,7 @@
     },
     {
       "_id": "f28cba2b9af2637e",
+      "_key": "!tables.results!1c2f043938e8cc88.f28cba2b9af2637e",
       "type": 0,
       "text": "Familiar",
       "weight": 1,
@@ -468,6 +502,7 @@
     },
     {
       "_id": "985f9f5c07644c37",
+      "_key": "!tables.results!1c2f043938e8cc88.985f9f5c07644c37",
       "type": 0,
       "text": "Fancy",
       "weight": 1,
@@ -482,6 +517,7 @@
     },
     {
       "_id": "358e1ce957763840",
+      "_key": "!tables.results!1c2f043938e8cc88.358e1ce957763840",
       "type": 0,
       "text": "Feminine",
       "weight": 1,
@@ -496,6 +532,7 @@
     },
     {
       "_id": "16072fa1fb26c876",
+      "_key": "!tables.results!1c2f043938e8cc88.16072fa1fb26c876",
       "type": 0,
       "text": "Festive",
       "weight": 1,
@@ -510,6 +547,7 @@
     },
     {
       "_id": "4c4402ae48ea489a",
+      "_key": "!tables.results!1c2f043938e8cc88.4c4402ae48ea489a",
       "type": 0,
       "text": "Food",
       "weight": 1,
@@ -524,6 +562,7 @@
     },
     {
       "_id": "fd541dfd0a88fc3b",
+      "_key": "!tables.results!1c2f043938e8cc88.fd541dfd0a88fc3b",
       "type": 0,
       "text": "Frightening",
       "weight": 1,
@@ -538,6 +577,7 @@
     },
     {
       "_id": "47a0f7484aed5c13",
+      "_key": "!tables.results!1c2f043938e8cc88.47a0f7484aed5c13",
       "type": 0,
       "text": "Furnishing",
       "weight": 1,
@@ -552,6 +592,7 @@
     },
     {
       "_id": "76da47fb5288a352",
+      "_key": "!tables.results!1c2f043938e8cc88.76da47fb5288a352",
       "type": 0,
       "text": "Hard",
       "weight": 1,
@@ -566,6 +607,7 @@
     },
     {
       "_id": "3d1e05da07254fad",
+      "_key": "!tables.results!1c2f043938e8cc88.3d1e05da07254fad",
       "type": 0,
       "text": "Heavy",
       "weight": 1,
@@ -580,6 +622,7 @@
     },
     {
       "_id": "5b597754f5c1febd",
+      "_key": "!tables.results!1c2f043938e8cc88.5b597754f5c1febd",
       "type": 0,
       "text": "Hidden",
       "weight": 1,
@@ -594,6 +637,7 @@
     },
     {
       "_id": "1730324c6c2fce1f",
+      "_key": "!tables.results!1c2f043938e8cc88.1730324c6c2fce1f",
       "type": 0,
       "text": "Home",
       "weight": 1,
@@ -608,6 +652,7 @@
     },
     {
       "_id": "5b707829c7c97a53",
+      "_key": "!tables.results!1c2f043938e8cc88.5b707829c7c97a53",
       "type": 0,
       "text": "Information",
       "weight": 1,
@@ -622,6 +667,7 @@
     },
     {
       "_id": "f23069c018d05a83",
+      "_key": "!tables.results!1c2f043938e8cc88.f23069c018d05a83",
       "type": 0,
       "text": "Intense",
       "weight": 1,
@@ -636,6 +682,7 @@
     },
     {
       "_id": "5997e9030f8c14e1",
+      "_key": "!tables.results!1c2f043938e8cc88.5997e9030f8c14e1",
       "type": 0,
       "text": "Intrigue",
       "weight": 1,
@@ -650,6 +697,7 @@
     },
     {
       "_id": "b79635ef94d41687",
+      "_key": "!tables.results!1c2f043938e8cc88.b79635ef94d41687",
       "type": 0,
       "text": "Investment",
       "weight": 1,
@@ -664,6 +712,7 @@
     },
     {
       "_id": "4a612c018a376168",
+      "_key": "!tables.results!1c2f043938e8cc88.4a612c018a376168",
       "type": 0,
       "text": "Juvenile",
       "weight": 1,
@@ -678,6 +727,7 @@
     },
     {
       "_id": "a03b5ba9c3177eb5",
+      "_key": "!tables.results!1c2f043938e8cc88.a03b5ba9c3177eb5",
       "type": 0,
       "text": "Large",
       "weight": 1,
@@ -692,6 +742,7 @@
     },
     {
       "_id": "d5e6ebfbb81d418d",
+      "_key": "!tables.results!1c2f043938e8cc88.d5e6ebfbb81d418d",
       "type": 0,
       "text": "Legal",
       "weight": 1,
@@ -706,6 +757,7 @@
     },
     {
       "_id": "f3f945784a67e200",
+      "_key": "!tables.results!1c2f043938e8cc88.f3f945784a67e200",
       "type": 0,
       "text": "Lethal",
       "weight": 1,
@@ -720,6 +772,7 @@
     },
     {
       "_id": "604f329d1f334ee4",
+      "_key": "!tables.results!1c2f043938e8cc88.604f329d1f334ee4",
       "type": 0,
       "text": "Lies",
       "weight": 1,
@@ -734,6 +787,7 @@
     },
     {
       "_id": "9710a7ec038bc9bf",
+      "_key": "!tables.results!1c2f043938e8cc88.9710a7ec038bc9bf",
       "type": 0,
       "text": "Loud",
       "weight": 1,
@@ -748,6 +802,7 @@
     },
     {
       "_id": "29ffde1c8b98d498",
+      "_key": "!tables.results!1c2f043938e8cc88.29ffde1c8b98d498",
       "type": 0,
       "text": "Luxury",
       "weight": 1,
@@ -762,6 +817,7 @@
     },
     {
       "_id": "2cad378e0dda009b",
+      "_key": "!tables.results!1c2f043938e8cc88.2cad378e0dda009b",
       "type": 0,
       "text": "Magnificent",
       "weight": 1,
@@ -776,6 +832,7 @@
     },
     {
       "_id": "d8587d67788dc48f",
+      "_key": "!tables.results!1c2f043938e8cc88.d8587d67788dc48f",
       "type": 0,
       "text": "Masculine",
       "weight": 1,
@@ -790,6 +847,7 @@
     },
     {
       "_id": "09cf1358755ad967",
+      "_key": "!tables.results!1c2f043938e8cc88.09cf1358755ad967",
       "type": 0,
       "text": "Meaningful",
       "weight": 1,
@@ -804,6 +862,7 @@
     },
     {
       "_id": "1c5ce18005eb3ef0",
+      "_key": "!tables.results!1c2f043938e8cc88.1c5ce18005eb3ef0",
       "type": 0,
       "text": "Mechanical",
       "weight": 1,
@@ -818,6 +877,7 @@
     },
     {
       "_id": "111d9f9412fc860e",
+      "_key": "!tables.results!1c2f043938e8cc88.111d9f9412fc860e",
       "type": 0,
       "text": "Messy",
       "weight": 1,
@@ -832,6 +892,7 @@
     },
     {
       "_id": "bc4f4dfd327b8193",
+      "_key": "!tables.results!1c2f043938e8cc88.bc4f4dfd327b8193",
       "type": 0,
       "text": "Military",
       "weight": 1,
@@ -846,6 +907,7 @@
     },
     {
       "_id": "1a79b93af1edeb3f",
+      "_key": "!tables.results!1c2f043938e8cc88.1a79b93af1edeb3f",
       "type": 0,
       "text": "Misfortune",
       "weight": 1,
@@ -860,6 +922,7 @@
     },
     {
       "_id": "49cafeeaf89bf668",
+      "_key": "!tables.results!1c2f043938e8cc88.49cafeeaf89bf668",
       "type": 0,
       "text": "Modern",
       "weight": 1,
@@ -874,6 +937,7 @@
     },
     {
       "_id": "d52e8ad393dfcb63",
+      "_key": "!tables.results!1c2f043938e8cc88.d52e8ad393dfcb63",
       "type": 0,
       "text": "Motive",
       "weight": 1,
@@ -888,6 +952,7 @@
     },
     {
       "_id": "a3e143e223403911",
+      "_key": "!tables.results!1c2f043938e8cc88.a3e143e223403911",
       "type": 0,
       "text": "Mundane",
       "weight": 1,
@@ -902,6 +967,7 @@
     },
     {
       "_id": "c1cca37d3d3bc555",
+      "_key": "!tables.results!1c2f043938e8cc88.c1cca37d3d3bc555",
       "type": 0,
       "text": "Mysterious",
       "weight": 1,
@@ -916,6 +982,7 @@
     },
     {
       "_id": "ecae4e792bc629c9",
+      "_key": "!tables.results!1c2f043938e8cc88.ecae4e792bc629c9",
       "type": 0,
       "text": "Natural",
       "weight": 1,
@@ -930,6 +997,7 @@
     },
     {
       "_id": "450dee8dbcfe8a64",
+      "_key": "!tables.results!1c2f043938e8cc88.450dee8dbcfe8a64",
       "type": 0,
       "text": "Neat",
       "weight": 1,
@@ -944,6 +1012,7 @@
     },
     {
       "_id": "af392f82f33fabb7",
+      "_key": "!tables.results!1c2f043938e8cc88.af392f82f33fabb7",
       "type": 0,
       "text": "Obscure",
       "weight": 1,
@@ -958,6 +1027,7 @@
     },
     {
       "_id": "eeeb884025a414c2",
+      "_key": "!tables.results!1c2f043938e8cc88.eeeb884025a414c2",
       "type": 0,
       "text": "Odd",
       "weight": 1,
@@ -972,6 +1042,7 @@
     },
     {
       "_id": "c7181fdf90f72e16",
+      "_key": "!tables.results!1c2f043938e8cc88.c7181fdf90f72e16",
       "type": 0,
       "text": "Official",
       "weight": 1,
@@ -986,6 +1057,7 @@
     },
     {
       "_id": "b270f6ee668fbac7",
+      "_key": "!tables.results!1c2f043938e8cc88.b270f6ee668fbac7",
       "type": 0,
       "text": "Old",
       "weight": 1,
@@ -1000,6 +1072,7 @@
     },
     {
       "_id": "ba032b26ba8c993c",
+      "_key": "!tables.results!1c2f043938e8cc88.ba032b26ba8c993c",
       "type": 0,
       "text": "Partial",
       "weight": 1,
@@ -1014,6 +1087,7 @@
     },
     {
       "_id": "0b8b46d4ccec3b87",
+      "_key": "!tables.results!1c2f043938e8cc88.0b8b46d4ccec3b87",
       "type": 0,
       "text": "Passion",
       "weight": 1,
@@ -1028,6 +1102,7 @@
     },
     {
       "_id": "f2a406d442d4a161",
+      "_key": "!tables.results!1c2f043938e8cc88.f2a406d442d4a161",
       "type": 0,
       "text": "Personal",
       "weight": 1,
@@ -1042,6 +1117,7 @@
     },
     {
       "_id": "8f49b7f3fc1b8630",
+      "_key": "!tables.results!1c2f043938e8cc88.8f49b7f3fc1b8630",
       "type": 0,
       "text": "Plot",
       "weight": 1,
@@ -1056,6 +1132,7 @@
     },
     {
       "_id": "6cf0cdbfcd54ec3c",
+      "_key": "!tables.results!1c2f043938e8cc88.6cf0cdbfcd54ec3c",
       "type": 0,
       "text": "Portal",
       "weight": 1,
@@ -1070,6 +1147,7 @@
     },
     {
       "_id": "ee5950314acd08a4",
+      "_key": "!tables.results!1c2f043938e8cc88.ee5950314acd08a4",
       "type": 0,
       "text": "Possession",
       "weight": 1,
@@ -1084,6 +1162,7 @@
     },
     {
       "_id": "74a876ba863b8f22",
+      "_key": "!tables.results!1c2f043938e8cc88.74a876ba863b8f22",
       "type": 0,
       "text": "Powerful",
       "weight": 1,
@@ -1098,6 +1177,7 @@
     },
     {
       "_id": "90931a653cd52d6e",
+      "_key": "!tables.results!1c2f043938e8cc88.90931a653cd52d6e",
       "type": 0,
       "text": "Quaint",
       "weight": 1,
@@ -1112,6 +1192,7 @@
     },
     {
       "_id": "17b7593ce2d39509",
+      "_key": "!tables.results!1c2f043938e8cc88.17b7593ce2d39509",
       "type": 0,
       "text": "Rare",
       "weight": 1,
@@ -1126,6 +1207,7 @@
     },
     {
       "_id": "8fff43c4ff8ea2aa",
+      "_key": "!tables.results!1c2f043938e8cc88.8fff43c4ff8ea2aa",
       "type": 0,
       "text": "Reassuring",
       "weight": 1,
@@ -1140,6 +1222,7 @@
     },
     {
       "_id": "efe4afee6ab6399a",
+      "_key": "!tables.results!1c2f043938e8cc88.efe4afee6ab6399a",
       "type": 0,
       "text": "Ruined",
       "weight": 1,
@@ -1154,6 +1237,7 @@
     },
     {
       "_id": "d4ed8bdb1825173c",
+      "_key": "!tables.results!1c2f043938e8cc88.d4ed8bdb1825173c",
       "type": 0,
       "text": "Rumor",
       "weight": 1,
@@ -1168,6 +1252,7 @@
     },
     {
       "_id": "b158751c0087ea83",
+      "_key": "!tables.results!1c2f043938e8cc88.b158751c0087ea83",
       "type": 0,
       "text": "Scientific",
       "weight": 1,
@@ -1182,6 +1267,7 @@
     },
     {
       "_id": "a3422da3007a54a8",
+      "_key": "!tables.results!1c2f043938e8cc88.a3422da3007a54a8",
       "type": 0,
       "text": "Simple",
       "weight": 1,
@@ -1196,6 +1282,7 @@
     },
     {
       "_id": "8e57fc5aee005f3f",
+      "_key": "!tables.results!1c2f043938e8cc88.8e57fc5aee005f3f",
       "type": 0,
       "text": "Small",
       "weight": 1,
@@ -1210,6 +1297,7 @@
     },
     {
       "_id": "e90cc3eb3bbf8034",
+      "_key": "!tables.results!1c2f043938e8cc88.e90cc3eb3bbf8034",
       "type": 0,
       "text": "Soft",
       "weight": 1,
@@ -1224,6 +1312,7 @@
     },
     {
       "_id": "e17615720e1f8825",
+      "_key": "!tables.results!1c2f043938e8cc88.e17615720e1f8825",
       "type": 0,
       "text": "Technology",
       "weight": 1,
@@ -1238,6 +1327,7 @@
     },
     {
       "_id": "64c38be71197e5f3",
+      "_key": "!tables.results!1c2f043938e8cc88.64c38be71197e5f3",
       "type": 0,
       "text": "Threatening",
       "weight": 1,
@@ -1252,6 +1342,7 @@
     },
     {
       "_id": "e67cbee639618e18",
+      "_key": "!tables.results!1c2f043938e8cc88.e67cbee639618e18",
       "type": 0,
       "text": "Tool",
       "weight": 1,
@@ -1266,6 +1357,7 @@
     },
     {
       "_id": "d9edcf1642476776",
+      "_key": "!tables.results!1c2f043938e8cc88.d9edcf1642476776",
       "type": 0,
       "text": "Travel",
       "weight": 1,
@@ -1280,6 +1372,7 @@
     },
     {
       "_id": "b4c1da189930f4de",
+      "_key": "!tables.results!1c2f043938e8cc88.b4c1da189930f4de",
       "type": 0,
       "text": "Uncertain",
       "weight": 1,
@@ -1294,6 +1387,7 @@
     },
     {
       "_id": "645af6423e5347d5",
+      "_key": "!tables.results!1c2f043938e8cc88.645af6423e5347d5",
       "type": 0,
       "text": "Valuable",
       "weight": 1,
@@ -1308,6 +1402,7 @@
     },
     {
       "_id": "a280c6a259c840c4",
+      "_key": "!tables.results!1c2f043938e8cc88.a280c6a259c840c4",
       "type": 0,
       "text": "Vehicle",
       "weight": 1,
@@ -1322,6 +1417,7 @@
     },
     {
       "_id": "3de3ad782cc43596",
+      "_key": "!tables.results!1c2f043938e8cc88.3de3ad782cc43596",
       "type": 0,
       "text": "Warm",
       "weight": 1,
@@ -1336,6 +1432,7 @@
     },
     {
       "_id": "c5bad135f2aaad4a",
+      "_key": "!tables.results!1c2f043938e8cc88.c5bad135f2aaad4a",
       "type": 0,
       "text": "Waste",
       "weight": 1,
@@ -1350,6 +1447,7 @@
     },
     {
       "_id": "9d3b39cf552f091f",
+      "_key": "!tables.results!1c2f043938e8cc88.9d3b39cf552f091f",
       "type": 0,
       "text": "Wealth",
       "weight": 1,
@@ -1364,6 +1462,7 @@
     },
     {
       "_id": "a2453dc567a700dd",
+      "_key": "!tables.results!1c2f043938e8cc88.a2453dc567a700dd",
       "type": 0,
       "text": "Weapon",
       "weight": 1,
@@ -1378,6 +1477,7 @@
     },
     {
       "_id": "a9746ea6d71fe7ca",
+      "_key": "!tables.results!1c2f043938e8cc88.a9746ea6d71fe7ca",
       "type": 0,
       "text": "Wet",
       "weight": 1,
@@ -1392,6 +1492,7 @@
     },
     {
       "_id": "719c3db1e451368e",
+      "_key": "!tables.results!1c2f043938e8cc88.719c3db1e451368e",
       "type": 0,
       "text": "Work",
       "weight": 1,
