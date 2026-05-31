@@ -1,0 +1,164 @@
+{
+  "_id": "06d59f1011a4dfc5",
+  "_key": "!tables!06d59f1011a4dfc5",
+  "name": "Natural Landmark Hydrology",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "c9eb2ab36f6e4cd2",
+      "_key": "!tables.results!06d59f1011a4dfc5.c9eb2ab36f6e4cd2",
+      "type": 0,
+      "text": "Ford",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "43ec8437639a0edb",
+      "_key": "!tables.results!06d59f1011a4dfc5.43ec8437639a0edb",
+      "type": 0,
+      "text": "Hotspring",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "18b3592783e12d24",
+      "_key": "!tables.results!06d59f1011a4dfc5.18b3592783e12d24",
+      "type": 0,
+      "text": "Lake",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "67790ab9c6c86de6",
+      "_key": "!tables.results!06d59f1011a4dfc5.67790ab9c6c86de6",
+      "type": 0,
+      "text": "Pond",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0da594468978f579",
+      "_key": "!tables.results!06d59f1011a4dfc5.0da594468978f579",
+      "type": 0,
+      "text": "Rapids",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c95e1c186cab4dfb",
+      "_key": "!tables.results!06d59f1011a4dfc5.c95e1c186cab4dfb",
+      "type": 0,
+      "text": "River",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "646632bfbf81dbce",
+      "_key": "!tables.results!06d59f1011a4dfc5.646632bfbf81dbce",
+      "type": 0,
+      "text": "Spring",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fc5681c2e6ec6e2d",
+      "_key": "!tables.results!06d59f1011a4dfc5.fc5681c2e6ec6e2d",
+      "type": 0,
+      "text": "Stream",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ae7b3221939db755",
+      "_key": "!tables.results!06d59f1011a4dfc5.ae7b3221939db755",
+      "type": 0,
+      "text": "Water-filled cave",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1b2ccf2ac8b5ef17",
+      "_key": "!tables.results!06d59f1011a4dfc5.1b2ccf2ac8b5ef17",
+      "type": 0,
+      "text": "Waterfal",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

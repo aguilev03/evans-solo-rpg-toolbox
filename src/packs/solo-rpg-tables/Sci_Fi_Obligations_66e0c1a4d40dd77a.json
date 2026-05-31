@@ -1,0 +1,554 @@
+{
+  "_id": "66e0c1a4d40dd77a",
+  "_key": "!tables!66e0c1a4d40dd77a",
+  "name": "Sci-Fi Obligations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a sci-fi obligation.",
+  "results": [
+    {
+      "_id": "7f7fd6ad3e28f881",
+      "_key": "!tables.results!66e0c1a4d40dd77a.7f7fd6ad3e28f881",
+      "type": 0,
+      "text": "Erase a digital trace",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3bb31a2d4c418250",
+      "_key": "!tables.results!66e0c1a4d40dd77a.3bb31a2d4c418250",
+      "type": 0,
+      "text": "Pay for medical bills",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1912c45ae405a377",
+      "_key": "!tables.results!66e0c1a4d40dd77a.1912c45ae405a377",
+      "type": 0,
+      "text": "Distribute manifestos",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb5b2029ac59f77b",
+      "_key": "!tables.results!66e0c1a4d40dd77a.fb5b2029ac59f77b",
+      "type": 0,
+      "text": "Run a podcast",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "da97d862c18c593d",
+      "_key": "!tables.results!66e0c1a4d40dd77a.da97d862c18c593d",
+      "type": 0,
+      "text": "Conceal true identity",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e037b22a22cc4ab",
+      "_key": "!tables.results!66e0c1a4d40dd77a.5e037b22a22cc4ab",
+      "type": 0,
+      "text": "Perform at nightclub",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "270bf512ec8dee2f",
+      "_key": "!tables.results!66e0c1a4d40dd77a.270bf512ec8dee2f",
+      "type": 0,
+      "text": "Hide illegal clones",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "60a6d0940e8d08c2",
+      "_key": "!tables.results!66e0c1a4d40dd77a.60a6d0940e8d08c2",
+      "type": 0,
+      "text": "Support an AI",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "858dbb81e845d138",
+      "_key": "!tables.results!66e0c1a4d40dd77a.858dbb81e845d138",
+      "type": 0,
+      "text": "Tend to a bio-dome",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0817428483371eeb",
+      "_key": "!tables.results!66e0c1a4d40dd77a.0817428483371eeb",
+      "type": 0,
+      "text": "Resist AI influence",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "708cb35ab821d827",
+      "_key": "!tables.results!66e0c1a4d40dd77a.708cb35ab821d827",
+      "type": 0,
+      "text": "Repay hacking debts",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "29b854920d311862",
+      "_key": "!tables.results!66e0c1a4d40dd77a.29b854920d311862",
+      "type": 0,
+      "text": "Feed the homeless",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3ab39e0fa40cc09",
+      "_key": "!tables.results!66e0c1a4d40dd77a.b3ab39e0fa40cc09",
+      "type": 0,
+      "text": "File daily reports",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "278fa58436fd30a1",
+      "_key": "!tables.results!66e0c1a4d40dd77a.278fa58436fd30a1",
+      "type": 0,
+      "text": "Keep a corporate job",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa7494eb3fe18cc8",
+      "_key": "!tables.results!66e0c1a4d40dd77a.aa7494eb3fe18cc8",
+      "type": 0,
+      "text": "Indulge in a drug",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "99a74b24e4af1de8",
+      "_key": "!tables.results!66e0c1a4d40dd77a.99a74b24e4af1de8",
+      "type": 0,
+      "text": "Reintroduce flora",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3b00da46f9014e03",
+      "_key": "!tables.results!66e0c1a4d40dd77a.3b00da46f9014e03",
+      "type": 0,
+      "text": "Hunt an android",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1fea061678583d1c",
+      "_key": "!tables.results!66e0c1a4d40dd77a.1fea061678583d1c",
+      "type": 0,
+      "text": "Repair a robot",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f4355fc9cdcb3982",
+      "_key": "!tables.results!66e0c1a4d40dd77a.f4355fc9cdcb3982",
+      "type": 0,
+      "text": "Scan for survivors",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "458897e0b0404f1d",
+      "_key": "!tables.results!66e0c1a4d40dd77a.458897e0b0404f1d",
+      "type": 0,
+      "text": "Enact mutual aid",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d458f053c65e243c",
+      "_key": "!tables.results!66e0c1a4d40dd77a.d458f053c65e243c",
+      "type": 0,
+      "text": "Pursue hedonism",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e4a1bc2f6a552807",
+      "_key": "!tables.results!66e0c1a4d40dd77a.e4a1bc2f6a552807",
+      "type": 0,
+      "text": "Get out of the slums",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b7dcdf631035bd21",
+      "_key": "!tables.results!66e0c1a4d40dd77a.b7dcdf631035bd21",
+      "type": 0,
+      "text": "Aid the revolution",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cb7d7039e9318abb",
+      "_key": "!tables.results!66e0c1a4d40dd77a.cb7d7039e9318abb",
+      "type": 0,
+      "text": "Restore a server",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84c3177f5fdbd8f3",
+      "_key": "!tables.results!66e0c1a4d40dd77a.84c3177f5fdbd8f3",
+      "type": 0,
+      "text": "Attend an inspection",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "14241457d582371b",
+      "_key": "!tables.results!66e0c1a4d40dd77a.14241457d582371b",
+      "type": 0,
+      "text": "Fund a body mod",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1b7f4a7688f56f5f",
+      "_key": "!tables.results!66e0c1a4d40dd77a.1b7f4a7688f56f5f",
+      "type": 0,
+      "text": "Enforce a curfew",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "04609037c7af478f",
+      "_key": "!tables.results!66e0c1a4d40dd77a.04609037c7af478f",
+      "type": 0,
+      "text": "Smuggle contraband",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5dddbbd30b3a9ef4",
+      "_key": "!tables.results!66e0c1a4d40dd77a.5dddbbd30b3a9ef4",
+      "type": 0,
+      "text": "Pay landlord",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0a17c5370b5f4f4f",
+      "_key": "!tables.results!66e0c1a4d40dd77a.0a17c5370b5f4f4f",
+      "type": 0,
+      "text": "Attend virtual therapy",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f051a5071c59e1f",
+      "_key": "!tables.results!66e0c1a4d40dd77a.1f051a5071c59e1f",
+      "type": 0,
+      "text": "Repair an old ship",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d95d3a1464a7c712",
+      "_key": "!tables.results!66e0c1a4d40dd77a.d95d3a1464a7c712",
+      "type": 0,
+      "text": "Catalogue data",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c064c6c1d660c550",
+      "_key": "!tables.results!66e0c1a4d40dd77a.c064c6c1d660c550",
+      "type": 0,
+      "text": "Play a VR game",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fa9a1a8cbc262775",
+      "_key": "!tables.results!66e0c1a4d40dd77a.fa9a1a8cbc262775",
+      "type": 0,
+      "text": "Unlock lost memories",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f7a7288353245121",
+      "_key": "!tables.results!66e0c1a4d40dd77a.f7a7288353245121",
+      "type": 0,
+      "text": "Synthesise food",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c1c5ee27ba3d346",
+      "_key": "!tables.results!66e0c1a4d40dd77a.5c1c5ee27ba3d346",
+      "type": 0,
+      "text": "Avoid media",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

@@ -1,0 +1,164 @@
+{
+  "_id": "d69ea4aa84263481",
+  "_key": "!tables!d69ea4aa84263481",
+  "name": "Natural Landmark Fauna",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "48e39c23d8a4339e",
+      "_key": "!tables.results!d69ea4aa84263481.48e39c23d8a4339e",
+      "type": 0,
+      "text": "Animal boneyard",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c929bebf3e2ba709",
+      "_key": "!tables.results!d69ea4aa84263481.c929bebf3e2ba709",
+      "type": 0,
+      "text": "Anthill",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "404485a743fe818e",
+      "_key": "!tables.results!d69ea4aa84263481.404485a743fe818e",
+      "type": 0,
+      "text": "Beaver dam",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fc303bcb9714527f",
+      "_key": "!tables.results!d69ea4aa84263481.fc303bcb9714527f",
+      "type": 0,
+      "text": "Giant animal (exo)skeleton",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "382576081d045e1d",
+      "_key": "!tables.results!d69ea4aa84263481.382576081d045e1d",
+      "type": 0,
+      "text": "Giant bird nest",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6c9ea74723fff4e4",
+      "_key": "!tables.results!d69ea4aa84263481.6c9ea74723fff4e4",
+      "type": 0,
+      "text": "Giant snail shell",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82d179ff4f5a3fae",
+      "_key": "!tables.results!d69ea4aa84263481.82d179ff4f5a3fae",
+      "type": 0,
+      "text": "Huge galleries",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0350b2a13039e201",
+      "_key": "!tables.results!d69ea4aa84263481.0350b2a13039e201",
+      "type": 0,
+      "text": "Location covered with crows",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "abbbdad39571ba1a",
+      "_key": "!tables.results!d69ea4aa84263481.abbbdad39571ba1a",
+      "type": 0,
+      "text": "Predator’s hunting ground",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2def50b81b14ca7a",
+      "_key": "!tables.results!d69ea4aa84263481.2def50b81b14ca7a",
+      "type": 0,
+      "text": "Ransacked area",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

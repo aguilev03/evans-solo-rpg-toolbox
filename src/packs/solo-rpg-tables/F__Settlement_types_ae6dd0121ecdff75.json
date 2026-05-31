@@ -1,0 +1,314 @@
+{
+  "_id": "ae6dd0121ecdff75",
+  "_key": "!tables!ae6dd0121ecdff75",
+  "name": "F) Settlement types",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "bf8e543dcff8bd0e",
+      "_key": "!tables.results!ae6dd0121ecdff75.bf8e543dcff8bd0e",
+      "type": 0,
+      "text": "Borough",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "20880655dae7fc15",
+      "_key": "!tables.results!ae6dd0121ecdff75.20880655dae7fc15",
+      "type": 0,
+      "text": "B(o)urg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd7b3a2f8a99c84a",
+      "_key": "!tables.results!ae6dd0121ecdff75.cd7b3a2f8a99c84a",
+      "type": 0,
+      "text": "Camp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "20911b2b68b8c7a4",
+      "_key": "!tables.results!ae6dd0121ecdff75.20911b2b68b8c7a4",
+      "type": 0,
+      "text": "Cester",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2a1798ca2bb9dd5f",
+      "_key": "!tables.results!ae6dd0121ecdff75.2a1798ca2bb9dd5f",
+      "type": 0,
+      "text": "Citadel",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c15976a3d53a27e",
+      "_key": "!tables.results!ae6dd0121ecdff75.5c15976a3d53a27e",
+      "type": 0,
+      "text": "City",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2628a48e08ca1a10",
+      "_key": "!tables.results!ae6dd0121ecdff75.2628a48e08ca1a10",
+      "type": 0,
+      "text": "County",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc85d83b2eec742e",
+      "_key": "!tables.results!ae6dd0121ecdff75.bc85d83b2eec742e",
+      "type": 0,
+      "text": "Dorf",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a308b2282c2965f",
+      "_key": "!tables.results!ae6dd0121ecdff75.9a308b2282c2965f",
+      "type": 0,
+      "text": "Ham",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ee79d59e36ea679c",
+      "_key": "!tables.results!ae6dd0121ecdff75.ee79d59e36ea679c",
+      "type": 0,
+      "text": "Hamlet",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a61f0d21bf83d0c",
+      "_key": "!tables.results!ae6dd0121ecdff75.9a61f0d21bf83d0c",
+      "type": 0,
+      "text": "Haven",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "123796b8fee34b7b",
+      "_key": "!tables.results!ae6dd0121ecdff75.123796b8fee34b7b",
+      "type": 0,
+      "text": "Heim",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eed7eade9aea4200",
+      "_key": "!tables.results!ae6dd0121ecdff75.eed7eade9aea4200",
+      "type": 0,
+      "text": "Keep",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "97beb003fbd9ed7b",
+      "_key": "!tables.results!ae6dd0121ecdff75.97beb003fbd9ed7b",
+      "type": 0,
+      "text": "Stead",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3118d62f8a4b6b2f",
+      "_key": "!tables.results!ae6dd0121ecdff75.3118d62f8a4b6b2f",
+      "type": 0,
+      "text": "Town",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "086c35e0e23b5017",
+      "_key": "!tables.results!ae6dd0121ecdff75.086c35e0e23b5017",
+      "type": 0,
+      "text": "Village",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa2e360aaa55ce47",
+      "_key": "!tables.results!ae6dd0121ecdff75.aa2e360aaa55ce47",
+      "type": 0,
+      "text": "Ville",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dd4a245776642417",
+      "_key": "!tables.results!ae6dd0121ecdff75.dd4a245776642417",
+      "type": 0,
+      "text": "Ward",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "99888b4c349e38ac",
+      "_key": "!tables.results!ae6dd0121ecdff75.99888b4c349e38ac",
+      "type": 0,
+      "text": "Wihr",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "957f4d43bd33f730",
+      "_key": "!tables.results!ae6dd0121ecdff75.957f4d43bd33f730",
+      "type": 0,
+      "text": "Worth",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

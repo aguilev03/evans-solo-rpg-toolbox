@@ -1,0 +1,164 @@
+{
+  "_id": "1147ddd36f9ea91d",
+  "_key": "!tables!1147ddd36f9ea91d",
+  "name": "Natural Landmark Geology",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "b23c7b6109953683",
+      "_key": "!tables.results!1147ddd36f9ea91d.b23c7b6109953683",
+      "type": 0,
+      "text": "Animal shaped rock",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e5aa71e7d4eb5e39",
+      "_key": "!tables.results!1147ddd36f9ea91d.e5aa71e7d4eb5e39",
+      "type": 0,
+      "text": "Cave",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d4c1b7bc98eb3ee9",
+      "_key": "!tables.results!1147ddd36f9ea91d.d4c1b7bc98eb3ee9",
+      "type": 0,
+      "text": "Chasm",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8563205fc7b5edec",
+      "_key": "!tables.results!1147ddd36f9ea91d.8563205fc7b5edec",
+      "type": 0,
+      "text": "Crater",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1a3d764d0463595",
+      "_key": "!tables.results!1147ddd36f9ea91d.a1a3d764d0463595",
+      "type": 0,
+      "text": "Crystalline proliferation",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9f544a3d13e56fa1",
+      "_key": "!tables.results!1147ddd36f9ea91d.9f544a3d13e56fa1",
+      "type": 0,
+      "text": "Giant crystal",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "495cfad340404141",
+      "_key": "!tables.results!1147ddd36f9ea91d.495cfad340404141",
+      "type": 0,
+      "text": "Lava pool",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "28280acae6c4830c",
+      "_key": "!tables.results!1147ddd36f9ea91d.28280acae6c4830c",
+      "type": 0,
+      "text": "Mudpit",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2cc66f55f2125ada",
+      "_key": "!tables.results!1147ddd36f9ea91d.2cc66f55f2125ada",
+      "type": 0,
+      "text": "Pit",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e4b5c6e72a4dffb",
+      "_key": "!tables.results!1147ddd36f9ea91d.5e4b5c6e72a4dffb",
+      "type": 0,
+      "text": "Precious metal vein",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

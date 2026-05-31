@@ -1,0 +1,164 @@
+{
+  "_id": "297abcf0731bab84",
+  "_key": "!tables!297abcf0731bab84",
+  "name": "Artificial Landmarks Travel",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "dcac35361b79ab6e",
+      "_key": "!tables.results!297abcf0731bab84.dcac35361b79ab6e",
+      "type": 0,
+      "text": "Boardwalks",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b900dc0bc0eb394a",
+      "_key": "!tables.results!297abcf0731bab84.b900dc0bc0eb394a",
+      "type": 0,
+      "text": "Boundary stone",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13b121002aa46ad4",
+      "_key": "!tables.results!297abcf0731bab84.13b121002aa46ad4",
+      "type": 0,
+      "text": "Bridge",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6637ce386d6970e5",
+      "_key": "!tables.results!297abcf0731bab84.6637ce386d6970e5",
+      "type": 0,
+      "text": "Broken bridge",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "21a3b135d9fa0cbc",
+      "_key": "!tables.results!297abcf0731bab84.21a3b135d9fa0cbc",
+      "type": 0,
+      "text": "Danger sign",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f26894cfccabeef",
+      "_key": "!tables.results!297abcf0731bab84.8f26894cfccabeef",
+      "type": 0,
+      "text": "Ledge",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2d51f100ebb0dac6",
+      "_key": "!tables.results!297abcf0731bab84.2d51f100ebb0dac6",
+      "type": 0,
+      "text": "Signboard",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "58482e5522bfbc77",
+      "_key": "!tables.results!297abcf0731bab84.58482e5522bfbc77",
+      "type": 0,
+      "text": "Stairs",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a3ee45da0c81f84b",
+      "_key": "!tables.results!297abcf0731bab84.a3ee45da0c81f84b",
+      "type": 0,
+      "text": "Suspension bridge",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dac0aed6e4fb1d0b",
+      "_key": "!tables.results!297abcf0731bab84.dac0aed6e4fb1d0b",
+      "type": 0,
+      "text": "Zipline",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

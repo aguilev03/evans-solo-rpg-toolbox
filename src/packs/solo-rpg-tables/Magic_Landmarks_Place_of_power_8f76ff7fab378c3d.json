@@ -1,0 +1,164 @@
+{
+  "_id": "8f76ff7fab378c3d",
+  "_key": "!tables!8f76ff7fab378c3d",
+  "name": "Magic Landmarks Place of power",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "3effa57301460d59",
+      "_key": "!tables.results!8f76ff7fab378c3d.3effa57301460d59",
+      "type": 0,
+      "text": "Ancient burial grounds",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3682780874eaafcf",
+      "_key": "!tables.results!8f76ff7fab378c3d.3682780874eaafcf",
+      "type": 0,
+      "text": "Birthplace/Tomb of a saint",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3ce4d795f0779e0",
+      "_key": "!tables.results!8f76ff7fab378c3d.f3ce4d795f0779e0",
+      "type": 0,
+      "text": "Magic beacon",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "29833bf292cc07f3",
+      "_key": "!tables.results!8f76ff7fab378c3d.29833bf292cc07f3",
+      "type": 0,
+      "text": "Mana well",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "33971d2dbbc0f5fa",
+      "_key": "!tables.results!8f76ff7fab378c3d.33971d2dbbc0f5fa",
+      "type": 0,
+      "text": "Neolithic rock monument",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8598c6ef65b22e3d",
+      "_key": "!tables.results!8f76ff7fab378c3d.8598c6ef65b22e3d",
+      "type": 0,
+      "text": "Preserved natural place",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ab5b402e9f5d46a5",
+      "_key": "!tables.results!8f76ff7fab378c3d.ab5b402e9f5d46a5",
+      "type": 0,
+      "text": "Root of the World Tree",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cf0db9afb3b800be",
+      "_key": "!tables.results!8f76ff7fab378c3d.cf0db9afb3b800be",
+      "type": 0,
+      "text": "Sacred waters",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bad040df14515fc3",
+      "_key": "!tables.results!8f76ff7fab378c3d.bad040df14515fc3",
+      "type": 0,
+      "text": "Sun focal point",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b6a6548f964be49",
+      "_key": "!tables.results!8f76ff7fab378c3d.5b6a6548f964be49",
+      "type": 0,
+      "text": "Ziggurat of old",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

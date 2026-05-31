@@ -1,0 +1,1514 @@
+{
+  "_id": "44c8e6782d0e51c0",
+  "_key": "!tables!44c8e6782d0e51c0",
+  "name": "Adverbs",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "List of Descriptors",
+  "results": [
+    {
+      "_id": "f36dfb7ec523d285",
+      "_key": "!tables.results!44c8e6782d0e51c0.f36dfb7ec523d285",
+      "type": 0,
+      "text": "Abnormally",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2018afdbbaac21d3",
+      "_key": "!tables.results!44c8e6782d0e51c0.2018afdbbaac21d3",
+      "type": 0,
+      "text": "Adventurously",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "83fade70caf00530",
+      "_key": "!tables.results!44c8e6782d0e51c0.83fade70caf00530",
+      "type": 0,
+      "text": "Aggressively",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1a4703a69e31c78",
+      "_key": "!tables.results!44c8e6782d0e51c0.a1a4703a69e31c78",
+      "type": 0,
+      "text": "Angrily",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "12e6d16128e0f413",
+      "_key": "!tables.results!44c8e6782d0e51c0.12e6d16128e0f413",
+      "type": 0,
+      "text": "Anxiously",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53f1ddb4713cbc4e",
+      "_key": "!tables.results!44c8e6782d0e51c0.53f1ddb4713cbc4e",
+      "type": 0,
+      "text": "Awkwardly",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4930f0f12685e1d3",
+      "_key": "!tables.results!44c8e6782d0e51c0.4930f0f12685e1d3",
+      "type": 0,
+      "text": "Beautifully",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "40405ca2363a9015",
+      "_key": "!tables.results!44c8e6782d0e51c0.40405ca2363a9015",
+      "type": 0,
+      "text": "Bleakly",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f0863eebb6f8c49",
+      "_key": "!tables.results!44c8e6782d0e51c0.1f0863eebb6f8c49",
+      "type": 0,
+      "text": "Boldly",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c4ba9455bdac7a86",
+      "_key": "!tables.results!44c8e6782d0e51c0.c4ba9455bdac7a86",
+      "type": 0,
+      "text": "Bravely",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c42f4705e3d63d56",
+      "_key": "!tables.results!44c8e6782d0e51c0.c42f4705e3d63d56",
+      "type": 0,
+      "text": "Busily",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c92fe1a88d0fa49",
+      "_key": "!tables.results!44c8e6782d0e51c0.4c92fe1a88d0fa49",
+      "type": 0,
+      "text": "Calmly",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4f131b436b25fda7",
+      "_key": "!tables.results!44c8e6782d0e51c0.4f131b436b25fda7",
+      "type": 0,
+      "text": "Carefully",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0891db495791766b",
+      "_key": "!tables.results!44c8e6782d0e51c0.0891db495791766b",
+      "type": 0,
+      "text": "Carelessly",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "19b1ef4a6d5edb9a",
+      "_key": "!tables.results!44c8e6782d0e51c0.19b1ef4a6d5edb9a",
+      "type": 0,
+      "text": "Cautiously",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "beb1cc5b778b43d1",
+      "_key": "!tables.results!44c8e6782d0e51c0.beb1cc5b778b43d1",
+      "type": 0,
+      "text": "Ceaselessly",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bf35922b31ecfd7f",
+      "_key": "!tables.results!44c8e6782d0e51c0.bf35922b31ecfd7f",
+      "type": 0,
+      "text": "Cheerfully",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "97ec5526938045e9",
+      "_key": "!tables.results!44c8e6782d0e51c0.97ec5526938045e9",
+      "type": 0,
+      "text": "Combatively",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "352a193fa945f318",
+      "_key": "!tables.results!44c8e6782d0e51c0.352a193fa945f318",
+      "type": 0,
+      "text": "Coolly",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "279eb744cc4e0452",
+      "_key": "!tables.results!44c8e6782d0e51c0.279eb744cc4e0452",
+      "type": 0,
+      "text": "Crazily",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2aeea6bcec777369",
+      "_key": "!tables.results!44c8e6782d0e51c0.2aeea6bcec777369",
+      "type": 0,
+      "text": "Curiously",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17e505d6aa876a59",
+      "_key": "!tables.results!44c8e6782d0e51c0.17e505d6aa876a59",
+      "type": 0,
+      "text": "Daintily",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cb56aab583152cba",
+      "_key": "!tables.results!44c8e6782d0e51c0.cb56aab583152cba",
+      "type": 0,
+      "text": "Dangerously",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0fbc2b2ff675c221",
+      "_key": "!tables.results!44c8e6782d0e51c0.0fbc2b2ff675c221",
+      "type": 0,
+      "text": "Defiantly",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "631ec630bca5eefe",
+      "_key": "!tables.results!44c8e6782d0e51c0.631ec630bca5eefe",
+      "type": 0,
+      "text": "Deliberately",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62f57f717d435a49",
+      "_key": "!tables.results!44c8e6782d0e51c0.62f57f717d435a49",
+      "type": 0,
+      "text": "Delightfully",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9bd6a6d07132c4d4",
+      "_key": "!tables.results!44c8e6782d0e51c0.9bd6a6d07132c4d4",
+      "type": 0,
+      "text": "Dimly",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02270d9baa7e200b",
+      "_key": "!tables.results!44c8e6782d0e51c0.02270d9baa7e200b",
+      "type": 0,
+      "text": "Efficiently",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8b5b5a93e1b48374",
+      "_key": "!tables.results!44c8e6782d0e51c0.8b5b5a93e1b48374",
+      "type": 0,
+      "text": "Energetically",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eedc0b7bb843f168",
+      "_key": "!tables.results!44c8e6782d0e51c0.eedc0b7bb843f168",
+      "type": 0,
+      "text": "Enormously",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2a202b5f6fbd399c",
+      "_key": "!tables.results!44c8e6782d0e51c0.2a202b5f6fbd399c",
+      "type": 0,
+      "text": "Enthusiastically",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "51a6e7c51ffc76a7",
+      "_key": "!tables.results!44c8e6782d0e51c0.51a6e7c51ffc76a7",
+      "type": 0,
+      "text": "Excitedly",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "19ccca0540870a1a",
+      "_key": "!tables.results!44c8e6782d0e51c0.19ccca0540870a1a",
+      "type": 0,
+      "text": "Fearfully",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "af05dee6c4a3ccd0",
+      "_key": "!tables.results!44c8e6782d0e51c0.af05dee6c4a3ccd0",
+      "type": 0,
+      "text": "Ferociously",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5d3a4b2d51f2954f",
+      "_key": "!tables.results!44c8e6782d0e51c0.5d3a4b2d51f2954f",
+      "type": 0,
+      "text": "Fiercely",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "859924ff8d3f8002",
+      "_key": "!tables.results!44c8e6782d0e51c0.859924ff8d3f8002",
+      "type": 0,
+      "text": "Foolishly",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "149c2062f517c8e8",
+      "_key": "!tables.results!44c8e6782d0e51c0.149c2062f517c8e8",
+      "type": 0,
+      "text": "Fortunately",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f837867c9ca728e8",
+      "_key": "!tables.results!44c8e6782d0e51c0.f837867c9ca728e8",
+      "type": 0,
+      "text": "Frantically",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f3068da156b63cc",
+      "_key": "!tables.results!44c8e6782d0e51c0.1f3068da156b63cc",
+      "type": 0,
+      "text": "Freely",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e201a98b15d2f5e",
+      "_key": "!tables.results!44c8e6782d0e51c0.4e201a98b15d2f5e",
+      "type": 0,
+      "text": "Frighteningly",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "625a23d91e764281",
+      "_key": "!tables.results!44c8e6782d0e51c0.625a23d91e764281",
+      "type": 0,
+      "text": "Fully",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b762b9d7514389f",
+      "_key": "!tables.results!44c8e6782d0e51c0.7b762b9d7514389f",
+      "type": 0,
+      "text": "Generously",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c9cca63392e3ebbc",
+      "_key": "!tables.results!44c8e6782d0e51c0.c9cca63392e3ebbc",
+      "type": 0,
+      "text": "Gently",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1cd8928ad8b25a1e",
+      "_key": "!tables.results!44c8e6782d0e51c0.1cd8928ad8b25a1e",
+      "type": 0,
+      "text": "Gladly",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62adc6499d8fd49e",
+      "_key": "!tables.results!44c8e6782d0e51c0.62adc6499d8fd49e",
+      "type": 0,
+      "text": "Gracefully",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "824299312e00caeb",
+      "_key": "!tables.results!44c8e6782d0e51c0.824299312e00caeb",
+      "type": 0,
+      "text": "Gratefully",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b632dc2403cdb986",
+      "_key": "!tables.results!44c8e6782d0e51c0.b632dc2403cdb986",
+      "type": 0,
+      "text": "Happily",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a9ee5ff7900769ad",
+      "_key": "!tables.results!44c8e6782d0e51c0.a9ee5ff7900769ad",
+      "type": 0,
+      "text": "Hastily",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "beeaf528628c815f",
+      "_key": "!tables.results!44c8e6782d0e51c0.beeaf528628c815f",
+      "type": 0,
+      "text": "Healthily",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f8726d5cd64e716",
+      "_key": "!tables.results!44c8e6782d0e51c0.3f8726d5cd64e716",
+      "type": 0,
+      "text": "Helpfully",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "df1eac8078806f69",
+      "_key": "!tables.results!44c8e6782d0e51c0.df1eac8078806f69",
+      "type": 0,
+      "text": "Helplessly",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2dbc6aaf525309d1",
+      "_key": "!tables.results!44c8e6782d0e51c0.2dbc6aaf525309d1",
+      "type": 0,
+      "text": "Hopelessly",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dfece266778e5543",
+      "_key": "!tables.results!44c8e6782d0e51c0.dfece266778e5543",
+      "type": 0,
+      "text": "Innocently",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3aa61f21246cffbf",
+      "_key": "!tables.results!44c8e6782d0e51c0.3aa61f21246cffbf",
+      "type": 0,
+      "text": "Intensely",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6d91105e10254c08",
+      "_key": "!tables.results!44c8e6782d0e51c0.6d91105e10254c08",
+      "type": 0,
+      "text": "Interestingly",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e8d46f2d5660f5e",
+      "_key": "!tables.results!44c8e6782d0e51c0.1e8d46f2d5660f5e",
+      "type": 0,
+      "text": "Irritatingly",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4a50ae56f219ef8b",
+      "_key": "!tables.results!44c8e6782d0e51c0.4a50ae56f219ef8b",
+      "type": 0,
+      "text": "Jovially",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0565f3413b43cee6",
+      "_key": "!tables.results!44c8e6782d0e51c0.0565f3413b43cee6",
+      "type": 0,
+      "text": "Joyfully",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "258131be3bbd9dad",
+      "_key": "!tables.results!44c8e6782d0e51c0.258131be3bbd9dad",
+      "type": 0,
+      "text": "Judgementally",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c7f9dd7a5b6787a8",
+      "_key": "!tables.results!44c8e6782d0e51c0.c7f9dd7a5b6787a8",
+      "type": 0,
+      "text": "Kindly",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "91ec137c86a32ba0",
+      "_key": "!tables.results!44c8e6782d0e51c0.91ec137c86a32ba0",
+      "type": 0,
+      "text": "Kookily",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "20fe1c885004e98f",
+      "_key": "!tables.results!44c8e6782d0e51c0.20fe1c885004e98f",
+      "type": 0,
+      "text": "Lazily",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c5b0dff8e0bb3eee",
+      "_key": "!tables.results!44c8e6782d0e51c0.c5b0dff8e0bb3eee",
+      "type": 0,
+      "text": "Lightly",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1ccba372adea8dea",
+      "_key": "!tables.results!44c8e6782d0e51c0.1ccba372adea8dea",
+      "type": 0,
+      "text": "Loosely",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "89a3ac8a49d52375",
+      "_key": "!tables.results!44c8e6782d0e51c0.89a3ac8a49d52375",
+      "type": 0,
+      "text": "Loudly",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0f944c9173aef5f6",
+      "_key": "!tables.results!44c8e6782d0e51c0.0f944c9173aef5f6",
+      "type": 0,
+      "text": "Lovingly",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "face268907b94fe0",
+      "_key": "!tables.results!44c8e6782d0e51c0.face268907b94fe0",
+      "type": 0,
+      "text": "Loyally",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d6f35e4ca9ec1bfd",
+      "_key": "!tables.results!44c8e6782d0e51c0.d6f35e4ca9ec1bfd",
+      "type": 0,
+      "text": "Majestically",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17da9bb6a84dfddb",
+      "_key": "!tables.results!44c8e6782d0e51c0.17da9bb6a84dfddb",
+      "type": 0,
+      "text": "Meaningfully",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c4026a6a34da8455",
+      "_key": "!tables.results!44c8e6782d0e51c0.c4026a6a34da8455",
+      "type": 0,
+      "text": "Mechanically",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3087e4b5c35c649",
+      "_key": "!tables.results!44c8e6782d0e51c0.b3087e4b5c35c649",
+      "type": 0,
+      "text": "Miserably",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a7859b6e9cbfbd0f",
+      "_key": "!tables.results!44c8e6782d0e51c0.a7859b6e9cbfbd0f",
+      "type": 0,
+      "text": "Mockingly",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "adcccf63fa000201",
+      "_key": "!tables.results!44c8e6782d0e51c0.adcccf63fa000201",
+      "type": 0,
+      "text": "Mysteriously",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6714fac5a57e025b",
+      "_key": "!tables.results!44c8e6782d0e51c0.6714fac5a57e025b",
+      "type": 0,
+      "text": "Naturally",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e9955e7a206d29b8",
+      "_key": "!tables.results!44c8e6782d0e51c0.e9955e7a206d29b8",
+      "type": 0,
+      "text": "Neatly",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a17de117ec3f2ecd",
+      "_key": "!tables.results!44c8e6782d0e51c0.a17de117ec3f2ecd",
+      "type": 0,
+      "text": "Nicely",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b572247b7e62dcec",
+      "_key": "!tables.results!44c8e6782d0e51c0.b572247b7e62dcec",
+      "type": 0,
+      "text": "Oddly",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c263933b73440c9",
+      "_key": "!tables.results!44c8e6782d0e51c0.5c263933b73440c9",
+      "type": 0,
+      "text": "Offensively",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6376f3c4e1eaf2a4",
+      "_key": "!tables.results!44c8e6782d0e51c0.6376f3c4e1eaf2a4",
+      "type": 0,
+      "text": "Officially",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "48b38da97ce33b76",
+      "_key": "!tables.results!44c8e6782d0e51c0.48b38da97ce33b76",
+      "type": 0,
+      "text": "Partially",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "078f34dcb2717d29",
+      "_key": "!tables.results!44c8e6782d0e51c0.078f34dcb2717d29",
+      "type": 0,
+      "text": "Peacefully",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e3545dbacf4420ec",
+      "_key": "!tables.results!44c8e6782d0e51c0.e3545dbacf4420ec",
+      "type": 0,
+      "text": "Perfectly",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3b7324388a446f60",
+      "_key": "!tables.results!44c8e6782d0e51c0.3b7324388a446f60",
+      "type": 0,
+      "text": "Playfully",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "410ee3eeb1312e20",
+      "_key": "!tables.results!44c8e6782d0e51c0.410ee3eeb1312e20",
+      "type": 0,
+      "text": "Politely",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ddf809ac154f2408",
+      "_key": "!tables.results!44c8e6782d0e51c0.ddf809ac154f2408",
+      "type": 0,
+      "text": "Positively",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e40a309550c376b1",
+      "_key": "!tables.results!44c8e6782d0e51c0.e40a309550c376b1",
+      "type": 0,
+      "text": "Powerfully",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f402adf13c9b0d65",
+      "_key": "!tables.results!44c8e6782d0e51c0.f402adf13c9b0d65",
+      "type": 0,
+      "text": "Quaintly",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82b6132d82d0fb6b",
+      "_key": "!tables.results!44c8e6782d0e51c0.82b6132d82d0fb6b",
+      "type": 0,
+      "text": "Quarrelsomely",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b4cb4159eb51a331",
+      "_key": "!tables.results!44c8e6782d0e51c0.b4cb4159eb51a331",
+      "type": 0,
+      "text": "Quietly",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "076fa7b0f5fcefa5",
+      "_key": "!tables.results!44c8e6782d0e51c0.076fa7b0f5fcefa5",
+      "type": 0,
+      "text": "Roughly",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e82510bbfce352ec",
+      "_key": "!tables.results!44c8e6782d0e51c0.e82510bbfce352ec",
+      "type": 0,
+      "text": "Rudely",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bdcebd2c1cdfc657",
+      "_key": "!tables.results!44c8e6782d0e51c0.bdcebd2c1cdfc657",
+      "type": 0,
+      "text": "Ruthlessly",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "92594df750ebe90b",
+      "_key": "!tables.results!44c8e6782d0e51c0.92594df750ebe90b",
+      "type": 0,
+      "text": "Slowly",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4173948c5392f3d8",
+      "_key": "!tables.results!44c8e6782d0e51c0.4173948c5392f3d8",
+      "type": 0,
+      "text": "Softly",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "519c99c51fa8f25b",
+      "_key": "!tables.results!44c8e6782d0e51c0.519c99c51fa8f25b",
+      "type": 0,
+      "text": "Swiftly",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ccc55866da3365ec",
+      "_key": "!tables.results!44c8e6782d0e51c0.ccc55866da3365ec",
+      "type": 0,
+      "text": "Threateningly",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "67070e5e13449ddb",
+      "_key": "!tables.results!44c8e6782d0e51c0.67070e5e13449ddb",
+      "type": 0,
+      "text": "Very",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be99f0bcc319387f",
+      "_key": "!tables.results!44c8e6782d0e51c0.be99f0bcc319387f",
+      "type": 0,
+      "text": "Violently",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "465d364a7acb60d0",
+      "_key": "!tables.results!44c8e6782d0e51c0.465d364a7acb60d0",
+      "type": 0,
+      "text": "Wildly",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "67a04fdfef057172",
+      "_key": "!tables.results!44c8e6782d0e51c0.67a04fdfef057172",
+      "type": 0,
+      "text": "Yieldingly",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ea1602b5c5be5ea6",
+  "flags": {}
+}

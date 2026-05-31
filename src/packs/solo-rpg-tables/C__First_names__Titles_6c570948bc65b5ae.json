@@ -1,0 +1,314 @@
+{
+  "_id": "6c570948bc65b5ae",
+  "_key": "!tables!6c570948bc65b5ae",
+  "name": "C) First names, Titles",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "278f19b3e674a992",
+      "_key": "!tables.results!6c570948bc65b5ae.278f19b3e674a992",
+      "type": 0,
+      "text": "Anna",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3d050cc88ee81195",
+      "_key": "!tables.results!6c570948bc65b5ae.3d050cc88ee81195",
+      "type": 0,
+      "text": "Arthur",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b3b83308b79364e",
+      "_key": "!tables.results!6c570948bc65b5ae.7b3b83308b79364e",
+      "type": 0,
+      "text": "Bernard",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e0db65657f2fc151",
+      "_key": "!tables.results!6c570948bc65b5ae.e0db65657f2fc151",
+      "type": 0,
+      "text": "Charles",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f3055cabb3a2487",
+      "_key": "!tables.results!6c570948bc65b5ae.8f3055cabb3a2487",
+      "type": 0,
+      "text": "Elizabeth",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e3c998113bf808d6",
+      "_key": "!tables.results!6c570948bc65b5ae.e3c998113bf808d6",
+      "type": 0,
+      "text": "Fanny",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "18d64214f2981c53",
+      "_key": "!tables.results!6c570948bc65b5ae.18d64214f2981c53",
+      "type": 0,
+      "text": "George",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d2080e1f56af7d6",
+      "_key": "!tables.results!6c570948bc65b5ae.7d2080e1f56af7d6",
+      "type": 0,
+      "text": "Helen",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9275869a63afc49f",
+      "_key": "!tables.results!6c570948bc65b5ae.9275869a63afc49f",
+      "type": 0,
+      "text": "Ilia",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a01b900b3d4a75f",
+      "_key": "!tables.results!6c570948bc65b5ae.6a01b900b3d4a75f",
+      "type": 0,
+      "text": "John",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9fed60d131b75ab0",
+      "_key": "!tables.results!6c570948bc65b5ae.9fed60d131b75ab0",
+      "type": 0,
+      "text": "Kathleen",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e409eac764562d22",
+      "_key": "!tables.results!6c570948bc65b5ae.e409eac764562d22",
+      "type": 0,
+      "text": "King",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "80107097a4a2253c",
+      "_key": "!tables.results!6c570948bc65b5ae.80107097a4a2253c",
+      "type": 0,
+      "text": "Louis",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e9533c1458acf0d8",
+      "_key": "!tables.results!6c570948bc65b5ae.e9533c1458acf0d8",
+      "type": 0,
+      "text": "Marcus",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f67605cc7833e43",
+      "_key": "!tables.results!6c570948bc65b5ae.6f67605cc7833e43",
+      "type": 0,
+      "text": "Mary",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0c7925f652e1069d",
+      "_key": "!tables.results!6c570948bc65b5ae.0c7925f652e1069d",
+      "type": 0,
+      "text": "Nicholas",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "165d6236dcea4d42",
+      "_key": "!tables.results!6c570948bc65b5ae.165d6236dcea4d42",
+      "type": 0,
+      "text": "Prince",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0bd4a255cde1c815",
+      "_key": "!tables.results!6c570948bc65b5ae.0bd4a255cde1c815",
+      "type": 0,
+      "text": "Princess",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e23dd81d6825d629",
+      "_key": "!tables.results!6c570948bc65b5ae.e23dd81d6825d629",
+      "type": 0,
+      "text": "Queen",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8718429ab8969261",
+      "_key": "!tables.results!6c570948bc65b5ae.8718429ab8969261",
+      "type": 0,
+      "text": "Tilly",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

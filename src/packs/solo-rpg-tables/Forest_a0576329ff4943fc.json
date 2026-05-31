@@ -1,0 +1,179 @@
+{
+  "_id": "a0576329ff4943fc",
+  "_key": "!tables!a0576329ff4943fc",
+  "name": "Forest",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "a51a94c3231f3364",
+      "_key": "!tables.results!a0576329ff4943fc.a51a94c3231f3364",
+      "type": 0,
+      "text": "Ents",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d75224d4d128a3a0",
+      "_key": "!tables.results!a0576329ff4943fc.d75224d4d128a3a0",
+      "type": 0,
+      "text": "Giant spiders",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a768107f6a464bb",
+      "_key": "!tables.results!a0576329ff4943fc.6a768107f6a464bb",
+      "type": 0,
+      "text": "Ogres",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9aa4c34415869036",
+      "_key": "!tables.results!a0576329ff4943fc.9aa4c34415869036",
+      "type": 0,
+      "text": "Bears",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b833cade23c002eb",
+      "_key": "!tables.results!a0576329ff4943fc.b833cade23c002eb",
+      "type": 0,
+      "text": "Goblins",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b7df4a0279cbe45d",
+      "_key": "!tables.results!a0576329ff4943fc.b7df4a0279cbe45d",
+      "type": 0,
+      "text": "Boars",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb2f5fcad6392346",
+      "_key": "!tables.results!a0576329ff4943fc.fb2f5fcad6392346",
+      "type": 0,
+      "text": "Wolves",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b1caa9b7049e2dee",
+      "_key": "!tables.results!a0576329ff4943fc.b1caa9b7049e2dee",
+      "type": 0,
+      "text": "Bandits",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "38d2bd3a94f69bf7",
+      "_key": "!tables.results!a0576329ff4943fc.38d2bd3a94f69bf7",
+      "type": 0,
+      "text": "Elves",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "86eda3a35c6ae431",
+      "_key": "!tables.results!a0576329ff4943fc.86eda3a35c6ae431",
+      "type": 0,
+      "text": "Dryads",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1b7da2f39eb766ce",
+      "_key": "!tables.results!a0576329ff4943fc.1b7da2f39eb766ce",
+      "type": 0,
+      "text": "Werewolves",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "4895ee3b8e827a5c",
+  "flags": {}
+}

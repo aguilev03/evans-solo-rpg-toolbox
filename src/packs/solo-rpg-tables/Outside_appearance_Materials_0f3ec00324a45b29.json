@@ -1,0 +1,119 @@
+{
+  "_id": "0f3ec00324a45b29",
+  "_key": "!tables!0f3ec00324a45b29",
+  "name": "Outside appearance Materials",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "e19e4774f3c8e86d",
+      "_key": "!tables.results!0f3ec00324a45b29.e19e4774f3c8e86d",
+      "type": 0,
+      "text": "Cobblestone",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9be88e578b0b023d",
+      "_key": "!tables.results!0f3ec00324a45b29.9be88e578b0b023d",
+      "type": 0,
+      "text": "Wood",
+      "weight": 1,
+      "range": [
+        6,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dce2c52f87817c6e",
+      "_key": "!tables.results!0f3ec00324a45b29.dce2c52f87817c6e",
+      "type": 0,
+      "text": "Bricks",
+      "weight": 1,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "df7eb5d361af14ca",
+      "_key": "!tables.results!0f3ec00324a45b29.df7eb5d361af14ca",
+      "type": 0,
+      "text": "Sandstone",
+      "weight": 1,
+      "range": [
+        14,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c6090104e7eb1087",
+      "_key": "!tables.results!0f3ec00324a45b29.c6090104e7eb1087",
+      "type": 0,
+      "text": "Limestone",
+      "weight": 1,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "738deb4138001e8c",
+      "_key": "!tables.results!0f3ec00324a45b29.738deb4138001e8c",
+      "type": 0,
+      "text": "Marble",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4d3e08cdc82924cc",
+      "_key": "!tables.results!0f3ec00324a45b29.4d3e08cdc82924cc",
+      "type": 0,
+      "text": "Metal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

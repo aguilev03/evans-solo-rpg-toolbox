@@ -1,0 +1,164 @@
+{
+  "_id": "c924170f7e6801e1",
+  "_key": "!tables!c924170f7e6801e1",
+  "name": "Artificial Landmarks Worship",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "ea2dfcfe18bca155",
+      "_key": "!tables.results!c924170f7e6801e1.ea2dfcfe18bca155",
+      "type": 0,
+      "text": "Bell/Gong",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8b2503c848dfbc2e",
+      "_key": "!tables.results!c924170f7e6801e1.8b2503c848dfbc2e",
+      "type": 0,
+      "text": "Calvary",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b981ffeb499629b",
+      "_key": "!tables.results!c924170f7e6801e1.7b981ffeb499629b",
+      "type": 0,
+      "text": "Cemetery",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0e2500b387f700b3",
+      "_key": "!tables.results!c924170f7e6801e1.0e2500b387f700b3",
+      "type": 0,
+      "text": "Cross",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "949d6fdcc6173a9e",
+      "_key": "!tables.results!c924170f7e6801e1.949d6fdcc6173a9e",
+      "type": 0,
+      "text": "Holy place",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aad649b1cc96ce1b",
+      "_key": "!tables.results!c924170f7e6801e1.aad649b1cc96ce1b",
+      "type": 0,
+      "text": "Idol",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "87ef07e219280103",
+      "_key": "!tables.results!c924170f7e6801e1.87ef07e219280103",
+      "type": 0,
+      "text": "Shrine",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b8f54d7ef36af667",
+      "_key": "!tables.results!c924170f7e6801e1.b8f54d7ef36af667",
+      "type": 0,
+      "text": "Tomb",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b735e97eeae91de3",
+      "_key": "!tables.results!c924170f7e6801e1.b735e97eeae91de3",
+      "type": 0,
+      "text": "Tumulus",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cafa6afff503ff28",
+      "_key": "!tables.results!c924170f7e6801e1.cafa6afff503ff28",
+      "type": 0,
+      "text": "Vault",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

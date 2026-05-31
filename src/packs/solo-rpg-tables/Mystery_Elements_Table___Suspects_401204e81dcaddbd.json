@@ -1,0 +1,134 @@
+{
+  "_id": "401204e81dcaddbd",
+  "_key": "!tables!401204e81dcaddbd",
+  "name": "Mystery Elements Table - Suspects",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Mystery Elements Table - Suspects",
+  "results": [
+    {
+      "_id": "b00c85cfa4683da6",
+      "_key": "!tables.results!401204e81dcaddbd.b00c85cfa4683da6",
+      "type": 0,
+      "text": "New Suspect",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "06a216ff92524c17",
+      "_key": "!tables.results!401204e81dcaddbd.06a216ff92524c17",
+      "type": 0,
+      "text": "New Linked Suspect",
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "26034d9208e23f9f",
+      "_key": "!tables.results!401204e81dcaddbd.26034d9208e23f9f",
+      "type": 0,
+      "text": "Link Clue To Suspect or New Suspect",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5cabfd73cfca7267",
+      "_key": "!tables.results!401204e81dcaddbd.5cabfd73cfca7267",
+      "type": 0,
+      "text": "Roll Twice or Link Clue To Suspect",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "63cb39939019c255",
+      "_key": "!tables.results!401204e81dcaddbd.63cb39939019c255",
+      "type": 0,
+      "text": "New Suspect",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82189f5992e72b60",
+      "_key": "!tables.results!401204e81dcaddbd.82189f5992e72b60",
+      "type": 0,
+      "text": "Special",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "509c44d7f61dde76",
+      "_key": "!tables.results!401204e81dcaddbd.509c44d7f61dde76",
+      "type": 0,
+      "text": "Link Clue To Suspect",
+      "weight": 1,
+      "range": [
+        14,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "74c712fea36a573a",
+      "_key": "!tables.results!401204e81dcaddbd.74c712fea36a573a",
+      "type": 0,
+      "text": "Link Clue To Suspect, PP-6",
+      "weight": 1,
+      "range": [
+        16,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1D10+PP",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ea1602b5c5be5ea6",
+  "flags": {}
+}

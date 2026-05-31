@@ -1,0 +1,554 @@
+{
+  "_id": "9b1da4e61f6e52b9",
+  "_key": "!tables!9b1da4e61f6e52b9",
+  "name": "Fantasy Keywords",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a fantasy keyword.",
+  "results": [
+    {
+      "_id": "a4e95e89ab964187",
+      "_key": "!tables.results!9b1da4e61f6e52b9.a4e95e89ab964187",
+      "type": 0,
+      "text": "Iron chunk",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f050389b244e1f0b",
+      "_key": "!tables.results!9b1da4e61f6e52b9.f050389b244e1f0b",
+      "type": 0,
+      "text": "Sword",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "205dbbd89bf69da8",
+      "_key": "!tables.results!9b1da4e61f6e52b9.205dbbd89bf69da8",
+      "type": 0,
+      "text": "Stable",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c9fa08abf0f8b140",
+      "_key": "!tables.results!9b1da4e61f6e52b9.c9fa08abf0f8b140",
+      "type": 0,
+      "text": "Portal",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f8e62e27c57ab571",
+      "_key": "!tables.results!9b1da4e61f6e52b9.f8e62e27c57ab571",
+      "type": 0,
+      "text": "Armour",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ae2a6ae0ac891a37",
+      "_key": "!tables.results!9b1da4e61f6e52b9.ae2a6ae0ac891a37",
+      "type": 0,
+      "text": "Tome",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7230a4d95831c2f0",
+      "_key": "!tables.results!9b1da4e61f6e52b9.7230a4d95831c2f0",
+      "type": 0,
+      "text": "Tracks",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bb57a3df49021ab4",
+      "_key": "!tables.results!9b1da4e61f6e52b9.bb57a3df49021ab4",
+      "type": 0,
+      "text": "Heraldry",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "593535e6a1cc6892",
+      "_key": "!tables.results!9b1da4e61f6e52b9.593535e6a1cc6892",
+      "type": 0,
+      "text": "Spell",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fc867e9af44dfafd",
+      "_key": "!tables.results!9b1da4e61f6e52b9.fc867e9af44dfafd",
+      "type": 0,
+      "text": "Beast",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82652d821d6dec54",
+      "_key": "!tables.results!9b1da4e61f6e52b9.82652d821d6dec54",
+      "type": 0,
+      "text": "Rune",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5613ca9624fe77fe",
+      "_key": "!tables.results!9b1da4e61f6e52b9.5613ca9624fe77fe",
+      "type": 0,
+      "text": "Scroll",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7cdb218130511643",
+      "_key": "!tables.results!9b1da4e61f6e52b9.7cdb218130511643",
+      "type": 0,
+      "text": "Fealty",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e12be6b7203505c8",
+      "_key": "!tables.results!9b1da4e61f6e52b9.e12be6b7203505c8",
+      "type": 0,
+      "text": "Dragon",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fcd8e76876161cc0",
+      "_key": "!tables.results!9b1da4e61f6e52b9.fcd8e76876161cc0",
+      "type": 0,
+      "text": "Feather",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e7adf29c71abf025",
+      "_key": "!tables.results!9b1da4e61f6e52b9.e7adf29c71abf025",
+      "type": 0,
+      "text": "Bellows",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7f33c3369cc3a2d2",
+      "_key": "!tables.results!9b1da4e61f6e52b9.7f33c3369cc3a2d2",
+      "type": 0,
+      "text": "Crown",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "48cf5219992a823c",
+      "_key": "!tables.results!9b1da4e61f6e52b9.48cf5219992a823c",
+      "type": 0,
+      "text": "Talisman",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e12cadfea6cf862",
+      "_key": "!tables.results!9b1da4e61f6e52b9.1e12cadfea6cf862",
+      "type": 0,
+      "text": "Hearth",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a8da653eb28ede3e",
+      "_key": "!tables.results!9b1da4e61f6e52b9.a8da653eb28ede3e",
+      "type": 0,
+      "text": "History",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0b2c6a16cf3313fd",
+      "_key": "!tables.results!9b1da4e61f6e52b9.0b2c6a16cf3313fd",
+      "type": 0,
+      "text": "Faerie",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7a8d97342d58389d",
+      "_key": "!tables.results!9b1da4e61f6e52b9.7a8d97342d58389d",
+      "type": 0,
+      "text": "Rotten",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7a62a26d94ddb539",
+      "_key": "!tables.results!9b1da4e61f6e52b9.7a62a26d94ddb539",
+      "type": 0,
+      "text": "Declaration",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "06ab113635b27e1f",
+      "_key": "!tables.results!9b1da4e61f6e52b9.06ab113635b27e1f",
+      "type": 0,
+      "text": "Mead",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f0a516b4cd283fc6",
+      "_key": "!tables.results!9b1da4e61f6e52b9.f0a516b4cd283fc6",
+      "type": 0,
+      "text": "Sign",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "47af3ff2bf4ea0e0",
+      "_key": "!tables.results!9b1da4e61f6e52b9.47af3ff2bf4ea0e0",
+      "type": 0,
+      "text": "Market",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3ae4212b3bc95f56",
+      "_key": "!tables.results!9b1da4e61f6e52b9.3ae4212b3bc95f56",
+      "type": 0,
+      "text": "Knight",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6945cbe10f7460f7",
+      "_key": "!tables.results!9b1da4e61f6e52b9.6945cbe10f7460f7",
+      "type": 0,
+      "text": "Temple",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9b85fe887127b67a",
+      "_key": "!tables.results!9b1da4e61f6e52b9.9b85fe887127b67a",
+      "type": 0,
+      "text": "Tournament",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ce6bf843da09b46",
+      "_key": "!tables.results!9b1da4e61f6e52b9.8ce6bf843da09b46",
+      "type": 0,
+      "text": "Oath",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0c323f73f34d8975",
+      "_key": "!tables.results!9b1da4e61f6e52b9.0c323f73f34d8975",
+      "type": 0,
+      "text": "Poison",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cb7bb46b5251ef9f",
+      "_key": "!tables.results!9b1da4e61f6e52b9.cb7bb46b5251ef9f",
+      "type": 0,
+      "text": "Tavern",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6c32f6d2f5123348",
+      "_key": "!tables.results!9b1da4e61f6e52b9.6c32f6d2f5123348",
+      "type": 0,
+      "text": "Sigil",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3c544460433f868b",
+      "_key": "!tables.results!9b1da4e61f6e52b9.3c544460433f868b",
+      "type": 0,
+      "text": "Herald",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c5bb3a31e3ddc27",
+      "_key": "!tables.results!9b1da4e61f6e52b9.9c5bb3a31e3ddc27",
+      "type": 0,
+      "text": "Feast",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13bb7e2ff8dda3d8",
+      "_key": "!tables.results!9b1da4e61f6e52b9.13bb7e2ff8dda3d8",
+      "type": 0,
+      "text": "Dungeon",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

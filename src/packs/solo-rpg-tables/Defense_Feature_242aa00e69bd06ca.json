@@ -1,0 +1,119 @@
+{
+  "_id": "242aa00e69bd06ca",
+  "_key": "!tables!242aa00e69bd06ca",
+  "name": "Defense Feature",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "c088362ed8af50b3",
+      "_key": "!tables.results!242aa00e69bd06ca.c088362ed8af50b3",
+      "type": 0,
+      "text": "None",
+      "weight": 1,
+      "range": [
+        1,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8680e3627da1682c",
+      "_key": "!tables.results!242aa00e69bd06ca.8680e3627da1682c",
+      "type": 0,
+      "text": "Ballista",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3191b5d06acb074b",
+      "_key": "!tables.results!242aa00e69bd06ca.3191b5d06acb074b",
+      "type": 0,
+      "text": "Boiling oil",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3725f62a33625968",
+      "_key": "!tables.results!242aa00e69bd06ca.3725f62a33625968",
+      "type": 0,
+      "text": "Catapult",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "75d5cb13ee0e4414",
+      "_key": "!tables.results!242aa00e69bd06ca.75d5cb13ee0e4414",
+      "type": 0,
+      "text": "Hoarding",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e45242ec92cf27d",
+      "_key": "!tables.results!242aa00e69bd06ca.1e45242ec92cf27d",
+      "type": 0,
+      "text": "Iron spikes",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2725f8b5d56afc42",
+      "_key": "!tables.results!242aa00e69bd06ca.2725f8b5d56afc42",
+      "type": 0,
+      "text": "Piles of rocks",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

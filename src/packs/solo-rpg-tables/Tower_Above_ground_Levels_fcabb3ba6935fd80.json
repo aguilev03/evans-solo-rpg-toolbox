@@ -1,0 +1,104 @@
+{
+  "_id": "fcabb3ba6935fd80",
+  "_key": "!tables!fcabb3ba6935fd80",
+  "name": "Tower Above ground Levels",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "494c40a1bfc8b3d9",
+      "_key": "!tables.results!fcabb3ba6935fd80.494c40a1bfc8b3d9",
+      "type": 0,
+      "text": "One",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "63a174cc97fcbe7c",
+      "_key": "!tables.results!fcabb3ba6935fd80.63a174cc97fcbe7c",
+      "type": 0,
+      "text": "Two",
+      "weight": 1,
+      "range": [
+        2,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "914e4759944352c9",
+      "_key": "!tables.results!fcabb3ba6935fd80.914e4759944352c9",
+      "type": 0,
+      "text": "Three",
+      "weight": 1,
+      "range": [
+        4,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "20f6d54d2fe0b8b5",
+      "_key": "!tables.results!fcabb3ba6935fd80.20f6d54d2fe0b8b5",
+      "type": 0,
+      "text": "Four",
+      "weight": 1,
+      "range": [
+        7,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c7489a257df75e8d",
+      "_key": "!tables.results!fcabb3ba6935fd80.c7489a257df75e8d",
+      "type": 0,
+      "text": "Five",
+      "weight": 1,
+      "range": [
+        10,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e5f2f4b790e211d9",
+      "_key": "!tables.results!fcabb3ba6935fd80.e5f2f4b790e211d9",
+      "type": 0,
+      "text": "Six",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

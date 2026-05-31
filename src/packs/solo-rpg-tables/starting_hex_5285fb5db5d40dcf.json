@@ -1,0 +1,89 @@
+{
+  "_id": "5285fb5db5d40dcf",
+  "_key": "!tables!5285fb5db5d40dcf",
+  "name": "starting hex",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "1a6071a6ebc60052",
+      "_key": "!tables.results!5285fb5db5d40dcf.1a6071a6ebc60052",
+      "type": 0,
+      "text": "Grassland",
+      "weight": 1,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1ad5fafe9dc09039",
+      "_key": "!tables.results!5285fb5db5d40dcf.1ad5fafe9dc09039",
+      "type": 0,
+      "text": "Forest",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a112d94f7fe41d4f",
+      "_key": "!tables.results!5285fb5db5d40dcf.a112d94f7fe41d4f",
+      "type": 0,
+      "text": "Hills",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ef1d03ff05ec196e",
+      "_key": "!tables.results!5285fb5db5d40dcf.ef1d03ff05ec196e",
+      "type": 0,
+      "text": "Marsh",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0ea0fb114358b663",
+      "_key": "!tables.results!5285fb5db5d40dcf.0ea0fb114358b663",
+      "type": 0,
+      "text": "Mountains",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "cc4650a6ff36d76a",
+  "flags": {}
+}

@@ -1,0 +1,554 @@
+{
+  "_id": "159e1f30b0e84bbf",
+  "_key": "!tables!159e1f30b0e84bbf",
+  "name": "Sci-Fi Locations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a location with a sci-fi theme.",
+  "results": [
+    {
+      "_id": "585100ad9e8dd40c",
+      "_key": "!tables.results!159e1f30b0e84bbf.585100ad9e8dd40c",
+      "type": 0,
+      "text": "Space station",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c3da17e1ff35d6ed",
+      "_key": "!tables.results!159e1f30b0e84bbf.c3da17e1ff35d6ed",
+      "type": 0,
+      "text": "Galactic cruiser",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ce3cc30d5caa2bec",
+      "_key": "!tables.results!159e1f30b0e84bbf.ce3cc30d5caa2bec",
+      "type": 0,
+      "text": "Slums",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e17fb049b3ed9e15",
+      "_key": "!tables.results!159e1f30b0e84bbf.e17fb049b3ed9e15",
+      "type": 0,
+      "text": "Brothel",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "78e43a3be53839f3",
+      "_key": "!tables.results!159e1f30b0e84bbf.78e43a3be53839f3",
+      "type": 0,
+      "text": "Drug den",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f02f6c77ba62b57a",
+      "_key": "!tables.results!159e1f30b0e84bbf.f02f6c77ba62b57a",
+      "type": 0,
+      "text": "Corporate HQ",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "49d1f509f7c71c8e",
+      "_key": "!tables.results!159e1f30b0e84bbf.49d1f509f7c71c8e",
+      "type": 0,
+      "text": "Megacity underground",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e07d5a74383055f3",
+      "_key": "!tables.results!159e1f30b0e84bbf.e07d5a74383055f3",
+      "type": 0,
+      "text": "Black market",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ba59107da25fc389",
+      "_key": "!tables.results!159e1f30b0e84bbf.ba59107da25fc389",
+      "type": 0,
+      "text": "Rooftop",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4d4a463ec26b7a1a",
+      "_key": "!tables.results!159e1f30b0e84bbf.4d4a463ec26b7a1a",
+      "type": 0,
+      "text": "Skyscraper",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c8d892b85fabcad",
+      "_key": "!tables.results!159e1f30b0e84bbf.5c8d892b85fabcad",
+      "type": 0,
+      "text": "Junkyard",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e9e09f1ef7bbe402",
+      "_key": "!tables.results!159e1f30b0e84bbf.e9e09f1ef7bbe402",
+      "type": 0,
+      "text": "Arcade",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f2f17951fcd02a08",
+      "_key": "!tables.results!159e1f30b0e84bbf.f2f17951fcd02a08",
+      "type": 0,
+      "text": "Hideout",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d4a390014b9a859c",
+      "_key": "!tables.results!159e1f30b0e84bbf.d4a390014b9a859c",
+      "type": 0,
+      "text": "Cockpit",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d3ebd6f77f1a133",
+      "_key": "!tables.results!159e1f30b0e84bbf.7d3ebd6f77f1a133",
+      "type": 0,
+      "text": "Space freighter",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "749f658f5e8fd44b",
+      "_key": "!tables.results!159e1f30b0e84bbf.749f658f5e8fd44b",
+      "type": 0,
+      "text": "Lunar base",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ced9d2e97424f114",
+      "_key": "!tables.results!159e1f30b0e84bbf.ced9d2e97424f114",
+      "type": 0,
+      "text": "Penthouse",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "12a3078d3fa75d33",
+      "_key": "!tables.results!159e1f30b0e84bbf.12a3078d3fa75d33",
+      "type": 0,
+      "text": "Dive bar",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cc428c27b859edc2",
+      "_key": "!tables.results!159e1f30b0e84bbf.cc428c27b859edc2",
+      "type": 0,
+      "text": "Speakeasy",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1cbf97d5a4de214e",
+      "_key": "!tables.results!159e1f30b0e84bbf.1cbf97d5a4de214e",
+      "type": 0,
+      "text": "VR world",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d1b216eba70b0143",
+      "_key": "!tables.results!159e1f30b0e84bbf.d1b216eba70b0143",
+      "type": 0,
+      "text": "Server room",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a4447698f3c7d6ed",
+      "_key": "!tables.results!159e1f30b0e84bbf.a4447698f3c7d6ed",
+      "type": 0,
+      "text": "Highway",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8d09bc40419e58a4",
+      "_key": "!tables.results!159e1f30b0e84bbf.8d09bc40419e58a4",
+      "type": 0,
+      "text": "Dig site",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9da0917e3ed1e4ee",
+      "_key": "!tables.results!159e1f30b0e84bbf.9da0917e3ed1e4ee",
+      "type": 0,
+      "text": "Abandoned ship",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "818d451191c96842",
+      "_key": "!tables.results!159e1f30b0e84bbf.818d451191c96842",
+      "type": 0,
+      "text": "Private residence",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "10e703f1934186c8",
+      "_key": "!tables.results!159e1f30b0e84bbf.10e703f1934186c8",
+      "type": 0,
+      "text": "Gene lab",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "895d2720a49ee904",
+      "_key": "!tables.results!159e1f30b0e84bbf.895d2720a49ee904",
+      "type": 0,
+      "text": "Military base",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b5f4115cdb8ba8c6",
+      "_key": "!tables.results!159e1f30b0e84bbf.b5f4115cdb8ba8c6",
+      "type": 0,
+      "text": "Nightclub",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f3daa1b79e37575",
+      "_key": "!tables.results!159e1f30b0e84bbf.6f3daa1b79e37575",
+      "type": 0,
+      "text": "Union office",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1561e89553a0de25",
+      "_key": "!tables.results!159e1f30b0e84bbf.1561e89553a0de25",
+      "type": 0,
+      "text": "Bio-dome",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7e2c390012a53bb4",
+      "_key": "!tables.results!159e1f30b0e84bbf.7e2c390012a53bb4",
+      "type": 0,
+      "text": "Back alley",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4f954f404e5d3da9",
+      "_key": "!tables.results!159e1f30b0e84bbf.4f954f404e5d3da9",
+      "type": 0,
+      "text": "Gang safe-house",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "04a37177dcfad06c",
+      "_key": "!tables.results!159e1f30b0e84bbf.04a37177dcfad06c",
+      "type": 0,
+      "text": "Cryo-chamber",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6e66a019d69ed598",
+      "_key": "!tables.results!159e1f30b0e84bbf.6e66a019d69ed598",
+      "type": 0,
+      "text": "Ship port",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "27a6ef1d7895f0ef",
+      "_key": "!tables.results!159e1f30b0e84bbf.27a6ef1d7895f0ef",
+      "type": 0,
+      "text": "Alien planet",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "403bec1c4bb544bf",
+      "_key": "!tables.results!159e1f30b0e84bbf.403bec1c4bb544bf",
+      "type": 0,
+      "text": "Laboratory",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

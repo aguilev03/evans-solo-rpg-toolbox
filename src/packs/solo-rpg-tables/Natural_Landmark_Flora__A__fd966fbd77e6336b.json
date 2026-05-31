@@ -1,0 +1,164 @@
+{
+  "_id": "fd966fbd77e6336b",
+  "_key": "!tables!fd966fbd77e6336b",
+  "name": "Natural Landmark Flora (A)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "1d22bc0760f587b2",
+      "_key": "!tables.results!fd966fbd77e6336b.1d22bc0760f587b2",
+      "type": 0,
+      "text": "Berry bush",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ca8e1e5b7dd9e978",
+      "_key": "!tables.results!fd966fbd77e6336b.ca8e1e5b7dd9e978",
+      "type": 0,
+      "text": "Bramble overgrown area",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "603289c6adf49c7a",
+      "_key": "!tables.results!fd966fbd77e6336b.603289c6adf49c7a",
+      "type": 0,
+      "text": "Burnt area",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "205708b78b0bfc94",
+      "_key": "!tables.results!fd966fbd77e6336b.205708b78b0bfc94",
+      "type": 0,
+      "text": "Centennial tree",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ef1d921c7578634f",
+      "_key": "!tables.results!fd966fbd77e6336b.ef1d921c7578634f",
+      "type": 0,
+      "text": "Dead tree",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "47894324ccf40427",
+      "_key": "!tables.results!fd966fbd77e6336b.47894324ccf40427",
+      "type": 0,
+      "text": "Exotic tree",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6020a05ed5d78383",
+      "_key": "!tables.results!fd966fbd77e6336b.6020a05ed5d78383",
+      "type": 0,
+      "text": "Fallen tree",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "513bcbc78018f4ff",
+      "_key": "!tables.results!fd966fbd77e6336b.513bcbc78018f4ff",
+      "type": 0,
+      "text": "Flower circle",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "81d5f693695cab19",
+      "_key": "!tables.results!fd966fbd77e6336b.81d5f693695cab19",
+      "type": 0,
+      "text": "Fruit tree",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a6d1ae141b0c8afe",
+      "_key": "!tables.results!fd966fbd77e6336b.a6d1ae141b0c8afe",
+      "type": 0,
+      "text": "Giant flower",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

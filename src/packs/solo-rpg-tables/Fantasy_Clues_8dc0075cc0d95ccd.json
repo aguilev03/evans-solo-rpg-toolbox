@@ -1,0 +1,554 @@
+{
+  "_id": "8dc0075cc0d95ccd",
+  "_key": "!tables!8dc0075cc0d95ccd",
+  "name": "Fantasy Clues",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a clue with a fantasy theme.",
+  "results": [
+    {
+      "_id": "12b7436e9795d66a",
+      "_key": "!tables.results!8dc0075cc0d95ccd.12b7436e9795d66a",
+      "type": 0,
+      "text": "Ledger",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "88f29a10faeab02b",
+      "_key": "!tables.results!8dc0075cc0d95ccd.88f29a10faeab02b",
+      "type": 0,
+      "text": "Spiritual act",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f009924fc4e5808",
+      "_key": "!tables.results!8dc0075cc0d95ccd.1f009924fc4e5808",
+      "type": 0,
+      "text": "Arcane illusion",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d83e98e93eb2de5f",
+      "_key": "!tables.results!8dc0075cc0d95ccd.d83e98e93eb2de5f",
+      "type": 0,
+      "text": "Beastly evidence",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "65d4493998810e10",
+      "_key": "!tables.results!8dc0075cc0d95ccd.65d4493998810e10",
+      "type": 0,
+      "text": "Folklore",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e4b53c1a5baad11",
+      "_key": "!tables.results!8dc0075cc0d95ccd.1e4b53c1a5baad11",
+      "type": 0,
+      "text": "Directions",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8e7a481d2efe57c9",
+      "_key": "!tables.results!8dc0075cc0d95ccd.8e7a481d2efe57c9",
+      "type": 0,
+      "text": "Guild iconography",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "665bfe5a9ecf04e3",
+      "_key": "!tables.results!8dc0075cc0d95ccd.665bfe5a9ecf04e3",
+      "type": 0,
+      "text": "Soiled footprint",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62f40ecf9e415396",
+      "_key": "!tables.results!8dc0075cc0d95ccd.62f40ecf9e415396",
+      "type": 0,
+      "text": "Strange weather",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9b215162a194dfb2",
+      "_key": "!tables.results!8dc0075cc0d95ccd.9b215162a194dfb2",
+      "type": 0,
+      "text": "Claw marks",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "189e8eaae6186698",
+      "_key": "!tables.results!8dc0075cc0d95ccd.189e8eaae6186698",
+      "type": 0,
+      "text": "House seal",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "23dfc1377bbc88a0",
+      "_key": "!tables.results!8dc0075cc0d95ccd.23dfc1377bbc88a0",
+      "type": 0,
+      "text": "Hidden people",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b7f6a60980faf788",
+      "_key": "!tables.results!8dc0075cc0d95ccd.b7f6a60980faf788",
+      "type": 0,
+      "text": "Decorated weapon",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c6729550cb6b56f",
+      "_key": "!tables.results!8dc0075cc0d95ccd.7c6729550cb6b56f",
+      "type": 0,
+      "text": "Whispered rumour",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0a33f3fef6540731",
+      "_key": "!tables.results!8dc0075cc0d95ccd.0a33f3fef6540731",
+      "type": 0,
+      "text": "Overheard plot",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c7bef117606df5f",
+      "_key": "!tables.results!8dc0075cc0d95ccd.7c7bef117606df5f",
+      "type": 0,
+      "text": "Suspicious sighting",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bfa064c9ed0d5dcd",
+      "_key": "!tables.results!8dc0075cc0d95ccd.bfa064c9ed0d5dcd",
+      "type": 0,
+      "text": "Remains of ritual",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "90da829acd4c1bbc",
+      "_key": "!tables.results!8dc0075cc0d95ccd.90da829acd4c1bbc",
+      "type": 0,
+      "text": "Sign of struggle",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "96c6f850151446af",
+      "_key": "!tables.results!8dc0075cc0d95ccd.96c6f850151446af",
+      "type": 0,
+      "text": "Specific instructions",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d5e9d8ca9afc0042",
+      "_key": "!tables.results!8dc0075cc0d95ccd.d5e9d8ca9afc0042",
+      "type": 0,
+      "text": "Lost history",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3001fe01f3caa8a7",
+      "_key": "!tables.results!8dc0075cc0d95ccd.3001fe01f3caa8a7",
+      "type": 0,
+      "text": "Lingering aura",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d390ff4ca910567",
+      "_key": "!tables.results!8dc0075cc0d95ccd.9d390ff4ca910567",
+      "type": 0,
+      "text": "Blood trail",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a99d9c1442951186",
+      "_key": "!tables.results!8dc0075cc0d95ccd.a99d9c1442951186",
+      "type": 0,
+      "text": "Secret order",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a586fbed8f4389a0",
+      "_key": "!tables.results!8dc0075cc0d95ccd.a586fbed8f4389a0",
+      "type": 0,
+      "text": "Depicted prophecy",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ee7ff26bf9dc22a",
+      "_key": "!tables.results!8dc0075cc0d95ccd.4ee7ff26bf9dc22a",
+      "type": 0,
+      "text": "Abandoned structure",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d231344328cde63",
+      "_key": "!tables.results!8dc0075cc0d95ccd.9d231344328cde63",
+      "type": 0,
+      "text": "Town crier",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c105e9f8ec1aa55",
+      "_key": "!tables.results!8dc0075cc0d95ccd.9c105e9f8ec1aa55",
+      "type": 0,
+      "text": "Animal gathering",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c0084d3699b809d",
+      "_key": "!tables.results!8dc0075cc0d95ccd.9c0084d3699b809d",
+      "type": 0,
+      "text": "Ancient relic",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ad03f94721469b1a",
+      "_key": "!tables.results!8dc0075cc0d95ccd.ad03f94721469b1a",
+      "type": 0,
+      "text": "Shrine carvings",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f96b23c5b64090af",
+      "_key": "!tables.results!8dc0075cc0d95ccd.f96b23c5b64090af",
+      "type": 0,
+      "text": "Foreign object",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e73fcb5f2c256429",
+      "_key": "!tables.results!8dc0075cc0d95ccd.e73fcb5f2c256429",
+      "type": 0,
+      "text": "Scorched earth",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e4a0ec101306ea77",
+      "_key": "!tables.results!8dc0075cc0d95ccd.e4a0ec101306ea77",
+      "type": 0,
+      "text": "Poisonous substance",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8c5fe553d9ae1ee5",
+      "_key": "!tables.results!8dc0075cc0d95ccd.8c5fe553d9ae1ee5",
+      "type": 0,
+      "text": "Esoteric doctrine",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6b06ee9c937538f8",
+      "_key": "!tables.results!8dc0075cc0d95ccd.6b06ee9c937538f8",
+      "type": 0,
+      "text": "Torn clothing",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b84f1184aff16c73",
+      "_key": "!tables.results!8dc0075cc0d95ccd.b84f1184aff16c73",
+      "type": 0,
+      "text": "Recent camp",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dc55c7c440b2ca42",
+      "_key": "!tables.results!8dc0075cc0d95ccd.dc55c7c440b2ca42",
+      "type": 0,
+      "text": "Disappearance",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

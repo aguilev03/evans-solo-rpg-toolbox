@@ -1,0 +1,554 @@
+{
+  "_id": "c8072c5ae9492175",
+  "_key": "!tables!c8072c5ae9492175",
+  "name": "d66 Sci-Fi Keywords",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a sci-fi keyword.",
+  "results": [
+    {
+      "_id": "7bbf36eae23afdca",
+      "_key": "!tables.results!c8072c5ae9492175.7bbf36eae23afdca",
+      "type": 0,
+      "text": "Gun",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "99020ed46b8fd188",
+      "_key": "!tables.results!c8072c5ae9492175.99020ed46b8fd188",
+      "type": 0,
+      "text": "Chip",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0781d9f28ea3cfa3",
+      "_key": "!tables.results!c8072c5ae9492175.0781d9f28ea3cfa3",
+      "type": 0,
+      "text": "Synthetic",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "125be07063f29676",
+      "_key": "!tables.results!c8072c5ae9492175.125be07063f29676",
+      "type": 0,
+      "text": "Android",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0e60b59f81ac786a",
+      "_key": "!tables.results!c8072c5ae9492175.0e60b59f81ac786a",
+      "type": 0,
+      "text": "Binary",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "098e409cc49912ef",
+      "_key": "!tables.results!c8072c5ae9492175.098e409cc49912ef",
+      "type": 0,
+      "text": "Alien",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ab66fdeacb46c876",
+      "_key": "!tables.results!c8072c5ae9492175.ab66fdeacb46c876",
+      "type": 0,
+      "text": "Glass",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ecc165f071b8929d",
+      "_key": "!tables.results!c8072c5ae9492175.ecc165f071b8929d",
+      "type": 0,
+      "text": "Surveillance",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa8218e6ddeb0cf7",
+      "_key": "!tables.results!c8072c5ae9492175.aa8218e6ddeb0cf7",
+      "type": 0,
+      "text": "Scan",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6cf59af948ac3761",
+      "_key": "!tables.results!c8072c5ae9492175.6cf59af948ac3761",
+      "type": 0,
+      "text": "Lock",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d3daa79a65aadb1a",
+      "_key": "!tables.results!c8072c5ae9492175.d3daa79a65aadb1a",
+      "type": 0,
+      "text": "Technology",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dd12560a8a1ecdef",
+      "_key": "!tables.results!c8072c5ae9492175.dd12560a8a1ecdef",
+      "type": 0,
+      "text": "Core",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bbd55f91c3eadfc7",
+      "_key": "!tables.results!c8072c5ae9492175.bbd55f91c3eadfc7",
+      "type": 0,
+      "text": "Loop",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dfcb485953b62652",
+      "_key": "!tables.results!c8072c5ae9492175.dfcb485953b62652",
+      "type": 0,
+      "text": "Security",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6783f0cf5dc61ccd",
+      "_key": "!tables.results!c8072c5ae9492175.6783f0cf5dc61ccd",
+      "type": 0,
+      "text": "Engine",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d31574d2fe605b0",
+      "_key": "!tables.results!c8072c5ae9492175.9d31574d2fe605b0",
+      "type": 0,
+      "text": "Signal",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c2d65498e37a9033",
+      "_key": "!tables.results!c8072c5ae9492175.c2d65498e37a9033",
+      "type": 0,
+      "text": "Sludge",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2839bbb1808ab6b6",
+      "_key": "!tables.results!c8072c5ae9492175.2839bbb1808ab6b6",
+      "type": 0,
+      "text": "Visor",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d5998824f351bea",
+      "_key": "!tables.results!c8072c5ae9492175.7d5998824f351bea",
+      "type": 0,
+      "text": "Med-kit",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f66306dba6f40e73",
+      "_key": "!tables.results!c8072c5ae9492175.f66306dba6f40e73",
+      "type": 0,
+      "text": "Augmentation",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "db269014cc280a60",
+      "_key": "!tables.results!c8072c5ae9492175.db269014cc280a60",
+      "type": 0,
+      "text": "Network",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d75bf15075824a21",
+      "_key": "!tables.results!c8072c5ae9492175.d75bf15075824a21",
+      "type": 0,
+      "text": "Corporation",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7f1e871b8dc0e231",
+      "_key": "!tables.results!c8072c5ae9492175.7f1e871b8dc0e231",
+      "type": 0,
+      "text": "Bridge",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ada737bca677d7e2",
+      "_key": "!tables.results!c8072c5ae9492175.ada737bca677d7e2",
+      "type": 0,
+      "text": "Wire",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "abe3740a99940cf7",
+      "_key": "!tables.results!c8072c5ae9492175.abe3740a99940cf7",
+      "type": 0,
+      "text": "Scavenge",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c9b708e2fe15518a",
+      "_key": "!tables.results!c8072c5ae9492175.c9b708e2fe15518a",
+      "type": 0,
+      "text": "Star",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f9175e3158b54845",
+      "_key": "!tables.results!c8072c5ae9492175.f9175e3158b54845",
+      "type": 0,
+      "text": "Laser",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f3ca7e5379d20fd",
+      "_key": "!tables.results!c8072c5ae9492175.3f3ca7e5379d20fd",
+      "type": 0,
+      "text": "Keypad",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f66df15706a9b1fa",
+      "_key": "!tables.results!c8072c5ae9492175.f66df15706a9b1fa",
+      "type": 0,
+      "text": "Digit",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1cc94e08a47dc8bb",
+      "_key": "!tables.results!c8072c5ae9492175.1cc94e08a47dc8bb",
+      "type": 0,
+      "text": "Station",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "abd66e3865c1ef64",
+      "_key": "!tables.results!c8072c5ae9492175.abd66e3865c1ef64",
+      "type": 0,
+      "text": "Program",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "767d87ce48a7bdca",
+      "_key": "!tables.results!c8072c5ae9492175.767d87ce48a7bdca",
+      "type": 0,
+      "text": "Jargon",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ad94e872b9d2b1be",
+      "_key": "!tables.results!c8072c5ae9492175.ad94e872b9d2b1be",
+      "type": 0,
+      "text": "Slum",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2654cae868306e08",
+      "_key": "!tables.results!c8072c5ae9492175.2654cae868306e08",
+      "type": 0,
+      "text": "Fluid",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "66b231b90363e49a",
+      "_key": "!tables.results!c8072c5ae9492175.66b231b90363e49a",
+      "type": 0,
+      "text": "Orbit",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f76c9efcdace8768",
+      "_key": "!tables.results!c8072c5ae9492175.f76c9efcdace8768",
+      "type": 0,
+      "text": "Toxic",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

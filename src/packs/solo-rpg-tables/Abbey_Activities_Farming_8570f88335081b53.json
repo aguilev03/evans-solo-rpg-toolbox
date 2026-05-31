@@ -1,0 +1,194 @@
+{
+  "_id": "8570f88335081b53",
+  "_key": "!tables!8570f88335081b53",
+  "name": "Abbey Activities Farming",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "14b0df78fa37af72",
+      "_key": "!tables.results!8570f88335081b53.14b0df78fa37af72",
+      "type": 0,
+      "text": "Barley (beer)",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a839f8f2d3f1d71a",
+      "_key": "!tables.results!8570f88335081b53.a839f8f2d3f1d71a",
+      "type": 0,
+      "text": "Chickens (meat, eggs)",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d23d6d0f13894445",
+      "_key": "!tables.results!8570f88335081b53.d23d6d0f13894445",
+      "type": 0,
+      "text": "Cotton",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c9a70e6cc22de09",
+      "_key": "!tables.results!8570f88335081b53.4c9a70e6cc22de09",
+      "type": 0,
+      "text": "Cows (meat, milk and cheese)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "529056b0a8fd2345",
+      "_key": "!tables.results!8570f88335081b53.529056b0a8fd2345",
+      "type": 0,
+      "text": "Goats (meat, milk and cheese)",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b4941c6a755f91c9",
+      "_key": "!tables.results!8570f88335081b53.b4941c6a755f91c9",
+      "type": 0,
+      "text": "Grapes (wine)",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3de471f4799ce7d9",
+      "_key": "!tables.results!8570f88335081b53.3de471f4799ce7d9",
+      "type": 0,
+      "text": "Hops (beer)",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b294cfbf20c952da",
+      "_key": "!tables.results!8570f88335081b53.b294cfbf20c952da",
+      "type": 0,
+      "text": "Orchard (fruits and preserves)",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8c7ee30254ad791d",
+      "_key": "!tables.results!8570f88335081b53.8c7ee30254ad791d",
+      "type": 0,
+      "text": "Pigs (meat)",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "29b27d37e860aee4",
+      "_key": "!tables.results!8570f88335081b53.29b27d37e860aee4",
+      "type": 0,
+      "text": "Sheep (meat and wool)",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8b89e346c0d58ec6",
+      "_key": "!tables.results!8570f88335081b53.8b89e346c0d58ec6",
+      "type": 0,
+      "text": "Vegetables",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a60934e072107c99",
+      "_key": "!tables.results!8570f88335081b53.a60934e072107c99",
+      "type": 0,
+      "text": "Wheat (flour and bread)",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,554 @@
+{
+  "_id": "3afff90a561afe53",
+  "_key": "!tables!3afff90a561afe53",
+  "name": "d66 Noir Clues",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a clue with a noir theme.",
+  "results": [
+    {
+      "_id": "891dc6b6571417b4",
+      "_key": "!tables.results!3afff90a561afe53.891dc6b6571417b4",
+      "type": 0,
+      "text": "Email",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0cfa7a09fc15ff5d",
+      "_key": "!tables.results!3afff90a561afe53.0cfa7a09fc15ff5d",
+      "type": 0,
+      "text": "Recorded conversation",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "416a353e3def01c1",
+      "_key": "!tables.results!3afff90a561afe53.416a353e3def01c1",
+      "type": 0,
+      "text": "Witness account",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4b52b94f33e2a1aa",
+      "_key": "!tables.results!3afff90a561afe53.4b52b94f33e2a1aa",
+      "type": 0,
+      "text": "Suspicious behaviour",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "441b31df413b39c3",
+      "_key": "!tables.results!3afff90a561afe53.441b31df413b39c3",
+      "type": 0,
+      "text": "Trail of carnage",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "08e0a0ee990cbff8",
+      "_key": "!tables.results!3afff90a561afe53.08e0a0ee990cbff8",
+      "type": 0,
+      "text": "Recurring symbol",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bd35bd4f514896b5",
+      "_key": "!tables.results!3afff90a561afe53.bd35bd4f514896b5",
+      "type": 0,
+      "text": "Recent visit",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0122459acabb74ae",
+      "_key": "!tables.results!3afff90a561afe53.0122459acabb74ae",
+      "type": 0,
+      "text": "Forensic evidence",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9db65e5dab16620b",
+      "_key": "!tables.results!3afff90a561afe53.9db65e5dab16620b",
+      "type": 0,
+      "text": "Associated group",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d1cafd92fb716ba1",
+      "_key": "!tables.results!3afff90a561afe53.d1cafd92fb716ba1",
+      "type": 0,
+      "text": "Another location",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7067d3a1bac936dd",
+      "_key": "!tables.results!3afff90a561afe53.7067d3a1bac936dd",
+      "type": 0,
+      "text": "Meeting invitation",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a04ce93557e45ef8",
+      "_key": "!tables.results!3afff90a561afe53.a04ce93557e45ef8",
+      "type": 0,
+      "text": "Handwritten notes",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "89921501fdf8e60a",
+      "_key": "!tables.results!3afff90a561afe53.89921501fdf8e60a",
+      "type": 0,
+      "text": "False alibi",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d36276f900b888c1",
+      "_key": "!tables.results!3afff90a561afe53.d36276f900b888c1",
+      "type": 0,
+      "text": "Business card",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f2362ae13de723c1",
+      "_key": "!tables.results!3afff90a561afe53.f2362ae13de723c1",
+      "type": 0,
+      "text": "Cadaver",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ea7135b6acf221a",
+      "_key": "!tables.results!3afff90a561afe53.2ea7135b6acf221a",
+      "type": 0,
+      "text": "Secret room",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c42fe6acc7ce081",
+      "_key": "!tables.results!3afff90a561afe53.9c42fe6acc7ce081",
+      "type": 0,
+      "text": "Hidden cache",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f990425fb7b262d",
+      "_key": "!tables.results!3afff90a561afe53.1f990425fb7b262d",
+      "type": 0,
+      "text": "Criminal record",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9f1f446c1b313376",
+      "_key": "!tables.results!3afff90a561afe53.9f1f446c1b313376",
+      "type": 0,
+      "text": "Anonymous phone call",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ca66f046983a4314",
+      "_key": "!tables.results!3afff90a561afe53.ca66f046983a4314",
+      "type": 0,
+      "text": "Abandoned vehicle",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3cf7623abab97a6",
+      "_key": "!tables.results!3afff90a561afe53.f3cf7623abab97a6",
+      "type": 0,
+      "text": "Partial confession",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "091a63f4b2eaef66",
+      "_key": "!tables.results!3afff90a561afe53.091a63f4b2eaef66",
+      "type": 0,
+      "text": "Ransom letter",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d9cbbe39f58320a",
+      "_key": "!tables.results!3afff90a561afe53.0d9cbbe39f58320a",
+      "type": 0,
+      "text": "Body part",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ac3ac9f523d9e84c",
+      "_key": "!tables.results!3afff90a561afe53.ac3ac9f523d9e84c",
+      "type": 0,
+      "text": "Getaway trail",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ab34bb75175359d5",
+      "_key": "!tables.results!3afff90a561afe53.ab34bb75175359d5",
+      "type": 0,
+      "text": "Trophy",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ced44f53dffdfd09",
+      "_key": "!tables.results!3afff90a561afe53.ced44f53dffdfd09",
+      "type": 0,
+      "text": "Personal connection",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bbe0be07072d2ce0",
+      "_key": "!tables.results!3afff90a561afe53.bbe0be07072d2ce0",
+      "type": 0,
+      "text": "Accusatory statement",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2fae335040c7bce5",
+      "_key": "!tables.results!3afff90a561afe53.2fae335040c7bce5",
+      "type": 0,
+      "text": "Pattern",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d1e923721f70bb84",
+      "_key": "!tables.results!3afff90a561afe53.d1e923721f70bb84",
+      "type": 0,
+      "text": "Manifesto",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e79a85c4e3f3f488",
+      "_key": "!tables.results!3afff90a561afe53.e79a85c4e3f3f488",
+      "type": 0,
+      "text": "Urban legend",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a772add368730a74",
+      "_key": "!tables.results!3afff90a561afe53.a772add368730a74",
+      "type": 0,
+      "text": "Newspaper clippings",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6e9f601a066a3016",
+      "_key": "!tables.results!3afff90a561afe53.6e9f601a066a3016",
+      "type": 0,
+      "text": "Cipher",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "153e8a624c2b82a7",
+      "_key": "!tables.results!3afff90a561afe53.153e8a624c2b82a7",
+      "type": 0,
+      "text": "Vacant mark",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1bf14d50fe10c251",
+      "_key": "!tables.results!3afff90a561afe53.1bf14d50fe10c251",
+      "type": 0,
+      "text": "Testimony",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7f098a2963ad973e",
+      "_key": "!tables.results!3afff90a561afe53.7f098a2963ad973e",
+      "type": 0,
+      "text": "Eviction notice",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3832aca69d326ac8",
+      "_key": "!tables.results!3afff90a561afe53.3832aca69d326ac8",
+      "type": 0,
+      "text": "Incongruous object",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

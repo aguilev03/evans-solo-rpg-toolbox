@@ -1,0 +1,554 @@
+{
+  "_id": "5d834074c77584eb",
+  "_key": "!tables!5d834074c77584eb",
+  "name": "Treacheries",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "When creating a problem for your mystery, roll on this table to generate the treachery that befell the object.",
+  "results": [
+    {
+      "_id": "c063d0d1056eda40",
+      "_key": "!tables.results!5d834074c77584eb.c063d0d1056eda40",
+      "type": 0,
+      "text": "Vanished",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a534dbbfd014ba70",
+      "_key": "!tables.results!5d834074c77584eb.a534dbbfd014ba70",
+      "type": 0,
+      "text": "Changed",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "474e4f61a61a1de7",
+      "_key": "!tables.results!5d834074c77584eb.474e4f61a61a1de7",
+      "type": 0,
+      "text": "Perished",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a0f81192b4d9dd42",
+      "_key": "!tables.results!5d834074c77584eb.a0f81192b4d9dd42",
+      "type": 0,
+      "text": "Suffered",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ee9e86f8029c4e2a",
+      "_key": "!tables.results!5d834074c77584eb.ee9e86f8029c4e2a",
+      "type": 0,
+      "text": "Failed",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2368f5f6d34fe0e9",
+      "_key": "!tables.results!5d834074c77584eb.2368f5f6d34fe0e9",
+      "type": 0,
+      "text": "Was replaced",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3a0b251c630f5b9b",
+      "_key": "!tables.results!5d834074c77584eb.3a0b251c630f5b9b",
+      "type": 0,
+      "text": "Was destroyed",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "174882055f283b9a",
+      "_key": "!tables.results!5d834074c77584eb.174882055f283b9a",
+      "type": 0,
+      "text": "Was depleted",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dab4da18563e697c",
+      "_key": "!tables.results!5d834074c77584eb.dab4da18563e697c",
+      "type": 0,
+      "text": "Became vulnerable",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7a2ff0c365187b73",
+      "_key": "!tables.results!5d834074c77584eb.7a2ff0c365187b73",
+      "type": 0,
+      "text": "Was stolen",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "728720965e8fc636",
+      "_key": "!tables.results!5d834074c77584eb.728720965e8fc636",
+      "type": 0,
+      "text": "Became exposed",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d26bff6380c08ff6",
+      "_key": "!tables.results!5d834074c77584eb.d26bff6380c08ff6",
+      "type": 0,
+      "text": "Appeared",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a518e7855d200489",
+      "_key": "!tables.results!5d834074c77584eb.a518e7855d200489",
+      "type": 0,
+      "text": "Was disrupted",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2fbb13fa1a6bfd45",
+      "_key": "!tables.results!5d834074c77584eb.2fbb13fa1a6bfd45",
+      "type": 0,
+      "text": "Was consumed",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "751df5b32c61eb9e",
+      "_key": "!tables.results!5d834074c77584eb.751df5b32c61eb9e",
+      "type": 0,
+      "text": "Became corrupted",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1bdfbd8d7eab2f13",
+      "_key": "!tables.results!5d834074c77584eb.1bdfbd8d7eab2f13",
+      "type": 0,
+      "text": "Was sealed away",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "577e043c67afa32d",
+      "_key": "!tables.results!5d834074c77584eb.577e043c67afa32d",
+      "type": 0,
+      "text": "Evolved",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1c0b5eb69f99136",
+      "_key": "!tables.results!5d834074c77584eb.a1c0b5eb69f99136",
+      "type": 0,
+      "text": "Warped",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a77fe8ae8fbde3d",
+      "_key": "!tables.results!5d834074c77584eb.8a77fe8ae8fbde3d",
+      "type": 0,
+      "text": "Deteriorated",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c24cf20148bd89dd",
+      "_key": "!tables.results!5d834074c77584eb.c24cf20148bd89dd",
+      "type": 0,
+      "text": "Evaporated",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ff81acd7cafa4a71",
+      "_key": "!tables.results!5d834074c77584eb.ff81acd7cafa4a71",
+      "type": 0,
+      "text": "Crumbled",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a232d1f98e26f98",
+      "_key": "!tables.results!5d834074c77584eb.6a232d1f98e26f98",
+      "type": 0,
+      "text": "Withered",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "919864d916e82f82",
+      "_key": "!tables.results!5d834074c77584eb.919864d916e82f82",
+      "type": 0,
+      "text": "Was erased",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bf6d03df2784e604",
+      "_key": "!tables.results!5d834074c77584eb.bf6d03df2784e604",
+      "type": 0,
+      "text": "Exploded",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f87c0ac790f6f446",
+      "_key": "!tables.results!5d834074c77584eb.f87c0ac790f6f446",
+      "type": 0,
+      "text": "Disappeared",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b1c5c1ce1e37fc45",
+      "_key": "!tables.results!5d834074c77584eb.b1c5c1ce1e37fc45",
+      "type": 0,
+      "text": "Was revealed",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2eb75e556dbe8f2e",
+      "_key": "!tables.results!5d834074c77584eb.2eb75e556dbe8f2e",
+      "type": 0,
+      "text": "Transformed",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3d45a6d1eaf273e7",
+      "_key": "!tables.results!5d834074c77584eb.3d45a6d1eaf273e7",
+      "type": 0,
+      "text": "Was modified",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "438a5dfa6c447764",
+      "_key": "!tables.results!5d834074c77584eb.438a5dfa6c447764",
+      "type": 0,
+      "text": "Manifested",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a0453b670d56b96d",
+      "_key": "!tables.results!5d834074c77584eb.a0453b670d56b96d",
+      "type": 0,
+      "text": "Was hidden",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9670640dd4b09345",
+      "_key": "!tables.results!5d834074c77584eb.9670640dd4b09345",
+      "type": 0,
+      "text": "Damaged the [object]",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dcd722868fa7602f",
+      "_key": "!tables.results!5d834074c77584eb.dcd722868fa7602f",
+      "type": 0,
+      "text": "Changed the [object]",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b21f1c39e3d10fea",
+      "_key": "!tables.results!5d834074c77584eb.b21f1c39e3d10fea",
+      "type": 0,
+      "text": "Destroyed the [object]",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f5a504039f71d9a6",
+      "_key": "!tables.results!5d834074c77584eb.f5a504039f71d9a6",
+      "type": 0,
+      "text": "Revealed the [object]",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "28c89948bd3d7803",
+      "_key": "!tables.results!5d834074c77584eb.28c89948bd3d7803",
+      "type": 0,
+      "text": "Exposed the [object]",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d324b87acc07b2e9",
+      "_key": "!tables.results!5d834074c77584eb.d324b87acc07b2e9",
+      "type": 0,
+      "text": "Became the [object]",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

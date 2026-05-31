@@ -1,0 +1,104 @@
+{
+  "_id": "5cf040e1d1971dc0",
+  "_key": "!tables!5cf040e1d1971dc0",
+  "name": "Settlements",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "d814bce019800ad8",
+      "_key": "!tables.results!5cf040e1d1971dc0.d814bce019800ad8",
+      "type": 0,
+      "text": "Hamlet",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d1acc98a346be3a4",
+      "_key": "!tables.results!5cf040e1d1971dc0.d1acc98a346be3a4",
+      "type": 0,
+      "text": "Village",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "69d8711d6ae40d33",
+      "_key": "!tables.results!5cf040e1d1971dc0.69d8711d6ae40d33",
+      "type": 0,
+      "text": "City",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9cb011eabff0f1f8",
+      "_key": "!tables.results!5cf040e1d1971dc0.9cb011eabff0f1f8",
+      "type": 0,
+      "text": "Castle",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c43bd53b1e471aa1",
+      "_key": "!tables.results!5cf040e1d1971dc0.c43bd53b1e471aa1",
+      "type": 0,
+      "text": "Tower",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b1f79c0bd71fe81",
+      "_key": "!tables.results!5cf040e1d1971dc0.5b1f79c0bd71fe81",
+      "type": 0,
+      "text": "Abbey",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

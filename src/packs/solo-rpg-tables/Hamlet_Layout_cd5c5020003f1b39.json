@@ -1,0 +1,59 @@
+{
+  "_id": "cd5c5020003f1b39",
+  "_key": "!tables!cd5c5020003f1b39",
+  "name": "Hamlet Layout",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "cb35f7cee28a3fcf",
+      "_key": "!tables.results!cd5c5020003f1b39.cb35f7cee28a3fcf",
+      "type": 0,
+      "text": "Heap",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "33dbe0329dfb1f70",
+      "_key": "!tables.results!cd5c5020003f1b39.33dbe0329dfb1f70",
+      "type": 0,
+      "text": "Round",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "145718887715db70",
+      "_key": "!tables.results!cd5c5020003f1b39.145718887715db70",
+      "type": 0,
+      "text": "Row",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

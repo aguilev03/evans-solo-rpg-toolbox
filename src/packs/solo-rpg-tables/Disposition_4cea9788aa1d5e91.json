@@ -1,0 +1,89 @@
+{
+  "_id": "4cea9788aa1d5e91",
+  "_key": "!tables!4cea9788aa1d5e91",
+  "name": "Disposition",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "4b3897b4e55f5ef6",
+      "_key": "!tables.results!4cea9788aa1d5e91.4b3897b4e55f5ef6",
+      "type": 0,
+      "text": "Attack on sight",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f5fe2543beb0c41b",
+      "_key": "!tables.results!4cea9788aa1d5e91.f5fe2543beb0c41b",
+      "type": 0,
+      "text": "Hostile",
+      "weight": 1,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3dc4ab042a4036c0",
+      "_key": "!tables.results!4cea9788aa1d5e91.3dc4ab042a4036c0",
+      "type": 0,
+      "text": "Neutral",
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "159ecda2a9db6c8f",
+      "_key": "!tables.results!4cea9788aa1d5e91.159ecda2a9db6c8f",
+      "type": 0,
+      "text": "Welcoming",
+      "weight": 1,
+      "range": [
+        9,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8d7730d468ed1403",
+      "_key": "!tables.results!4cea9788aa1d5e91.8d7730d468ed1403",
+      "type": 0,
+      "text": "Enthusiastic",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

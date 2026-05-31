@@ -1,0 +1,254 @@
+{
+  "_id": "c094b9a7aaa17699",
+  "_key": "!tables!c094b9a7aaa17699",
+  "name": "City Characteristics",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "ca6d84769da91435",
+      "_key": "!tables.results!c094b9a7aaa17699.ca6d84769da91435",
+      "type": 0,
+      "text": "Nothing",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "448cd85a85764adb",
+      "_key": "!tables.results!c094b9a7aaa17699.448cd85a85764adb",
+      "type": 0,
+      "text": "Corrupt",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "743218bdc2dfbde5",
+      "_key": "!tables.results!c094b9a7aaa17699.743218bdc2dfbde5",
+      "type": 0,
+      "text": "Crowded",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "40cbf14ffaad5b82",
+      "_key": "!tables.results!c094b9a7aaa17699.40cbf14ffaad5b82",
+      "type": 0,
+      "text": "Destroyed",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7320c63663939269",
+      "_key": "!tables.results!c094b9a7aaa17699.7320c63663939269",
+      "type": 0,
+      "text": "Dry",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "01cd15bdf1c1ad1b",
+      "_key": "!tables.results!c094b9a7aaa17699.01cd15bdf1c1ad1b",
+      "type": 0,
+      "text": "Filthy",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "964495777f686c1b",
+      "_key": "!tables.results!c094b9a7aaa17699.964495777f686c1b",
+      "type": 0,
+      "text": "Holy city",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f44ba165c9278796",
+      "_key": "!tables.results!c094b9a7aaa17699.f44ba165c9278796",
+      "type": 0,
+      "text": "Humid",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "732f39532c23a17a",
+      "_key": "!tables.results!c094b9a7aaa17699.732f39532c23a17a",
+      "type": 0,
+      "text": "Narrow",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa9396134620cecf",
+      "_key": "!tables.results!c094b9a7aaa17699.aa9396134620cecf",
+      "type": 0,
+      "text": "Noisy",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a397d48d3aee1b20",
+      "_key": "!tables.results!c094b9a7aaa17699.a397d48d3aee1b20",
+      "type": 0,
+      "text": "Open",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fa1c671fd210aa3f",
+      "_key": "!tables.results!c094b9a7aaa17699.fa1c671fd210aa3f",
+      "type": 0,
+      "text": "Renowned",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5428699d9ed9fb8e",
+      "_key": "!tables.results!c094b9a7aaa17699.5428699d9ed9fb8e",
+      "type": 0,
+      "text": "Silent",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "363754fd5f3ad54c",
+      "_key": "!tables.results!c094b9a7aaa17699.363754fd5f3ad54c",
+      "type": 0,
+      "text": "Tiered",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "96abd3b98b558690",
+      "_key": "!tables.results!c094b9a7aaa17699.96abd3b98b558690",
+      "type": 0,
+      "text": "Unsafe",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "41c16981c90761fd",
+      "_key": "!tables.results!c094b9a7aaa17699.41c16981c90761fd",
+      "type": 0,
+      "text": "Windy",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

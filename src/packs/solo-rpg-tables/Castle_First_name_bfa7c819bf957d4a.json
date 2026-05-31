@@ -1,0 +1,464 @@
+{
+  "_id": "bfa7c819bf957d4a",
+  "_key": "!tables!bfa7c819bf957d4a",
+  "name": "Castle First name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "728403ae6e9800c9",
+      "_key": "!tables.results!bfa7c819bf957d4a.728403ae6e9800c9",
+      "type": 0,
+      "text": "Apple",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "78de5bdc2e642106",
+      "_key": "!tables.results!bfa7c819bf957d4a.78de5bdc2e642106",
+      "type": 0,
+      "text": "Battle",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "14ae87c036d74586",
+      "_key": "!tables.results!bfa7c819bf957d4a.14ae87c036d74586",
+      "type": 0,
+      "text": "Black",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6cdaf97253a13dc9",
+      "_key": "!tables.results!bfa7c819bf957d4a.6cdaf97253a13dc9",
+      "type": 0,
+      "text": "Bleak",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "90c2d1a845492d9a",
+      "_key": "!tables.results!bfa7c819bf957d4a.90c2d1a845492d9a",
+      "type": 0,
+      "text": "Blood(y)",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "084d46961831a738",
+      "_key": "!tables.results!bfa7c819bf957d4a.084d46961831a738",
+      "type": 0,
+      "text": "Bright",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3620801e2c8c3c9c",
+      "_key": "!tables.results!bfa7c819bf957d4a.3620801e2c8c3c9c",
+      "type": 0,
+      "text": "Broken",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "75b95f1ed9d362d4",
+      "_key": "!tables.results!bfa7c819bf957d4a.75b95f1ed9d362d4",
+      "type": 0,
+      "text": "Cloud",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "08fe36a7ba45b2b4",
+      "_key": "!tables.results!bfa7c819bf957d4a.08fe36a7ba45b2b4",
+      "type": 0,
+      "text": "Dark",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aade9f17adfb2943",
+      "_key": "!tables.results!bfa7c819bf957d4a.aade9f17adfb2943",
+      "type": 0,
+      "text": "Dawn",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8600ff2b75f83d08",
+      "_key": "!tables.results!bfa7c819bf957d4a.8600ff2b75f83d08",
+      "type": 0,
+      "text": "Dragon",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f8c8fb39e5c30a0a",
+      "_key": "!tables.results!bfa7c819bf957d4a.f8c8fb39e5c30a0a",
+      "type": 0,
+      "text": "Dusk",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ee5e93dc3dccef95",
+      "_key": "!tables.results!bfa7c819bf957d4a.ee5e93dc3dccef95",
+      "type": 0,
+      "text": "Fire",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4462afcd4de8ef64",
+      "_key": "!tables.results!bfa7c819bf957d4a.4462afcd4de8ef64",
+      "type": 0,
+      "text": "Gold(en)",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7612ac467b86510a",
+      "_key": "!tables.results!bfa7c819bf957d4a.7612ac467b86510a",
+      "type": 0,
+      "text": "Hammer",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d3bda3a2ac8a765",
+      "_key": "!tables.results!bfa7c819bf957d4a.7d3bda3a2ac8a765",
+      "type": 0,
+      "text": "Hawk",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "676686cc194f7a7c",
+      "_key": "!tables.results!bfa7c819bf957d4a.676686cc194f7a7c",
+      "type": 0,
+      "text": "Horse",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3bd3319003689df3",
+      "_key": "!tables.results!bfa7c819bf957d4a.3bd3319003689df3",
+      "type": 0,
+      "text": "Ice",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2d90a04e589e40e4",
+      "_key": "!tables.results!bfa7c819bf957d4a.2d90a04e589e40e4",
+      "type": 0,
+      "text": "Light",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9ed3e84d1cfd2b44",
+      "_key": "!tables.results!bfa7c819bf957d4a.9ed3e84d1cfd2b44",
+      "type": 0,
+      "text": "Lion",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "296be5e9c863e93c",
+      "_key": "!tables.results!bfa7c819bf957d4a.296be5e9c863e93c",
+      "type": 0,
+      "text": "Moon",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c685b4cf501c38c",
+      "_key": "!tables.results!bfa7c819bf957d4a.4c685b4cf501c38c",
+      "type": 0,
+      "text": "Oak",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82e43ef357e8046d",
+      "_key": "!tables.results!bfa7c819bf957d4a.82e43ef357e8046d",
+      "type": 0,
+      "text": "Raven",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "48f72dda73b0c338",
+      "_key": "!tables.results!bfa7c819bf957d4a.48f72dda73b0c338",
+      "type": 0,
+      "text": "Red",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8fdc627a391c5cb0",
+      "_key": "!tables.results!bfa7c819bf957d4a.8fdc627a391c5cb0",
+      "type": 0,
+      "text": "River",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5030fe0356e7a0b2",
+      "_key": "!tables.results!bfa7c819bf957d4a.5030fe0356e7a0b2",
+      "type": 0,
+      "text": "Rose",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "496c0b5263a8e725",
+      "_key": "!tables.results!bfa7c819bf957d4a.496c0b5263a8e725",
+      "type": 0,
+      "text": "Silver",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb00c8f4705aec6f",
+      "_key": "!tables.results!bfa7c819bf957d4a.fb00c8f4705aec6f",
+      "type": 0,
+      "text": "Star",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "957252890043def7",
+      "_key": "!tables.results!bfa7c819bf957d4a.957252890043def7",
+      "type": 0,
+      "text": "Stone",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e08bc566b7051e05",
+      "_key": "!tables.results!bfa7c819bf957d4a.e08bc566b7051e05",
+      "type": 0,
+      "text": "Wind(y)",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d30",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,194 @@
+{
+  "_id": "bdc7def48c9f4c11",
+  "_key": "!tables!bdc7def48c9f4c11",
+  "name": "City Religious",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "f988ff9854fc4cbf",
+      "_key": "!tables.results!bdc7def48c9f4c11.f988ff9854fc4cbf",
+      "type": 0,
+      "text": "Catacombs",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a68f0469574c2906",
+      "_key": "!tables.results!bdc7def48c9f4c11.a68f0469574c2906",
+      "type": 0,
+      "text": "Cathedral",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a7a8d04962f3615c",
+      "_key": "!tables.results!bdc7def48c9f4c11.a7a8d04962f3615c",
+      "type": 0,
+      "text": "Church",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "75fe759068963b21",
+      "_key": "!tables.results!bdc7def48c9f4c11.75fe759068963b21",
+      "type": 0,
+      "text": "Covent",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "76d1041b5dcec46a",
+      "_key": "!tables.results!bdc7def48c9f4c11.76d1041b5dcec46a",
+      "type": 0,
+      "text": "Mausoleum",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4819f214a381c2be",
+      "_key": "!tables.results!bdc7def48c9f4c11.4819f214a381c2be",
+      "type": 0,
+      "text": "Monastery",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8bca17e653f27004",
+      "_key": "!tables.results!bdc7def48c9f4c11.8bca17e653f27004",
+      "type": 0,
+      "text": "Necropolis",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1366a89354c8ed89",
+      "_key": "!tables.results!bdc7def48c9f4c11.1366a89354c8ed89",
+      "type": 0,
+      "text": "Orphanage",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "72c90ec1c986cc8c",
+      "_key": "!tables.results!bdc7def48c9f4c11.72c90ec1c986cc8c",
+      "type": 0,
+      "text": "Sanctuary",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d7d744ac0b69641e",
+      "_key": "!tables.results!bdc7def48c9f4c11.d7d744ac0b69641e",
+      "type": 0,
+      "text": "Seminar",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "08c937971bd3a190",
+      "_key": "!tables.results!bdc7def48c9f4c11.08c937971bd3a190",
+      "type": 0,
+      "text": "Shrine",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9cfb88ab994431d8",
+      "_key": "!tables.results!bdc7def48c9f4c11.9cfb88ab994431d8",
+      "type": 0,
+      "text": "Ziggurat",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

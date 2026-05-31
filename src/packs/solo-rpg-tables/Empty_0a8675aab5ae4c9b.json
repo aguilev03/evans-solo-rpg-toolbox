@@ -1,0 +1,269 @@
+{
+  "_id": "0a8675aab5ae4c9b",
+  "_key": "!tables!0a8675aab5ae4c9b",
+  "name": "Empty",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "6bd8c6d49ee3e242",
+      "_key": "!tables.results!0a8675aab5ae4c9b.6bd8c6d49ee3e242",
+      "type": 0,
+      "text": "Info. about nearby monsters",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "044fbc6a788131f7",
+      "_key": "!tables.results!0a8675aab5ae4c9b.044fbc6a788131f7",
+      "type": 0,
+      "text": "(ecology, lair, weakness, etc.)",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "db30849b84d32a3d",
+      "_key": "!tables.results!0a8675aab5ae4c9b.db30849b84d32a3d",
+      "type": 0,
+      "text": "Alchemy recipe",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c9bd725649be6894",
+      "_key": "!tables.results!0a8675aab5ae4c9b.c9bd725649be6894",
+      "type": 0,
+      "text": "Curative effects (water, plant)",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "71d8d375434ec27e",
+      "_key": "!tables.results!0a8675aab5ae4c9b.71d8d375434ec27e",
+      "type": 0,
+      "text": "Directions to a settlement",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4443b24ad1e3c572",
+      "_key": "!tables.results!0a8675aab5ae4c9b.4443b24ad1e3c572",
+      "type": 0,
+      "text": "Dungeon location",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "39c08f7d7736f2b0",
+      "_key": "!tables.results!0a8675aab5ae4c9b.39c08f7d7736f2b0",
+      "type": 0,
+      "text": "Future event",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f673ba5aa04c325",
+      "_key": "!tables.results!0a8675aab5ae4c9b.6f673ba5aa04c325",
+      "type": 0,
+      "text": "Important past event",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c8d7ead128e6553f",
+      "_key": "!tables.results!0a8675aab5ae4c9b.c8d7ead128e6553f",
+      "type": 0,
+      "text": "Legend/Myth",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0cab3ef50a0b76a6",
+      "_key": "!tables.results!0a8675aab5ae4c9b.0cab3ef50a0b76a6",
+      "type": 0,
+      "text": "Local custom",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "901e1927b0bdd415",
+      "_key": "!tables.results!0a8675aab5ae4c9b.901e1927b0bdd415",
+      "type": 0,
+      "text": "Password",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1543d4e5ba81a8e0",
+      "_key": "!tables.results!0a8675aab5ae4c9b.1543d4e5ba81a8e0",
+      "type": 0,
+      "text": "Secret passage location",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dc6c06fac8e70183",
+      "_key": "!tables.results!0a8675aab5ae4c9b.dc6c06fac8e70183",
+      "type": 0,
+      "text": "Spell/Ritual",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "99dacac3413e3db7",
+      "_key": "!tables.results!0a8675aab5ae4c9b.99dacac3413e3db7",
+      "type": 0,
+      "text": "Tale about a magic weapon",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "923708b3336ba404",
+      "_key": "!tables.results!0a8675aab5ae4c9b.923708b3336ba404",
+      "type": 0,
+      "text": "Toxicity of something",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6e6fe3ad7fd56ea1",
+      "_key": "!tables.results!0a8675aab5ae4c9b.6e6fe3ad7fd56ea1",
+      "type": 0,
+      "text": "Upcoming weather",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "14817623ab737d47",
+      "_key": "!tables.results!0a8675aab5ae4c9b.14817623ab737d47",
+      "type": 0,
+      "text": "Words from a (random) monster language",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

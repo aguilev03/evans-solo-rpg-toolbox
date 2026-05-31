@@ -1,0 +1,89 @@
+{
+  "_id": "4a97ef33669b0b18",
+  "_key": "!tables!4a97ef33669b0b18",
+  "name": "Tower Underground Levels",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "87e79a7c9d2897b8",
+      "_key": "!tables.results!4a97ef33669b0b18.87e79a7c9d2897b8",
+      "type": 0,
+      "text": "Zero",
+      "weight": 1,
+      "range": [
+        1,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "79640863d19c1158",
+      "_key": "!tables.results!4a97ef33669b0b18.79640863d19c1158",
+      "type": 0,
+      "text": "One",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ef02d5622b5d19a0",
+      "_key": "!tables.results!4a97ef33669b0b18.ef02d5622b5d19a0",
+      "type": 0,
+      "text": "Two",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "07e16575aac93b15",
+      "_key": "!tables.results!4a97ef33669b0b18.07e16575aac93b15",
+      "type": 0,
+      "text": "Three",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4716d1fd50c20ae8",
+      "_key": "!tables.results!4a97ef33669b0b18.4716d1fd50c20ae8",
+      "type": 0,
+      "text": "Four",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

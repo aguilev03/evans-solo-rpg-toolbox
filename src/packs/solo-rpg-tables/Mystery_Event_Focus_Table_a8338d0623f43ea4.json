@@ -1,0 +1,209 @@
+{
+  "_id": "a8338d0623f43ea4",
+  "_key": "!tables!a8338d0623f43ea4",
+  "name": "Mystery Event Focus Table",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Mystery Event Focus Table",
+  "results": [
+    {
+      "_id": "625728513fcededc",
+      "_key": "!tables.results!a8338d0623f43ea4.625728513fcededc",
+      "type": 0,
+      "text": "CLUE ELEMENT",
+      "weight": 1,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb7951df4af41464",
+      "_key": "!tables.results!a8338d0623f43ea4.fb7951df4af41464",
+      "type": 0,
+      "text": "SUSPECT ELEMENT",
+      "weight": 1,
+      "range": [
+        16,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fe3cc408001218a2",
+      "_key": "!tables.results!a8338d0623f43ea4.fe3cc408001218a2",
+      "type": 0,
+      "text": "REMOTE EVENT",
+      "weight": 1,
+      "range": [
+        31,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e184a1a0f4438bb",
+      "_key": "!tables.results!a8338d0623f43ea4.1e184a1a0f4438bb",
+      "type": 0,
+      "text": "AMBIGUOUS EVENT",
+      "weight": 1,
+      "range": [
+        35,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b98a7ac3195654c1",
+      "_key": "!tables.results!a8338d0623f43ea4.b98a7ac3195654c1",
+      "type": 0,
+      "text": "NEW NPC",
+      "weight": 1,
+      "range": [
+        39,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c816249449e8f639",
+      "_key": "!tables.results!a8338d0623f43ea4.c816249449e8f639",
+      "type": 0,
+      "text": "NPC ACTION",
+      "weight": 1,
+      "range": [
+        45,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4782752016501282",
+      "_key": "!tables.results!a8338d0623f43ea4.4782752016501282",
+      "type": 0,
+      "text": "NPC NEGATIVE",
+      "weight": 1,
+      "range": [
+        59,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "10fc450b428e2c4f",
+      "_key": "!tables.results!a8338d0623f43ea4.10fc450b428e2c4f",
+      "type": 0,
+      "text": "NPC POSITIVE",
+      "weight": 1,
+      "range": [
+        67,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2d6674c09c3b88b9",
+      "_key": "!tables.results!a8338d0623f43ea4.2d6674c09c3b88b9",
+      "type": 0,
+      "text": "MOVE TOWARD A THREAD",
+      "weight": 1,
+      "range": [
+        72,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "73d7123aca7ade65",
+      "_key": "!tables.results!a8338d0623f43ea4.73d7123aca7ade65",
+      "type": 0,
+      "text": "MOVE AWAY FROM A THREAD",
+      "weight": 1,
+      "range": [
+        80,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e048b4716131dee",
+      "_key": "!tables.results!a8338d0623f43ea4.4e048b4716131dee",
+      "type": 0,
+      "text": "CLOSE A THREAD",
+      "weight": 1,
+      "range": [
+        85,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3903566be4eba1b8",
+      "_key": "!tables.results!a8338d0623f43ea4.3903566be4eba1b8",
+      "type": 0,
+      "text": "PC NEGATIVE",
+      "weight": 1,
+      "range": [
+        87,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "79280dcded6ec149",
+      "_key": "!tables.results!a8338d0623f43ea4.79280dcded6ec149",
+      "type": 0,
+      "text": "PC POSITIVE",
+      "weight": 1,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ea1602b5c5be5ea6",
+  "flags": {}
+}

@@ -1,0 +1,164 @@
+{
+  "_id": "092d433e8fe2a990",
+  "_key": "!tables!092d433e8fe2a990",
+  "name": "Potential problems for NPCs",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "c4d83c741948e4d0",
+      "_key": "!tables.results!092d433e8fe2a990.c4d83c741948e4d0",
+      "type": 0,
+      "text": "Amnesia",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a66edc400045af8",
+      "_key": "!tables.results!092d433e8fe2a990.1a66edc400045af8",
+      "type": 0,
+      "text": "Attacked/Chased",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fd3b2083bc7d4040",
+      "_key": "!tables.results!092d433e8fe2a990.fd3b2083bc7d4040",
+      "type": 0,
+      "text": "Disappearance",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "725b8d04db0dbe4e",
+      "_key": "!tables.results!092d433e8fe2a990.725b8d04db0dbe4e",
+      "type": 0,
+      "text": "Hunger/Thirst",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ca0ee15beec264fe",
+      "_key": "!tables.results!092d433e8fe2a990.ca0ee15beec264fe",
+      "type": 0,
+      "text": "Imprisoned/Enslaved",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e97b0c4c98db7e3",
+      "_key": "!tables.results!092d433e8fe2a990.4e97b0c4c98db7e3",
+      "type": 0,
+      "text": "Injured/Sick",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53f651e14403bf0d",
+      "_key": "!tables.results!092d433e8fe2a990.53f651e14403bf0d",
+      "type": 0,
+      "text": "Lost",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e19a95b38bdee213",
+      "_key": "!tables.results!092d433e8fe2a990.e19a95b38bdee213",
+      "type": 0,
+      "text": "Stuck/Bogged down",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f9c030042eca02f8",
+      "_key": "!tables.results!092d433e8fe2a990.f9c030042eca02f8",
+      "type": 0,
+      "text": "Theft",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3b8893c0d6ef998",
+      "_key": "!tables.results!092d433e8fe2a990.f3b8893c0d6ef998",
+      "type": 0,
+      "text": "Trapped",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

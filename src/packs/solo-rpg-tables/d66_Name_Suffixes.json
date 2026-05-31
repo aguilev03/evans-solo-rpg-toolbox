@@ -1,0 +1,554 @@
+{
+  "_id": "97069aa814ec13d2",
+  "_key": "!tables!97069aa814ec13d2",
+  "name": "d66 Name Suffixes",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Roll with Name Prefixes to create names.",
+  "results": [
+    {
+      "_id": "92dff405fb4a1038",
+      "_key": "!tables.results!97069aa814ec13d2.92dff405fb4a1038",
+      "type": 0,
+      "text": "lim",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4fe105ada808021b",
+      "_key": "!tables.results!97069aa814ec13d2.4fe105ada808021b",
+      "type": 0,
+      "text": "inna",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3044d8a5e4f9a236",
+      "_key": "!tables.results!97069aa814ec13d2.3044d8a5e4f9a236",
+      "type": 0,
+      "text": "way",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4a511ca1e4169d21",
+      "_key": "!tables.results!97069aa814ec13d2.4a511ca1e4169d21",
+      "type": 0,
+      "text": "don",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "89310229f6f53fb3",
+      "_key": "!tables.results!97069aa814ec13d2.89310229f6f53fb3",
+      "type": 0,
+      "text": "low",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d8d109af56a057e",
+      "_key": "!tables.results!97069aa814ec13d2.7d8d109af56a057e",
+      "type": 0,
+      "text": "ath",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f96bb3eb81ca5456",
+      "_key": "!tables.results!97069aa814ec13d2.f96bb3eb81ca5456",
+      "type": 0,
+      "text": "laris",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cfc03200c28f45ff",
+      "_key": "!tables.results!97069aa814ec13d2.cfc03200c28f45ff",
+      "type": 0,
+      "text": "enar",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1aad28dec932074b",
+      "_key": "!tables.results!97069aa814ec13d2.1aad28dec932074b",
+      "type": 0,
+      "text": "norin",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b805dffce5428971",
+      "_key": "!tables.results!97069aa814ec13d2.b805dffce5428971",
+      "type": 0,
+      "text": "jorn",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "91e22e9b5e44d251",
+      "_key": "!tables.results!97069aa814ec13d2.91e22e9b5e44d251",
+      "type": 0,
+      "text": "thor",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f620952095f0092",
+      "_key": "!tables.results!97069aa814ec13d2.6f620952095f0092",
+      "type": 0,
+      "text": "vryn",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3d7ee9e358a33c2b",
+      "_key": "!tables.results!97069aa814ec13d2.3d7ee9e358a33c2b",
+      "type": 0,
+      "text": "sen",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7623638eb311ee4f",
+      "_key": "!tables.results!97069aa814ec13d2.7623638eb311ee4f",
+      "type": 0,
+      "text": "rath",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0184facebea4bbd6",
+      "_key": "!tables.results!97069aa814ec13d2.0184facebea4bbd6",
+      "type": 0,
+      "text": "olas",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ebdc3ea1cbbaa0d5",
+      "_key": "!tables.results!97069aa814ec13d2.ebdc3ea1cbbaa0d5",
+      "type": 0,
+      "text": "sar",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a265606a3124ff17",
+      "_key": "!tables.results!97069aa814ec13d2.a265606a3124ff17",
+      "type": 0,
+      "text": "len",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7a5fa66b83403b4c",
+      "_key": "!tables.results!97069aa814ec13d2.7a5fa66b83403b4c",
+      "type": 0,
+      "text": "eth",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c76f13f48ab09a92",
+      "_key": "!tables.results!97069aa814ec13d2.c76f13f48ab09a92",
+      "type": 0,
+      "text": "dor",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d7cef079cc973792",
+      "_key": "!tables.results!97069aa814ec13d2.d7cef079cc973792",
+      "type": 0,
+      "text": "oris",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "92660874bc83402f",
+      "_key": "!tables.results!97069aa814ec13d2.92660874bc83402f",
+      "type": 0,
+      "text": "lum",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f26db7671c413137",
+      "_key": "!tables.results!97069aa814ec13d2.f26db7671c413137",
+      "type": 0,
+      "text": "drel",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "36b524ae356c7fe5",
+      "_key": "!tables.results!97069aa814ec13d2.36b524ae356c7fe5",
+      "type": 0,
+      "text": "ne",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "359d26c8844de31a",
+      "_key": "!tables.results!97069aa814ec13d2.359d26c8844de31a",
+      "type": 0,
+      "text": "nor",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ce5ed39f2a7711e0",
+      "_key": "!tables.results!97069aa814ec13d2.ce5ed39f2a7711e0",
+      "type": 0,
+      "text": "us",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f79d5d30093cc246",
+      "_key": "!tables.results!97069aa814ec13d2.f79d5d30093cc246",
+      "type": 0,
+      "text": "mine",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "95a4c1f2cc0d13fc",
+      "_key": "!tables.results!97069aa814ec13d2.95a4c1f2cc0d13fc",
+      "type": 0,
+      "text": "e",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9dca240f4a3f9c21",
+      "_key": "!tables.results!97069aa814ec13d2.9dca240f4a3f9c21",
+      "type": 0,
+      "text": "aros",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13da93e32762e41e",
+      "_key": "!tables.results!97069aa814ec13d2.13da93e32762e41e",
+      "type": 0,
+      "text": "pyre",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "37a954065f2ffe54",
+      "_key": "!tables.results!97069aa814ec13d2.37a954065f2ffe54",
+      "type": 0,
+      "text": "rin",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7266a6d0cc25f5b8",
+      "_key": "!tables.results!97069aa814ec13d2.7266a6d0cc25f5b8",
+      "type": 0,
+      "text": "sette",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e1dd04ea35c95f4e",
+      "_key": "!tables.results!97069aa814ec13d2.e1dd04ea35c95f4e",
+      "type": 0,
+      "text": "on",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6522fdccba0ef812",
+      "_key": "!tables.results!97069aa814ec13d2.6522fdccba0ef812",
+      "type": 0,
+      "text": "an",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f375f71b533963b5",
+      "_key": "!tables.results!97069aa814ec13d2.f375f71b533963b5",
+      "type": 0,
+      "text": "a",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c719aeace46e5bb7",
+      "_key": "!tables.results!97069aa814ec13d2.c719aeace46e5bb7",
+      "type": 0,
+      "text": "wyn",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7056552d1f5c8519",
+      "_key": "!tables.results!97069aa814ec13d2.7056552d1f5c8519",
+      "type": 0,
+      "text": "in",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

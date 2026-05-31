@@ -1,0 +1,164 @@
+{
+  "_id": "28a6a1597dd9fe3b",
+  "_key": "!tables!28a6a1597dd9fe3b",
+  "name": "Artificial Landmarks Small structure",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "d453d4bdbd8e834c",
+      "_key": "!tables.results!28a6a1597dd9fe3b.d453d4bdbd8e834c",
+      "type": 0,
+      "text": "Bench",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ebd3f9a2dbfa365b",
+      "_key": "!tables.results!28a6a1597dd9fe3b.ebd3f9a2dbfa365b",
+      "type": 0,
+      "text": "Bivouac area",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e1c184911303f313",
+      "_key": "!tables.results!28a6a1597dd9fe3b.e1c184911303f313",
+      "type": 0,
+      "text": "Gazebo",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c49dc1820a8d4f22",
+      "_key": "!tables.results!28a6a1597dd9fe3b.c49dc1820a8d4f22",
+      "type": 0,
+      "text": "Hunter’s cabin",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "34be2764b983fe2a",
+      "_key": "!tables.results!28a6a1597dd9fe3b.34be2764b983fe2a",
+      "type": 0,
+      "text": "Hunting tower",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e245eb4eb29934a7",
+      "_key": "!tables.results!28a6a1597dd9fe3b.e245eb4eb29934a7",
+      "type": 0,
+      "text": "Kennel",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d216bc09710910bb",
+      "_key": "!tables.results!28a6a1597dd9fe3b.d216bc09710910bb",
+      "type": 0,
+      "text": "Outhouse",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e661ae977e97e228",
+      "_key": "!tables.results!28a6a1597dd9fe3b.e661ae977e97e228",
+      "type": 0,
+      "text": "Palisade",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e54c424c17bb56ba",
+      "_key": "!tables.results!28a6a1597dd9fe3b.e54c424c17bb56ba",
+      "type": 0,
+      "text": "Well",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ebdb54fb482b6147",
+      "_key": "!tables.results!28a6a1597dd9fe3b.ebdb54fb482b6147",
+      "type": 0,
+      "text": "Wooden fence",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

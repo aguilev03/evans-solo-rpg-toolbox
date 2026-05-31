@@ -1,0 +1,179 @@
+{
+  "_id": "c5e72bf68363a2ba",
+  "_key": "!tables!c5e72bf68363a2ba",
+  "name": "Tower Special Equipment",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "7ef03f85078de31a",
+      "_key": "!tables.results!c5e72bf68363a2ba.7ef03f85078de31a",
+      "type": 0,
+      "text": "Nothing",
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ed8fa30d64eb3349",
+      "_key": "!tables.results!c5e72bf68363a2ba.ed8fa30d64eb3349",
+      "type": 0,
+      "text": "Acoustic tube",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c164de74086932b",
+      "_key": "!tables.results!c5e72bf68363a2ba.5c164de74086932b",
+      "type": 0,
+      "text": "Alarm system",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a7ddd16c92d495fe",
+      "_key": "!tables.results!c5e72bf68363a2ba.a7ddd16c92d495fe",
+      "type": 0,
+      "text": "Dumbwaiter",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a147738aee31d2df",
+      "_key": "!tables.results!c5e72bf68363a2ba.a147738aee31d2df",
+      "type": 0,
+      "text": "Emergency ladder/stairs",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1e4716af42e49ef",
+      "_key": "!tables.results!c5e72bf68363a2ba.a1e4716af42e49ef",
+      "type": 0,
+      "text": "Garbage chute",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dd75e889cdaa83cc",
+      "_key": "!tables.results!c5e72bf68363a2ba.dd75e889cdaa83cc",
+      "type": 0,
+      "text": "Oversized pet doors",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "92242840c01d285c",
+      "_key": "!tables.results!c5e72bf68363a2ba.92242840c01d285c",
+      "type": 0,
+      "text": "Pneumatic tubes",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e083b07dfa3965f3",
+      "_key": "!tables.results!c5e72bf68363a2ba.e083b07dfa3965f3",
+      "type": 0,
+      "text": "Secret passage",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b9e097288ffd8955",
+      "_key": "!tables.results!c5e72bf68363a2ba.b9e097288ffd8955",
+      "type": 0,
+      "text": "Slide",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b60df70c14d9d621",
+      "_key": "!tables.results!c5e72bf68363a2ba.b60df70c14d9d621",
+      "type": 0,
+      "text": "Ventilation system",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

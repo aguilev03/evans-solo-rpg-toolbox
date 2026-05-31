@@ -1,0 +1,164 @@
+{
+  "_id": "af7074d5cfe9a993",
+  "_key": "!tables!af7074d5cfe9a993",
+  "name": "Tower Inside Appearance",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "43d051c29b2ad7f9",
+      "_key": "!tables.results!af7074d5cfe9a993.43d051c29b2ad7f9",
+      "type": 0,
+      "text": "Colorful",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd6f90444dd09e13",
+      "_key": "!tables.results!af7074d5cfe9a993.cd6f90444dd09e13",
+      "type": 0,
+      "text": "Cozy",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cbd6407bbab2a0e7",
+      "_key": "!tables.results!af7074d5cfe9a993.cbd6407bbab2a0e7",
+      "type": 0,
+      "text": "Dark",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2c055f09bdb65b9e",
+      "_key": "!tables.results!af7074d5cfe9a993.2c055f09bdb65b9e",
+      "type": 0,
+      "text": "Dusty",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c572329a167b99a",
+      "_key": "!tables.results!af7074d5cfe9a993.5c572329a167b99a",
+      "type": 0,
+      "text": "Extravagant",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5da87297cff402a8",
+      "_key": "!tables.results!af7074d5cfe9a993.5da87297cff402a8",
+      "type": 0,
+      "text": "Luxurious",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "75743027365cca9c",
+      "_key": "!tables.results!af7074d5cfe9a993.75743027365cca9c",
+      "type": 0,
+      "text": "Moldy",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cefa0ec8ed754597",
+      "_key": "!tables.results!af7074d5cfe9a993.cefa0ec8ed754597",
+      "type": 0,
+      "text": "Old fashioned",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b1c4a1b96f0aec5b",
+      "_key": "!tables.results!af7074d5cfe9a993.b1c4a1b96f0aec5b",
+      "type": 0,
+      "text": "Stark",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cfd64f9f989c1700",
+      "_key": "!tables.results!af7074d5cfe9a993.cfd64f9f989c1700",
+      "type": 0,
+      "text": "Well decorated",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

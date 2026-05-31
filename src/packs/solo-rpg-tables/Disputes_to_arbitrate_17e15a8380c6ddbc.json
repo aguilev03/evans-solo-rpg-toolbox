@@ -1,0 +1,104 @@
+{
+  "_id": "17e15a8380c6ddbc",
+  "_key": "!tables!17e15a8380c6ddbc",
+  "name": "Disputes to arbitrate",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "45fdce50f5d24227",
+      "_key": "!tables.results!17e15a8380c6ddbc.45fdce50f5d24227",
+      "type": 0,
+      "text": "Adultery",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0a099695b3e5208a",
+      "_key": "!tables.results!17e15a8380c6ddbc.0a099695b3e5208a",
+      "type": 0,
+      "text": "Broken trade agreement",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fcd235a9d386d579",
+      "_key": "!tables.results!17e15a8380c6ddbc.fcd235a9d386d579",
+      "type": 0,
+      "text": "Division of an inheritance",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f7f21983b3d5dacf",
+      "_key": "!tables.results!17e15a8380c6ddbc.f7f21983b3d5dacf",
+      "type": 0,
+      "text": "Murder investigation",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa4d30e2e2ff8bee",
+      "_key": "!tables.results!17e15a8380c6ddbc.aa4d30e2e2ff8bee",
+      "type": 0,
+      "text": "Territorial boundaries",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e61c6ae065ed52e6",
+      "_key": "!tables.results!17e15a8380c6ddbc.e61c6ae065ed52e6",
+      "type": 0,
+      "text": "Trial",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

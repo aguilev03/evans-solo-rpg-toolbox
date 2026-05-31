@@ -1,0 +1,74 @@
+{
+  "_id": "0fbe92bff7826334",
+  "_key": "!tables!0fbe92bff7826334",
+  "name": "Abbey Additional locations Religious buildings",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "f30df659181ea6c3",
+      "_key": "!tables.results!0fbe92bff7826334.f30df659181ea6c3",
+      "type": 0,
+      "text": "Chapter house (for meetings)",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3a05ff2a98b60a12",
+      "_key": "!tables.results!0fbe92bff7826334.3a05ff2a98b60a12",
+      "type": 0,
+      "text": "Parlour",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9616b7cc876d87e5",
+      "_key": "!tables.results!0fbe92bff7826334.9616b7cc876d87e5",
+      "type": 0,
+      "text": "School",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "764f00b70640543f",
+      "_key": "!tables.results!0fbe92bff7826334.764f00b70640543f",
+      "type": 0,
+      "text": "Scriptorium and library",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

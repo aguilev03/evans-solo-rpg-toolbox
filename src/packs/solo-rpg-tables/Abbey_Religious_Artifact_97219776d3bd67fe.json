@@ -1,0 +1,104 @@
+{
+  "_id": "97219776d3bd67fe",
+  "_key": "!tables!97219776d3bd67fe",
+  "name": "Abbey Religious Artifact",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "422ac2ecaa8f8eeb",
+      "_key": "!tables.results!97219776d3bd67fe.422ac2ecaa8f8eeb",
+      "type": 0,
+      "text": "Ancient parchment",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0ced3ea6cd03249c",
+      "_key": "!tables.results!97219776d3bd67fe.0ced3ea6cd03249c",
+      "type": 0,
+      "text": "Art piece",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3c1c02f4b0fa9786",
+      "_key": "!tables.results!97219776d3bd67fe.3c1c02f4b0fa9786",
+      "type": 0,
+      "text": "Crown",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c3864f96612a886d",
+      "_key": "!tables.results!97219776d3bd67fe.c3864f96612a886d",
+      "type": 0,
+      "text": "Holy sword",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bbffb07f6855ab90",
+      "_key": "!tables.results!97219776d3bd67fe.bbffb07f6855ab90",
+      "type": 0,
+      "text": "Precious book",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c643620f03e72024",
+      "_key": "!tables.results!97219776d3bd67fe.c643620f03e72024",
+      "type": 0,
+      "text": "Relic",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

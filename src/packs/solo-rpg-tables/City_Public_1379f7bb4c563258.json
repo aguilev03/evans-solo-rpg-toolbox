@@ -1,0 +1,314 @@
+{
+  "_id": "1379f7bb4c563258",
+  "_key": "!tables!1379f7bb4c563258",
+  "name": "City Public",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "d5f06a5bcea2b7f5",
+      "_key": "!tables.results!1379f7bb4c563258.d5f06a5bcea2b7f5",
+      "type": 0,
+      "text": "Aquarium",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fa4d836807e97a44",
+      "_key": "!tables.results!1379f7bb4c563258.fa4d836807e97a44",
+      "type": 0,
+      "text": "Arena",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aaf020d12627ff99",
+      "_key": "!tables.results!1379f7bb4c563258.aaf020d12627ff99",
+      "type": 0,
+      "text": "Art gallery",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "592b17e56300920e",
+      "_key": "!tables.results!1379f7bb4c563258.592b17e56300920e",
+      "type": 0,
+      "text": "Auction hall",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3240165133938907",
+      "_key": "!tables.results!1379f7bb4c563258.3240165133938907",
+      "type": 0,
+      "text": "Botanical garden",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "87edf1fa47852c41",
+      "_key": "!tables.results!1379f7bb4c563258.87edf1fa47852c41",
+      "type": 0,
+      "text": "Event center",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a6d77ab6f2daadd",
+      "_key": "!tables.results!1379f7bb4c563258.9a6d77ab6f2daadd",
+      "type": 0,
+      "text": "Guildhouse",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "87261b6427ee05f8",
+      "_key": "!tables.results!1379f7bb4c563258.87261b6427ee05f8",
+      "type": 0,
+      "text": "Gymnasium",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e8d4acfdba1e37d8",
+      "_key": "!tables.results!1379f7bb4c563258.e8d4acfdba1e37d8",
+      "type": 0,
+      "text": "Historical building",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a71cd3f7f0a3714f",
+      "_key": "!tables.results!1379f7bb4c563258.a71cd3f7f0a3714f",
+      "type": 0,
+      "text": "Hospital",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a14cfd5d013a2c1c",
+      "_key": "!tables.results!1379f7bb4c563258.a14cfd5d013a2c1c",
+      "type": 0,
+      "text": "House for sale",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "81d1d3ef49ea5663",
+      "_key": "!tables.results!1379f7bb4c563258.81d1d3ef49ea5663",
+      "type": 0,
+      "text": "Library",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "16f536092a323329",
+      "_key": "!tables.results!1379f7bb4c563258.16f536092a323329",
+      "type": 0,
+      "text": "Morgue",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e67650809d6a04f",
+      "_key": "!tables.results!1379f7bb4c563258.3e67650809d6a04f",
+      "type": 0,
+      "text": "Museum",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "65c80c4410aa1eb6",
+      "_key": "!tables.results!1379f7bb4c563258.65c80c4410aa1eb6",
+      "type": 0,
+      "text": "Observatory",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "929430296c93c908",
+      "_key": "!tables.results!1379f7bb4c563258.929430296c93c908",
+      "type": 0,
+      "text": "Opera",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "da183117c4d4f93f",
+      "_key": "!tables.results!1379f7bb4c563258.da183117c4d4f93f",
+      "type": 0,
+      "text": "Public baths",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7983ad1c2f3f0475",
+      "_key": "!tables.results!1379f7bb4c563258.7983ad1c2f3f0475",
+      "type": 0,
+      "text": "Theater",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "347f49fdc8ac2d68",
+      "_key": "!tables.results!1379f7bb4c563258.347f49fdc8ac2d68",
+      "type": 0,
+      "text": "Workshop",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62be0c7a7547cf1b",
+      "_key": "!tables.results!1379f7bb4c563258.62be0c7a7547cf1b",
+      "type": 0,
+      "text": "Zoo",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

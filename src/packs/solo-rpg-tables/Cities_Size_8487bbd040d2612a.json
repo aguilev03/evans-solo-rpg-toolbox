@@ -1,0 +1,59 @@
+{
+  "_id": "8487bbd040d2612a",
+  "_key": "!tables!8487bbd040d2612a",
+  "name": "Cities Size",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "0524a229080d2e0f",
+      "_key": "!tables.results!8487bbd040d2612a.0524a229080d2e0f",
+      "type": 0,
+      "text": "Small 2",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "43ac37fae0bbbcb8",
+      "_key": "!tables.results!8487bbd040d2612a.43ac37fae0bbbcb8",
+      "type": 0,
+      "text": "Medium 3",
+      "weight": 1,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e43dde1b9fcae122",
+      "_key": "!tables.results!8487bbd040d2612a.e43dde1b9fcae122",
+      "type": 0,
+      "text": "Big 4",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

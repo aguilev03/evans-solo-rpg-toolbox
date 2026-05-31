@@ -1,0 +1,164 @@
+{
+  "_id": "0df57606639565e0",
+  "_key": "!tables!0df57606639565e0",
+  "name": "Magic Landmarks Strange phenomenon",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "505efe768eac7f11",
+      "_key": "!tables.results!0df57606639565e0.505efe768eac7f11",
+      "type": 0,
+      "text": "Everburning tree",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1b08cfc13db6324f",
+      "_key": "!tables.results!0df57606639565e0.1b08cfc13db6324f",
+      "type": 0,
+      "text": "Evermelting ice",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8fd6aa6cef87ece1",
+      "_key": "!tables.results!0df57606639565e0.8fd6aa6cef87ece1",
+      "type": 0,
+      "text": "Floating crystal",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e8bac26b46fe21e4",
+      "_key": "!tables.results!0df57606639565e0.e8bac26b46fe21e4",
+      "type": 0,
+      "text": "Ghost building",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9da994c3c430f47d",
+      "_key": "!tables.results!0df57606639565e0.9da994c3c430f47d",
+      "type": 0,
+      "text": "Luminous engravings",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b1a8b5fb8fbddd27",
+      "_key": "!tables.results!0df57606639565e0.b1a8b5fb8fbddd27",
+      "type": 0,
+      "text": "Reverse waterfall",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a3bd97bd8374b4c",
+      "_key": "!tables.results!0df57606639565e0.9a3bd97bd8374b4c",
+      "type": 0,
+      "text": "Singing crystal",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4f7fb1a5a196ec4b",
+      "_key": "!tables.results!0df57606639565e0.4f7fb1a5a196ec4b",
+      "type": 0,
+      "text": "Strong magnetism",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ff896b597fa6a268",
+      "_key": "!tables.results!0df57606639565e0.ff896b597fa6a268",
+      "type": 0,
+      "text": "Talking rock",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "01f8ab7ee740d0e0",
+      "_key": "!tables.results!0df57606639565e0.01f8ab7ee740d0e0",
+      "type": 0,
+      "text": "Whispers in the wind",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

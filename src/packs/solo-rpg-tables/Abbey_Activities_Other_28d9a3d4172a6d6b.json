@@ -1,0 +1,104 @@
+{
+  "_id": "28d9a3d4172a6d6b",
+  "_key": "!tables!28d9a3d4172a6d6b",
+  "name": "Abbey Activities Other",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "d22862236ec1c907",
+      "_key": "!tables.results!28d9a3d4172a6d6b.d22862236ec1c907",
+      "type": 0,
+      "text": "Bee keeping",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "167815bce1c17ee6",
+      "_key": "!tables.results!28d9a3d4172a6d6b.167815bce1c17ee6",
+      "type": 0,
+      "text": "Bookshop",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3b7c546f2d638fc3",
+      "_key": "!tables.results!28d9a3d4172a6d6b.3b7c546f2d638fc3",
+      "type": 0,
+      "text": "Catering",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "caae5c113bd90310",
+      "_key": "!tables.results!28d9a3d4172a6d6b.caae5c113bd90310",
+      "type": 0,
+      "text": "Copy & translation",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "07afe08121df59ff",
+      "_key": "!tables.results!28d9a3d4172a6d6b.07afe08121df59ff",
+      "type": 0,
+      "text": "Exorcism",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "301d35ee08163fa0",
+      "_key": "!tables.results!28d9a3d4172a6d6b.301d35ee08163fa0",
+      "type": 0,
+      "text": "Guided tour",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,104 @@
+{
+  "_id": "965284ec93f45f43",
+  "_key": "!tables!965284ec93f45f43",
+  "name": "Special",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "b1c5cfa58993bc2c",
+      "_key": "!tables.results!965284ec93f45f43.b1c5cfa58993bc2c",
+      "type": 0,
+      "text": "Arbitrate a dispute",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d753fd529c39d912",
+      "_key": "!tables.results!965284ec93f45f43.d753fd529c39d912",
+      "type": 0,
+      "text": "Prevent a threat",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "15c1072865d5b533",
+      "_key": "!tables.results!965284ec93f45f43.15c1072865d5b533",
+      "type": 0,
+      "text": "Solve a puzzle/riddle",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6659e4755da7614e",
+      "_key": "!tables.results!965284ec93f45f43.6659e4755da7614e",
+      "type": 0,
+      "text": "Uncover a mystery",
+      "weight": 1,
+      "range": [
+        4,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e1000d889b161bfa",
+      "_key": "!tables.results!965284ec93f45f43.e1000d889b161bfa",
+      "type": 0,
+      "text": "NPC(s)/Monster(s) in need",
+      "weight": 1,
+      "range": [
+        7,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "65a1612843b8f989",
+      "_key": "!tables.results!965284ec93f45f43.65a1612843b8f989",
+      "type": 0,
+      "text": "Related to landmark",
+      "weight": 1,
+      "range": [
+        10,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

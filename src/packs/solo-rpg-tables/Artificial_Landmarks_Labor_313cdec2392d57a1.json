@@ -1,0 +1,164 @@
+{
+  "_id": "313cdec2392d57a1",
+  "_key": "!tables!313cdec2392d57a1",
+  "name": "Artificial Landmarks Labor",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "9349758248bb0222",
+      "_key": "!tables.results!313cdec2392d57a1.9349758248bb0222",
+      "type": 0,
+      "text": "Barn",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "668c541eaa88b110",
+      "_key": "!tables.results!313cdec2392d57a1.668c541eaa88b110",
+      "type": 0,
+      "text": "Felled trees",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f169f8ebd8f781a9",
+      "_key": "!tables.results!313cdec2392d57a1.f169f8ebd8f781a9",
+      "type": 0,
+      "text": "Field",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6878f47bb0b80b5a",
+      "_key": "!tables.results!313cdec2392d57a1.6878f47bb0b80b5a",
+      "type": 0,
+      "text": "Granary",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f7b013636e23abd8",
+      "_key": "!tables.results!313cdec2392d57a1.f7b013636e23abd8",
+      "type": 0,
+      "text": "Labor camp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d234143a2431348d",
+      "_key": "!tables.results!313cdec2392d57a1.d234143a2431348d",
+      "type": 0,
+      "text": "Meadow",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6eada93e1a6dc0ca",
+      "_key": "!tables.results!313cdec2392d57a1.6eada93e1a6dc0ca",
+      "type": 0,
+      "text": "Quarry",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c23e82c0cec40e1b",
+      "_key": "!tables.results!313cdec2392d57a1.c23e82c0cec40e1b",
+      "type": 0,
+      "text": "Straw man",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c34a3ac997b64c0c",
+      "_key": "!tables.results!313cdec2392d57a1.c34a3ac997b64c0c",
+      "type": 0,
+      "text": "Swidden field",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7e6fbb1696978c5c",
+      "_key": "!tables.results!313cdec2392d57a1.7e6fbb1696978c5c",
+      "type": 0,
+      "text": "Water tower",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

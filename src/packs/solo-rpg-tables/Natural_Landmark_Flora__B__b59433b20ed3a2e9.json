@@ -1,0 +1,164 @@
+{
+  "_id": "b59433b20ed3a2e9",
+  "_key": "!tables!b59433b20ed3a2e9",
+  "name": "Natural Landmark Flora (B)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "e568a2bf91ee377e",
+      "_key": "!tables.results!b59433b20ed3a2e9.e568a2bf91ee377e",
+      "type": 0,
+      "text": "Giant mushroom",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "76dc0471079bd48f",
+      "_key": "!tables.results!b59433b20ed3a2e9.76dc0471079bd48f",
+      "type": 0,
+      "text": "Hollow tree",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9339dabf5ca3acdf",
+      "_key": "!tables.results!b59433b20ed3a2e9.9339dabf5ca3acdf",
+      "type": 0,
+      "text": "Impenetrable thicket",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "48e575cfe7fc98a2",
+      "_key": "!tables.results!b59433b20ed3a2e9.48e575cfe7fc98a2",
+      "type": 0,
+      "text": "Mushroom circle",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9117eb3a01188033",
+      "_key": "!tables.results!b59433b20ed3a2e9.9117eb3a01188033",
+      "type": 0,
+      "text": "Mushroom spot",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "55006268e3e41167",
+      "_key": "!tables.results!b59433b20ed3a2e9.55006268e3e41167",
+      "type": 0,
+      "text": "Mycelial proliferation",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7ecf609993119b0e",
+      "_key": "!tables.results!b59433b20ed3a2e9.7ecf609993119b0e",
+      "type": 0,
+      "text": "Rare plant spot",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a51365f0d37e3b45",
+      "_key": "!tables.results!b59433b20ed3a2e9.a51365f0d37e3b45",
+      "type": 0,
+      "text": "Root arch",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c59ada156fed232e",
+      "_key": "!tables.results!b59433b20ed3a2e9.c59ada156fed232e",
+      "type": 0,
+      "text": "Tree alignment",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b47f84e62444561e",
+      "_key": "!tables.results!b59433b20ed3a2e9.b47f84e62444561e",
+      "type": 0,
+      "text": "Water-filled plant",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

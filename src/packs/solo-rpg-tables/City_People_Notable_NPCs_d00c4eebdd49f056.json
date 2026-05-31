@@ -1,0 +1,314 @@
+{
+  "_id": "d00c4eebdd49f056",
+  "_key": "!tables!d00c4eebdd49f056",
+  "name": "City People Notable NPCs",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "35ab7cea8e89142b",
+      "_key": "!tables.results!d00c4eebdd49f056.35ab7cea8e89142b",
+      "type": 0,
+      "text": "Aggressive guard",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "743d2c2665334396",
+      "_key": "!tables.results!d00c4eebdd49f056.743d2c2665334396",
+      "type": 0,
+      "text": "Annoying minstrel",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be6d58a67ae8fea4",
+      "_key": "!tables.results!d00c4eebdd49f056.be6d58a67ae8fea4",
+      "type": 0,
+      "text": "Bandit in disguise",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "df4450a01df54a43",
+      "_key": "!tables.results!d00c4eebdd49f056.df4450a01df54a43",
+      "type": 0,
+      "text": "Beggar who knows a lot",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4f6b7370e6cf1f7f",
+      "_key": "!tables.results!d00c4eebdd49f056.4f6b7370e6cf1f7f",
+      "type": 0,
+      "text": "Clever orphan",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f82d013800fde595",
+      "_key": "!tables.results!d00c4eebdd49f056.f82d013800fde595",
+      "type": 0,
+      "text": "Corrupted official",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c620fd79cdcda232",
+      "_key": "!tables.results!d00c4eebdd49f056.c620fd79cdcda232",
+      "type": 0,
+      "text": "Curious waitress",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b0a7ce8dab64ef70",
+      "_key": "!tables.results!d00c4eebdd49f056.b0a7ce8dab64ef70",
+      "type": 0,
+      "text": "Distracted scholar",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "00b3b46ac184fc55",
+      "_key": "!tables.results!d00c4eebdd49f056.00b3b46ac184fc55",
+      "type": 0,
+      "text": "Haughty nobleman",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b73fd712394cf61b",
+      "_key": "!tables.results!d00c4eebdd49f056.b73fd712394cf61b",
+      "type": 0,
+      "text": "Lonely widow",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "535497ea7e8e3715",
+      "_key": "!tables.results!d00c4eebdd49f056.535497ea7e8e3715",
+      "type": 0,
+      "text": "Nervous tax collector",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a152187a411fc52",
+      "_key": "!tables.results!d00c4eebdd49f056.9a152187a411fc52",
+      "type": 0,
+      "text": "Penniless merchant",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "425afc6fde0ebf96",
+      "_key": "!tables.results!d00c4eebdd49f056.425afc6fde0ebf96",
+      "type": 0,
+      "text": "Princess on the run",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "65e7cc7ce089e6f8",
+      "_key": "!tables.results!d00c4eebdd49f056.65e7cc7ce089e6f8",
+      "type": 0,
+      "text": "Retired mercenary",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a8ece6622e34c79",
+      "_key": "!tables.results!d00c4eebdd49f056.9a8ece6622e34c79",
+      "type": 0,
+      "text": "Seasoned adventurer",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "045d00c652b939a9",
+      "_key": "!tables.results!d00c4eebdd49f056.045d00c652b939a9",
+      "type": 0,
+      "text": "Shady diplomat",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9306b30a51471598",
+      "_key": "!tables.results!d00c4eebdd49f056.9306b30a51471598",
+      "type": 0,
+      "text": "Stubborn wizard",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7990dda4d6e8bf89",
+      "_key": "!tables.results!d00c4eebdd49f056.7990dda4d6e8bf89",
+      "type": 0,
+      "text": "Talented craftsman",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a51c082ead5217b6",
+      "_key": "!tables.results!d00c4eebdd49f056.a51c082ead5217b6",
+      "type": 0,
+      "text": "Traveler from a distant land",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e1644ab4607348b4",
+      "_key": "!tables.results!d00c4eebdd49f056.e1644ab4607348b4",
+      "type": 0,
+      "text": "Vampire/Werewolf hunter",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

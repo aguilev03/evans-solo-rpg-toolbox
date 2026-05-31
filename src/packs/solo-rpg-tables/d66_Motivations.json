@@ -1,0 +1,554 @@
+{
+  "_id": "ecccb2eea8de3a13",
+  "_key": "!tables!ecccb2eea8de3a13",
+  "name": "d66 Motivations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate an investigator motivation.",
+  "results": [
+    {
+      "_id": "24d38129d5ac7035",
+      "_key": "!tables.results!ecccb2eea8de3a13.24d38129d5ac7035",
+      "type": 0,
+      "text": "Complicit loved one",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "564adb05ade94435",
+      "_key": "!tables.results!ecccb2eea8de3a13.564adb05ade94435",
+      "type": 0,
+      "text": "Monetary incentive",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "556f59ee8b2a468c",
+      "_key": "!tables.results!ecccb2eea8de3a13.556f59ee8b2a468c",
+      "type": 0,
+      "text": "Vendetta",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13367041da4323e0",
+      "_key": "!tables.results!ecccb2eea8de3a13.13367041da4323e0",
+      "type": 0,
+      "text": "Just business",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d9d19c4d515ef8aa",
+      "_key": "!tables.results!ecccb2eea8de3a13.d9d19c4d515ef8aa",
+      "type": 0,
+      "text": "Career advancement",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "168d45464ab8d316",
+      "_key": "!tables.results!ecccb2eea8de3a13.168d45464ab8d316",
+      "type": 0,
+      "text": "Promise to keep",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d4a115b51f67ac07",
+      "_key": "!tables.results!ecccb2eea8de3a13.d4a115b51f67ac07",
+      "type": 0,
+      "text": "Pure curiosity",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aef4f84de0de4ecf",
+      "_key": "!tables.results!ecccb2eea8de3a13.aef4f84de0de4ecf",
+      "type": 0,
+      "text": "Right a wrong",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "44b725294d261669",
+      "_key": "!tables.results!ecccb2eea8de3a13.44b725294d261669",
+      "type": 0,
+      "text": "Personal danger",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e5dce5b72aaadd0",
+      "_key": "!tables.results!ecccb2eea8de3a13.5e5dce5b72aaadd0",
+      "type": 0,
+      "text": "Boredom",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "074bbfdfffc3fb97",
+      "_key": "!tables.results!ecccb2eea8de3a13.074bbfdfffc3fb97",
+      "type": 0,
+      "text": "Love",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c5f8aae7f03f8fd7",
+      "_key": "!tables.results!ecccb2eea8de3a13.c5f8aae7f03f8fd7",
+      "type": 0,
+      "text": "Obsession",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3d8d4d88ab0c8cf5",
+      "_key": "!tables.results!ecccb2eea8de3a13.3d8d4d88ab0c8cf5",
+      "type": 0,
+      "text": "Blackmail",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "92f8f0ba6c0d51ca",
+      "_key": "!tables.results!ecccb2eea8de3a13.92f8f0ba6c0d51ca",
+      "type": 0,
+      "text": "Pursuit of truth",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "923816acbd0b6c28",
+      "_key": "!tables.results!ecccb2eea8de3a13.923816acbd0b6c28",
+      "type": 0,
+      "text": "Debilitating guilt",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "19105932fef9219f",
+      "_key": "!tables.results!ecccb2eea8de3a13.19105932fef9219f",
+      "type": 0,
+      "text": "Proof of worth",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8bb2ce1fac3fe605",
+      "_key": "!tables.results!ecccb2eea8de3a13.8bb2ce1fac3fe605",
+      "type": 0,
+      "text": "Sense of duty",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ca0c094ca6dec28b",
+      "_key": "!tables.results!ecccb2eea8de3a13.ca0c094ca6dec28b",
+      "type": 0,
+      "text": "Past trauma",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ef8cd82f41bd98ba",
+      "_key": "!tables.results!ecccb2eea8de3a13.ef8cd82f41bd98ba",
+      "type": 0,
+      "text": "Faith",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc724c97bfc95ec3",
+      "_key": "!tables.results!ecccb2eea8de3a13.bc724c97bfc95ec3",
+      "type": 0,
+      "text": "Reputation to uphold",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dff43fe568ac05ce",
+      "_key": "!tables.results!ecccb2eea8de3a13.dff43fe568ac05ce",
+      "type": 0,
+      "text": "Thrill-seeking",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c94a51fedb26cb4",
+      "_key": "!tables.results!ecccb2eea8de3a13.7c94a51fedb26cb4",
+      "type": 0,
+      "text": "Rivalry",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6b61db64d20ca4fc",
+      "_key": "!tables.results!ecccb2eea8de3a13.6b61db64d20ca4fc",
+      "type": 0,
+      "text": "Dying wish",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8850ea35fa09da3d",
+      "_key": "!tables.results!ecccb2eea8de3a13.8850ea35fa09da3d",
+      "type": 0,
+      "text": "One last job",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "18fb3dbc3d6a71b6",
+      "_key": "!tables.results!ecccb2eea8de3a13.18fb3dbc3d6a71b6",
+      "type": 0,
+      "text": "Debt to repay",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "617530025d55d483",
+      "_key": "!tables.results!ecccb2eea8de3a13.617530025d55d483",
+      "type": 0,
+      "text": "Hatred",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4acf9df7dc4daa54",
+      "_key": "!tables.results!ecccb2eea8de3a13.4acf9df7dc4daa54",
+      "type": 0,
+      "text": "Personal connection",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d38a34bd0c6a61bc",
+      "_key": "!tables.results!ecccb2eea8de3a13.d38a34bd0c6a61bc",
+      "type": 0,
+      "text": "Compelling dreams",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "161d6e331b8bfb3a",
+      "_key": "!tables.results!ecccb2eea8de3a13.161d6e331b8bfb3a",
+      "type": 0,
+      "text": "Desperation",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "99c05344bcab05a0",
+      "_key": "!tables.results!ecccb2eea8de3a13.99c05344bcab05a0",
+      "type": 0,
+      "text": "Nothing to lose",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "550d8248f75127c1",
+      "_key": "!tables.results!ecccb2eea8de3a13.550d8248f75127c1",
+      "type": 0,
+      "text": "For the challenge",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6963b3e597661a2b",
+      "_key": "!tables.results!ecccb2eea8de3a13.6963b3e597661a2b",
+      "type": 0,
+      "text": "Unfinished work",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2211ef4f88095117",
+      "_key": "!tables.results!ecccb2eea8de3a13.2211ef4f88095117",
+      "type": 0,
+      "text": "A missing piece",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c7db35192cac5b66",
+      "_key": "!tables.results!ecccb2eea8de3a13.c7db35192cac5b66",
+      "type": 0,
+      "text": "Curse to break",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d5119fb5ddefe85",
+      "_key": "!tables.results!ecccb2eea8de3a13.7d5119fb5ddefe85",
+      "type": 0,
+      "text": "Protect a secret",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "044fe7007539930d",
+      "_key": "!tables.results!ecccb2eea8de3a13.044fe7007539930d",
+      "type": 0,
+      "text": "Academic",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

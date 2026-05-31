@@ -1,0 +1,119 @@
+{
+  "_id": "d25711720da9cb30",
+  "_key": "!tables!d25711720da9cb30",
+  "name": "Castle Non-defensive Feature",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "4287ee408c4f6b7c",
+      "_key": "!tables.results!d25711720da9cb30.4287ee408c4f6b7c",
+      "type": 0,
+      "text": "None",
+      "weight": 1,
+      "range": [
+        1,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b04cad8d762af26f",
+      "_key": "!tables.results!d25711720da9cb30.b04cad8d762af26f",
+      "type": 0,
+      "text": "Banners/Flags",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b157ebad4ab22f03",
+      "_key": "!tables.results!d25711720da9cb30.b157ebad4ab22f03",
+      "type": 0,
+      "text": "Gargoyles",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c3d4797b648eb1e5",
+      "_key": "!tables.results!d25711720da9cb30.c3d4797b648eb1e5",
+      "type": 0,
+      "text": "Heads/Bodies",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c89c3a75128cac44",
+      "_key": "!tables.results!d25711720da9cb30.c89c3a75128cac44",
+      "type": 0,
+      "text": "Overgrown",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f861bfa64dcfc162",
+      "_key": "!tables.results!d25711720da9cb30.f861bfa64dcfc162",
+      "type": 0,
+      "text": "Religious symbols",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e1d87284f7123b65",
+      "_key": "!tables.results!d25711720da9cb30.e1d87284f7123b65",
+      "type": 0,
+      "text": "Secret passage",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

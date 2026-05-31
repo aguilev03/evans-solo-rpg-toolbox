@@ -1,0 +1,104 @@
+{
+  "_id": "7c2389664941848d",
+  "_key": "!tables!7c2389664941848d",
+  "name": "Magic Landmarks",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "d54e1bc4a43f54b0",
+      "_key": "!tables.results!7c2389664941848d.d54e1bc4a43f54b0",
+      "type": 0,
+      "text": "Area under a spell",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "22674434021fe47e",
+      "_key": "!tables.results!7c2389664941848d.22674434021fe47e",
+      "type": 0,
+      "text": "Enchanted item",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "631f252c94c057c4",
+      "_key": "!tables.results!7c2389664941848d.631f252c94c057c4",
+      "type": 0,
+      "text": "Magic path",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e92a1770e93ac6b9",
+      "_key": "!tables.results!7c2389664941848d.e92a1770e93ac6b9",
+      "type": 0,
+      "text": "Magic remains",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9227f47bfe5f43f6",
+      "_key": "!tables.results!7c2389664941848d.9227f47bfe5f43f6",
+      "type": 0,
+      "text": "Place of power",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c79f4577d9cb12f",
+      "_key": "!tables.results!7c2389664941848d.4c79f4577d9cb12f",
+      "type": 0,
+      "text": "Strange phenomenon",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

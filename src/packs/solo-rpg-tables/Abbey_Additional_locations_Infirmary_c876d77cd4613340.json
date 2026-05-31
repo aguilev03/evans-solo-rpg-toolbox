@@ -1,0 +1,74 @@
+{
+  "_id": "c876d77cd4613340",
+  "_key": "!tables!c876d77cd4613340",
+  "name": "Abbey Additional locations Infirmary",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "0dac34dc86b23780",
+      "_key": "!tables.results!c876d77cd4613340.0dac34dc86b23780",
+      "type": 0,
+      "text": "Bloodletting & purging room",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e5601be7a4feb3cc",
+      "_key": "!tables.results!c876d77cd4613340.e5601be7a4feb3cc",
+      "type": 0,
+      "text": "Drugstore",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f2fd0d1c4d961d88",
+      "_key": "!tables.results!c876d77cd4613340.f2fd0d1c4d961d88",
+      "type": 0,
+      "text": "Physician’s residence",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "adf4f21d70083277",
+      "_key": "!tables.results!c876d77cd4613340.adf4f21d70083277",
+      "type": 0,
+      "text": "Room for critical patients",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

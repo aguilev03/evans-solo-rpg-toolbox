@@ -1,0 +1,59 @@
+{
+  "_id": "41ed22d6fd8c476a",
+  "_key": "!tables!41ed22d6fd8c476a",
+  "name": "Village Size",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "3f499113b71f41ed",
+      "_key": "!tables.results!41ed22d6fd8c476a.3f499113b71f41ed",
+      "type": 0,
+      "text": "Small (1)",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "03230532a2c793db",
+      "_key": "!tables.results!41ed22d6fd8c476a.03230532a2c793db",
+      "type": 0,
+      "text": "Medium (2)",
+      "weight": 1,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6607c890b60adf8e",
+      "_key": "!tables.results!41ed22d6fd8c476a.6607c890b60adf8e",
+      "type": 0,
+      "text": "Big (3)",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

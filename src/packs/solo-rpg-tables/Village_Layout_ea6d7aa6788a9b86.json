@@ -1,0 +1,59 @@
+{
+  "_id": "ea6d7aa6788a9b86",
+  "_key": "!tables!ea6d7aa6788a9b86",
+  "name": "Village Layout",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "4c4c398bc896c288",
+      "_key": "!tables.results!ea6d7aa6788a9b86.4c4c398bc896c288",
+      "type": 0,
+      "text": "Heap",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b97b9a131de2d8eb",
+      "_key": "!tables.results!ea6d7aa6788a9b86.b97b9a131de2d8eb",
+      "type": 0,
+      "text": "Round",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f78efe6992e3f341",
+      "_key": "!tables.results!ea6d7aa6788a9b86.f78efe6992e3f341",
+      "type": 0,
+      "text": "Row",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,314 @@
+{
+  "_id": "3cfbbd3af1d1d6cf",
+  "_key": "!tables!3cfbbd3af1d1d6cf",
+  "name": "City Appearance",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "c0cd2739c4753b14",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.c0cd2739c4753b14",
+      "type": 0,
+      "text": "Cluttered",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b4fa86291b377181",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.b4fa86291b377181",
+      "type": 0,
+      "text": "Cobblestone",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c01d1b67ad3fac1c",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.c01d1b67ad3fac1c",
+      "type": 0,
+      "text": "Colorful",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e45e3bfb0bcb55b",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.4e45e3bfb0bcb55b",
+      "type": 0,
+      "text": "Covered with art",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "306fbe2f94c575f7",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.306fbe2f94c575f7",
+      "type": 0,
+      "text": "Dark",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9e192e345e468ccf",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.9e192e345e468ccf",
+      "type": 0,
+      "text": "Eerie",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fd79e8b728fbe1dd",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.fd79e8b728fbe1dd",
+      "type": 0,
+      "text": "Flowers",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ff83299c72ee73f0",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.ff83299c72ee73f0",
+      "type": 0,
+      "text": "Geometric",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b6de86186695507a",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.b6de86186695507a",
+      "type": 0,
+      "text": "Huge windows",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b28da4b66594624c",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.b28da4b66594624c",
+      "type": 0,
+      "text": "Light",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "03f3ed3d9af9284e",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.03f3ed3d9af9284e",
+      "type": 0,
+      "text": "Lots of canals",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0cc9e2956d9b7c99",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.0cc9e2956d9b7c99",
+      "type": 0,
+      "text": "Lots of stairs",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c341c994e7759a44",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.c341c994e7759a44",
+      "type": 0,
+      "text": "Misaligned buildings",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1c61cb4b7b9abf45",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.1c61cb4b7b9abf45",
+      "type": 0,
+      "text": "Red bricks",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "348b279174bd2e23",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.348b279174bd2e23",
+      "type": 0,
+      "text": "Stark",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d9ee2cb56ef9d8e3",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.d9ee2cb56ef9d8e3",
+      "type": 0,
+      "text": "Tall towers",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "869229ec20fda38b",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.869229ec20fda38b",
+      "type": 0,
+      "text": "White marble",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f31f79019647851a",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.f31f79019647851a",
+      "type": 0,
+      "text": "Wondrous",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6749bc2b58430918",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.6749bc2b58430918",
+      "type": 0,
+      "text": "Wooden",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c7808d39afe4d70",
+      "_key": "!tables.results!3cfbbd3af1d1d6cf.5c7808d39afe4d70",
+      "type": 0,
+      "text": "Specific color scheme",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

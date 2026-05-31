@@ -1,0 +1,554 @@
+{
+  "_id": "775e1e23e8502004",
+  "_key": "!tables!775e1e23e8502004",
+  "name": "Fantasy Locations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a location with a fantasy theme.",
+  "results": [
+    {
+      "_id": "f4fea6bf615f4809",
+      "_key": "!tables.results!775e1e23e8502004.f4fea6bf615f4809",
+      "type": 0,
+      "text": "Tavern",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7f6dbd3615057667",
+      "_key": "!tables.results!775e1e23e8502004.7f6dbd3615057667",
+      "type": 0,
+      "text": "Castle",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ef1ceaa7aebf4c74",
+      "_key": "!tables.results!775e1e23e8502004.ef1ceaa7aebf4c74",
+      "type": 0,
+      "text": "Dungeon",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2876d4db46986be1",
+      "_key": "!tables.results!775e1e23e8502004.2876d4db46986be1",
+      "type": 0,
+      "text": "Smithy",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f0b4568757024b5a",
+      "_key": "!tables.results!775e1e23e8502004.f0b4568757024b5a",
+      "type": 0,
+      "text": "Forest",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2767d6f970960d6e",
+      "_key": "!tables.results!775e1e23e8502004.2767d6f970960d6e",
+      "type": 0,
+      "text": "Campsite",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ed3a135b10b4e3a",
+      "_key": "!tables.results!775e1e23e8502004.2ed3a135b10b4e3a",
+      "type": 0,
+      "text": "Armoury",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "055d7553d90ed38e",
+      "_key": "!tables.results!775e1e23e8502004.055d7553d90ed38e",
+      "type": 0,
+      "text": "Monastery",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e02f38c42b5c42b0",
+      "_key": "!tables.results!775e1e23e8502004.e02f38c42b5c42b0",
+      "type": 0,
+      "text": "Carnival",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "16458cc3204f6e85",
+      "_key": "!tables.results!775e1e23e8502004.16458cc3204f6e85",
+      "type": 0,
+      "text": "Watch tower",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "47451dd2f2dc58dd",
+      "_key": "!tables.results!775e1e23e8502004.47451dd2f2dc58dd",
+      "type": 0,
+      "text": "Ruins",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c950e316542235c",
+      "_key": "!tables.results!775e1e23e8502004.9c950e316542235c",
+      "type": 0,
+      "text": "Mine",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b9cd37908742ea3",
+      "_key": "!tables.results!775e1e23e8502004.7b9cd37908742ea3",
+      "type": 0,
+      "text": "Farmland",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d0ececa3b1553b1",
+      "_key": "!tables.results!775e1e23e8502004.0d0ececa3b1553b1",
+      "type": 0,
+      "text": "Apothecary",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c3077b61f8619f77",
+      "_key": "!tables.results!775e1e23e8502004.c3077b61f8619f77",
+      "type": 0,
+      "text": "Battlefield",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "062934235b8be93a",
+      "_key": "!tables.results!775e1e23e8502004.062934235b8be93a",
+      "type": 0,
+      "text": "Market",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6318a2d4644943f3",
+      "_key": "!tables.results!775e1e23e8502004.6318a2d4644943f3",
+      "type": 0,
+      "text": "Guild hall",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8361b96db580d160",
+      "_key": "!tables.results!775e1e23e8502004.8361b96db580d160",
+      "type": 0,
+      "text": "Training grounds",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "10087299f53fc84a",
+      "_key": "!tables.results!775e1e23e8502004.10087299f53fc84a",
+      "type": 0,
+      "text": "Creature's lair",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "03fdb135576ce0f6",
+      "_key": "!tables.results!775e1e23e8502004.03fdb135576ce0f6",
+      "type": 0,
+      "text": "Barracks",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a3ee019a80d574ba",
+      "_key": "!tables.results!775e1e23e8502004.a3ee019a80d574ba",
+      "type": 0,
+      "text": "Mountain path",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c3a28c472bf3ca7b",
+      "_key": "!tables.results!775e1e23e8502004.c3a28c472bf3ca7b",
+      "type": 0,
+      "text": "Lake",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e5a47918d249d7d8",
+      "_key": "!tables.results!775e1e23e8502004.e5a47918d249d7d8",
+      "type": 0,
+      "text": "Rampart",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8149044f9d39b044",
+      "_key": "!tables.results!775e1e23e8502004.8149044f9d39b044",
+      "type": 0,
+      "text": "Fighting pits",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "910ecaa2643ff0c0",
+      "_key": "!tables.results!775e1e23e8502004.910ecaa2643ff0c0",
+      "type": 0,
+      "text": "Hamlet",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1aeb14d7caf0cf9c",
+      "_key": "!tables.results!775e1e23e8502004.1aeb14d7caf0cf9c",
+      "type": 0,
+      "text": "Bridge",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a2fd176ce63a4a9a",
+      "_key": "!tables.results!775e1e23e8502004.a2fd176ce63a4a9a",
+      "type": 0,
+      "text": "Sanctuary",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a5b225866be3bb31",
+      "_key": "!tables.results!775e1e23e8502004.a5b225866be3bb31",
+      "type": 0,
+      "text": "Crypt",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b50f846e498d3076",
+      "_key": "!tables.results!775e1e23e8502004.b50f846e498d3076",
+      "type": 0,
+      "text": "Archives",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0df46e043169fec6",
+      "_key": "!tables.results!775e1e23e8502004.0df46e043169fec6",
+      "type": 0,
+      "text": "Workshop",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "094df59d3595af1a",
+      "_key": "!tables.results!775e1e23e8502004.094df59d3595af1a",
+      "type": 0,
+      "text": "Tourney grounds",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ab693259c640ebc",
+      "_key": "!tables.results!775e1e23e8502004.2ab693259c640ebc",
+      "type": 0,
+      "text": "Cave system",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "39cbcf7b9fad3139",
+      "_key": "!tables.results!775e1e23e8502004.39cbcf7b9fad3139",
+      "type": 0,
+      "text": "Peasant's home",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8db9aa81e76df0b8",
+      "_key": "!tables.results!775e1e23e8502004.8db9aa81e76df0b8",
+      "type": 0,
+      "text": "Cathedral",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bcc75ed1a1a09e61",
+      "_key": "!tables.results!775e1e23e8502004.bcc75ed1a1a09e61",
+      "type": 0,
+      "text": "Town square",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "889606152ebf04e8",
+      "_key": "!tables.results!775e1e23e8502004.889606152ebf04e8",
+      "type": 0,
+      "text": "Torture chamber",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

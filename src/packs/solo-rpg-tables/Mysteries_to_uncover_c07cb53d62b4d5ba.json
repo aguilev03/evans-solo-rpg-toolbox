@@ -1,0 +1,164 @@
+{
+  "_id": "c07cb53d62b4d5ba",
+  "_key": "!tables!c07cb53d62b4d5ba",
+  "name": "Mysteries to uncover",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "aee39ac33977fc07",
+      "_key": "!tables.results!c07cb53d62b4d5ba.aee39ac33977fc07",
+      "type": 0,
+      "text": "Abductions",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2759cb2ebc7856ef",
+      "_key": "!tables.results!c07cb53d62b4d5ba.2759cb2ebc7856ef",
+      "type": 0,
+      "text": "Alleged ghost",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ea045e4531dd1a6",
+      "_key": "!tables.results!c07cb53d62b4d5ba.4ea045e4531dd1a6",
+      "type": 0,
+      "text": "Curse",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9ea81f631dc246ab",
+      "_key": "!tables.results!c07cb53d62b4d5ba.9ea81f631dc246ab",
+      "type": 0,
+      "text": "Miracle",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "619b1a0820194cbb",
+      "_key": "!tables.results!c07cb53d62b4d5ba.619b1a0820194cbb",
+      "type": 0,
+      "text": "Missing items",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be81c375df5b1f05",
+      "_key": "!tables.results!c07cb53d62b4d5ba.be81c375df5b1f05",
+      "type": 0,
+      "text": "Mutations",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ba7ce398dcd31713",
+      "_key": "!tables.results!c07cb53d62b4d5ba.ba7ce398dcd31713",
+      "type": 0,
+      "text": "Odd footprints/tracks",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb145faa96cfd4dc",
+      "_key": "!tables.results!c07cb53d62b4d5ba.fb145faa96cfd4dc",
+      "type": 0,
+      "text": "Stalker",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e4296a16bf7379b5",
+      "_key": "!tables.results!c07cb53d62b4d5ba.e4296a16bf7379b5",
+      "type": 0,
+      "text": "Strange lights/noises",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bf8ef528d144c142",
+      "_key": "!tables.results!c07cb53d62b4d5ba.bf8ef528d144c142",
+      "type": 0,
+      "text": "Unexplained deaths",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

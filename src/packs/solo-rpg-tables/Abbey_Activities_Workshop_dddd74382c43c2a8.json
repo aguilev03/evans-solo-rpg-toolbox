@@ -1,0 +1,104 @@
+{
+  "_id": "dddd74382c43c2a8",
+  "_key": "!tables!dddd74382c43c2a8",
+  "name": "Abbey Activities Workshop",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "48ae5590278cab67",
+      "_key": "!tables.results!dddd74382c43c2a8.48ae5590278cab67",
+      "type": 0,
+      "text": "Candle makers",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2249fc7e9542d7c1",
+      "_key": "!tables.results!dddd74382c43c2a8.2249fc7e9542d7c1",
+      "type": 0,
+      "text": "Cutlers",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4bf68a1f3f053938",
+      "_key": "!tables.results!dddd74382c43c2a8.4bf68a1f3f053938",
+      "type": 0,
+      "text": "Potters",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ab9d1d3091061264",
+      "_key": "!tables.results!dddd74382c43c2a8.ab9d1d3091061264",
+      "type": 0,
+      "text": "Shoemakers",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "877689729bef69f7",
+      "_key": "!tables.results!dddd74382c43c2a8.877689729bef69f7",
+      "type": 0,
+      "text": "Smiths",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2134f989ecca1726",
+      "_key": "!tables.results!dddd74382c43c2a8.2134f989ecca1726",
+      "type": 0,
+      "text": "Tanners",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

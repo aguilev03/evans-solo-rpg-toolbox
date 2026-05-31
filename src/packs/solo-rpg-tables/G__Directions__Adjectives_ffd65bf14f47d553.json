@@ -1,0 +1,314 @@
+{
+  "_id": "ffd65bf14f47d553",
+  "_key": "!tables!ffd65bf14f47d553",
+  "name": "G) Directions, Adjectives",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "14329ddb9ec2b9f4",
+      "_key": "!tables.results!ffd65bf14f47d553.14329ddb9ec2b9f4",
+      "type": 0,
+      "text": "Bottom",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "726554f792d2dc54",
+      "_key": "!tables.results!ffd65bf14f47d553.726554f792d2dc54",
+      "type": 0,
+      "text": "Down",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8b1feeff4ae86de7",
+      "_key": "!tables.results!ffd65bf14f47d553.8b1feeff4ae86de7",
+      "type": 0,
+      "text": "East",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f4356a6ee0fa0e18",
+      "_key": "!tables.results!ffd65bf14f47d553.f4356a6ee0fa0e18",
+      "type": 0,
+      "text": "Far",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e433d1206331bda2",
+      "_key": "!tables.results!ffd65bf14f47d553.e433d1206331bda2",
+      "type": 0,
+      "text": "Fort",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d702fed314dc2ff2",
+      "_key": "!tables.results!ffd65bf14f47d553.d702fed314dc2ff2",
+      "type": 0,
+      "text": "Haute",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c7bbb3b59d5fabbe",
+      "_key": "!tables.results!ffd65bf14f47d553.c7bbb3b59d5fabbe",
+      "type": 0,
+      "text": "High",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9494940e9f45fab7",
+      "_key": "!tables.results!ffd65bf14f47d553.9494940e9f45fab7",
+      "type": 0,
+      "text": "Little",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9bd195379bad8b7f",
+      "_key": "!tables.results!ffd65bf14f47d553.9bd195379bad8b7f",
+      "type": 0,
+      "text": "Lost",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "027aa6615d20933f",
+      "_key": "!tables.results!ffd65bf14f47d553.027aa6615d20933f",
+      "type": 0,
+      "text": "Low",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c8c33d7ddd06323f",
+      "_key": "!tables.results!ffd65bf14f47d553.c8c33d7ddd06323f",
+      "type": 0,
+      "text": "Mount",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f7f39ded6063cbb6",
+      "_key": "!tables.results!ffd65bf14f47d553.f7f39ded6063cbb6",
+      "type": 0,
+      "text": "New",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3a29d354fc2c1461",
+      "_key": "!tables.results!ffd65bf14f47d553.3a29d354fc2c1461",
+      "type": 0,
+      "text": "North",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "79da9ae3437cf3ec",
+      "_key": "!tables.results!ffd65bf14f47d553.79da9ae3437cf3ec",
+      "type": 0,
+      "text": "Old",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4788039152bfe3ee",
+      "_key": "!tables.results!ffd65bf14f47d553.4788039152bfe3ee",
+      "type": 0,
+      "text": "Port",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2a30e665f3034e6a",
+      "_key": "!tables.results!ffd65bf14f47d553.2a30e665f3034e6a",
+      "type": 0,
+      "text": "Saint",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "328b52e86f341bca",
+      "_key": "!tables.results!ffd65bf14f47d553.328b52e86f341bca",
+      "type": 0,
+      "text": "South",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17d5abb45c19e7b1",
+      "_key": "!tables.results!ffd65bf14f47d553.17d5abb45c19e7b1",
+      "type": 0,
+      "text": "Under",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0a36e2ae0d88e807",
+      "_key": "!tables.results!ffd65bf14f47d553.0a36e2ae0d88e807",
+      "type": 0,
+      "text": "Up",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ee186416cfcdafb",
+      "_key": "!tables.results!ffd65bf14f47d553.2ee186416cfcdafb",
+      "type": 0,
+      "text": "West",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

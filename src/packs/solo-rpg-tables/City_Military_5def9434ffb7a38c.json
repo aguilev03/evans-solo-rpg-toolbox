@@ -1,0 +1,314 @@
+{
+  "_id": "5def9434ffb7a38c",
+  "_key": "!tables!5def9434ffb7a38c",
+  "name": "City Military",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "aeeb8039b95ba214",
+      "_key": "!tables.results!5def9434ffb7a38c.aeeb8039b95ba214",
+      "type": 0,
+      "text": "Armory",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "47df7cb2a2c60fa7",
+      "_key": "!tables.results!5def9434ffb7a38c.47df7cb2a2c60fa7",
+      "type": 0,
+      "text": "Barracks",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c3cda5b0872297d",
+      "_key": "!tables.results!5def9434ffb7a38c.5c3cda5b0872297d",
+      "type": 0,
+      "text": "Canteen",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b2b64db99fa9139f",
+      "_key": "!tables.results!5def9434ffb7a38c.b2b64db99fa9139f",
+      "type": 0,
+      "text": "Citadel",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c51e99ab43776d7f",
+      "_key": "!tables.results!5def9434ffb7a38c.c51e99ab43776d7f",
+      "type": 0,
+      "text": "Fort",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "77f442ce3b460028",
+      "_key": "!tables.results!5def9434ffb7a38c.77f442ce3b460028",
+      "type": 0,
+      "text": "Guard post",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0ae0ddf13467cd5f",
+      "_key": "!tables.results!5def9434ffb7a38c.0ae0ddf13467cd5f",
+      "type": 0,
+      "text": "Guard tower",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "00fa08d29702e6e6",
+      "_key": "!tables.results!5def9434ffb7a38c.00fa08d29702e6e6",
+      "type": 0,
+      "text": "Menagerie",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ac7839b64199f70c",
+      "_key": "!tables.results!5def9434ffb7a38c.ac7839b64199f70c",
+      "type": 0,
+      "text": "Military archives",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b53cbdf250629e25",
+      "_key": "!tables.results!5def9434ffb7a38c.b53cbdf250629e25",
+      "type": 0,
+      "text": "Military hospital",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8dcf20dcd01c8ad1",
+      "_key": "!tables.results!5def9434ffb7a38c.8dcf20dcd01c8ad1",
+      "type": 0,
+      "text": "Military school",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a41f73e3c4e78a5",
+      "_key": "!tables.results!5def9434ffb7a38c.8a41f73e3c4e78a5",
+      "type": 0,
+      "text": "Military surplus",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ae6a7b2c1fac27f0",
+      "_key": "!tables.results!5def9434ffb7a38c.ae6a7b2c1fac27f0",
+      "type": 0,
+      "text": "Oubliette",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f44b3953ae03b77",
+      "_key": "!tables.results!5def9434ffb7a38c.3f44b3953ae03b77",
+      "type": 0,
+      "text": "Prison",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4928e86a1ea13864",
+      "_key": "!tables.results!5def9434ffb7a38c.4928e86a1ea13864",
+      "type": 0,
+      "text": "Recruitment center",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "61261adc436a3896",
+      "_key": "!tables.results!5def9434ffb7a38c.61261adc436a3896",
+      "type": 0,
+      "text": "Siege workshop",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "753d9e112b18bf43",
+      "_key": "!tables.results!5def9434ffb7a38c.753d9e112b18bf43",
+      "type": 0,
+      "text": "Spy academy",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "db2f48ec28ed3eb6",
+      "_key": "!tables.results!5def9434ffb7a38c.db2f48ec28ed3eb6",
+      "type": 0,
+      "text": "Training hall",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7613948e5d718635",
+      "_key": "!tables.results!5def9434ffb7a38c.7613948e5d718635",
+      "type": 0,
+      "text": "Underground vault",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b8505b555250d0e7",
+      "_key": "!tables.results!5def9434ffb7a38c.b8505b555250d0e7",
+      "type": 0,
+      "text": "Warehouse",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

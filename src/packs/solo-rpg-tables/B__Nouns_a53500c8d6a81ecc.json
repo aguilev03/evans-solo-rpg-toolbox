@@ -1,0 +1,1394 @@
+{
+  "_id": "a53500c8d6a81ecc",
+  "_key": "!tables!a53500c8d6a81ecc",
+  "name": "B) Nouns",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "8f54e324890d1ca2",
+      "_key": "!tables.results!a53500c8d6a81ecc.8f54e324890d1ca2",
+      "type": 0,
+      "text": "Acorn 2 Angel 3 Apple 4 Atelier 5 Autumn 6 Axe 7 Baker 8 Bard 9 Baron",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e76f4fd3897a6efa",
+      "_key": "!tables.results!a53500c8d6a81ecc.e76f4fd3897a6efa",
+      "type": 0,
+      "text": "Barrow",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ad55658b9f078ae6",
+      "_key": "!tables.results!a53500c8d6a81ecc.ad55658b9f078ae6",
+      "type": 0,
+      "text": "Berry",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ad3f538fe128f0f6",
+      "_key": "!tables.results!a53500c8d6a81ecc.ad3f538fe128f0f6",
+      "type": 0,
+      "text": "Birch",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ac17244cd2b7de0a",
+      "_key": "!tables.results!a53500c8d6a81ecc.ac17244cd2b7de0a",
+      "type": 0,
+      "text": "Bird",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e598d257272c03bf",
+      "_key": "!tables.results!a53500c8d6a81ecc.e598d257272c03bf",
+      "type": 0,
+      "text": "Boar",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "22ee8bbbac45489f",
+      "_key": "!tables.results!a53500c8d6a81ecc.22ee8bbbac45489f",
+      "type": 0,
+      "text": "Book",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ac416280afbd45f",
+      "_key": "!tables.results!a53500c8d6a81ecc.2ac416280afbd45f",
+      "type": 0,
+      "text": "Bow",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ffc4353a44fd9f9",
+      "_key": "!tables.results!a53500c8d6a81ecc.4ffc4353a44fd9f9",
+      "type": 0,
+      "text": "Butcher",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6bf5d8c6fff29dac",
+      "_key": "!tables.results!a53500c8d6a81ecc.6bf5d8c6fff29dac",
+      "type": 0,
+      "text": "Candle",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b322ac9415fc6261",
+      "_key": "!tables.results!a53500c8d6a81ecc.b322ac9415fc6261",
+      "type": 0,
+      "text": "Cheese",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "000e1c1f8c7ece4c",
+      "_key": "!tables.results!a53500c8d6a81ecc.000e1c1f8c7ece4c",
+      "type": 0,
+      "text": "Cloud",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e2562a0bbfb4f55d",
+      "_key": "!tables.results!a53500c8d6a81ecc.e2562a0bbfb4f55d",
+      "type": 0,
+      "text": "Corn",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "20c4b4c4ba14a15e",
+      "_key": "!tables.results!a53500c8d6a81ecc.20c4b4c4ba14a15e",
+      "type": 0,
+      "text": "Cow",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6befb92293f37f4d",
+      "_key": "!tables.results!a53500c8d6a81ecc.6befb92293f37f4d",
+      "type": 0,
+      "text": "Crow",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e1fb9e141984d8f",
+      "_key": "!tables.results!a53500c8d6a81ecc.3e1fb9e141984d8f",
+      "type": 0,
+      "text": "Dawn",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fad2c05d17a3cbfa",
+      "_key": "!tables.results!a53500c8d6a81ecc.fad2c05d17a3cbfa",
+      "type": 0,
+      "text": "Day",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1ca316c0e79b480",
+      "_key": "!tables.results!a53500c8d6a81ecc.a1ca316c0e79b480",
+      "type": 0,
+      "text": "Deer",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b36fc73f21c8c289",
+      "_key": "!tables.results!a53500c8d6a81ecc.b36fc73f21c8c289",
+      "type": 0,
+      "text": "Demon",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8b018ea8db0647a",
+      "_key": "!tables.results!a53500c8d6a81ecc.d8b018ea8db0647a",
+      "type": 0,
+      "text": "Dragon",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc88ac975500d610",
+      "_key": "!tables.results!a53500c8d6a81ecc.bc88ac975500d610",
+      "type": 0,
+      "text": "Dream",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "677d867b0b7ce9a3",
+      "_key": "!tables.results!a53500c8d6a81ecc.677d867b0b7ce9a3",
+      "type": 0,
+      "text": "Dusk",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c4b9184fec079fbf",
+      "_key": "!tables.results!a53500c8d6a81ecc.c4b9184fec079fbf",
+      "type": 0,
+      "text": "Dust",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c7aa0c1ddfa5f9e9",
+      "_key": "!tables.results!a53500c8d6a81ecc.c7aa0c1ddfa5f9e9",
+      "type": 0,
+      "text": "Dwarf",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "274806f1fd59b764",
+      "_key": "!tables.results!a53500c8d6a81ecc.274806f1fd59b764",
+      "type": 0,
+      "text": "Eagle",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a95b05e5622f28b7",
+      "_key": "!tables.results!a53500c8d6a81ecc.a95b05e5622f28b7",
+      "type": 0,
+      "text": "Elf",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "57b5fb9c24ba51a7",
+      "_key": "!tables.results!a53500c8d6a81ecc.57b5fb9c24ba51a7",
+      "type": 0,
+      "text": "Feather",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6661038b49ebb49c",
+      "_key": "!tables.results!a53500c8d6a81ecc.6661038b49ebb49c",
+      "type": 0,
+      "text": "Fire",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4f6164ce67e6b53f",
+      "_key": "!tables.results!a53500c8d6a81ecc.4f6164ce67e6b53f",
+      "type": 0,
+      "text": "Fish",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "58cbca5db6b49dbb",
+      "_key": "!tables.results!a53500c8d6a81ecc.58cbca5db6b49dbb",
+      "type": 0,
+      "text": "Flower",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "038560909b74969b",
+      "_key": "!tables.results!a53500c8d6a81ecc.038560909b74969b",
+      "type": 0,
+      "text": "Fog",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8326e30e990a4f1f",
+      "_key": "!tables.results!a53500c8d6a81ecc.8326e30e990a4f1f",
+      "type": 0,
+      "text": "Fox",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc85993cf5776483",
+      "_key": "!tables.results!a53500c8d6a81ecc.bc85993cf5776483",
+      "type": 0,
+      "text": "Frog",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3ec0244e85506075",
+      "_key": "!tables.results!a53500c8d6a81ecc.3ec0244e85506075",
+      "type": 0,
+      "text": "Ghost",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "996b1de3693e9292",
+      "_key": "!tables.results!a53500c8d6a81ecc.996b1de3693e9292",
+      "type": 0,
+      "text": "Gnoll",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "af978f3080578a97",
+      "_key": "!tables.results!a53500c8d6a81ecc.af978f3080578a97",
+      "type": 0,
+      "text": "Goblin",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ba8490767a4808b",
+      "_key": "!tables.results!a53500c8d6a81ecc.8ba8490767a4808b",
+      "type": 0,
+      "text": "Grave",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc8dac6ad1bea15a",
+      "_key": "!tables.results!a53500c8d6a81ecc.bc8dac6ad1bea15a",
+      "type": 0,
+      "text": "Halfling",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ecce368a5c9036b6",
+      "_key": "!tables.results!a53500c8d6a81ecc.ecce368a5c9036b6",
+      "type": 0,
+      "text": "Hare",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "61e4adb150690445",
+      "_key": "!tables.results!a53500c8d6a81ecc.61e4adb150690445",
+      "type": 0,
+      "text": "Hawk",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e30b38230c3b1e69",
+      "_key": "!tables.results!a53500c8d6a81ecc.e30b38230c3b1e69",
+      "type": 0,
+      "text": "Heaven",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e287938f4f86e06f",
+      "_key": "!tables.results!a53500c8d6a81ecc.e287938f4f86e06f",
+      "type": 0,
+      "text": "Hell",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "74d7dd5ba6f8a885",
+      "_key": "!tables.results!a53500c8d6a81ecc.74d7dd5ba6f8a885",
+      "type": 0,
+      "text": "Hook",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5072bd8e574c0e72",
+      "_key": "!tables.results!a53500c8d6a81ecc.5072bd8e574c0e72",
+      "type": 0,
+      "text": "Hope",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c75323cb3a580f85",
+      "_key": "!tables.results!a53500c8d6a81ecc.c75323cb3a580f85",
+      "type": 0,
+      "text": "Horn",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ff5ff0d5e84bb608",
+      "_key": "!tables.results!a53500c8d6a81ecc.ff5ff0d5e84bb608",
+      "type": 0,
+      "text": "Horse",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a9f5e96ca1845e34",
+      "_key": "!tables.results!a53500c8d6a81ecc.a9f5e96ca1845e34",
+      "type": 0,
+      "text": "Hunter",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bb8ec151b45dd257",
+      "_key": "!tables.results!a53500c8d6a81ecc.bb8ec151b45dd257",
+      "type": 0,
+      "text": "Knight",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa08e5be431856d4",
+      "_key": "!tables.results!a53500c8d6a81ecc.aa08e5be431856d4",
+      "type": 0,
+      "text": "Kobold",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b2fd1cc45741890d",
+      "_key": "!tables.results!a53500c8d6a81ecc.b2fd1cc45741890d",
+      "type": 0,
+      "text": "Leaf",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "21c1b2d87b26a3e6",
+      "_key": "!tables.results!a53500c8d6a81ecc.21c1b2d87b26a3e6",
+      "type": 0,
+      "text": "Letter",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0128817f2e511b94",
+      "_key": "!tables.results!a53500c8d6a81ecc.0128817f2e511b94",
+      "type": 0,
+      "text": "Lion",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b77324c7d0b6184d",
+      "_key": "!tables.results!a53500c8d6a81ecc.b77324c7d0b6184d",
+      "type": 0,
+      "text": "Mage",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "42570c0555cdf1f0",
+      "_key": "!tables.results!a53500c8d6a81ecc.42570c0555cdf1f0",
+      "type": 0,
+      "text": "Moon",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2b5e0aaf2242eeba",
+      "_key": "!tables.results!a53500c8d6a81ecc.2b5e0aaf2242eeba",
+      "type": 0,
+      "text": "Night",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bfc0e2be247d82dc",
+      "_key": "!tables.results!a53500c8d6a81ecc.bfc0e2be247d82dc",
+      "type": 0,
+      "text": "Oak",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2a114048d4c8bac8",
+      "_key": "!tables.results!a53500c8d6a81ecc.2a114048d4c8bac8",
+      "type": 0,
+      "text": "Orchid",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "816ade16b3fc35e0",
+      "_key": "!tables.results!a53500c8d6a81ecc.816ade16b3fc35e0",
+      "type": 0,
+      "text": "Pine",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "44c594aa96507b58",
+      "_key": "!tables.results!a53500c8d6a81ecc.44c594aa96507b58",
+      "type": 0,
+      "text": "Pork",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eeb43add046f9ace",
+      "_key": "!tables.results!a53500c8d6a81ecc.eeb43add046f9ace",
+      "type": 0,
+      "text": "Rabbit",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dcae20d2d5f20a20",
+      "_key": "!tables.results!a53500c8d6a81ecc.dcae20d2d5f20a20",
+      "type": 0,
+      "text": "Rain",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3aaa69d36e5487b",
+      "_key": "!tables.results!a53500c8d6a81ecc.f3aaa69d36e5487b",
+      "type": 0,
+      "text": "Ram",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "51acd685e5bc3267",
+      "_key": "!tables.results!a53500c8d6a81ecc.51acd685e5bc3267",
+      "type": 0,
+      "text": "River",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e508fb305e9a24bd",
+      "_key": "!tables.results!a53500c8d6a81ecc.e508fb305e9a24bd",
+      "type": 0,
+      "text": "Robin",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a2092d4513774524",
+      "_key": "!tables.results!a53500c8d6a81ecc.a2092d4513774524",
+      "type": 0,
+      "text": "Rose",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "915ae000f2876c75",
+      "_key": "!tables.results!a53500c8d6a81ecc.915ae000f2876c75",
+      "type": 0,
+      "text": "Salt",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "91595a80a7333bd8",
+      "_key": "!tables.results!a53500c8d6a81ecc.91595a80a7333bd8",
+      "type": 0,
+      "text": "Seed",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b736e09ca5c93bbb",
+      "_key": "!tables.results!a53500c8d6a81ecc.b736e09ca5c93bbb",
+      "type": 0,
+      "text": "Sky",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8b98219882869761",
+      "_key": "!tables.results!a53500c8d6a81ecc.8b98219882869761",
+      "type": 0,
+      "text": "Snake",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3ef14abe82b33621",
+      "_key": "!tables.results!a53500c8d6a81ecc.3ef14abe82b33621",
+      "type": 0,
+      "text": "Snow",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bf07d01a7d6bf25a",
+      "_key": "!tables.results!a53500c8d6a81ecc.bf07d01a7d6bf25a",
+      "type": 0,
+      "text": "Sorrow",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02031f20adc56dbd",
+      "_key": "!tables.results!a53500c8d6a81ecc.02031f20adc56dbd",
+      "type": 0,
+      "text": "Spice",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be6c8bac5d9391f5",
+      "_key": "!tables.results!a53500c8d6a81ecc.be6c8bac5d9391f5",
+      "type": 0,
+      "text": "Spring",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "befdd78b7a311a57",
+      "_key": "!tables.results!a53500c8d6a81ecc.befdd78b7a311a57",
+      "type": 0,
+      "text": "Squirrel",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "daad07258569c89d",
+      "_key": "!tables.results!a53500c8d6a81ecc.daad07258569c89d",
+      "type": 0,
+      "text": "Star",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "418ba6a742bc4bd8",
+      "_key": "!tables.results!a53500c8d6a81ecc.418ba6a742bc4bd8",
+      "type": 0,
+      "text": "Summer",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6ffc86b559783b44",
+      "_key": "!tables.results!a53500c8d6a81ecc.6ffc86b559783b44",
+      "type": 0,
+      "text": "Sun",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "23b758480c15d873",
+      "_key": "!tables.results!a53500c8d6a81ecc.23b758480c15d873",
+      "type": 0,
+      "text": "Sword",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f79b20c9419d71c",
+      "_key": "!tables.results!a53500c8d6a81ecc.8f79b20c9419d71c",
+      "type": 0,
+      "text": "Thief",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2784c93f59d8dd1b",
+      "_key": "!tables.results!a53500c8d6a81ecc.2784c93f59d8dd1b",
+      "type": 0,
+      "text": "Thorn",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "01e5fddf44622ba1",
+      "_key": "!tables.results!a53500c8d6a81ecc.01e5fddf44622ba1",
+      "type": 0,
+      "text": "Thunder",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a81e710a30cd73eb",
+      "_key": "!tables.results!a53500c8d6a81ecc.a81e710a30cd73eb",
+      "type": 0,
+      "text": "Toad",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "01c72e68c6c289fa",
+      "_key": "!tables.results!a53500c8d6a81ecc.01c72e68c6c289fa",
+      "type": 0,
+      "text": "Tournament",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "516d2a49a06adc3b",
+      "_key": "!tables.results!a53500c8d6a81ecc.516d2a49a06adc3b",
+      "type": 0,
+      "text": "Tulip",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "07704dc9826752eb",
+      "_key": "!tables.results!a53500c8d6a81ecc.07704dc9826752eb",
+      "type": 0,
+      "text": "Violet",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "76d52ce2a2dd136e",
+      "_key": "!tables.results!a53500c8d6a81ecc.76d52ce2a2dd136e",
+      "type": 0,
+      "text": "Warrior",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ec86a44429494e4",
+      "_key": "!tables.results!a53500c8d6a81ecc.4ec86a44429494e4",
+      "type": 0,
+      "text": "Water",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e0fa342d79271e66",
+      "_key": "!tables.results!a53500c8d6a81ecc.e0fa342d79271e66",
+      "type": 0,
+      "text": "Wind",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "334b46ea725a698b",
+      "_key": "!tables.results!a53500c8d6a81ecc.334b46ea725a698b",
+      "type": 0,
+      "text": "Winter",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "de79108173d41002",
+      "_key": "!tables.results!a53500c8d6a81ecc.de79108173d41002",
+      "type": 0,
+      "text": "Witch",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2710656ea2d2cf6f",
+      "_key": "!tables.results!a53500c8d6a81ecc.2710656ea2d2cf6f",
+      "type": 0,
+      "text": "Wolf",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6cbdd5760c76c6ca",
+      "_key": "!tables.results!a53500c8d6a81ecc.6cbdd5760c76c6ca",
+      "type": 0,
+      "text": "Wyvern",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

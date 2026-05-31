@@ -1,0 +1,299 @@
+{
+  "_id": "fd9e346223639432",
+  "_key": "!tables!fd9e346223639432",
+  "name": "Village Point of Interest",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "df9cf3df3d08a06e",
+      "_key": "!tables.results!fd9e346223639432.df9cf3df3d08a06e",
+      "type": 0,
+      "text": "Abandoned building",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "898e3e6ecf0e6a7d",
+      "_key": "!tables.results!fd9e346223639432.898e3e6ecf0e6a7d",
+      "type": 0,
+      "text": "Apothecary",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "77bf141937a615f0",
+      "_key": "!tables.results!fd9e346223639432.77bf141937a615f0",
+      "type": 0,
+      "text": "Bakery",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b5ba4e97ad0e76ae",
+      "_key": "!tables.results!fd9e346223639432.b5ba4e97ad0e76ae",
+      "type": 0,
+      "text": "Burnt/Ruined building",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a977ba501a3095b7",
+      "_key": "!tables.results!fd9e346223639432.a977ba501a3095b7",
+      "type": 0,
+      "text": "Butcher",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e03d5a70456848c5",
+      "_key": "!tables.results!fd9e346223639432.e03d5a70456848c5",
+      "type": 0,
+      "text": "Castle-farm",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f32664a838b935b6",
+      "_key": "!tables.results!fd9e346223639432.f32664a838b935b6",
+      "type": 0,
+      "text": "Church",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e871794e7b5b3c9a",
+      "_key": "!tables.results!fd9e346223639432.e871794e7b5b3c9a",
+      "type": 0,
+      "text": "Famous person’s house",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9dcf4fd653971988",
+      "_key": "!tables.results!fd9e346223639432.9dcf4fd653971988",
+      "type": 0,
+      "text": "General store",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b732a10a5fb994f5",
+      "_key": "!tables.results!fd9e346223639432.b732a10a5fb994f5",
+      "type": 0,
+      "text": "Graveyard",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6cdde12fd4dbcfd3",
+      "_key": "!tables.results!fd9e346223639432.6cdde12fd4dbcfd3",
+      "type": 0,
+      "text": "Guard post",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3d3735b511f143c",
+      "_key": "!tables.results!fd9e346223639432.b3d3735b511f143c",
+      "type": 0,
+      "text": "Guildhouse",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1fe917522b84bdc4",
+      "_key": "!tables.results!fd9e346223639432.1fe917522b84bdc4",
+      "type": 0,
+      "text": "Gypsy wagon",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "72ab26b157f1a8ca",
+      "_key": "!tables.results!fd9e346223639432.72ab26b157f1a8ca",
+      "type": 0,
+      "text": "Horse stables",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d0948bdac7423980",
+      "_key": "!tables.results!fd9e346223639432.d0948bdac7423980",
+      "type": 0,
+      "text": "Library",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d7ef587d585ad74a",
+      "_key": "!tables.results!fd9e346223639432.d7ef587d585ad74a",
+      "type": 0,
+      "text": "Mill",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f152b18472e63e10",
+      "_key": "!tables.results!fd9e346223639432.f152b18472e63e10",
+      "type": 0,
+      "text": "Monument/Memorial",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2b14b66cf9b690b2",
+      "_key": "!tables.results!fd9e346223639432.2b14b66cf9b690b2",
+      "type": 0,
+      "text": "Orchard",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b099dcb11926082",
+      "_key": "!tables.results!fd9e346223639432.5b099dcb11926082",
+      "type": 0,
+      "text": "School",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d19",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

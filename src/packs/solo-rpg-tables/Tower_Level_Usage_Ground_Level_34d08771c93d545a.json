@@ -1,0 +1,134 @@
+{
+  "_id": "34d08771c93d545a",
+  "_key": "!tables!34d08771c93d545a",
+  "name": "Tower Level Usage Ground Level",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "4d96b0a5957e1686",
+      "_key": "!tables.results!34d08771c93d545a.4d96b0a5957e1686",
+      "type": 0,
+      "text": "Empty and dusty",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "953cd456f962cb0d",
+      "_key": "!tables.results!34d08771c93d545a.953cd456f962cb0d",
+      "type": 0,
+      "text": "Fortified room",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1efb0abe75c41e43",
+      "_key": "!tables.results!34d08771c93d545a.1efb0abe75c41e43",
+      "type": 0,
+      "text": "Hallway",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c16cacf1976fe028",
+      "_key": "!tables.results!34d08771c93d545a.c16cacf1976fe028",
+      "type": 0,
+      "text": "Reception desk",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "134c479357ca7fdd",
+      "_key": "!tables.results!34d08771c93d545a.134c479357ca7fdd",
+      "type": 0,
+      "text": "Ruined room",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ff538143825848ab",
+      "_key": "!tables.results!34d08771c93d545a.ff538143825848ab",
+      "type": 0,
+      "text": "Shop/Tavern",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "918a2d013c20d7af",
+      "_key": "!tables.results!34d08771c93d545a.918a2d013c20d7af",
+      "type": 0,
+      "text": "Trapped room",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "77720b75cf0409e4",
+      "_key": "!tables.results!34d08771c93d545a.77720b75cf0409e4",
+      "type": 0,
+      "text": "Unloading room",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,314 @@
+{
+  "_id": "c564b2bbbe38ed84",
+  "_key": "!tables!c564b2bbbe38ed84",
+  "name": "Relic types",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "c8c435d3b48a1164",
+      "_key": "!tables.results!c564b2bbbe38ed84.c8c435d3b48a1164",
+      "type": 0,
+      "text": "Arm",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "214dd031a247a393",
+      "_key": "!tables.results!c564b2bbbe38ed84.214dd031a247a393",
+      "type": 0,
+      "text": "Blood",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b92a8871b9d7d739",
+      "_key": "!tables.results!c564b2bbbe38ed84.b92a8871b9d7d739",
+      "type": 0,
+      "text": "Bones (vertebra, phalanx)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "911d5995177ed997",
+      "_key": "!tables.results!c564b2bbbe38ed84.911d5995177ed997",
+      "type": 0,
+      "text": "Eye",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6c62e52ca966bd1d",
+      "_key": "!tables.results!c564b2bbbe38ed84.6c62e52ca966bd1d",
+      "type": 0,
+      "text": "Flesh",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b558d91bba0adfc8",
+      "_key": "!tables.results!c564b2bbbe38ed84.b558d91bba0adfc8",
+      "type": 0,
+      "text": "Head",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ad137dd29c57d35f",
+      "_key": "!tables.results!c564b2bbbe38ed84.ad137dd29c57d35f",
+      "type": 0,
+      "text": "Heart",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "af2efacfb439e976",
+      "_key": "!tables.results!c564b2bbbe38ed84.af2efacfb439e976",
+      "type": 0,
+      "text": "Item that killed the saint",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3974089132f0ec17",
+      "_key": "!tables.results!c564b2bbbe38ed84.3974089132f0ec17",
+      "type": 0,
+      "text": "Leg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e256f33bb29c4f47",
+      "_key": "!tables.results!c564b2bbbe38ed84.e256f33bb29c4f47",
+      "type": 0,
+      "text": "Piece of clothing",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bb11813bd0243d8f",
+      "_key": "!tables.results!c564b2bbbe38ed84.bb11813bd0243d8f",
+      "type": 0,
+      "text": "Prayer book",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0604e37187d4e1fd",
+      "_key": "!tables.results!c564b2bbbe38ed84.0604e37187d4e1fd",
+      "type": 0,
+      "text": "Religious symbol",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9b95c22ce49191ba",
+      "_key": "!tables.results!c564b2bbbe38ed84.9b95c22ce49191ba",
+      "type": 0,
+      "text": "Ring",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d2d92575b2d36c5d",
+      "_key": "!tables.results!c564b2bbbe38ed84.d2d92575b2d36c5d",
+      "type": 0,
+      "text": "Sandals",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ec638c0e2aa7dc40",
+      "_key": "!tables.results!c564b2bbbe38ed84.ec638c0e2aa7dc40",
+      "type": 0,
+      "text": "Scalp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7277b1d0144de9ae",
+      "_key": "!tables.results!c564b2bbbe38ed84.7277b1d0144de9ae",
+      "type": 0,
+      "text": "Shroud",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "36a4469cd2ce196e",
+      "_key": "!tables.results!c564b2bbbe38ed84.36a4469cd2ce196e",
+      "type": 0,
+      "text": "Skin",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ad90a544e95c098",
+      "_key": "!tables.results!c564b2bbbe38ed84.2ad90a544e95c098",
+      "type": 0,
+      "text": "Tongue",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8d15324ee9b74c85",
+      "_key": "!tables.results!c564b2bbbe38ed84.8d15324ee9b74c85",
+      "type": 0,
+      "text": "Tooth",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "290aa79401a1d72d",
+      "_key": "!tables.results!c564b2bbbe38ed84.290aa79401a1d72d",
+      "type": 0,
+      "text": "Walking stick",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

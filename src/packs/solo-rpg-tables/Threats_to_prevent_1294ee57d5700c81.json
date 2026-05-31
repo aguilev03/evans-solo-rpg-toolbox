@@ -1,0 +1,104 @@
+{
+  "_id": "1294ee57d5700c81",
+  "_key": "!tables!1294ee57d5700c81",
+  "name": "Threats to prevent",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "5ba86704d0f332a2",
+      "_key": "!tables.results!1294ee57d5700c81.5ba86704d0f332a2",
+      "type": 0,
+      "text": "Evil ceremony",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b184a6a65a2bf65a",
+      "_key": "!tables.results!1294ee57d5700c81.b184a6a65a2bf65a",
+      "type": 0,
+      "text": "Flood",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "de6659350760e6d8",
+      "_key": "!tables.results!1294ee57d5700c81.de6659350760e6d8",
+      "type": 0,
+      "text": "Frenzied migratory animals",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84b15d9888debf9f",
+      "_key": "!tables.results!1294ee57d5700c81.84b15d9888debf9f",
+      "type": 0,
+      "text": "Magic corruption",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ffc0ddb5832ab06",
+      "_key": "!tables.results!1294ee57d5700c81.4ffc0ddb5832ab06",
+      "type": 0,
+      "text": "Plague",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "462eef8c516917db",
+      "_key": "!tables.results!1294ee57d5700c81.462eef8c516917db",
+      "type": 0,
+      "text": "Wildfire",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

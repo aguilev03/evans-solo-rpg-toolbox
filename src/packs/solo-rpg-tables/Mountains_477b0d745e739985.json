@@ -1,0 +1,179 @@
+{
+  "_id": "477b0d745e739985",
+  "_key": "!tables!477b0d745e739985",
+  "name": "Mountains",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "82b29361f0a6fe76",
+      "_key": "!tables.results!477b0d745e739985.82b29361f0a6fe76",
+      "type": 0,
+      "text": "Giants",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "705b36630d6b3f0e",
+      "_key": "!tables.results!477b0d745e739985.705b36630d6b3f0e",
+      "type": 0,
+      "text": "Griffins",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5167f29ac763fdb3",
+      "_key": "!tables.results!477b0d745e739985.5167f29ac763fdb3",
+      "type": 0,
+      "text": "Dwarves",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "262a03af0d1a7d1a",
+      "_key": "!tables.results!477b0d745e739985.262a03af0d1a7d1a",
+      "type": 0,
+      "text": "Kobolds",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6767d5914e3f8807",
+      "_key": "!tables.results!477b0d745e739985.6767d5914e3f8807",
+      "type": 0,
+      "text": "Orcs",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb18f0c003d75a7f",
+      "_key": "!tables.results!477b0d745e739985.eb18f0c003d75a7f",
+      "type": 0,
+      "text": "Bears",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4aae7f42b2d65ce7",
+      "_key": "!tables.results!477b0d745e739985.4aae7f42b2d65ce7",
+      "type": 0,
+      "text": "Wolves",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7883157ec44f9161",
+      "_key": "!tables.results!477b0d745e739985.7883157ec44f9161",
+      "type": 0,
+      "text": "Bandits",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "49e04a4722016336",
+      "_key": "!tables.results!477b0d745e739985.49e04a4722016336",
+      "type": 0,
+      "text": "Berserkers",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "95b87f6b3f8f0879",
+      "_key": "!tables.results!477b0d745e739985.95b87f6b3f8f0879",
+      "type": 0,
+      "text": "Smilodons",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0f4317263f0c7eec",
+      "_key": "!tables.results!477b0d745e739985.0f4317263f0c7eec",
+      "type": 0,
+      "text": "Vampires",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "4895ee3b8e827a5c",
+  "flags": {}
+}

@@ -1,0 +1,1514 @@
+{
+  "_id": "d20dbd537771d658",
+  "_key": "!tables!d20dbd537771d658",
+  "name": "Meaning Tables Action 1",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Meaning Tables Actions 1",
+  "results": [
+    {
+      "_id": "b25b205cacaf0655",
+      "_key": "!tables.results!d20dbd537771d658.b25b205cacaf0655",
+      "type": 0,
+      "text": "Attainment",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "24c1c7c09487473b",
+      "_key": "!tables.results!d20dbd537771d658.24c1c7c09487473b",
+      "type": 0,
+      "text": "Starting",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17ea218f1ffe69b3",
+      "_key": "!tables.results!d20dbd537771d658.17ea218f1ffe69b3",
+      "type": 0,
+      "text": "Neglect",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a89a0c9e94fb4cf",
+      "_key": "!tables.results!d20dbd537771d658.1a89a0c9e94fb4cf",
+      "type": 0,
+      "text": "Fight",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d137d52e4006aad6",
+      "_key": "!tables.results!d20dbd537771d658.d137d52e4006aad6",
+      "type": 0,
+      "text": "Recruit",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1c8bb50ddcd99bfd",
+      "_key": "!tables.results!d20dbd537771d658.1c8bb50ddcd99bfd",
+      "type": 0,
+      "text": "Triumph",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8bfbc9e135b69570",
+      "_key": "!tables.results!d20dbd537771d658.8bfbc9e135b69570",
+      "type": 0,
+      "text": "Violate",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fd613fc2de1cf662",
+      "_key": "!tables.results!d20dbd537771d658.fd613fc2de1cf662",
+      "type": 0,
+      "text": "Oppose",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "249d75dd1d00936e",
+      "_key": "!tables.results!d20dbd537771d658.249d75dd1d00936e",
+      "type": 0,
+      "text": "Malice",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4a24a36d92b14fd0",
+      "_key": "!tables.results!d20dbd537771d658.4a24a36d92b14fd0",
+      "type": 0,
+      "text": "Communicate",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a397c1094e33a28f",
+      "_key": "!tables.results!d20dbd537771d658.a397c1094e33a28f",
+      "type": 0,
+      "text": "Persecute",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2f13c99ee30b34e5",
+      "_key": "!tables.results!d20dbd537771d658.2f13c99ee30b34e5",
+      "type": 0,
+      "text": "Increase",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "daa5d47c764a01e0",
+      "_key": "!tables.results!d20dbd537771d658.daa5d47c764a01e0",
+      "type": 0,
+      "text": "Decrease",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "707e43294d1b9400",
+      "_key": "!tables.results!d20dbd537771d658.707e43294d1b9400",
+      "type": 0,
+      "text": "Abandon",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6c58708fb0905b62",
+      "_key": "!tables.results!d20dbd537771d658.6c58708fb0905b62",
+      "type": 0,
+      "text": "Gratify",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "edb1de638eaa14ee",
+      "_key": "!tables.results!d20dbd537771d658.edb1de638eaa14ee",
+      "type": 0,
+      "text": "Inquire",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f469b114919ed23",
+      "_key": "!tables.results!d20dbd537771d658.8f469b114919ed23",
+      "type": 0,
+      "text": "Antagonize",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3bc814c00e6a93fe",
+      "_key": "!tables.results!d20dbd537771d658.3bc814c00e6a93fe",
+      "type": 0,
+      "text": "Move",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "71d509afcf385898",
+      "_key": "!tables.results!d20dbd537771d658.71d509afcf385898",
+      "type": 0,
+      "text": "Waste",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8b509195fc85935d",
+      "_key": "!tables.results!d20dbd537771d658.8b509195fc85935d",
+      "type": 0,
+      "text": "Truce",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "805662eebf080df9",
+      "_key": "!tables.results!d20dbd537771d658.805662eebf080df9",
+      "type": 0,
+      "text": "Release",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c7245a3148ebc6fd",
+      "_key": "!tables.results!d20dbd537771d658.c7245a3148ebc6fd",
+      "type": 0,
+      "text": "Befriend",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "082ffca3905afb50",
+      "_key": "!tables.results!d20dbd537771d658.082ffca3905afb50",
+      "type": 0,
+      "text": "Judge",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2a36af337dbe57a7",
+      "_key": "!tables.results!d20dbd537771d658.2a36af337dbe57a7",
+      "type": 0,
+      "text": "Desert",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f6092f1c0014b55e",
+      "_key": "!tables.results!d20dbd537771d658.f6092f1c0014b55e",
+      "type": 0,
+      "text": "Dominate",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b7b56e67cc3abc9",
+      "_key": "!tables.results!d20dbd537771d658.5b7b56e67cc3abc9",
+      "type": 0,
+      "text": "Procrastinate",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e88a0508eb8ef97e",
+      "_key": "!tables.results!d20dbd537771d658.e88a0508eb8ef97e",
+      "type": 0,
+      "text": "Praise",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "118ad1ce7c4efd8d",
+      "_key": "!tables.results!d20dbd537771d658.118ad1ce7c4efd8d",
+      "type": 0,
+      "text": "Separate",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "93d51f1889e833c6",
+      "_key": "!tables.results!d20dbd537771d658.93d51f1889e833c6",
+      "type": 0,
+      "text": "Take",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "70145617d083802d",
+      "_key": "!tables.results!d20dbd537771d658.70145617d083802d",
+      "type": 0,
+      "text": "Break",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a28af3d8b1d9c9d",
+      "_key": "!tables.results!d20dbd537771d658.9a28af3d8b1d9c9d",
+      "type": 0,
+      "text": "Heal",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a97769b39ce9641",
+      "_key": "!tables.results!d20dbd537771d658.8a97769b39ce9641",
+      "type": 0,
+      "text": "Delay",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c47d862bf50b7b95",
+      "_key": "!tables.results!d20dbd537771d658.c47d862bf50b7b95",
+      "type": 0,
+      "text": "Stop",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aafda8e8af1aac10",
+      "_key": "!tables.results!d20dbd537771d658.aafda8e8af1aac10",
+      "type": 0,
+      "text": "Lie",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "efe5bb926e31c264",
+      "_key": "!tables.results!d20dbd537771d658.efe5bb926e31c264",
+      "type": 0,
+      "text": "Return",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "78432bc9f7ba25f1",
+      "_key": "!tables.results!d20dbd537771d658.78432bc9f7ba25f1",
+      "type": 0,
+      "text": "Imitate",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "909995035b458d25",
+      "_key": "!tables.results!d20dbd537771d658.909995035b458d25",
+      "type": 0,
+      "text": "Struggle",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bf66097970dea30a",
+      "_key": "!tables.results!d20dbd537771d658.bf66097970dea30a",
+      "type": 0,
+      "text": "Inform",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bb88577beafba4b9",
+      "_key": "!tables.results!d20dbd537771d658.bb88577beafba4b9",
+      "type": 0,
+      "text": "Bestow",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62f465c33169f29c",
+      "_key": "!tables.results!d20dbd537771d658.62f465c33169f29c",
+      "type": 0,
+      "text": "Postpone",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0adba0516e5159cd",
+      "_key": "!tables.results!d20dbd537771d658.0adba0516e5159cd",
+      "type": 0,
+      "text": "Expose",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be8bcaaebef747a7",
+      "_key": "!tables.results!d20dbd537771d658.be8bcaaebef747a7",
+      "type": 0,
+      "text": "Haggle",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7519f1022ce6e9b9",
+      "_key": "!tables.results!d20dbd537771d658.7519f1022ce6e9b9",
+      "type": 0,
+      "text": "Imprison",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cead6a2a567ed261",
+      "_key": "!tables.results!d20dbd537771d658.cead6a2a567ed261",
+      "type": 0,
+      "text": "Release",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "09f208d3246afb7d",
+      "_key": "!tables.results!d20dbd537771d658.09f208d3246afb7d",
+      "type": 0,
+      "text": "Celebrate",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fc02031b543d1395",
+      "_key": "!tables.results!d20dbd537771d658.fc02031b543d1395",
+      "type": 0,
+      "text": "Develop",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ee5a55f34662c588",
+      "_key": "!tables.results!d20dbd537771d658.ee5a55f34662c588",
+      "type": 0,
+      "text": "Travel",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "616344c52b4db93f",
+      "_key": "!tables.results!d20dbd537771d658.616344c52b4db93f",
+      "type": 0,
+      "text": "Block",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cefcfc4971ee7688",
+      "_key": "!tables.results!d20dbd537771d658.cefcfc4971ee7688",
+      "type": 0,
+      "text": "Harm",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3d55560ae451892",
+      "_key": "!tables.results!d20dbd537771d658.f3d55560ae451892",
+      "type": 0,
+      "text": "Debase",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cb2e6dfd09914acf",
+      "_key": "!tables.results!d20dbd537771d658.cb2e6dfd09914acf",
+      "type": 0,
+      "text": "Overindulge",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17f11dc66d63de1a",
+      "_key": "!tables.results!d20dbd537771d658.17f11dc66d63de1a",
+      "type": 0,
+      "text": "Adjourn",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "09c5c96a7b2a13f8",
+      "_key": "!tables.results!d20dbd537771d658.09c5c96a7b2a13f8",
+      "type": 0,
+      "text": "Adversity",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "811e818ee0618035",
+      "_key": "!tables.results!d20dbd537771d658.811e818ee0618035",
+      "type": 0,
+      "text": "Kill",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "78a4bc02d5efb83c",
+      "_key": "!tables.results!d20dbd537771d658.78a4bc02d5efb83c",
+      "type": 0,
+      "text": "Disrupt",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a9ea25a400421576",
+      "_key": "!tables.results!d20dbd537771d658.a9ea25a400421576",
+      "type": 0,
+      "text": "Usurp",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "74537b923f81b7fe",
+      "_key": "!tables.results!d20dbd537771d658.74537b923f81b7fe",
+      "type": 0,
+      "text": "Create",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "adee399d358eb9a3",
+      "_key": "!tables.results!d20dbd537771d658.adee399d358eb9a3",
+      "type": 0,
+      "text": "Betray",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a291222155df66e5",
+      "_key": "!tables.results!d20dbd537771d658.a291222155df66e5",
+      "type": 0,
+      "text": "Agree",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "90b04cb692cf1da6",
+      "_key": "!tables.results!d20dbd537771d658.90b04cb692cf1da6",
+      "type": 0,
+      "text": "Abuse",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9b6cd7d5e6555df0",
+      "_key": "!tables.results!d20dbd537771d658.9b6cd7d5e6555df0",
+      "type": 0,
+      "text": "Oppress",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6aa60e2687ed80ac",
+      "_key": "!tables.results!d20dbd537771d658.6aa60e2687ed80ac",
+      "type": 0,
+      "text": "Inspect",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "904e5137a94e143e",
+      "_key": "!tables.results!d20dbd537771d658.904e5137a94e143e",
+      "type": 0,
+      "text": "Ambush",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d636a93efb48a1f0",
+      "_key": "!tables.results!d20dbd537771d658.d636a93efb48a1f0",
+      "type": 0,
+      "text": "Spy",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "35dbec18c37a6316",
+      "_key": "!tables.results!d20dbd537771d658.35dbec18c37a6316",
+      "type": 0,
+      "text": "Attach",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be75886f15f7c67d",
+      "_key": "!tables.results!d20dbd537771d658.be75886f15f7c67d",
+      "type": 0,
+      "text": "Carry",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b71e3a12d6fe2cbc",
+      "_key": "!tables.results!d20dbd537771d658.b71e3a12d6fe2cbc",
+      "type": 0,
+      "text": "Open",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d4ec23dd6bd8f772",
+      "_key": "!tables.results!d20dbd537771d658.d4ec23dd6bd8f772",
+      "type": 0,
+      "text": "Carelessness",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "08b198ad0221ce23",
+      "_key": "!tables.results!d20dbd537771d658.08b198ad0221ce23",
+      "type": 0,
+      "text": "Ruin",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ec60feccd164966",
+      "_key": "!tables.results!d20dbd537771d658.8ec60feccd164966",
+      "type": 0,
+      "text": "Extravagance",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ecafcd72014cbafa",
+      "_key": "!tables.results!d20dbd537771d658.ecafcd72014cbafa",
+      "type": 0,
+      "text": "Trick",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "93194e69afcfa387",
+      "_key": "!tables.results!d20dbd537771d658.93194e69afcfa387",
+      "type": 0,
+      "text": "Arrive",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "15ecc6120194020d",
+      "_key": "!tables.results!d20dbd537771d658.15ecc6120194020d",
+      "type": 0,
+      "text": "Propose",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d2f36b01df80d322",
+      "_key": "!tables.results!d20dbd537771d658.d2f36b01df80d322",
+      "type": 0,
+      "text": "Divide",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "514a855d032f378a",
+      "_key": "!tables.results!d20dbd537771d658.514a855d032f378a",
+      "type": 0,
+      "text": "Refuse",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "98b6f12d7f4258d0",
+      "_key": "!tables.results!d20dbd537771d658.98b6f12d7f4258d0",
+      "type": 0,
+      "text": "Mistrust",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2363588a534327eb",
+      "_key": "!tables.results!d20dbd537771d658.2363588a534327eb",
+      "type": 0,
+      "text": "Deceive",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be7b4c118abe99b0",
+      "_key": "!tables.results!d20dbd537771d658.be7b4c118abe99b0",
+      "type": 0,
+      "text": "Cruelty",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2974c082fac9cf5c",
+      "_key": "!tables.results!d20dbd537771d658.2974c082fac9cf5c",
+      "type": 0,
+      "text": "Intolerance",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c30ee0393adb13f9",
+      "_key": "!tables.results!d20dbd537771d658.c30ee0393adb13f9",
+      "type": 0,
+      "text": "Trust",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0a9e0dfea9187fcc",
+      "_key": "!tables.results!d20dbd537771d658.0a9e0dfea9187fcc",
+      "type": 0,
+      "text": "Excitement",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a025fcc19f31310a",
+      "_key": "!tables.results!d20dbd537771d658.a025fcc19f31310a",
+      "type": 0,
+      "text": "Activity",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a8021f2cc5e3ec36",
+      "_key": "!tables.results!d20dbd537771d658.a8021f2cc5e3ec36",
+      "type": 0,
+      "text": "Assist",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f821b0641d57e87c",
+      "_key": "!tables.results!d20dbd537771d658.f821b0641d57e87c",
+      "type": 0,
+      "text": "Care",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "43e52a8cdc7fb908",
+      "_key": "!tables.results!d20dbd537771d658.43e52a8cdc7fb908",
+      "type": 0,
+      "text": "Negligence",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d75079ae3573f7b",
+      "_key": "!tables.results!d20dbd537771d658.9d75079ae3573f7b",
+      "type": 0,
+      "text": "Passion",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d1166f50a74eca8f",
+      "_key": "!tables.results!d20dbd537771d658.d1166f50a74eca8f",
+      "type": 0,
+      "text": "Work",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "50ce0a2fcc63eb04",
+      "_key": "!tables.results!d20dbd537771d658.50ce0a2fcc63eb04",
+      "type": 0,
+      "text": "Control",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e015126196a3bcd8",
+      "_key": "!tables.results!d20dbd537771d658.e015126196a3bcd8",
+      "type": 0,
+      "text": "Attract",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "232cecf85e1c6d8b",
+      "_key": "!tables.results!d20dbd537771d658.232cecf85e1c6d8b",
+      "type": 0,
+      "text": "Failure",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a3ed0159e8c71a2d",
+      "_key": "!tables.results!d20dbd537771d658.a3ed0159e8c71a2d",
+      "type": 0,
+      "text": "Pursue",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d51cd86c9840157",
+      "_key": "!tables.results!d20dbd537771d658.9d51cd86c9840157",
+      "type": 0,
+      "text": "Vengeance",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2deba34f1ae23913",
+      "_key": "!tables.results!d20dbd537771d658.2deba34f1ae23913",
+      "type": 0,
+      "text": "Proceedings",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d050b27122737f7c",
+      "_key": "!tables.results!d20dbd537771d658.d050b27122737f7c",
+      "type": 0,
+      "text": "Dispute",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d7a26b7d2264da53",
+      "_key": "!tables.results!d20dbd537771d658.d7a26b7d2264da53",
+      "type": 0,
+      "text": "Punish",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ee99fc438371cb31",
+      "_key": "!tables.results!d20dbd537771d658.ee99fc438371cb31",
+      "type": 0,
+      "text": "Guide",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ef64a551ea193115",
+      "_key": "!tables.results!d20dbd537771d658.ef64a551ea193115",
+      "type": 0,
+      "text": "Transform",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13f327747533ac20",
+      "_key": "!tables.results!d20dbd537771d658.13f327747533ac20",
+      "type": 0,
+      "text": "Overthrow",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8d430ba2dad9b7ef",
+      "_key": "!tables.results!d20dbd537771d658.8d430ba2dad9b7ef",
+      "type": 0,
+      "text": "Oppress",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a798bfedbd329323",
+      "_key": "!tables.results!d20dbd537771d658.a798bfedbd329323",
+      "type": 0,
+      "text": "Change",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ea1602b5c5be5ea6",
+  "flags": {}
+}

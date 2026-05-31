@@ -1,0 +1,179 @@
+{
+  "_id": "f6f6562752a339af",
+  "_key": "!tables!f6f6562752a339af",
+  "name": "Tower Details",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "aea96099207e8370",
+      "_key": "!tables.results!f6f6562752a339af.aea96099207e8370",
+      "type": 0,
+      "text": "Nothing",
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "872410f1d602b6d2",
+      "_key": "!tables.results!f6f6562752a339af.872410f1d602b6d2",
+      "type": 0,
+      "text": "Balcony",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8d22ba9831396c2c",
+      "_key": "!tables.results!f6f6562752a339af.8d22ba9831396c2c",
+      "type": 0,
+      "text": "Banners",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "da0276d831f8d904",
+      "_key": "!tables.results!f6f6562752a339af.da0276d831f8d904",
+      "type": 0,
+      "text": "Battlements",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5afc275b3089deb6",
+      "_key": "!tables.results!f6f6562752a339af.5afc275b3089deb6",
+      "type": 0,
+      "text": "Climbing plants",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "46e1994ebada287b",
+      "_key": "!tables.results!f6f6562752a339af.46e1994ebada287b",
+      "type": 0,
+      "text": "Flags",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f52c8776daa7c866",
+      "_key": "!tables.results!f6f6562752a339af.f52c8776daa7c866",
+      "type": 0,
+      "text": "Moldings",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "767f5ee605faf82a",
+      "_key": "!tables.results!f6f6562752a339af.767f5ee605faf82a",
+      "type": 0,
+      "text": "Porch",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "73c80a0c1457aa8e",
+      "_key": "!tables.results!f6f6562752a339af.73c80a0c1457aa8e",
+      "type": 0,
+      "text": "Stained glass",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "34e4ddf46b527d70",
+      "_key": "!tables.results!f6f6562752a339af.34e4ddf46b527d70",
+      "type": 0,
+      "text": "Statues/Gargoyles",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c31315a807fd1e04",
+      "_key": "!tables.results!f6f6562752a339af.c31315a807fd1e04",
+      "type": 0,
+      "text": "Turrets",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,194 @@
+{
+  "_id": "bbedba8dee079a64",
+  "_key": "!tables!bbedba8dee079a64",
+  "name": "Tower Level Usage Above ground levels",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "54aba4736a9f7637",
+      "_key": "!tables.results!bbedba8dee079a64.54aba4736a9f7637",
+      "type": 0,
+      "text": "Abandoned/Cursed level",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e0d77d3392baf61",
+      "_key": "!tables.results!bbedba8dee079a64.1e0d77d3392baf61",
+      "type": 0,
+      "text": "Archives",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ce7301c0e5cde16",
+      "_key": "!tables.results!bbedba8dee079a64.2ce7301c0e5cde16",
+      "type": 0,
+      "text": "Armory",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "30087bf1977f4fb9",
+      "_key": "!tables.results!bbedba8dee079a64.30087bf1977f4fb9",
+      "type": 0,
+      "text": "Bedroom(s)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be6d059995455bb4",
+      "_key": "!tables.results!bbedba8dee079a64.be6d059995455bb4",
+      "type": 0,
+      "text": "Kitchen and dining room",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "398a3c3932c5463f",
+      "_key": "!tables.results!bbedba8dee079a64.398a3c3932c5463f",
+      "type": 0,
+      "text": "Laboratory",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d306300193a6dbe7",
+      "_key": "!tables.results!bbedba8dee079a64.d306300193a6dbe7",
+      "type": 0,
+      "text": "Library",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "af46bb066ff513ae",
+      "_key": "!tables.results!bbedba8dee079a64.af46bb066ff513ae",
+      "type": 0,
+      "text": "Meeting room",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "07c4e6d2e5edaf0b",
+      "_key": "!tables.results!bbedba8dee079a64.07c4e6d2e5edaf0b",
+      "type": 0,
+      "text": "Museum",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c11d51099d09aeab",
+      "_key": "!tables.results!bbedba8dee079a64.c11d51099d09aeab",
+      "type": 0,
+      "text": "Music room/Art room",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2f4e84fe357c764e",
+      "_key": "!tables.results!bbedba8dee079a64.2f4e84fe357c764e",
+      "type": 0,
+      "text": "Office/Study",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ef9bd77bde05154",
+      "_key": "!tables.results!bbedba8dee079a64.8ef9bd77bde05154",
+      "type": 0,
+      "text": "Storage room",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

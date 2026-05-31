@@ -1,0 +1,104 @@
+{
+  "_id": "11137ff26941964a",
+  "_key": "!tables!11137ff26941964a",
+  "name": "Artificial Landmarks",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "c4297f1d84e9c31a",
+      "_key": "!tables.results!11137ff26941964a.c4297f1d84e9c31a",
+      "type": 0,
+      "text": "Labor",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "876326abba5717d1",
+      "_key": "!tables.results!11137ff26941964a.876326abba5717d1",
+      "type": 0,
+      "text": "Mystery",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e994708fc55a497b",
+      "_key": "!tables.results!11137ff26941964a.e994708fc55a497b",
+      "type": 0,
+      "text": "Ruin",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1566d3951ec36862",
+      "_key": "!tables.results!11137ff26941964a.1566d3951ec36862",
+      "type": 0,
+      "text": "Small structure",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "727aead438a28a4f",
+      "_key": "!tables.results!11137ff26941964a.727aead438a28a4f",
+      "type": 0,
+      "text": "Travel",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a73f42c95af2f8a6",
+      "_key": "!tables.results!11137ff26941964a.a73f42c95af2f8a6",
+      "type": 0,
+      "text": "Worship",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

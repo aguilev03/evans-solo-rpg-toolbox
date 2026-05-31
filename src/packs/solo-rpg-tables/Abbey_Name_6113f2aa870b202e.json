@@ -1,0 +1,224 @@
+{
+  "_id": "6113f2aa870b202e",
+  "_key": "!tables!6113f2aa870b202e",
+  "name": "Abbey Name",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "4177cf7881af4074",
+      "_key": "!tables.results!6113f2aa870b202e.4177cf7881af4074",
+      "type": 0,
+      "text": "Blessed-Land",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fdb1f403adcffe8b",
+      "_key": "!tables.results!6113f2aa870b202e.fdb1f403adcffe8b",
+      "type": 0,
+      "text": "Clear-Water",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e9e33088d7eb3ca",
+      "_key": "!tables.results!6113f2aa870b202e.3e9e33088d7eb3ca",
+      "type": 0,
+      "text": "Fruitful-Garden",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b877657f1add162",
+      "_key": "!tables.results!6113f2aa870b202e.7b877657f1add162",
+      "type": 0,
+      "text": "Good-…",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "080d52e626c025b4",
+      "_key": "!tables.results!6113f2aa870b202e.080d52e626c025b4",
+      "type": 0,
+      "text": "1. Help",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "298951100df5701e",
+      "_key": "!tables.results!6113f2aa870b202e.298951100df5701e",
+      "type": 0,
+      "text": "2. Hope",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e5f15d8f1dc8c260",
+      "_key": "!tables.results!6113f2aa870b202e.e5f15d8f1dc8c260",
+      "type": 0,
+      "text": "3. Relief",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2f72da18187d2528",
+      "_key": "!tables.results!6113f2aa870b202e.2f72da18187d2528",
+      "type": 0,
+      "text": "Our-Lady-of-…",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53883f89644a97a4",
+      "_key": "!tables.results!6113f2aa870b202e.53883f89644a97a4",
+      "type": 0,
+      "text": "1. Chastity",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e1e1da53cce71c92",
+      "_key": "!tables.results!6113f2aa870b202e.e1e1da53cce71c92",
+      "type": 0,
+      "text": "2. Mercy",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "50203d90d231a029",
+      "_key": "!tables.results!6113f2aa870b202e.50203d90d231a029",
+      "type": 0,
+      "text": "3. the Poor",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e7b0099fd191ad5",
+      "_key": "!tables.results!6113f2aa870b202e.4e7b0099fd191ad5",
+      "type": 0,
+      "text": "Peaceful-Soul",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "236d0fada19ff42b",
+      "_key": "!tables.results!6113f2aa870b202e.236d0fada19ff42b",
+      "type": 0,
+      "text": "Sacred-Heart",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c512a300a925eae",
+      "_key": "!tables.results!6113f2aa870b202e.7c512a300a925eae",
+      "type": 0,
+      "text": "Saint-",
+      "weight": 1,
+      "range": [
+        8,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d11",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

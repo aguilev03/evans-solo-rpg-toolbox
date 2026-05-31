@@ -1,0 +1,104 @@
+{
+  "_id": "eef2bc3ed55814c0",
+  "_key": "!tables!eef2bc3ed55814c0",
+  "name": "Village Occupation",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "d3ee3151751f36be",
+      "_key": "!tables.results!eef2bc3ed55814c0.d3ee3151751f36be",
+      "type": 0,
+      "text": "Brewing (breweries) or Viticulture (vineyards)",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84b2ebdde7446011",
+      "_key": "!tables.results!eef2bc3ed55814c0.84b2ebdde7446011",
+      "type": 0,
+      "text": "Fishing (fisheries)",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "77416ce246c611f0",
+      "_key": "!tables.results!eef2bc3ed55814c0.77416ce246c611f0",
+      "type": 0,
+      "text": "Hunting (tanneries)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "184c17084aab9893",
+      "_key": "!tables.results!eef2bc3ed55814c0.184c17084aab9893",
+      "type": 0,
+      "text": "Logging (sawmills)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "007dd7dbed876dbb",
+      "_key": "!tables.results!eef2bc3ed55814c0.007dd7dbed876dbb",
+      "type": 0,
+      "text": "Mining (mines)",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "72773daccdf85d8c",
+      "_key": "!tables.results!eef2bc3ed55814c0.72773daccdf85d8c",
+      "type": 0,
+      "text": "Pottery (workshops)",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

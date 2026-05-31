@@ -1,0 +1,554 @@
+{
+  "_id": "736d9e54bcae4f94",
+  "_key": "!tables!736d9e54bcae4f94",
+  "name": "Sci-Fi Threats",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a sci-fi threat.",
+  "results": [
+    {
+      "_id": "06440580711a00ab",
+      "_key": "!tables.results!736d9e54bcae4f94.06440580711a00ab",
+      "type": 0,
+      "text": "Chemical fumes",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fa6ee94a54c34160",
+      "_key": "!tables.results!736d9e54bcae4f94.fa6ee94a54c34160",
+      "type": 0,
+      "text": "Rogue android",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0720e80d4e32a187",
+      "_key": "!tables.results!736d9e54bcae4f94.0720e80d4e32a187",
+      "type": 0,
+      "text": "Drone presence",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "56dd0fcdd94ee0c5",
+      "_key": "!tables.results!736d9e54bcae4f94.56dd0fcdd94ee0c5",
+      "type": 0,
+      "text": "Malfunctioning tech",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "99c7a14f1fe1632b",
+      "_key": "!tables.results!736d9e54bcae4f94.99c7a14f1fe1632b",
+      "type": 0,
+      "text": "Security turrets",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "31914ed305f3962b",
+      "_key": "!tables.results!736d9e54bcae4f94.31914ed305f3962b",
+      "type": 0,
+      "text": "Corporate police",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8d2fbae5238391e0",
+      "_key": "!tables.results!736d9e54bcae4f94.8d2fbae5238391e0",
+      "type": 0,
+      "text": "Drug addict",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "37263d3fe357cc15",
+      "_key": "!tables.results!736d9e54bcae4f94.37263d3fe357cc15",
+      "type": 0,
+      "text": "Blaring alarm",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e5ee026f5f4f5d9",
+      "_key": "!tables.results!736d9e54bcae4f94.5e5ee026f5f4f5d9",
+      "type": 0,
+      "text": "Scavenger",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5f5a7f79abaf4117",
+      "_key": "!tables.results!736d9e54bcae4f94.5f5a7f79abaf4117",
+      "type": 0,
+      "text": "Blackout",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "06ed03bba1d74ba0",
+      "_key": "!tables.results!736d9e54bcae4f94.06ed03bba1d74ba0",
+      "type": 0,
+      "text": "Neural hackers",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d289282ec88853d",
+      "_key": "!tables.results!736d9e54bcae4f94.0d289282ec88853d",
+      "type": 0,
+      "text": "Unknown entity",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc12a98a0568dadb",
+      "_key": "!tables.results!736d9e54bcae4f94.bc12a98a0568dadb",
+      "type": 0,
+      "text": "Scrambler signal",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8e94ffc49f78f471",
+      "_key": "!tables.results!736d9e54bcae4f94.8e94ffc49f78f471",
+      "type": 0,
+      "text": "Military presence",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "abac414bbc93c9d4",
+      "_key": "!tables.results!736d9e54bcae4f94.abac414bbc93c9d4",
+      "type": 0,
+      "text": "Toxic rain",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0a5cccd978988f72",
+      "_key": "!tables.results!736d9e54bcae4f94.0a5cccd978988f72",
+      "type": 0,
+      "text": "Tracer signal",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "165741ad66b54ba9",
+      "_key": "!tables.results!736d9e54bcae4f94.165741ad66b54ba9",
+      "type": 0,
+      "text": "Active firefight",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "235bb9fa76725f5e",
+      "_key": "!tables.results!736d9e54bcae4f94.235bb9fa76725f5e",
+      "type": 0,
+      "text": "Industrial pollution",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c9c139efe5f37a3",
+      "_key": "!tables.results!736d9e54bcae4f94.5c9c139efe5f37a3",
+      "type": 0,
+      "text": "Singularity",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4eb84567787bc7be",
+      "_key": "!tables.results!736d9e54bcae4f94.4eb84567787bc7be",
+      "type": 0,
+      "text": "Solar storm",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5a9f752cd209fe28",
+      "_key": "!tables.results!736d9e54bcae4f94.5a9f752cd209fe28",
+      "type": 0,
+      "text": "Lingering guilt",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1082357413f07143",
+      "_key": "!tables.results!736d9e54bcae4f94.1082357413f07143",
+      "type": 0,
+      "text": "Meteor shower",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "83a1e8eed932c5da",
+      "_key": "!tables.results!736d9e54bcae4f94.83a1e8eed932c5da",
+      "type": 0,
+      "text": "Oxygen breach",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4f9f87619fe5b737",
+      "_key": "!tables.results!736d9e54bcae4f94.4f9f87619fe5b737",
+      "type": 0,
+      "text": "Organ thief",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "99cbb037de4f2933",
+      "_key": "!tables.results!736d9e54bcae4f94.99cbb037de4f2933",
+      "type": 0,
+      "text": "Space pirates",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d29ac2ca81638e4",
+      "_key": "!tables.results!736d9e54bcae4f94.9d29ac2ca81638e4",
+      "type": 0,
+      "text": "Post-human activist",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6443289e32202f19",
+      "_key": "!tables.results!736d9e54bcae4f94.6443289e32202f19",
+      "type": 0,
+      "text": "Union riot",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ae04864d292e353e",
+      "_key": "!tables.results!736d9e54bcae4f94.ae04864d292e353e",
+      "type": 0,
+      "text": "Freezing temperatures",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c5a9762d7dd75997",
+      "_key": "!tables.results!736d9e54bcae4f94.c5a9762d7dd75997",
+      "type": 0,
+      "text": "Radiation",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5fa799d7c1a8c14b",
+      "_key": "!tables.results!736d9e54bcae4f94.5fa799d7c1a8c14b",
+      "type": 0,
+      "text": "Electrical surge",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8155cddeb78b83b9",
+      "_key": "!tables.results!736d9e54bcae4f94.8155cddeb78b83b9",
+      "type": 0,
+      "text": "Bioscanner",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62937eb0040412f7",
+      "_key": "!tables.results!736d9e54bcae4f94.62937eb0040412f7",
+      "type": 0,
+      "text": "Sentient AI",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "884ae93c0fed9e18",
+      "_key": "!tables.results!736d9e54bcae4f94.884ae93c0fed9e18",
+      "type": 0,
+      "text": "Alternative gravity",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d49df5e466b6ded4",
+      "_key": "!tables.results!736d9e54bcae4f94.d49df5e466b6ded4",
+      "type": 0,
+      "text": "Dangerous traffic",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0e9c086f295a634f",
+      "_key": "!tables.results!736d9e54bcae4f94.0e9c086f295a634f",
+      "type": 0,
+      "text": "Biker gang",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d725d8c55e512744",
+      "_key": "!tables.results!736d9e54bcae4f94.d725d8c55e512744",
+      "type": 0,
+      "text": "Virus",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

@@ -1,0 +1,1514 @@
+{
+  "_id": "ab0160292f38aaf2",
+  "_key": "!tables!ab0160292f38aaf2",
+  "name": "Puzzle Consequence",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Name Meaning Table Elements - Puzzle Consequence",
+  "results": [
+    {
+      "_id": "2cd94d735684aca7",
+      "_key": "!tables.results!ab0160292f38aaf2.2cd94d735684aca7",
+      "type": 0,
+      "text": "Adversity",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e666a1f2350590f1",
+      "_key": "!tables.results!ab0160292f38aaf2.e666a1f2350590f1",
+      "type": 0,
+      "text": "Alarm",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b5843ebaadc6ba0d",
+      "_key": "!tables.results!ab0160292f38aaf2.b5843ebaadc6ba0d",
+      "type": 0,
+      "text": "Betray",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e01abb4caf770a01",
+      "_key": "!tables.results!ab0160292f38aaf2.e01abb4caf770a01",
+      "type": 0,
+      "text": "Bizarre",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e4781c758d44bb2",
+      "_key": "!tables.results!ab0160292f38aaf2.5e4781c758d44bb2",
+      "type": 0,
+      "text": "Blades",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c0713410f2352fa6",
+      "_key": "!tables.results!ab0160292f38aaf2.c0713410f2352fa6",
+      "type": 0,
+      "text": "Block",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02d58ea1b33daa2b",
+      "_key": "!tables.results!ab0160292f38aaf2.02d58ea1b33daa2b",
+      "type": 0,
+      "text": "Ceiling",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4d70fe4a916a3a44",
+      "_key": "!tables.results!ab0160292f38aaf2.4d70fe4a916a3a44",
+      "type": 0,
+      "text": "Change",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "16eb87c76e90c85b",
+      "_key": "!tables.results!ab0160292f38aaf2.16eb87c76e90c85b",
+      "type": 0,
+      "text": "Choice",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0370c160e487eb2d",
+      "_key": "!tables.results!ab0160292f38aaf2.0370c160e487eb2d",
+      "type": 0,
+      "text": "Cloud",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1343fa3f2de9202e",
+      "_key": "!tables.results!ab0160292f38aaf2.1343fa3f2de9202e",
+      "type": 0,
+      "text": "Conflict",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a75e7fd0409e5c9",
+      "_key": "!tables.results!ab0160292f38aaf2.8a75e7fd0409e5c9",
+      "type": 0,
+      "text": "Consequence",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f076855983bc46e",
+      "_key": "!tables.results!ab0160292f38aaf2.1f076855983bc46e",
+      "type": 0,
+      "text": "Constrain",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d76286218eb3ac1f",
+      "_key": "!tables.results!ab0160292f38aaf2.d76286218eb3ac1f",
+      "type": 0,
+      "text": "Control",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eaf5a27f787f3783",
+      "_key": "!tables.results!ab0160292f38aaf2.eaf5a27f787f3783",
+      "type": 0,
+      "text": "Countdown",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1d9d29d7fc00603f",
+      "_key": "!tables.results!ab0160292f38aaf2.1d9d29d7fc00603f",
+      "type": 0,
+      "text": "Create",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc7046f887d60243",
+      "_key": "!tables.results!ab0160292f38aaf2.bc7046f887d60243",
+      "type": 0,
+      "text": "Creature",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c252f92bde0c129",
+      "_key": "!tables.results!ab0160292f38aaf2.9c252f92bde0c129",
+      "type": 0,
+      "text": "Damage",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "479d236938c8ba87",
+      "_key": "!tables.results!ab0160292f38aaf2.479d236938c8ba87",
+      "type": 0,
+      "text": "Danger",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "01746304f49bd066",
+      "_key": "!tables.results!ab0160292f38aaf2.01746304f49bd066",
+      "type": 0,
+      "text": "Deceive",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "880d0b7f164ddb9a",
+      "_key": "!tables.results!ab0160292f38aaf2.880d0b7f164ddb9a",
+      "type": 0,
+      "text": "Decrease",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f8a4316e4415f0fb",
+      "_key": "!tables.results!ab0160292f38aaf2.f8a4316e4415f0fb",
+      "type": 0,
+      "text": "Delay",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7f649fa1e1f5d72b",
+      "_key": "!tables.results!ab0160292f38aaf2.7f649fa1e1f5d72b",
+      "type": 0,
+      "text": "Depletion",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7cd878353163fb34",
+      "_key": "!tables.results!ab0160292f38aaf2.7cd878353163fb34",
+      "type": 0,
+      "text": "Deprive",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53d7399b33c43ed8",
+      "_key": "!tables.results!ab0160292f38aaf2.53d7399b33c43ed8",
+      "type": 0,
+      "text": "Destruction",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d51ae456d7127f93",
+      "_key": "!tables.results!ab0160292f38aaf2.d51ae456d7127f93",
+      "type": 0,
+      "text": "Disrupt",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "160eba4c7bf780a7",
+      "_key": "!tables.results!ab0160292f38aaf2.160eba4c7bf780a7",
+      "type": 0,
+      "text": "Divide",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b0b53f55ac9a347d",
+      "_key": "!tables.results!ab0160292f38aaf2.b0b53f55ac9a347d",
+      "type": 0,
+      "text": "Drop",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d211c9a6ed4900b9",
+      "_key": "!tables.results!ab0160292f38aaf2.d211c9a6ed4900b9",
+      "type": 0,
+      "text": "Elements",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "702f9d56ee6d1b13",
+      "_key": "!tables.results!ab0160292f38aaf2.702f9d56ee6d1b13",
+      "type": 0,
+      "text": "Enemies",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f79ca7d0ed5829c",
+      "_key": "!tables.results!ab0160292f38aaf2.1f79ca7d0ed5829c",
+      "type": 0,
+      "text": "Energy",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c8406691c286ba00",
+      "_key": "!tables.results!ab0160292f38aaf2.c8406691c286ba00",
+      "type": 0,
+      "text": "Environment",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "09b0f4baef983e55",
+      "_key": "!tables.results!ab0160292f38aaf2.09b0f4baef983e55",
+      "type": 0,
+      "text": "Escape",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f061c95d6baee01",
+      "_key": "!tables.results!ab0160292f38aaf2.6f061c95d6baee01",
+      "type": 0,
+      "text": "Explode",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4edf3a8e2b845cd2",
+      "_key": "!tables.results!ab0160292f38aaf2.4edf3a8e2b845cd2",
+      "type": 0,
+      "text": "Expose",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2decdc1d1664cdb3",
+      "_key": "!tables.results!ab0160292f38aaf2.2decdc1d1664cdb3",
+      "type": 0,
+      "text": "Failure",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8d9b2b30fe72275",
+      "_key": "!tables.results!ab0160292f38aaf2.d8d9b2b30fe72275",
+      "type": 0,
+      "text": "Fall",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1b2daaa04c3b0c14",
+      "_key": "!tables.results!ab0160292f38aaf2.1b2daaa04c3b0c14",
+      "type": 0,
+      "text": "Fear",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5df470e6ac3ceb58",
+      "_key": "!tables.results!ab0160292f38aaf2.5df470e6ac3ceb58",
+      "type": 0,
+      "text": "Fight",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9bbfbb8dc03c0173",
+      "_key": "!tables.results!ab0160292f38aaf2.9bbfbb8dc03c0173",
+      "type": 0,
+      "text": "Fire",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6534cd4a703d8e4d",
+      "_key": "!tables.results!ab0160292f38aaf2.6534cd4a703d8e4d",
+      "type": 0,
+      "text": "Floor",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "50750c0519864677",
+      "_key": "!tables.results!ab0160292f38aaf2.50750c0519864677",
+      "type": 0,
+      "text": "Frantic",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "af83397cbd00617c",
+      "_key": "!tables.results!ab0160292f38aaf2.af83397cbd00617c",
+      "type": 0,
+      "text": "Free",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "43137f0dff9ec2ee",
+      "_key": "!tables.results!ab0160292f38aaf2.43137f0dff9ec2ee",
+      "type": 0,
+      "text": "Free",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "51a8c8aa1c9ced7e",
+      "_key": "!tables.results!ab0160292f38aaf2.51a8c8aa1c9ced7e",
+      "type": 0,
+      "text": "Frightening",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2bd1dab904e68d61",
+      "_key": "!tables.results!ab0160292f38aaf2.2bd1dab904e68d61",
+      "type": 0,
+      "text": "Harm",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2e8b4ff43e81af89",
+      "_key": "!tables.results!ab0160292f38aaf2.2e8b4ff43e81af89",
+      "type": 0,
+      "text": "Heavy",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "46efd71a713c308c",
+      "_key": "!tables.results!ab0160292f38aaf2.46efd71a713c308c",
+      "type": 0,
+      "text": "Helpless",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b31d64d4818b8134",
+      "_key": "!tables.results!ab0160292f38aaf2.b31d64d4818b8134",
+      "type": 0,
+      "text": "Illness",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a09496f81fc2b8f",
+      "_key": "!tables.results!ab0160292f38aaf2.6a09496f81fc2b8f",
+      "type": 0,
+      "text": "Illusion",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "425a0cb6de0860d9",
+      "_key": "!tables.results!ab0160292f38aaf2.425a0cb6de0860d9",
+      "type": 0,
+      "text": "Imitate",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "42088c2c7338c936",
+      "_key": "!tables.results!ab0160292f38aaf2.42088c2c7338c936",
+      "type": 0,
+      "text": "Imprison",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0b0c68984b01c611",
+      "_key": "!tables.results!ab0160292f38aaf2.0b0c68984b01c611",
+      "type": 0,
+      "text": "Increase",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "819e5c6f291023cb",
+      "_key": "!tables.results!ab0160292f38aaf2.819e5c6f291023cb",
+      "type": 0,
+      "text": "Information",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dbff773080995bc0",
+      "_key": "!tables.results!ab0160292f38aaf2.dbff773080995bc0",
+      "type": 0,
+      "text": "Injure",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e8d9bc66480a4b0e",
+      "_key": "!tables.results!ab0160292f38aaf2.e8d9bc66480a4b0e",
+      "type": 0,
+      "text": "Inside",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "566b97f3683566ab",
+      "_key": "!tables.results!ab0160292f38aaf2.566b97f3683566ab",
+      "type": 0,
+      "text": "Key",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "161b4364a099cc8f",
+      "_key": "!tables.results!ab0160292f38aaf2.161b4364a099cc8f",
+      "type": 0,
+      "text": "Lethal",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2cb8ac87ad0e89dc",
+      "_key": "!tables.results!ab0160292f38aaf2.2cb8ac87ad0e89dc",
+      "type": 0,
+      "text": "Loss",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ebbf609629e842e4",
+      "_key": "!tables.results!ab0160292f38aaf2.ebbf609629e842e4",
+      "type": 0,
+      "text": "Lost",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5a19a062935c824c",
+      "_key": "!tables.results!ab0160292f38aaf2.5a19a062935c824c",
+      "type": 0,
+      "text": "Mechanism",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "71ade2dcc3a162fa",
+      "_key": "!tables.results!ab0160292f38aaf2.71ade2dcc3a162fa",
+      "type": 0,
+      "text": "Mental",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "466801a88674c6d6",
+      "_key": "!tables.results!ab0160292f38aaf2.466801a88674c6d6",
+      "type": 0,
+      "text": "Message",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1defe5eac45a1d7a",
+      "_key": "!tables.results!ab0160292f38aaf2.1defe5eac45a1d7a",
+      "type": 0,
+      "text": "Misfortune",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4d7adf3d98a04a5c",
+      "_key": "!tables.results!ab0160292f38aaf2.4d7adf3d98a04a5c",
+      "type": 0,
+      "text": "Move",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b8baa3f8809ebf35",
+      "_key": "!tables.results!ab0160292f38aaf2.b8baa3f8809ebf35",
+      "type": 0,
+      "text": "Mundane",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f6b5d4e8d17959f1",
+      "_key": "!tables.results!ab0160292f38aaf2.f6b5d4e8d17959f1",
+      "type": 0,
+      "text": "Mysterious",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "838af14cb7df85f8",
+      "_key": "!tables.results!ab0160292f38aaf2.838af14cb7df85f8",
+      "type": 0,
+      "text": "Open",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "90cbb4e20b070bd3",
+      "_key": "!tables.results!ab0160292f38aaf2.90cbb4e20b070bd3",
+      "type": 0,
+      "text": "Pain",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5851e4cc80c7b31c",
+      "_key": "!tables.results!ab0160292f38aaf2.5851e4cc80c7b31c",
+      "type": 0,
+      "text": "Path",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d05f58abef513455",
+      "_key": "!tables.results!ab0160292f38aaf2.d05f58abef513455",
+      "type": 0,
+      "text": "Physical",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d3d6cee5e83e940",
+      "_key": "!tables.results!ab0160292f38aaf2.7d3d6cee5e83e940",
+      "type": 0,
+      "text": "Portal",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "83270af8d88ce64d",
+      "_key": "!tables.results!ab0160292f38aaf2.83270af8d88ce64d",
+      "type": 0,
+      "text": "Possessions",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "57fa04ca27892a97",
+      "_key": "!tables.results!ab0160292f38aaf2.57fa04ca27892a97",
+      "type": 0,
+      "text": "Postpone",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e8c92a22645ad2fa",
+      "_key": "!tables.results!ab0160292f38aaf2.e8c92a22645ad2fa",
+      "type": 0,
+      "text": "Power",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "970639859297de4d",
+      "_key": "!tables.results!ab0160292f38aaf2.970639859297de4d",
+      "type": 0,
+      "text": "Projectile",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ec45c223b3131fed",
+      "_key": "!tables.results!ab0160292f38aaf2.ec45c223b3131fed",
+      "type": 0,
+      "text": "Punish",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a68e431a63b4aefe",
+      "_key": "!tables.results!ab0160292f38aaf2.a68e431a63b4aefe",
+      "type": 0,
+      "text": "Release",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a7f85943377871c3",
+      "_key": "!tables.results!ab0160292f38aaf2.a7f85943377871c3",
+      "type": 0,
+      "text": "Reveal",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ffbb027c20700f1",
+      "_key": "!tables.results!ab0160292f38aaf2.4ffbb027c20700f1",
+      "type": 0,
+      "text": "Ruin",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8fc0f337bd1a8715",
+      "_key": "!tables.results!ab0160292f38aaf2.8fc0f337bd1a8715",
+      "type": 0,
+      "text": "Scary",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8c8badca290b73f",
+      "_key": "!tables.results!ab0160292f38aaf2.d8c8badca290b73f",
+      "type": 0,
+      "text": "Setback",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3bdc0b8522b4f0c8",
+      "_key": "!tables.results!ab0160292f38aaf2.3bdc0b8522b4f0c8",
+      "type": 0,
+      "text": "Simple",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "098b52f1f40aa6ca",
+      "_key": "!tables.results!ab0160292f38aaf2.098b52f1f40aa6ca",
+      "type": 0,
+      "text": "Stab",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a57b855d9065696b",
+      "_key": "!tables.results!ab0160292f38aaf2.a57b855d9065696b",
+      "type": 0,
+      "text": "Start",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6fa5fd3c586a875a",
+      "_key": "!tables.results!ab0160292f38aaf2.6fa5fd3c586a875a",
+      "type": 0,
+      "text": "Stop",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4d9ae5fc66cf3a8f",
+      "_key": "!tables.results!ab0160292f38aaf2.4d9ae5fc66cf3a8f",
+      "type": 0,
+      "text": "Strange",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "542a7fd189ec9d8c",
+      "_key": "!tables.results!ab0160292f38aaf2.542a7fd189ec9d8c",
+      "type": 0,
+      "text": "Struggle",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a0384897939cf23",
+      "_key": "!tables.results!ab0160292f38aaf2.1a0384897939cf23",
+      "type": 0,
+      "text": "Suffering",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cda8ab6141fc96fb",
+      "_key": "!tables.results!ab0160292f38aaf2.cda8ab6141fc96fb",
+      "type": 0,
+      "text": "Summon",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e844a5a869eaaa8",
+      "_key": "!tables.results!ab0160292f38aaf2.3e844a5a869eaaa8",
+      "type": 0,
+      "text": "Suppress",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e4658876f29e2b18",
+      "_key": "!tables.results!ab0160292f38aaf2.e4658876f29e2b18",
+      "type": 0,
+      "text": "Take",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82c894cb3a9c08fe",
+      "_key": "!tables.results!ab0160292f38aaf2.82c894cb3a9c08fe",
+      "type": 0,
+      "text": "Threaten",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5127786f027d9d6e",
+      "_key": "!tables.results!ab0160292f38aaf2.5127786f027d9d6e",
+      "type": 0,
+      "text": "Toxin",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3aa42ab28cf92539",
+      "_key": "!tables.results!ab0160292f38aaf2.3aa42ab28cf92539",
+      "type": 0,
+      "text": "Trigger",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "81e1e3541b698a84",
+      "_key": "!tables.results!ab0160292f38aaf2.81e1e3541b698a84",
+      "type": 0,
+      "text": "Trouble",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "98354f5f86b5c2de",
+      "_key": "!tables.results!ab0160292f38aaf2.98354f5f86b5c2de",
+      "type": 0,
+      "text": "Violent",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "47437fbdb5dd57e1",
+      "_key": "!tables.results!ab0160292f38aaf2.47437fbdb5dd57e1",
+      "type": 0,
+      "text": "Walls",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "29560d93a9259d0c",
+      "_key": "!tables.results!ab0160292f38aaf2.29560d93a9259d0c",
+      "type": 0,
+      "text": "Water",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "12befe4173886306",
+      "_key": "!tables.results!ab0160292f38aaf2.12befe4173886306",
+      "type": 0,
+      "text": "Weapon",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "8bb25c2817b9578b",
+  "flags": {}
+}

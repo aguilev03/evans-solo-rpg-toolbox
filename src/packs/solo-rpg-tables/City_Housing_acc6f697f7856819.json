@@ -1,0 +1,314 @@
+{
+  "_id": "acc6f697f7856819",
+  "_key": "!tables!acc6f697f7856819",
+  "name": "City Housing",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "a00ff472b9a25a7f",
+      "_key": "!tables.results!acc6f697f7856819.a00ff472b9a25a7f",
+      "type": 0,
+      "text": "Studio",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c586d95de67f5535",
+      "_key": "!tables.results!acc6f697f7856819.c586d95de67f5535",
+      "type": 0,
+      "text": "One bedroom apartment",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1c2e338caa976e72",
+      "_key": "!tables.results!acc6f697f7856819.1c2e338caa976e72",
+      "type": 0,
+      "text": "Two bedrooms apartment",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "209f20bdee3d2b86",
+      "_key": "!tables.results!acc6f697f7856819.209f20bdee3d2b86",
+      "type": 0,
+      "text": "Bungalow",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13da9cf73afdbdd0",
+      "_key": "!tables.results!acc6f697f7856819.13da9cf73afdbdd0",
+      "type": 0,
+      "text": "Maisonnette",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "11cbac733c80355f",
+      "_key": "!tables.results!acc6f697f7856819.11cbac733c80355f",
+      "type": 0,
+      "text": "Penthouse",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a6bd0a6c30aa5195",
+      "_key": "!tables.results!acc6f697f7856819.a6bd0a6c30aa5195",
+      "type": 0,
+      "text": "Mansion",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d6fff459cac9df4e",
+      "_key": "!tables.results!acc6f697f7856819.d6fff459cac9df4e",
+      "type": 0,
+      "text": "Hotel room",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1cdeeb7db4accef6",
+      "_key": "!tables.results!acc6f697f7856819.1cdeeb7db4accef6",
+      "type": 0,
+      "text": "Tower",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a5eee31912c98309",
+      "_key": "!tables.results!acc6f697f7856819.a5eee31912c98309",
+      "type": 0,
+      "text": "Boarding house",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a2cc695eff737ab7",
+      "_key": "!tables.results!acc6f697f7856819.a2cc695eff737ab7",
+      "type": 0,
+      "text": "Tent",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c8ff86c9204c04cb",
+      "_key": "!tables.results!acc6f697f7856819.c8ff86c9204c04cb",
+      "type": 0,
+      "text": "Houseboat",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ed6abd07b9790c04",
+      "_key": "!tables.results!acc6f697f7856819.ed6abd07b9790c04",
+      "type": 0,
+      "text": "Under a bridge",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0925dfb3022b44a6",
+      "_key": "!tables.results!acc6f697f7856819.0925dfb3022b44a6",
+      "type": 0,
+      "text": "Shanty",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d3be5301f6083e33",
+      "_key": "!tables.results!acc6f697f7856819.d3be5301f6083e33",
+      "type": 0,
+      "text": "Squat",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c697cd43d247aa67",
+      "_key": "!tables.results!acc6f697f7856819.c697cd43d247aa67",
+      "type": 0,
+      "text": "Underground bunker",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1023d183f7e97db",
+      "_key": "!tables.results!acc6f697f7856819.a1023d183f7e97db",
+      "type": 0,
+      "text": "Wagon",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02adcdaab3f3411d",
+      "_key": "!tables.results!acc6f697f7856819.02adcdaab3f3411d",
+      "type": 0,
+      "text": "Treehouse",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "577452037b5c57a6",
+      "_key": "!tables.results!acc6f697f7856819.577452037b5c57a6",
+      "type": 0,
+      "text": "Basement",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c6bfc1b5362a680",
+      "_key": "!tables.results!acc6f697f7856819.4c6bfc1b5362a680",
+      "type": 0,
+      "text": "Hut",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

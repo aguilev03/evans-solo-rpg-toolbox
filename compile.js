@@ -124,17 +124,6 @@ function parseTextTables(filePath, relativePath) {
       // Clean table name (remove leading d6, d66, d20 etc.)
       currentTable.name = currentTable.name.replace(/^d\d+\s+/i, '').trim();
 
-      // Resolve name clashes by prepending file context if it is prone to clashing
-      if (currentTable.name.toLowerCase() === 'next hexes') {
-        if (relativePath.includes('features')) {
-          currentTable.name = 'Hex Features - Next Hexes';
-        } else {
-          currentTable.name = 'Hex Map - Next Hexes';
-        }
-      } else if (currentTable.name.toLowerCase() === 'landmarks') {
-        currentTable.name = 'Hex Map - Landmarks';
-      }
-
       parsedTables.push(currentTable);
     }
     currentTable = null;
@@ -160,7 +149,8 @@ function parseTextTables(filePath, relativePath) {
         description: '',
         results: [],
         formula: null,
-        folder: folderId
+        folder: folderId,
+        relativePath: relativePath
       };
       if (tableName.toLowerCase().includes('d66')) {
         currentTable.formula = '1d6 * 10 + 1d6';
@@ -233,7 +223,8 @@ function parseJsonTable(filePath, relativePath) {
     description: obj.description || "",
     results: results,
     formula: obj.formula || `1d${results.length}`,
-    folder: folderId
+    folder: folderId,
+    relativePath: relativePath
   });
 }
 
@@ -349,9 +340,9 @@ const tableFolder = path.join(destDir, 'src/packs/solo-rpg-tables');
 fs.mkdirSync(tableFolder, { recursive: true });
 
 parsedTables.forEach(table => {
-  const id = getStableId(`table-${table.name}`);
+  const id = getStableId(`table-${table.relativePath || ''}-${table.name}`);
   const results = table.results.map((r, idx) => {
-    const rId = getStableId(`table-${table.name}-result-${idx}-${r.text}`);
+    const rId = getStableId(`table-${table.relativePath || ''}-${table.name}-result-${idx}-${r.text}`);
     return {
       _id: rId,
       _key: `!tables.results!${id}.${rId}`,
@@ -380,7 +371,7 @@ parsedTables.forEach(table => {
     flags: {}
   };
 
-  const fileName = table.name.replace(/[^a-z0-9]/gi, '_') + '.json';
+  const fileName = table.name.replace(/[^a-z0-9]/gi, '_') + `_${id}.json`;
   fs.writeFileSync(path.join(tableFolder, fileName), JSON.stringify(rollTableDoc, null, 2));
 });
 

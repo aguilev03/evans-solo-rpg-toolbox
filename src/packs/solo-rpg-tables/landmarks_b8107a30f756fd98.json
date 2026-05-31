@@ -1,0 +1,59 @@
+{
+  "_id": "b8107a30f756fd98",
+  "_key": "!tables!b8107a30f756fd98",
+  "name": "landmarks",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "b52109e314fd3aac",
+      "_key": "!tables.results!b8107a30f756fd98.b52109e314fd3aac",
+      "type": 0,
+      "text": "Natural",
+      "weight": 1,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e56369f65ed4026b",
+      "_key": "!tables.results!b8107a30f756fd98.e56369f65ed4026b",
+      "type": 0,
+      "text": "Artificial",
+      "weight": 1,
+      "range": [
+        4,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "93a9a8d5f661064f",
+      "_key": "!tables.results!b8107a30f756fd98.93a9a8d5f661064f",
+      "type": 0,
+      "text": "Magic",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

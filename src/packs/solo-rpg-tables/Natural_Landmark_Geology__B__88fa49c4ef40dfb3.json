@@ -1,0 +1,164 @@
+{
+  "_id": "88fa49c4ef40dfb3",
+  "_key": "!tables!88fa49c4ef40dfb3",
+  "name": "Natural Landmark Geology (B)",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "3d82a8a1edec9cdd",
+      "_key": "!tables.results!88fa49c4ef40dfb3.3d82a8a1edec9cdd",
+      "type": 0,
+      "text": "Ravine",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4059f4479a29e8f1",
+      "_key": "!tables.results!88fa49c4ef40dfb3.4059f4479a29e8f1",
+      "type": 0,
+      "text": "Rift",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a4be42031470029a",
+      "_key": "!tables.results!88fa49c4ef40dfb3.a4be42031470029a",
+      "type": 0,
+      "text": "Rock hole",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "965493c31e1a2873",
+      "_key": "!tables.results!88fa49c4ef40dfb3.965493c31e1a2873",
+      "type": 0,
+      "text": "Rock needle",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "169c9729355639ad",
+      "_key": "!tables.results!88fa49c4ef40dfb3.169c9729355639ad",
+      "type": 0,
+      "text": "Scree",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a58ce9ccf8a4fe35",
+      "_key": "!tables.results!88fa49c4ef40dfb3.a58ce9ccf8a4fe35",
+      "type": 0,
+      "text": "Sinkhole",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6dac2d64b366f391",
+      "_key": "!tables.results!88fa49c4ef40dfb3.6dac2d64b366f391",
+      "type": 0,
+      "text": "Stone arch",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1fa167be31e9b02d",
+      "_key": "!tables.results!88fa49c4ef40dfb3.1fa167be31e9b02d",
+      "type": 0,
+      "text": "Stone bridge",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a5b6022e22294bc",
+      "_key": "!tables.results!88fa49c4ef40dfb3.9a5b6022e22294bc",
+      "type": 0,
+      "text": "Stone stairs",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8aa879fa7f3208bb",
+      "_key": "!tables.results!88fa49c4ef40dfb3.8aa879fa7f3208bb",
+      "type": 0,
+      "text": "Very big rock",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

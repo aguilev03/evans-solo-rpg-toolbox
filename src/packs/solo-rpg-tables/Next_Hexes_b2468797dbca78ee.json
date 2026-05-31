@@ -1,0 +1,74 @@
+{
+  "_id": "b2468797dbca78ee",
+  "_key": "!tables!b2468797dbca78ee",
+  "name": "Next Hexes",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "ffce213c15bf96e6",
+      "_key": "!tables.results!b2468797dbca78ee.ffce213c15bf96e6",
+      "type": 0,
+      "text": "Landmark",
+      "weight": 1,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f7ab606f2d42af8",
+      "_key": "!tables.results!b2468797dbca78ee.6f7ab606f2d42af8",
+      "type": 0,
+      "text": "Settlement",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "69439684d4435465",
+      "_key": "!tables.results!b2468797dbca78ee.69439684d4435465",
+      "type": 0,
+      "text": "Lair",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "10dce233d1211c62",
+      "_key": "!tables.results!b2468797dbca78ee.10dce233d1211c62",
+      "type": 0,
+      "text": "Dungeon",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

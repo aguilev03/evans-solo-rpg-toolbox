@@ -1,0 +1,179 @@
+{
+  "_id": "5f0698160b58c219",
+  "_key": "!tables!5f0698160b58c219",
+  "name": "Marsh",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "b45f5760f333e2c4",
+      "_key": "!tables.results!5f0698160b58c219.b45f5760f333e2c4",
+      "type": 0,
+      "text": "Moth-men",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "934cc10fe7b35ca6",
+      "_key": "!tables.results!5f0698160b58c219.934cc10fe7b35ca6",
+      "type": 0,
+      "text": "Mushroom-men",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e8e45a2322a9b1ab",
+      "_key": "!tables.results!5f0698160b58c219.e8e45a2322a9b1ab",
+      "type": 0,
+      "text": "Frog-men",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e6573fc778671c2c",
+      "_key": "!tables.results!5f0698160b58c219.e6573fc778671c2c",
+      "type": 0,
+      "text": "Trolls",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "025b2762d018bfeb",
+      "_key": "!tables.results!5f0698160b58c219.025b2762d018bfeb",
+      "type": 0,
+      "text": "Skeletons",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "044c766a3b8de577",
+      "_key": "!tables.results!5f0698160b58c219.044c766a3b8de577",
+      "type": 0,
+      "text": "Crocodiles",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "09cc4acfe27a25cb",
+      "_key": "!tables.results!5f0698160b58c219.09cc4acfe27a25cb",
+      "type": 0,
+      "text": "Zombies",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c3b85fad52df5d15",
+      "_key": "!tables.results!5f0698160b58c219.c3b85fad52df5d15",
+      "type": 0,
+      "text": "Orcs",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c678c3344576bc7",
+      "_key": "!tables.results!5f0698160b58c219.4c678c3344576bc7",
+      "type": 0,
+      "text": "Lizard-men",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e6ea47ebc7185c0",
+      "_key": "!tables.results!5f0698160b58c219.1e6ea47ebc7185c0",
+      "type": 0,
+      "text": "Snake-men",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "306e97dbbc3df150",
+      "_key": "!tables.results!5f0698160b58c219.306e97dbbc3df150",
+      "type": 0,
+      "text": "Hydras",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "4895ee3b8e827a5c",
+  "flags": {}
+}

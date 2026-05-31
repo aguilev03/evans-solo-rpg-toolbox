@@ -1,0 +1,134 @@
+{
+  "_id": "aad5b51fac912cb9",
+  "_key": "!tables!aad5b51fac912cb9",
+  "name": "Castle Enclosure shape",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "f556da52c57250d6",
+      "_key": "!tables.results!aad5b51fac912cb9.f556da52c57250d6",
+      "type": 0,
+      "text": "Square/Rectangle 4",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a83920dfc5dbabdf",
+      "_key": "!tables.results!aad5b51fac912cb9.a83920dfc5dbabdf",
+      "type": 0,
+      "text": "Trapezium 4",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eee3ed83562f568a",
+      "_key": "!tables.results!aad5b51fac912cb9.eee3ed83562f568a",
+      "type": 0,
+      "text": "Pentagon 5",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "70f1786dae146e7b",
+      "_key": "!tables.results!aad5b51fac912cb9.70f1786dae146e7b",
+      "type": 0,
+      "text": "Hexagon 6",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2c524358ebb13412",
+      "_key": "!tables.results!aad5b51fac912cb9.2c524358ebb13412",
+      "type": 0,
+      "text": "Octagon 8",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1dd8189a13ad16a2",
+      "_key": "!tables.results!aad5b51fac912cb9.1dd8189a13ad16a2",
+      "type": 0,
+      "text": "Star 10",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a4adcf0bfcc17717",
+      "_key": "!tables.results!aad5b51fac912cb9.a4adcf0bfcc17717",
+      "type": 0,
+      "text": "Cross 12",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c32c3ca17d6f4c31",
+      "_key": "!tables.results!aad5b51fac912cb9.c32c3ca17d6f4c31",
+      "type": 0,
+      "text": "Circle 1d3 + 3",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,164 @@
+{
+  "_id": "4e7d8ed801a8268c",
+  "_key": "!tables!4e7d8ed801a8268c",
+  "name": "Magic Landmarks Area under a spell",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "16f7cc22052c0bfc",
+      "_key": "!tables.results!4e7d8ed801a8268c.16f7cc22052c0bfc",
+      "type": 0,
+      "text": "Always snowy area",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8e4c485857e52a3e",
+      "_key": "!tables.results!4e7d8ed801a8268c.8e4c485857e52a3e",
+      "type": 0,
+      "text": "Anti-magic zone",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d6e34689e7444223",
+      "_key": "!tables.results!4e7d8ed801a8268c.d6e34689e7444223",
+      "type": 0,
+      "text": "Area bringing back the dead",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1bfed62fccf0ddd9",
+      "_key": "!tables.results!4e7d8ed801a8268c.1bfed62fccf0ddd9",
+      "type": 0,
+      "text": "Area where nothing grows",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e2ad5efb0c281b1",
+      "_key": "!tables.results!4e7d8ed801a8268c.1e2ad5efb0c281b1",
+      "type": 0,
+      "text": "Bad luck area",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02ae72fbcf0b9f35",
+      "_key": "!tables.results!4e7d8ed801a8268c.02ae72fbcf0b9f35",
+      "type": 0,
+      "text": "Dome of darkness",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9899e3aa5e76d3f6",
+      "_key": "!tables.results!4e7d8ed801a8268c.9899e3aa5e76d3f6",
+      "type": 0,
+      "text": "Force field",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ac5439e3ad2e92a0",
+      "_key": "!tables.results!4e7d8ed801a8268c.ac5439e3ad2e92a0",
+      "type": 0,
+      "text": "Incessant cyclone",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "94b8cf1319fbdbd2",
+      "_key": "!tables.results!4e7d8ed801a8268c.94b8cf1319fbdbd2",
+      "type": 0,
+      "text": "Protection from Evil",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0cf375cee5eda8f0",
+      "_key": "!tables.results!4e7d8ed801a8268c.0cf375cee5eda8f0",
+      "type": 0,
+      "text": "Time is frozen",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,224 @@
+{
+  "_id": "5f3ad040ed882b39",
+  "_key": "!tables!5f3ad040ed882b39",
+  "name": "Humanoids",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Proactively compiled list of humanoids from Biome Encounters",
+  "results": [
+    {
+      "_id": "1a9ab0ab0128c6b4",
+      "_key": "!tables.results!5f3ad040ed882b39.1a9ab0ab0128c6b4",
+      "type": 0,
+      "text": "Bandits",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "27daf2dd9314f505",
+      "_key": "!tables.results!5f3ad040ed882b39.27daf2dd9314f505",
+      "type": 0,
+      "text": "Berserkers",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a34023b22d9c6187",
+      "_key": "!tables.results!5f3ad040ed882b39.a34023b22d9c6187",
+      "type": 0,
+      "text": "Dwarves",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e48a3a7ffe98770e",
+      "_key": "!tables.results!5f3ad040ed882b39.e48a3a7ffe98770e",
+      "type": 0,
+      "text": "Elves",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "48017a690556d3fc",
+      "_key": "!tables.results!5f3ad040ed882b39.48017a690556d3fc",
+      "type": 0,
+      "text": "Orcs",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dac15cc609773bd6",
+      "_key": "!tables.results!5f3ad040ed882b39.dac15cc609773bd6",
+      "type": 0,
+      "text": "Goblins",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1d38de3a36119c6a",
+      "_key": "!tables.results!5f3ad040ed882b39.1d38de3a36119c6a",
+      "type": 0,
+      "text": "Gnolls",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "498e647622a59538",
+      "_key": "!tables.results!5f3ad040ed882b39.498e647622a59538",
+      "type": 0,
+      "text": "Kobolds",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "35e759452d94f1b8",
+      "_key": "!tables.results!5f3ad040ed882b39.35e759452d94f1b8",
+      "type": 0,
+      "text": "Lizard-men",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa525e79780113c9",
+      "_key": "!tables.results!5f3ad040ed882b39.aa525e79780113c9",
+      "type": 0,
+      "text": "Snake-men",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f5489401ca467e2c",
+      "_key": "!tables.results!5f3ad040ed882b39.f5489401ca467e2c",
+      "type": 0,
+      "text": "Frog-men",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6778db9fbd3348d8",
+      "_key": "!tables.results!5f3ad040ed882b39.6778db9fbd3348d8",
+      "type": 0,
+      "text": "Moth-men",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a6af8800244a0a7",
+      "_key": "!tables.results!5f3ad040ed882b39.1a6af8800244a0a7",
+      "type": 0,
+      "text": "Mushroom-men",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d6d76ba73b63cea0",
+      "_key": "!tables.results!5f3ad040ed882b39.d6d76ba73b63cea0",
+      "type": 0,
+      "text": "Beastmen",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d14",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "4895ee3b8e827a5c",
+  "flags": {}
+}

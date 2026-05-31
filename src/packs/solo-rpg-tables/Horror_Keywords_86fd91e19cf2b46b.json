@@ -1,0 +1,554 @@
+{
+  "_id": "86fd91e19cf2b46b",
+  "_key": "!tables!86fd91e19cf2b46b",
+  "name": "Horror Keywords",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a horror keyword.",
+  "results": [
+    {
+      "_id": "a937f3314f1d377f",
+      "_key": "!tables.results!86fd91e19cf2b46b.a937f3314f1d377f",
+      "type": 0,
+      "text": "Strand",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d30627482ff316cb",
+      "_key": "!tables.results!86fd91e19cf2b46b.d30627482ff316cb",
+      "type": 0,
+      "text": "Cabinet",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f1b526d8b594785e",
+      "_key": "!tables.results!86fd91e19cf2b46b.f1b526d8b594785e",
+      "type": 0,
+      "text": "Blood",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "736f626244ea5880",
+      "_key": "!tables.results!86fd91e19cf2b46b.736f626244ea5880",
+      "type": 0,
+      "text": "Dream",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "22dbee116b4930af",
+      "_key": "!tables.results!86fd91e19cf2b46b.22dbee116b4930af",
+      "type": 0,
+      "text": "Ritual",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1436d5dd0478245b",
+      "_key": "!tables.results!86fd91e19cf2b46b.1436d5dd0478245b",
+      "type": 0,
+      "text": "Spectre",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f397192518db46c3",
+      "_key": "!tables.results!86fd91e19cf2b46b.f397192518db46c3",
+      "type": 0,
+      "text": "Duel",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a81c376eaf389677",
+      "_key": "!tables.results!86fd91e19cf2b46b.a81c376eaf389677",
+      "type": 0,
+      "text": "Gossip",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4b403ea5e8215cdd",
+      "_key": "!tables.results!86fd91e19cf2b46b.4b403ea5e8215cdd",
+      "type": 0,
+      "text": "Void",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "609401b35806ed0d",
+      "_key": "!tables.results!86fd91e19cf2b46b.609401b35806ed0d",
+      "type": 0,
+      "text": "Vial",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e8cba88f5184c28",
+      "_key": "!tables.results!86fd91e19cf2b46b.1e8cba88f5184c28",
+      "type": 0,
+      "text": "Lantern",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "254a8f6012a8503e",
+      "_key": "!tables.results!86fd91e19cf2b46b.254a8f6012a8503e",
+      "type": 0,
+      "text": "Oubliette",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b77d35abc215e552",
+      "_key": "!tables.results!86fd91e19cf2b46b.b77d35abc215e552",
+      "type": 0,
+      "text": "Haunt",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb4c57934118f9eb",
+      "_key": "!tables.results!86fd91e19cf2b46b.eb4c57934118f9eb",
+      "type": 0,
+      "text": "Trapdoor",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5273f35e7e9e7756",
+      "_key": "!tables.results!86fd91e19cf2b46b.5273f35e7e9e7756",
+      "type": 0,
+      "text": "Servant",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0a870f2af776f434",
+      "_key": "!tables.results!86fd91e19cf2b46b.0a870f2af776f434",
+      "type": 0,
+      "text": "Storm",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b832421c8b44bd9",
+      "_key": "!tables.results!86fd91e19cf2b46b.5b832421c8b44bd9",
+      "type": 0,
+      "text": "Carriage",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d9e8643d569cee6c",
+      "_key": "!tables.results!86fd91e19cf2b46b.d9e8643d569cee6c",
+      "type": 0,
+      "text": "Inheritance",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5bdd6c4fdf5a2d99",
+      "_key": "!tables.results!86fd91e19cf2b46b.5bdd6c4fdf5a2d99",
+      "type": 0,
+      "text": "Plague",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84d17825c6bd8fe2",
+      "_key": "!tables.results!86fd91e19cf2b46b.84d17825c6bd8fe2",
+      "type": 0,
+      "text": "Illusion",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b03a5055f7109761",
+      "_key": "!tables.results!86fd91e19cf2b46b.b03a5055f7109761",
+      "type": 0,
+      "text": "Family",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e80525feffd386fa",
+      "_key": "!tables.results!86fd91e19cf2b46b.e80525feffd386fa",
+      "type": 0,
+      "text": "Fashion",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8e7ee7bad5d3fd8",
+      "_key": "!tables.results!86fd91e19cf2b46b.d8e7ee7bad5d3fd8",
+      "type": 0,
+      "text": "Cellar",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c6b14f994298b279",
+      "_key": "!tables.results!86fd91e19cf2b46b.c6b14f994298b279",
+      "type": 0,
+      "text": "Violin",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "11a9bc70e47e6f89",
+      "_key": "!tables.results!86fd91e19cf2b46b.11a9bc70e47e6f89",
+      "type": 0,
+      "text": "Powder",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a938eca93b5ab12",
+      "_key": "!tables.results!86fd91e19cf2b46b.6a938eca93b5ab12",
+      "type": 0,
+      "text": "Ointment",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dd1c066fc54902e6",
+      "_key": "!tables.results!86fd91e19cf2b46b.dd1c066fc54902e6",
+      "type": 0,
+      "text": "Mirror",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4b22f20cafcb33c0",
+      "_key": "!tables.results!86fd91e19cf2b46b.4b22f20cafcb33c0",
+      "type": 0,
+      "text": "Bookcase",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84f7aa21fdce1394",
+      "_key": "!tables.results!86fd91e19cf2b46b.84f7aa21fdce1394",
+      "type": 0,
+      "text": "Newspaper",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e07e3d4bf590c0a1",
+      "_key": "!tables.results!86fd91e19cf2b46b.e07e3d4bf590c0a1",
+      "type": 0,
+      "text": "Wealth",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1224e92df5842d94",
+      "_key": "!tables.results!86fd91e19cf2b46b.1224e92df5842d94",
+      "type": 0,
+      "text": "Scheme",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7a030918608ce593",
+      "_key": "!tables.results!86fd91e19cf2b46b.7a030918608ce593",
+      "type": 0,
+      "text": "Gown",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4fa44a17dedb81ff",
+      "_key": "!tables.results!86fd91e19cf2b46b.4fa44a17dedb81ff",
+      "type": 0,
+      "text": "Growth",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d5ef5a21ba989f1f",
+      "_key": "!tables.results!86fd91e19cf2b46b.d5ef5a21ba989f1f",
+      "type": 0,
+      "text": "Omen",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd81c72289813e60",
+      "_key": "!tables.results!86fd91e19cf2b46b.cd81c72289813e60",
+      "type": 0,
+      "text": "Grave",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a9f1f30fd5e4041e",
+      "_key": "!tables.results!86fd91e19cf2b46b.a9f1f30fd5e4041e",
+      "type": 0,
+      "text": "Skittering noises",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

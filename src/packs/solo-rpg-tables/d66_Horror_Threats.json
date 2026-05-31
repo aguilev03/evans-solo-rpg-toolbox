@@ -1,0 +1,554 @@
+{
+  "_id": "3de5449a564ea4c4",
+  "_key": "!tables!3de5449a564ea4c4",
+  "name": "d66 Horror Threats",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a horror threat.",
+  "results": [
+    {
+      "_id": "eb9164c69c7971e4",
+      "_key": "!tables.results!3de5449a564ea4c4.eb9164c69c7971e4",
+      "type": 0,
+      "text": "Demonic presence",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "72f95fabcf924b8c",
+      "_key": "!tables.results!3de5449a564ea4c4.72f95fabcf924b8c",
+      "type": 0,
+      "text": "Skulking shadows",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6e0fda08cf77b72b",
+      "_key": "!tables.results!3de5449a564ea4c4.6e0fda08cf77b72b",
+      "type": 0,
+      "text": "Restless peasant",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "017ebfb20e4baed3",
+      "_key": "!tables.results!3de5449a564ea4c4.017ebfb20e4baed3",
+      "type": 0,
+      "text": "Unstable mind",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "63553d152e713482",
+      "_key": "!tables.results!3de5449a564ea4c4.63553d152e713482",
+      "type": 0,
+      "text": "Hopeless thoughts",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6fb404e216fc09ae",
+      "_key": "!tables.results!3de5449a564ea4c4.6fb404e216fc09ae",
+      "type": 0,
+      "text": "Nagging twitch",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f906a79ad7be8dbe",
+      "_key": "!tables.results!3de5449a564ea4c4.f906a79ad7be8dbe",
+      "type": 0,
+      "text": "Grasping hands",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f475ca21d0859ab3",
+      "_key": "!tables.results!3de5449a564ea4c4.f475ca21d0859ab3",
+      "type": 0,
+      "text": "Unhappy gentry",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d40a28b729ee135c",
+      "_key": "!tables.results!3de5449a564ea4c4.d40a28b729ee135c",
+      "type": 0,
+      "text": "Growing mould",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a297742bd0bb7a64",
+      "_key": "!tables.results!3de5449a564ea4c4.a297742bd0bb7a64",
+      "type": 0,
+      "text": "Watchful eyes",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "74307abbd1ecf926",
+      "_key": "!tables.results!3de5449a564ea4c4.74307abbd1ecf926",
+      "type": 0,
+      "text": "Sickly substance",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dbd266e478aeb276",
+      "_key": "!tables.results!3de5449a564ea4c4.dbd266e478aeb276",
+      "type": 0,
+      "text": "Floating grimoire",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c732d377b779de2",
+      "_key": "!tables.results!3de5449a564ea4c4.4c732d377b779de2",
+      "type": 0,
+      "text": "Summoning circle",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0247b7b68f3f629c",
+      "_key": "!tables.results!3de5449a564ea4c4.0247b7b68f3f629c",
+      "type": 0,
+      "text": "Lurking insecurity",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "65276d2e7295350b",
+      "_key": "!tables.results!3de5449a564ea4c4.65276d2e7295350b",
+      "type": 0,
+      "text": "Ceaseless tickling",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a1cbd360e767dd7",
+      "_key": "!tables.results!3de5449a564ea4c4.8a1cbd360e767dd7",
+      "type": 0,
+      "text": "Rat swarm",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c6490dc10d0b0c0d",
+      "_key": "!tables.results!3de5449a564ea4c4.c6490dc10d0b0c0d",
+      "type": 0,
+      "text": "Prowling monster",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "85731f73a724ad6e",
+      "_key": "!tables.results!3de5449a564ea4c4.85731f73a724ad6e",
+      "type": 0,
+      "text": "Ferocious storm",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "24c3e0390f0cfb47",
+      "_key": "!tables.results!3de5449a564ea4c4.24c3e0390f0cfb47",
+      "type": 0,
+      "text": "Cultists",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f9bc7f8a1a1e4bfc",
+      "_key": "!tables.results!3de5449a564ea4c4.f9bc7f8a1a1e4bfc",
+      "type": 0,
+      "text": "Encroaching screeching",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0349ffc207810f1a",
+      "_key": "!tables.results!3de5449a564ea4c4.0349ffc207810f1a",
+      "type": 0,
+      "text": "Meddling sibling",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e69aa034bcc75b62",
+      "_key": "!tables.results!3de5449a564ea4c4.e69aa034bcc75b62",
+      "type": 0,
+      "text": "Disruptive servant",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bbf5bd0e605849f0",
+      "_key": "!tables.results!3de5449a564ea4c4.bbf5bd0e605849f0",
+      "type": 0,
+      "text": "Unhallowed ground",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f6e9e01e55fa18bc",
+      "_key": "!tables.results!3de5449a564ea4c4.f6e9e01e55fa18bc",
+      "type": 0,
+      "text": "Witch hunter",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b53a0fcf5a6aad9",
+      "_key": "!tables.results!3de5449a564ea4c4.5b53a0fcf5a6aad9",
+      "type": 0,
+      "text": "Village mob",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dab6a7d8037d0090",
+      "_key": "!tables.results!3de5449a564ea4c4.dab6a7d8037d0090",
+      "type": 0,
+      "text": "Supernatural lord",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d5191af19fef885",
+      "_key": "!tables.results!3de5449a564ea4c4.0d5191af19fef885",
+      "type": 0,
+      "text": "Indescribable horror",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3453326c7003bd9b",
+      "_key": "!tables.results!3de5449a564ea4c4.3453326c7003bd9b",
+      "type": 0,
+      "text": "Maddening bells",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "61f84c647274a385",
+      "_key": "!tables.results!3de5449a564ea4c4.61f84c647274a385",
+      "type": 0,
+      "text": "Strange reflection",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2db90b4d4e810e87",
+      "_key": "!tables.results!3de5449a564ea4c4.2db90b4d4e810e87",
+      "type": 0,
+      "text": "Pulsing void",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "762bf78acc1a356d",
+      "_key": "!tables.results!3de5449a564ea4c4.762bf78acc1a356d",
+      "type": 0,
+      "text": "Sudden vertigo",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "930024a4b9d07d09",
+      "_key": "!tables.results!3de5449a564ea4c4.930024a4b9d07d09",
+      "type": 0,
+      "text": "Shifting structures",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ce730b5ea10dbc38",
+      "_key": "!tables.results!3de5449a564ea4c4.ce730b5ea10dbc38",
+      "type": 0,
+      "text": "Jealous lover",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e40bb3b634bac990",
+      "_key": "!tables.results!3de5449a564ea4c4.e40bb3b634bac990",
+      "type": 0,
+      "text": "Crushing anxiety",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7a27f1dba55d2b27",
+      "_key": "!tables.results!3de5449a564ea4c4.7a27f1dba55d2b27",
+      "type": 0,
+      "text": "Hidden trap",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "64bd32863bf2e0df",
+      "_key": "!tables.results!3de5449a564ea4c4.64bd32863bf2e0df",
+      "type": 0,
+      "text": "Corrupt constable",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

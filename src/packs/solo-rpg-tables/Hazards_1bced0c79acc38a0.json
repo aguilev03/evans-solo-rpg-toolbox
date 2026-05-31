@@ -1,0 +1,329 @@
+{
+  "_id": "1bced0c79acc38a0",
+  "_key": "!tables!1bced0c79acc38a0",
+  "name": "Hazards",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "dcd7f19015706891",
+      "_key": "!tables.results!1bced0c79acc38a0.dcd7f19015706891",
+      "type": 0,
+      "text": "Acid pits",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ed43c446b275709c",
+      "_key": "!tables.results!1bced0c79acc38a0.ed43c446b275709c",
+      "type": 0,
+      "text": "Allergenic plants",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "34a0bc54dec7aa93",
+      "_key": "!tables.results!1bced0c79acc38a0.34a0bc54dec7aa93",
+      "type": 0,
+      "text": "Ancient dormant illness",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c3630e3d8f525884",
+      "_key": "!tables.results!1bced0c79acc38a0.c3630e3d8f525884",
+      "type": 0,
+      "text": "Curse",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f237dbb517ae1e90",
+      "_key": "!tables.results!1bced0c79acc38a0.f237dbb517ae1e90",
+      "type": 0,
+      "text": "Dangerous footing",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "de9a27fe1e9ad49c",
+      "_key": "!tables.results!1bced0c79acc38a0.de9a27fe1e9ad49c",
+      "type": 0,
+      "text": "Easy to get lost",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5f04c8129c3afed8",
+      "_key": "!tables.results!1bced0c79acc38a0.5f04c8129c3afed8",
+      "type": 0,
+      "text": "Fog",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a9f387683a8da62",
+      "_key": "!tables.results!1bced0c79acc38a0.8a9f387683a8da62",
+      "type": 0,
+      "text": "Fumes (smoke, toxic, etc.)",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ca0e63462fb554b3",
+      "_key": "!tables.results!1bced0c79acc38a0.ca0e63462fb554b3",
+      "type": 0,
+      "text": "Ghosts",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e6b0906c814a3b85",
+      "_key": "!tables.results!1bced0c79acc38a0.e6b0906c814a3b85",
+      "type": 0,
+      "text": "Hallucinogenic spores",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7ba7d480d5b0c92f",
+      "_key": "!tables.results!1bced0c79acc38a0.7ba7d480d5b0c92f",
+      "type": 0,
+      "text": "Hidden pits",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1d0cf81152169abe",
+      "_key": "!tables.results!1bced0c79acc38a0.1d0cf81152169abe",
+      "type": 0,
+      "text": "Hunting traps",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "290b0f61e5f47165",
+      "_key": "!tables.results!1bced0c79acc38a0.290b0f61e5f47165",
+      "type": 0,
+      "text": "Magic corruption",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3f53b17dd9fbd9f",
+      "_key": "!tables.results!1bced0c79acc38a0.b3f53b17dd9fbd9f",
+      "type": 0,
+      "text": "Plague",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b616f2506fa0a736",
+      "_key": "!tables.results!1bced0c79acc38a0.b616f2506fa0a736",
+      "type": 0,
+      "text": "Quicksands",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "22f376a39e306ab9",
+      "_key": "!tables.results!1bced0c79acc38a0.22f376a39e306ab9",
+      "type": 0,
+      "text": "Radiations",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0749201697df918a",
+      "_key": "!tables.results!1bced0c79acc38a0.0749201697df918a",
+      "type": 0,
+      "text": "Sabotage/Trap",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f844e7ffda1d844",
+      "_key": "!tables.results!1bced0c79acc38a0.6f844e7ffda1d844",
+      "type": 0,
+      "text": "Unstable/Likely to break",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "44ee5ff754c6b054",
+      "_key": "!tables.results!1bced0c79acc38a0.44ee5ff754c6b054",
+      "type": 0,
+      "text": "Venomous animals (hornets,",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0c52d6bb4174f912",
+      "_key": "!tables.results!1bced0c79acc38a0.0c52d6bb4174f912",
+      "type": 0,
+      "text": "snakes, scorpions, etc.)",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b44ec5b553f2c75f",
+      "_key": "!tables.results!1bced0c79acc38a0.b44ec5b553f2c75f",
+      "type": 0,
+      "text": "Volcanic area",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,554 @@
+{
+  "_id": "4b8cba93952480b2",
+  "_key": "!tables!4b8cba93952480b2",
+  "name": "Noir Obligations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a noir obligation.",
+  "results": [
+    {
+      "_id": "b37b4e4721a697f4",
+      "_key": "!tables.results!4b8cba93952480b2.b37b4e4721a697f4",
+      "type": 0,
+      "text": "Help a sick partner",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0dc788193973e445",
+      "_key": "!tables.results!4b8cba93952480b2.0dc788193973e445",
+      "type": 0,
+      "text": "Manage alcoholism",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "065265389676ce24",
+      "_key": "!tables.results!4b8cba93952480b2.065265389676ce24",
+      "type": 0,
+      "text": "Rekindle a relationship",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2dbdd7e9f623cdaa",
+      "_key": "!tables.results!4b8cba93952480b2.2dbdd7e9f623cdaa",
+      "type": 0,
+      "text": "Pay off debts",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3298ad0048c2afa5",
+      "_key": "!tables.results!4b8cba93952480b2.3298ad0048c2afa5",
+      "type": 0,
+      "text": "Overcome a trauma",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c85573d2c338822f",
+      "_key": "!tables.results!4b8cba93952480b2.c85573d2c338822f",
+      "type": 0,
+      "text": "Protect a person",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "944d5b39c10733d2",
+      "_key": "!tables.results!4b8cba93952480b2.944d5b39c10733d2",
+      "type": 0,
+      "text": "Manage a disability",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b41dd8b1c43891f",
+      "_key": "!tables.results!4b8cba93952480b2.5b41dd8b1c43891f",
+      "type": 0,
+      "text": "Protect a secret",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7bda53bca700c3d3",
+      "_key": "!tables.results!4b8cba93952480b2.7bda53bca700c3d3",
+      "type": 0,
+      "text": "Absolve sins",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "35fe2e78bf548573",
+      "_key": "!tables.results!4b8cba93952480b2.35fe2e78bf548573",
+      "type": 0,
+      "text": "Fuel a drug addiction",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f42e6d55bbe20274",
+      "_key": "!tables.results!4b8cba93952480b2.f42e6d55bbe20274",
+      "type": 0,
+      "text": "Indulge dark urges",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "838c84785b4b5514",
+      "_key": "!tables.results!4b8cba93952480b2.838c84785b4b5514",
+      "type": 0,
+      "text": "Be a good parent",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b396c497ad707687",
+      "_key": "!tables.results!4b8cba93952480b2.b396c497ad707687",
+      "type": 0,
+      "text": "Escape the rat race",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "369e8462f4eea171",
+      "_key": "!tables.results!4b8cba93952480b2.369e8462f4eea171",
+      "type": 0,
+      "text": "Repair a marriage",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c79014f1c6ded845",
+      "_key": "!tables.results!4b8cba93952480b2.c79014f1c6ded845",
+      "type": 0,
+      "text": "Write a novel",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "23b672d77bfdb865",
+      "_key": "!tables.results!4b8cba93952480b2.23b672d77bfdb865",
+      "type": 0,
+      "text": "Volunteer locally",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3a9cb202c03f75a",
+      "_key": "!tables.results!4b8cba93952480b2.b3a9cb202c03f75a",
+      "type": 0,
+      "text": "Preserve a legacy",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "695e39bcdd1b53ae",
+      "_key": "!tables.results!4b8cba93952480b2.695e39bcdd1b53ae",
+      "type": 0,
+      "text": "Care for a pet",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6d4265e00090bd53",
+      "_key": "!tables.results!4b8cba93952480b2.6d4265e00090bd53",
+      "type": 0,
+      "text": "Hide an affair",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9b67bcd28d999d44",
+      "_key": "!tables.results!4b8cba93952480b2.9b67bcd28d999d44",
+      "type": 0,
+      "text": "Run a family business",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa665866a6c2fb0d",
+      "_key": "!tables.results!4b8cba93952480b2.aa665866a6c2fb0d",
+      "type": 0,
+      "text": "Mentor youth",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "875c55fd573cf536",
+      "_key": "!tables.results!4b8cba93952480b2.875c55fd573cf536",
+      "type": 0,
+      "text": "Work at a day job",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "996335f0080712e6",
+      "_key": "!tables.results!4b8cba93952480b2.996335f0080712e6",
+      "type": 0,
+      "text": "Remain undiscovered",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c4f0cfedeb0092b0",
+      "_key": "!tables.results!4b8cba93952480b2.c4f0cfedeb0092b0",
+      "type": 0,
+      "text": "Topple an organisation",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "04c9729ca76545d1",
+      "_key": "!tables.results!4b8cba93952480b2.04c9729ca76545d1",
+      "type": 0,
+      "text": "Prove your innocence",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8cc67d5ba5d3940b",
+      "_key": "!tables.results!4b8cba93952480b2.8cc67d5ba5d3940b",
+      "type": 0,
+      "text": "Stalk your next victim",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "66e6421d5a26c8e2",
+      "_key": "!tables.results!4b8cba93952480b2.66e6421d5a26c8e2",
+      "type": 0,
+      "text": "Attend therapy",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8aa86104cfd662c",
+      "_key": "!tables.results!4b8cba93952480b2.d8aa86104cfd662c",
+      "type": 0,
+      "text": "Continue education",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dce0eb08536e1cdd",
+      "_key": "!tables.results!4b8cba93952480b2.dce0eb08536e1cdd",
+      "type": 0,
+      "text": "Reclaim an old career",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0de00369745ff6ce",
+      "_key": "!tables.results!4b8cba93952480b2.0de00369745ff6ce",
+      "type": 0,
+      "text": "Remain stable",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d1c1c412034a1c1",
+      "_key": "!tables.results!4b8cba93952480b2.9d1c1c412034a1c1",
+      "type": 0,
+      "text": "Obey secret society",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cb2682bc763432f7",
+      "_key": "!tables.results!4b8cba93952480b2.cb2682bc763432f7",
+      "type": 0,
+      "text": "Track a missing item",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f888f6717c3ce81c",
+      "_key": "!tables.results!4b8cba93952480b2.f888f6717c3ce81c",
+      "type": 0,
+      "text": "Win a legal battle",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "30706a71ce67d959",
+      "_key": "!tables.results!4b8cba93952480b2.30706a71ce67d959",
+      "type": 0,
+      "text": "Get revenge",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0dde1367c83dcb8a",
+      "_key": "!tables.results!4b8cba93952480b2.0dde1367c83dcb8a",
+      "type": 0,
+      "text": "Find peace",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f281b62854edda74",
+      "_key": "!tables.results!4b8cba93952480b2.f281b62854edda74",
+      "type": 0,
+      "text": "Tend to a garden",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

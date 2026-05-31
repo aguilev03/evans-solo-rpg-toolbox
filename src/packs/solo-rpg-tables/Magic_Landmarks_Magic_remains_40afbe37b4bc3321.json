@@ -1,0 +1,164 @@
+{
+  "_id": "40afbe37b4bc3321",
+  "_key": "!tables!40afbe37b4bc3321",
+  "name": "Magic Landmarks Magic remains",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "cd57d0e8ff5e6123",
+      "_key": "!tables.results!40afbe37b4bc3321.cd57d0e8ff5e6123",
+      "type": 0,
+      "text": "Area covered with fairy dust",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d22e20568c3f6210",
+      "_key": "!tables.results!40afbe37b4bc3321.d22e20568c3f6210",
+      "type": 0,
+      "text": "Bloody altar",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f3e99caabad9250",
+      "_key": "!tables.results!40afbe37b4bc3321.8f3e99caabad9250",
+      "type": 0,
+      "text": "Corpse covered in crystals",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7e37b46a42b5dd26",
+      "_key": "!tables.results!40afbe37b4bc3321.7e37b46a42b5dd26",
+      "type": 0,
+      "text": "Corrupt area",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e368bc0228780cc8",
+      "_key": "!tables.results!40afbe37b4bc3321.e368bc0228780cc8",
+      "type": 0,
+      "text": "Destroyed golem",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13984d46ae826e9d",
+      "_key": "!tables.results!40afbe37b4bc3321.13984d46ae826e9d",
+      "type": 0,
+      "text": "Magic battlefield",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a573a3a11d258fa",
+      "_key": "!tables.results!40afbe37b4bc3321.6a573a3a11d258fa",
+      "type": 0,
+      "text": "Old shrine",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "37a32aa9948d0865",
+      "_key": "!tables.results!40afbe37b4bc3321.37a32aa9948d0865",
+      "type": 0,
+      "text": "Petrified travelers",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f65b1f95f0c61ae",
+      "_key": "!tables.results!40afbe37b4bc3321.6f65b1f95f0c61ae",
+      "type": 0,
+      "text": "Remnants of a ceremony",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3d79bd6492a45632",
+      "_key": "!tables.results!40afbe37b4bc3321.3d79bd6492a45632",
+      "type": 0,
+      "text": "Signs of an explosion",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

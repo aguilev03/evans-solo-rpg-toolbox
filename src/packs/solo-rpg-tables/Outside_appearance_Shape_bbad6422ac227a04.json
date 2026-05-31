@@ -1,0 +1,134 @@
+{
+  "_id": "bbad6422ac227a04",
+  "_key": "!tables!bbad6422ac227a04",
+  "name": "Outside appearance Shape",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "2ab3a4b7fe23c011",
+      "_key": "!tables.results!bbad6422ac227a04.2ab3a4b7fe23c011",
+      "type": 0,
+      "text": "Square",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "92e9600fbcb54857",
+      "_key": "!tables.results!bbad6422ac227a04.92e9600fbcb54857",
+      "type": 0,
+      "text": "Round",
+      "weight": 1,
+      "range": [
+        6,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9233dd2dc08aaf3c",
+      "_key": "!tables.results!bbad6422ac227a04.9233dd2dc08aaf3c",
+      "type": 0,
+      "text": "Conical",
+      "weight": 1,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9ca83ced7c9564a5",
+      "_key": "!tables.results!bbad6422ac227a04.9ca83ced7c9564a5",
+      "type": 0,
+      "text": "Tilted",
+      "weight": 1,
+      "range": [
+        14,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "16b1dcdce7689331",
+      "_key": "!tables.results!bbad6422ac227a04.16b1dcdce7689331",
+      "type": 0,
+      "text": "Asymmetrical",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0fb573cb513a81a0",
+      "_key": "!tables.results!bbad6422ac227a04.0fb573cb513a81a0",
+      "type": 0,
+      "text": "S-shaped",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e9c0bb2b5b6e9fd",
+      "_key": "!tables.results!bbad6422ac227a04.1e9c0bb2b5b6e9fd",
+      "type": 0,
+      "text": "Stacked",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e986feafcd66e2e",
+      "_key": "!tables.results!bbad6422ac227a04.3e986feafcd66e2e",
+      "type": 0,
+      "text": "Twisted",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

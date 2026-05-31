@@ -1,0 +1,164 @@
+{
+  "_id": "f38f8e777e5659cf",
+  "_key": "!tables!f38f8e777e5659cf",
+  "name": "Magic Landmarks Enchanted item",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "cb1ccaba7c998a87",
+      "_key": "!tables.results!f38f8e777e5659cf.cb1ccaba7c998a87",
+      "type": 0,
+      "text": "Curative basin",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b64442e344a0c138",
+      "_key": "!tables.results!f38f8e777e5659cf.b64442e344a0c138",
+      "type": 0,
+      "text": "Enchanted bell",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "873e70ee0194ae83",
+      "_key": "!tables.results!f38f8e777e5659cf.873e70ee0194ae83",
+      "type": 0,
+      "text": "Fertility stone",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e4486abbe484130",
+      "_key": "!tables.results!f38f8e777e5659cf.1e4486abbe484130",
+      "type": 0,
+      "text": "Magic fountain/spring",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f14bab9a37c36ee",
+      "_key": "!tables.results!f38f8e777e5659cf.6f14bab9a37c36ee",
+      "type": 0,
+      "text": "Magic fruits tree",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dc1db3f17884640a",
+      "_key": "!tables.results!f38f8e777e5659cf.dc1db3f17884640a",
+      "type": 0,
+      "text": "Mutation pit",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3bcc8956753430df",
+      "_key": "!tables.results!f38f8e777e5659cf.3bcc8956753430df",
+      "type": 0,
+      "text": "Stone of knowledge",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bb9265d3509439de",
+      "_key": "!tables.results!f38f8e777e5659cf.bb9265d3509439de",
+      "type": 0,
+      "text": "Sword stuck in a rock",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9aafff35da0442dc",
+      "_key": "!tables.results!f38f8e777e5659cf.9aafff35da0442dc",
+      "type": 0,
+      "text": "Visions pool",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b7ff9fb5a40b4a3e",
+      "_key": "!tables.results!f38f8e777e5659cf.b7ff9fb5a40b4a3e",
+      "type": 0,
+      "text": "Witch cauldron",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

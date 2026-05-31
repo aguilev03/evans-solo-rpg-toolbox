@@ -1,0 +1,554 @@
+{
+  "_id": "8821d44201007a5e",
+  "_key": "!tables!8821d44201007a5e",
+  "name": "Horror Clues",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a clue with a horror theme.",
+  "results": [
+    {
+      "_id": "1c9bd7859d55dda2",
+      "_key": "!tables.results!8821d44201007a5e.1c9bd7859d55dda2",
+      "type": 0,
+      "text": "Repeated phrase",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f62867320b4a5ced",
+      "_key": "!tables.results!8821d44201007a5e.f62867320b4a5ced",
+      "type": 0,
+      "text": "Suspicious package",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d50b16be8ccb870e",
+      "_key": "!tables.results!8821d44201007a5e.d50b16be8ccb870e",
+      "type": 0,
+      "text": "False account",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "989e82067094ab24",
+      "_key": "!tables.results!8821d44201007a5e.989e82067094ab24",
+      "type": 0,
+      "text": "Family deed",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b0870165fc8ab466",
+      "_key": "!tables.results!8821d44201007a5e.b0870165fc8ab466",
+      "type": 0,
+      "text": "Drug stash",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13f13a61991c7d98",
+      "_key": "!tables.results!8821d44201007a5e.13f13a61991c7d98",
+      "type": 0,
+      "text": "Town gossip",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c3bfb2e775db1a6",
+      "_key": "!tables.results!8821d44201007a5e.4c3bfb2e775db1a6",
+      "type": 0,
+      "text": "Hidden crawlspace",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17c2b27e41940442",
+      "_key": "!tables.results!8821d44201007a5e.17c2b27e41940442",
+      "type": 0,
+      "text": "Memory fragment",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb38e69c12400f6b",
+      "_key": "!tables.results!8821d44201007a5e.eb38e69c12400f6b",
+      "type": 0,
+      "text": "Unfinished ritual",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ba80db577022611",
+      "_key": "!tables.results!8821d44201007a5e.4ba80db577022611",
+      "type": 0,
+      "text": "Prophetic visions",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "feae29e126b09ecf",
+      "_key": "!tables.results!8821d44201007a5e.feae29e126b09ecf",
+      "type": 0,
+      "text": "Esoteric sight",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "631f891039b9e69b",
+      "_key": "!tables.results!8821d44201007a5e.631f891039b9e69b",
+      "type": 0,
+      "text": "Bribe",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62f366c7c65be09c",
+      "_key": "!tables.results!8821d44201007a5e.62f366c7c65be09c",
+      "type": 0,
+      "text": "Out of place weapon",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a586f304ee2be45f",
+      "_key": "!tables.results!8821d44201007a5e.a586f304ee2be45f",
+      "type": 0,
+      "text": "Unearthed remains",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "54ee35c30dcecf61",
+      "_key": "!tables.results!8821d44201007a5e.54ee35c30dcecf61",
+      "type": 0,
+      "text": "Cursed bloodline",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e6f88ab1310b5835",
+      "_key": "!tables.results!8821d44201007a5e.e6f88ab1310b5835",
+      "type": 0,
+      "text": "Lost diary",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a83fdc0f7b255e9a",
+      "_key": "!tables.results!8821d44201007a5e.a83fdc0f7b255e9a",
+      "type": 0,
+      "text": "Stashed toxins",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "870ed37b0235c516",
+      "_key": "!tables.results!8821d44201007a5e.870ed37b0235c516",
+      "type": 0,
+      "text": "Forbidden knowledge",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c236ca86ac1f8eae",
+      "_key": "!tables.results!8821d44201007a5e.c236ca86ac1f8eae",
+      "type": 0,
+      "text": "Scrawlings",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dee1a7163845bda5",
+      "_key": "!tables.results!8821d44201007a5e.dee1a7163845bda5",
+      "type": 0,
+      "text": "Scandal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "55690510ec0924ee",
+      "_key": "!tables.results!8821d44201007a5e.55690510ec0924ee",
+      "type": 0,
+      "text": "Revealing letter",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "18abf4d489a2c08c",
+      "_key": "!tables.results!8821d44201007a5e.18abf4d489a2c08c",
+      "type": 0,
+      "text": "Powerful artefact",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17a6407a474d8416",
+      "_key": "!tables.results!8821d44201007a5e.17a6407a474d8416",
+      "type": 0,
+      "text": "Familiar melody",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "de18a0512e3c3310",
+      "_key": "!tables.results!8821d44201007a5e.de18a0512e3c3310",
+      "type": 0,
+      "text": "Half-destroyed papers",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ad5a52f2c461a87",
+      "_key": "!tables.results!8821d44201007a5e.2ad5a52f2c461a87",
+      "type": 0,
+      "text": "Notable absence",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "95cb3ef4c4a8fccb",
+      "_key": "!tables.results!8821d44201007a5e.95cb3ef4c4a8fccb",
+      "type": 0,
+      "text": "Absent hour",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "78d232cd8f2362d5",
+      "_key": "!tables.results!8821d44201007a5e.78d232cd8f2362d5",
+      "type": 0,
+      "text": "Family tree",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4abbc61936ce0cc8",
+      "_key": "!tables.results!8821d44201007a5e.4abbc61936ce0cc8",
+      "type": 0,
+      "text": "Suspect motivation",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6b7e211578d1befa",
+      "_key": "!tables.results!8821d44201007a5e.6b7e211578d1befa",
+      "type": 0,
+      "text": "Obsession",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f3ca5fcf863096f",
+      "_key": "!tables.results!8821d44201007a5e.3f3ca5fcf863096f",
+      "type": 0,
+      "text": "Last will and testament",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "20e36773943b9037",
+      "_key": "!tables.results!8821d44201007a5e.20e36773943b9037",
+      "type": 0,
+      "text": "Odd sensation",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "136922170b2eda81",
+      "_key": "!tables.results!8821d44201007a5e.136922170b2eda81",
+      "type": 0,
+      "text": "Unstable behaviour",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84290b0eb76dfb5b",
+      "_key": "!tables.results!8821d44201007a5e.84290b0eb76dfb5b",
+      "type": 0,
+      "text": "Personal trace",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "27066b83a4613996",
+      "_key": "!tables.results!8821d44201007a5e.27066b83a4613996",
+      "type": 0,
+      "text": "Distinct smell",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1d082a27c27851ca",
+      "_key": "!tables.results!8821d44201007a5e.1d082a27c27851ca",
+      "type": 0,
+      "text": "Patron",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "880da52902ee0b7f",
+      "_key": "!tables.results!8821d44201007a5e.880da52902ee0b7f",
+      "type": 0,
+      "text": "Strange remnants",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

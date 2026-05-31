@@ -1,0 +1,554 @@
+{
+  "_id": "7d355d85d3985a11",
+  "_key": "!tables!7d355d85d3985a11",
+  "name": "Sci-Fi Clues",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a clue with a sci-fi theme.",
+  "results": [
+    {
+      "_id": "8dd11fb289cf5ead",
+      "_key": "!tables.results!7d355d85d3985a11.8dd11fb289cf5ead",
+      "type": 0,
+      "text": "Digital footprint",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "173e3d78cf314565",
+      "_key": "!tables.results!7d355d85d3985a11.173e3d78cf314565",
+      "type": 0,
+      "text": "Disembodied implant",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f16a3ed5826edc55",
+      "_key": "!tables.results!7d355d85d3985a11.f16a3ed5826edc55",
+      "type": 0,
+      "text": "Distinct damage",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e7d1a19c620dcbc8",
+      "_key": "!tables.results!7d355d85d3985a11.e7d1a19c620dcbc8",
+      "type": 0,
+      "text": "Nanite liquid",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f51a0c3984747650",
+      "_key": "!tables.results!7d355d85d3985a11.f51a0c3984747650",
+      "type": 0,
+      "text": "Weird coordinates",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "78bb7cfaa2d0453e",
+      "_key": "!tables.results!7d355d85d3985a11.78bb7cfaa2d0453e",
+      "type": 0,
+      "text": "Biometric data",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3a7d665326aae6b",
+      "_key": "!tables.results!7d355d85d3985a11.b3a7d665326aae6b",
+      "type": 0,
+      "text": "Timestamp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a9e242a552cd2de2",
+      "_key": "!tables.results!7d355d85d3985a11.a9e242a552cd2de2",
+      "type": 0,
+      "text": "Tampered electronics",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b2eb2a232e017aad",
+      "_key": "!tables.results!7d355d85d3985a11.b2eb2a232e017aad",
+      "type": 0,
+      "text": "Redacted documents",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "985a9e5d7b8ffffa",
+      "_key": "!tables.results!7d355d85d3985a11.985a9e5d7b8ffffa",
+      "type": 0,
+      "text": "Digital files",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d231e23924a84333",
+      "_key": "!tables.results!7d355d85d3985a11.d231e23924a84333",
+      "type": 0,
+      "text": "Hidden agenda",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "36187437bbdd5f1e",
+      "_key": "!tables.results!7d355d85d3985a11.36187437bbdd5f1e",
+      "type": 0,
+      "text": "Unpaid debts",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "121e5284e145e956",
+      "_key": "!tables.results!7d355d85d3985a11.121e5284e145e956",
+      "type": 0,
+      "text": "Encrypted server",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8547c9d14ef51e34",
+      "_key": "!tables.results!7d355d85d3985a11.8547c9d14ef51e34",
+      "type": 0,
+      "text": "Bug-out bag",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0440fdf6a3dad578",
+      "_key": "!tables.results!7d355d85d3985a11.0440fdf6a3dad578",
+      "type": 0,
+      "text": "Spray tag",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f73e9065a9b5a736",
+      "_key": "!tables.results!7d355d85d3985a11.f73e9065a9b5a736",
+      "type": 0,
+      "text": "Audio log",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c4db7351c4987a40",
+      "_key": "!tables.results!7d355d85d3985a11.c4db7351c4987a40",
+      "type": 0,
+      "text": "Mechanical remains",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02b7050981cc7136",
+      "_key": "!tables.results!7d355d85d3985a11.02b7050981cc7136",
+      "type": 0,
+      "text": "Unregistered implant",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "06a002729b9dda07",
+      "_key": "!tables.results!7d355d85d3985a11.06a002729b9dda07",
+      "type": 0,
+      "text": "Altered surveillance",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "db3bc7cd7943f2e2",
+      "_key": "!tables.results!7d355d85d3985a11.db3bc7cd7943f2e2",
+      "type": 0,
+      "text": "Strange biology",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5ac857a63b791864",
+      "_key": "!tables.results!7d355d85d3985a11.5ac857a63b791864",
+      "type": 0,
+      "text": "Unidentified object",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7e67ff808dfff469",
+      "_key": "!tables.results!7d355d85d3985a11.7e67ff808dfff469",
+      "type": 0,
+      "text": "Unlogged cargo",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b4ee1446a15bef80",
+      "_key": "!tables.results!7d355d85d3985a11.b4ee1446a15bef80",
+      "type": 0,
+      "text": "Scientific research",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "96eacef601f48399",
+      "_key": "!tables.results!7d355d85d3985a11.96eacef601f48399",
+      "type": 0,
+      "text": "Evidence of life",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6fc4771812b08db2",
+      "_key": "!tables.results!7d355d85d3985a11.6fc4771812b08db2",
+      "type": 0,
+      "text": "Televised report",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "04d93013322c0bf3",
+      "_key": "!tables.results!7d355d85d3985a11.04d93013322c0bf3",
+      "type": 0,
+      "text": "Destroyed ship",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f9563bdc3aab3052",
+      "_key": "!tables.results!7d355d85d3985a11.f9563bdc3aab3052",
+      "type": 0,
+      "text": "DNA mismatch",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "412e50ebd91ff36f",
+      "_key": "!tables.results!7d355d85d3985a11.412e50ebd91ff36f",
+      "type": 0,
+      "text": "Biological sample",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "69e878f6c0bd2cb9",
+      "_key": "!tables.results!7d355d85d3985a11.69e878f6c0bd2cb9",
+      "type": 0,
+      "text": "Camera footage",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6b8e1261c5402254",
+      "_key": "!tables.results!7d355d85d3985a11.6b8e1261c5402254",
+      "type": 0,
+      "text": "Encrypted message",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc0e0b35d6a85b52",
+      "_key": "!tables.results!7d355d85d3985a11.bc0e0b35d6a85b52",
+      "type": 0,
+      "text": "Heightened security",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "791a6e371f9715f0",
+      "_key": "!tables.results!7d355d85d3985a11.791a6e371f9715f0",
+      "type": 0,
+      "text": "Distress signal",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eba28d0855c7197f",
+      "_key": "!tables.results!7d355d85d3985a11.eba28d0855c7197f",
+      "type": 0,
+      "text": "Altered data",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6189d882ff7dd9ec",
+      "_key": "!tables.results!7d355d85d3985a11.6189d882ff7dd9ec",
+      "type": 0,
+      "text": "Black-market lead",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "de74e20869e38315",
+      "_key": "!tables.results!7d355d85d3985a11.de74e20869e38315",
+      "type": 0,
+      "text": "Nefarious plans",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "93ebbf9aef279436",
+      "_key": "!tables.results!7d355d85d3985a11.93ebbf9aef279436",
+      "type": 0,
+      "text": "Planetary anomaly",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

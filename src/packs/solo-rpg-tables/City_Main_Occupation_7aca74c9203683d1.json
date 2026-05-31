@@ -1,0 +1,194 @@
+{
+  "_id": "7aca74c9203683d1",
+  "_key": "!tables!7aca74c9203683d1",
+  "name": "City Main Occupation",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "7e8b0a783ecd1641",
+      "_key": "!tables.results!7aca74c9203683d1.7e8b0a783ecd1641",
+      "type": 0,
+      "text": "Brewing (breweries) or",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9cfb7286427cee09",
+      "_key": "!tables.results!7aca74c9203683d1.9cfb7286427cee09",
+      "type": 0,
+      "text": "Viticulture (vineyard)",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8eea0bc789f94f6b",
+      "_key": "!tables.results!7aca74c9203683d1.8eea0bc789f94f6b",
+      "type": 0,
+      "text": "Cattle breeding",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a942d76c461d0d43",
+      "_key": "!tables.results!7aca74c9203683d1.a942d76c461d0d43",
+      "type": 0,
+      "text": "(farms, meadows)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f71f680514eb6975",
+      "_key": "!tables.results!7aca74c9203683d1.f71f680514eb6975",
+      "type": 0,
+      "text": "Farming crops (farms, fields)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4275f0e5c78c172e",
+      "_key": "!tables.results!7aca74c9203683d1.4275f0e5c78c172e",
+      "type": 0,
+      "text": "Fishing (fishery)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "60b6fc4788a39870",
+      "_key": "!tables.results!7aca74c9203683d1.60b6fc4788a39870",
+      "type": 0,
+      "text": "Hunting (tannery)",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6ec8fa4a51bae9df",
+      "_key": "!tables.results!7aca74c9203683d1.6ec8fa4a51bae9df",
+      "type": 0,
+      "text": "Logging (sawmills)",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a15cb64f414afe3",
+      "_key": "!tables.results!7aca74c9203683d1.8a15cb64f414afe3",
+      "type": 0,
+      "text": "Metallurgy (forge, foundry)",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "15ffa448f1d344fa",
+      "_key": "!tables.results!7aca74c9203683d1.15ffa448f1d344fa",
+      "type": 0,
+      "text": "Mining (mine)",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4b29ea6dfb68e31e",
+      "_key": "!tables.results!7aca74c9203683d1.4b29ea6dfb68e31e",
+      "type": 0,
+      "text": "Pottery (workshop)",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "496303304095ca0c",
+      "_key": "!tables.results!7aca74c9203683d1.496303304095ca0c",
+      "type": 0,
+      "text": "Trading (caravanserai/port)",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

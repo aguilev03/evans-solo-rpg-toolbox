@@ -1,0 +1,59 @@
+{
+  "_id": "56555dc778f2a456",
+  "_key": "!tables!56555dc778f2a456",
+  "name": "Castle Towers & Walls",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "66299747318c1c87",
+      "_key": "!tables.results!56555dc778f2a456.66299747318c1c87",
+      "type": 0,
+      "text": "Square",
+      "weight": 1,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a04c8467fe6c8d6d",
+      "_key": "!tables.results!56555dc778f2a456.a04c8467fe6c8d6d",
+      "type": 0,
+      "text": "Round",
+      "weight": 1,
+      "range": [
+        4,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "95aa4facefb7001f",
+      "_key": "!tables.results!56555dc778f2a456.95aa4facefb7001f",
+      "type": 0,
+      "text": "Polygonal (3, 6 or 8 sides)",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

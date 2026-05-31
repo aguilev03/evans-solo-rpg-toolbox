@@ -1,0 +1,209 @@
+{
+  "_id": "0e31c66fad78b902",
+  "_key": "!tables!0e31c66fad78b902",
+  "name": "Abbey History",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "f50e0b2500c9f433",
+      "_key": "!tables.results!0e31c66fad78b902.f50e0b2500c9f433",
+      "type": 0,
+      "text": "Abandoned then used again",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b8f9d3ba090233b",
+      "_key": "!tables.results!0e31c66fad78b902.7b8f9d3ba090233b",
+      "type": 0,
+      "text": "Changed confession",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c5f406d8f155564",
+      "_key": "!tables.results!0e31c66fad78b902.9c5f406d8f155564",
+      "type": 0,
+      "text": "Claimed its autonomy",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3ac7db48fccae38e",
+      "_key": "!tables.results!0e31c66fad78b902.3ac7db48fccae38e",
+      "type": 0,
+      "text": "Destroyed then rebuilt",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1ad9c68c2260946d",
+      "_key": "!tables.results!0e31c66fad78b902.1ad9c68c2260946d",
+      "type": 0,
+      "text": "Founded 2d10 × 10 years ago",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f0ef16872eaea820",
+      "_key": "!tables.results!0e31c66fad78b902.f0ef16872eaea820",
+      "type": 0,
+      "text": "Has seen better days",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be86f691d3b11d06",
+      "_key": "!tables.results!0e31c66fad78b902.be86f691d3b11d06",
+      "type": 0,
+      "text": "Only one original building",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0a3a3ac96d12a0da",
+      "_key": "!tables.results!0e31c66fad78b902.0a3a3ac96d12a0da",
+      "type": 0,
+      "text": "remains",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "524db66054e6cb69",
+      "_key": "!tables.results!0e31c66fad78b902.524db66054e6cb69",
+      "type": 0,
+      "text": "Sponsored by a rich patron",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dad472a9e8d3ccba",
+      "_key": "!tables.results!0e31c66fad78b902.dad472a9e8d3ccba",
+      "type": 0,
+      "text": "Started as a knight hermitage",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a48069144cadd520",
+      "_key": "!tables.results!0e31c66fad78b902.a48069144cadd520",
+      "type": 0,
+      "text": "Used to be a boarding school",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a84897af4407f0c",
+      "_key": "!tables.results!0e31c66fad78b902.8a84897af4407f0c",
+      "type": 0,
+      "text": "Was relocated",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e9eb7afac2b53de",
+      "_key": "!tables.results!0e31c66fad78b902.4e9eb7afac2b53de",
+      "type": 0,
+      "text": "Was under a spell",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

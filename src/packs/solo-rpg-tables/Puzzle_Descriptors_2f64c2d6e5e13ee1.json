@@ -1,0 +1,1514 @@
+{
+  "_id": "2f64c2d6e5e13ee1",
+  "_key": "!tables!2f64c2d6e5e13ee1",
+  "name": "Puzzle Descriptors",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Name Meaning Table Elements - Puzzle Descriptors",
+  "results": [
+    {
+      "_id": "86f1e771c44c7789",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.86f1e771c44c7789",
+      "type": 0,
+      "text": "Access",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d9a1a9d67320df0d",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.d9a1a9d67320df0d",
+      "type": 0,
+      "text": "Active",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "366a364769bfcd84",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.366a364769bfcd84",
+      "type": 0,
+      "text": "Amusing",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "91b7993dfa7c68b6",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.91b7993dfa7c68b6",
+      "type": 0,
+      "text": "Anxious",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7dbde51dafc02119",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.7dbde51dafc02119",
+      "type": 0,
+      "text": "Art",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0ac011a9d7c39b98",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.0ac011a9d7c39b98",
+      "type": 0,
+      "text": "Assist",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8c17225f7b27c4af",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.8c17225f7b27c4af",
+      "type": 0,
+      "text": "Attain",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b389b5d6ae57d50",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.5b389b5d6ae57d50",
+      "type": 0,
+      "text": "Balance",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53165f5328b4ca65",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.53165f5328b4ca65",
+      "type": 0,
+      "text": "Barrier",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2404b8c544fd4a46",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.2404b8c544fd4a46",
+      "type": 0,
+      "text": "Beautiful",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e6e29ef29eb5bbf2",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.e6e29ef29eb5bbf2",
+      "type": 0,
+      "text": "Bizarre",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7accba5952ab6901",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.7accba5952ab6901",
+      "type": 0,
+      "text": "Brave",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "52b672b9d815b06f",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.52b672b9d815b06f",
+      "type": 0,
+      "text": "Careful",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3bcd7e74511f574a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.3bcd7e74511f574a",
+      "type": 0,
+      "text": "Caution",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0c0a62cd8daefab7",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.0c0a62cd8daefab7",
+      "type": 0,
+      "text": "Change",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9fbf461890bfc314",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.9fbf461890bfc314",
+      "type": 0,
+      "text": "Choice",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "48b66be59b10e5c4",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.48b66be59b10e5c4",
+      "type": 0,
+      "text": "Code",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "27cdca39235ac746",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.27cdca39235ac746",
+      "type": 0,
+      "text": "Colorful",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a00429e839c96188",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.a00429e839c96188",
+      "type": 0,
+      "text": "Combination",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3a0d1b72e8e71672",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.3a0d1b72e8e71672",
+      "type": 0,
+      "text": "Communicate",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82aaaf1e7cff17b6",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.82aaaf1e7cff17b6",
+      "type": 0,
+      "text": "Competition",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0fcccf80e27819ae",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.0fcccf80e27819ae",
+      "type": 0,
+      "text": "Complete",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d2c751b45e398b36",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.d2c751b45e398b36",
+      "type": 0,
+      "text": "Controls",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "06ccc23e0bd9bb3a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.06ccc23e0bd9bb3a",
+      "type": 0,
+      "text": "Countdown",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c5c6dc36b9e9641",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.4c5c6dc36b9e9641",
+      "type": 0,
+      "text": "Damaged",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d0591fa493893685",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.d0591fa493893685",
+      "type": 0,
+      "text": "Danger",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "971396e8a04984c3",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.971396e8a04984c3",
+      "type": 0,
+      "text": "Delicate",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "387ee149f12a99a0",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.387ee149f12a99a0",
+      "type": 0,
+      "text": "Disarm",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "38a4bb576a8eb379",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.38a4bb576a8eb379",
+      "type": 0,
+      "text": "Dismantle",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b16583c818ab4262",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.b16583c818ab4262",
+      "type": 0,
+      "text": "Disrupt",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d8425419269d603",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.0d8425419269d603",
+      "type": 0,
+      "text": "Elements",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "89696280f3144953",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.89696280f3144953",
+      "type": 0,
+      "text": "Enemy",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "427923edc9141dc0",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.427923edc9141dc0",
+      "type": 0,
+      "text": "Energy",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c235b813b807027",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.7c235b813b807027",
+      "type": 0,
+      "text": "Environment",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3db9597029d9073",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.f3db9597029d9073",
+      "type": 0,
+      "text": "Extravagant",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be0eb38a8d1a9392",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.be0eb38a8d1a9392",
+      "type": 0,
+      "text": "Fear",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4d75647e6816bdd3",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.4d75647e6816bdd3",
+      "type": 0,
+      "text": "Frantic",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "682317c251029f79",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.682317c251029f79",
+      "type": 0,
+      "text": "Free",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "80d1ff0af3949e01",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.80d1ff0af3949e01",
+      "type": 0,
+      "text": "Frightening",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ccf0f3a91e179dce",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.ccf0f3a91e179dce",
+      "type": 0,
+      "text": "Game",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0dfa1e09125c212a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.0dfa1e09125c212a",
+      "type": 0,
+      "text": "Goal",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f824d823f1e5a7a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.6f824d823f1e5a7a",
+      "type": 0,
+      "text": "Harm",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "66ca8b1c2a9d1c7a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.66ca8b1c2a9d1c7a",
+      "type": 0,
+      "text": "Historical",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d6d309c9d3179b69",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.d6d309c9d3179b69",
+      "type": 0,
+      "text": "Imitate",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aad86c83e7c753fd",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.aad86c83e7c753fd",
+      "type": 0,
+      "text": "Information",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "25bbf7de10fe07b6",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.25bbf7de10fe07b6",
+      "type": 0,
+      "text": "Innocent",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6af26ac84b1174de",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.6af26ac84b1174de",
+      "type": 0,
+      "text": "Inquire",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "52bfabccf335479c",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.52bfabccf335479c",
+      "type": 0,
+      "text": "Inscription",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "70b5ffcae28efa0f",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.70b5ffcae28efa0f",
+      "type": 0,
+      "text": "Inside",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5bf280caf94918bd",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.5bf280caf94918bd",
+      "type": 0,
+      "text": "Inspect",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2775a4f7877e04e0",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.2775a4f7877e04e0",
+      "type": 0,
+      "text": "Intellect",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "424c2718e14ca999",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.424c2718e14ca999",
+      "type": 0,
+      "text": "Knowledge",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "944c5c9abcd2342c",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.944c5c9abcd2342c",
+      "type": 0,
+      "text": "Large",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "db7b201e5c975af2",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.db7b201e5c975af2",
+      "type": 0,
+      "text": "Lethal",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b9b11659f1708d5f",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.b9b11659f1708d5f",
+      "type": 0,
+      "text": "Lock",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cc75af13e75eb3ad",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.cc75af13e75eb3ad",
+      "type": 0,
+      "text": "Lure",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5cc2a652a2a09616",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.5cc2a652a2a09616",
+      "type": 0,
+      "text": "Maze",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d5860c736b19f61d",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.d5860c736b19f61d",
+      "type": 0,
+      "text": "Mechanical",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "29c4ac56469b7b6a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.29c4ac56469b7b6a",
+      "type": 0,
+      "text": "Message",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0cdf75186549e611",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.0cdf75186549e611",
+      "type": 0,
+      "text": "Missing",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4577a60e792e2db6",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.4577a60e792e2db6",
+      "type": 0,
+      "text": "Move",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6d1bd6f6f4a10d59",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.6d1bd6f6f4a10d59",
+      "type": 0,
+      "text": "Multiple",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d7d50e11b988243d",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.d7d50e11b988243d",
+      "type": 0,
+      "text": "Mundane",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "96d976d0beea9e39",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.96d976d0beea9e39",
+      "type": 0,
+      "text": "Mysterious",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "69b51938a045e55d",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.69b51938a045e55d",
+      "type": 0,
+      "text": "Normal",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17edd9cb0c84ffd7",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.17edd9cb0c84ffd7",
+      "type": 0,
+      "text": "Object",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "06573d4671f3e512",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.06573d4671f3e512",
+      "type": 0,
+      "text": "Obscured",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b999b7dbec4ad596",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.b999b7dbec4ad596",
+      "type": 0,
+      "text": "Official",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8efb99adb5c2e2f4",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.8efb99adb5c2e2f4",
+      "type": 0,
+      "text": "Old",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "01b8fc0bbef566b3",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.01b8fc0bbef566b3",
+      "type": 0,
+      "text": "Open",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "51c699991d7538f7",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.51c699991d7538f7",
+      "type": 0,
+      "text": "Oppose",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d66cbec983e1e57",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.7d66cbec983e1e57",
+      "type": 0,
+      "text": "Pattern",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4fe66b3f8d47944d",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.4fe66b3f8d47944d",
+      "type": 0,
+      "text": "Personal",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1b10ea1c72451ceb",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.1b10ea1c72451ceb",
+      "type": 0,
+      "text": "Physical",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5d9bbd7974aeca68",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.5d9bbd7974aeca68",
+      "type": 0,
+      "text": "Portal",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "127d880c85a91a8b",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.127d880c85a91a8b",
+      "type": 0,
+      "text": "Power",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b5349df1901ba6ce",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.b5349df1901ba6ce",
+      "type": 0,
+      "text": "Precision",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "87a8602d6ebc142a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.87a8602d6ebc142a",
+      "type": 0,
+      "text": "Problem",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5b67e51280b6aac1",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.5b67e51280b6aac1",
+      "type": 0,
+      "text": "Question",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4b56d189cdd23e56",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.4b56d189cdd23e56",
+      "type": 0,
+      "text": "Release",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "00cf8c67774bfb85",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.00cf8c67774bfb85",
+      "type": 0,
+      "text": "Repair",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7bbd5a88f8ad35dd",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.7bbd5a88f8ad35dd",
+      "type": 0,
+      "text": "Resolve",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c26ed662946884a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.9c26ed662946884a",
+      "type": 0,
+      "text": "Reward",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a445f258585892d4",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.a445f258585892d4",
+      "type": 0,
+      "text": "Riddle",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fc06bb6fe8507c96",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.fc06bb6fe8507c96",
+      "type": 0,
+      "text": "Risk",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ee8bff3bd90395b5",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.ee8bff3bd90395b5",
+      "type": 0,
+      "text": "Simple",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fbe9bff7c224809d",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.fbe9bff7c224809d",
+      "type": 0,
+      "text": "Skill",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a2de863bdda3b57b",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.a2de863bdda3b57b",
+      "type": 0,
+      "text": "Solve",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8293a376e57557b",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.d8293a376e57557b",
+      "type": 0,
+      "text": "Speak",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8a3cf88c54096bf9",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.8a3cf88c54096bf9",
+      "type": 0,
+      "text": "Start",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c01516731d5bfe2",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.9c01516731d5bfe2",
+      "type": 0,
+      "text": "Stop",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13ee0af9a2a0e337",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.13ee0af9a2a0e337",
+      "type": 0,
+      "text": "Strange",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82da16080d32ca1c",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.82da16080d32ca1c",
+      "type": 0,
+      "text": "Struggle",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b907e327726390a9",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.b907e327726390a9",
+      "type": 0,
+      "text": "Technology",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2546f74d4b860ab0",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.2546f74d4b860ab0",
+      "type": 0,
+      "text": "Tension",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "489c83d66cebe5ef",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.489c83d66cebe5ef",
+      "type": 0,
+      "text": "Threatening",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c60a85f759efe6dc",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.c60a85f759efe6dc",
+      "type": 0,
+      "text": "Timed",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dd3dab5b35bf5d9a",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.dd3dab5b35bf5d9a",
+      "type": 0,
+      "text": "Water",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f626f53ab4d02f21",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.f626f53ab4d02f21",
+      "type": 0,
+      "text": "Weapon",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "00f557d675416526",
+      "_key": "!tables.results!2f64c2d6e5e13ee1.00f557d675416526",
+      "type": 0,
+      "text": "Words",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "8bb25c2817b9578b",
+  "flags": {}
+}

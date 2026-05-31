@@ -1,0 +1,554 @@
+{
+  "_id": "e77c593ed9928365",
+  "_key": "!tables!e77c593ed9928365",
+  "name": "d66 Sci-Fi Objects",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate an object with a sci-fi theme.",
+  "results": [
+    {
+      "_id": "047ec0ff570630ff",
+      "_key": "!tables.results!e77c593ed9928365.047ec0ff570630ff",
+      "type": 0,
+      "text": "Data set",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4b99620423e36e44",
+      "_key": "!tables.results!e77c593ed9928365.4b99620423e36e44",
+      "type": 0,
+      "text": "Microchip",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "877ae4efe125a26e",
+      "_key": "!tables.results!e77c593ed9928365.877ae4efe125a26e",
+      "type": 0,
+      "text": "Android",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "57e9db8da50c0c2e",
+      "_key": "!tables.results!e77c593ed9928365.57e9db8da50c0c2e",
+      "type": 0,
+      "text": "Chemical",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0bfe92ff26c24b97",
+      "_key": "!tables.results!e77c593ed9928365.0bfe92ff26c24b97",
+      "type": 0,
+      "text": "Patent",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6217ca37c6fdc245",
+      "_key": "!tables.results!e77c593ed9928365.6217ca37c6fdc245",
+      "type": 0,
+      "text": "AI",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2661ad6ea1d03640",
+      "_key": "!tables.results!e77c593ed9928365.2661ad6ea1d03640",
+      "type": 0,
+      "text": "Agent",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "231e82061f9feb0f",
+      "_key": "!tables.results!e77c593ed9928365.231e82061f9feb0f",
+      "type": 0,
+      "text": "Contraband shipment",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c8333077f922c31",
+      "_key": "!tables.results!e77c593ed9928365.7c8333077f922c31",
+      "type": 0,
+      "text": "Gang",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d2ff1c51547a959",
+      "_key": "!tables.results!e77c593ed9928365.0d2ff1c51547a959",
+      "type": 0,
+      "text": "Hardware",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0541fbd7cdc6e605",
+      "_key": "!tables.results!e77c593ed9928365.0541fbd7cdc6e605",
+      "type": 0,
+      "text": "Bioweapon",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f084bffac8631e40",
+      "_key": "!tables.results!e77c593ed9928365.f084bffac8631e40",
+      "type": 0,
+      "text": "Flight path",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4062163dd63e77f2",
+      "_key": "!tables.results!e77c593ed9928365.4062163dd63e77f2",
+      "type": 0,
+      "text": "CEO",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84fbb113a8a11a33",
+      "_key": "!tables.results!e77c593ed9928365.84fbb113a8a11a33",
+      "type": 0,
+      "text": "Power source",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9422f90d4b2bae5c",
+      "_key": "!tables.results!e77c593ed9928365.9422f90d4b2bae5c",
+      "type": 0,
+      "text": "Communication device",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3d06854658f7f810",
+      "_key": "!tables.results!e77c593ed9928365.3d06854658f7f810",
+      "type": 0,
+      "text": "Pilot",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3435dc45f1c361c7",
+      "_key": "!tables.results!e77c593ed9928365.3435dc45f1c361c7",
+      "type": 0,
+      "text": "Surveillance system",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7a930b63a68ae1fb",
+      "_key": "!tables.results!e77c593ed9928365.7a930b63a68ae1fb",
+      "type": 0,
+      "text": "Group of workers",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7334a4e2bd339c44",
+      "_key": "!tables.results!e77c593ed9928365.7334a4e2bd339c44",
+      "type": 0,
+      "text": "Algorithm",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8e30c2c55ea2340e",
+      "_key": "!tables.results!e77c593ed9928365.8e30c2c55ea2340e",
+      "type": 0,
+      "text": "Life-support system",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ab3fcc952e23c4cb",
+      "_key": "!tables.results!e77c593ed9928365.ab3fcc952e23c4cb",
+      "type": 0,
+      "text": "Engineer",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "722750737c967687",
+      "_key": "!tables.results!e77c593ed9928365.722750737c967687",
+      "type": 0,
+      "text": "Cargo container",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "24fd226ee2ab37f8",
+      "_key": "!tables.results!e77c593ed9928365.24fd226ee2ab37f8",
+      "type": 0,
+      "text": "Formula",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3b34d2423411809",
+      "_key": "!tables.results!e77c593ed9928365.b3b34d2423411809",
+      "type": 0,
+      "text": "Program",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2043a7d52fe99278",
+      "_key": "!tables.results!e77c593ed9928365.2043a7d52fe99278",
+      "type": 0,
+      "text": "Occupant",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a0628d2f7cdfac6b",
+      "_key": "!tables.results!e77c593ed9928365.a0628d2f7cdfac6b",
+      "type": 0,
+      "text": "Tracker",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ffdf14e831622d6",
+      "_key": "!tables.results!e77c593ed9928365.4ffdf14e831622d6",
+      "type": 0,
+      "text": "Crew",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d9be811c960dc62e",
+      "_key": "!tables.results!e77c593ed9928365.d9be811c960dc62e",
+      "type": 0,
+      "text": "Whistleblower",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f8606237fd2219c0",
+      "_key": "!tables.results!e77c593ed9928365.f8606237fd2219c0",
+      "type": 0,
+      "text": "Doctor",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "34e3b6a370ae0af1",
+      "_key": "!tables.results!e77c593ed9928365.34e3b6a370ae0af1",
+      "type": 0,
+      "text": "Contract",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9ab228eb89fb9308",
+      "_key": "!tables.results!e77c593ed9928365.9ab228eb89fb9308",
+      "type": 0,
+      "text": "Monolith",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3e884797c1d4eee",
+      "_key": "!tables.results!e77c593ed9928365.f3e884797c1d4eee",
+      "type": 0,
+      "text": "Network",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bb10e7f615c397f4",
+      "_key": "!tables.results!e77c593ed9928365.bb10e7f615c397f4",
+      "type": 0,
+      "text": "Addict",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6dd337c83f16c3ff",
+      "_key": "!tables.results!e77c593ed9928365.6dd337c83f16c3ff",
+      "type": 0,
+      "text": "New technology",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "907ec98d1a064555",
+      "_key": "!tables.results!e77c593ed9928365.907ec98d1a064555",
+      "type": 0,
+      "text": "Population",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "35e42d0ff487fca0",
+      "_key": "!tables.results!e77c593ed9928365.35e42d0ff487fca0",
+      "type": 0,
+      "text": "Solar array",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

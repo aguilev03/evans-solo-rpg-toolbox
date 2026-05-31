@@ -1,0 +1,764 @@
+{
+  "_id": "86cf79a9ce3a0ef1",
+  "_key": "!tables!86cf79a9ce3a0ef1",
+  "name": "H) Nature, Topography",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "7251eee058bc0b36",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.7251eee058bc0b36",
+      "type": 0,
+      "text": "Bay",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1dd8488ac6845e21",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.1dd8488ac6845e21",
+      "type": 0,
+      "text": "Beach",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1c04abce93fffcfd",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.1c04abce93fffcfd",
+      "type": 0,
+      "text": "Bone",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e1a960130dcb78bb",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.e1a960130dcb78bb",
+      "type": 0,
+      "text": "Break",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d0b786933f2c2db0",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.d0b786933f2c2db0",
+      "type": 0,
+      "text": "Burrow",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8cbf13ec376a31c",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.d8cbf13ec376a31c",
+      "type": 0,
+      "text": "Cliff",
+      "weight": 1,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f8ae06b71eaa9f0",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.8f8ae06b71eaa9f0",
+      "type": 0,
+      "text": "Corner",
+      "weight": 1,
+      "range": [
+        13,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d3a02915c39cebc",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.9d3a02915c39cebc",
+      "type": 0,
+      "text": "Creek",
+      "weight": 1,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d29df5b491a78702",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.d29df5b491a78702",
+      "type": 0,
+      "text": "Dale",
+      "weight": 1,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "15dfdb0679fbb481",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.15dfdb0679fbb481",
+      "type": 0,
+      "text": "End",
+      "weight": 1,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "04b8616bb4c53526",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.04b8616bb4c53526",
+      "type": 0,
+      "text": "Fall",
+      "weight": 1,
+      "range": [
+        21,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "25b5cc9d1970f12c",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.25b5cc9d1970f12c",
+      "type": 0,
+      "text": "Field",
+      "weight": 1,
+      "range": [
+        23,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2a8d60845ef331fe",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.2a8d60845ef331fe",
+      "type": 0,
+      "text": "Forest",
+      "weight": 1,
+      "range": [
+        25,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "71b964c8fa026a86",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.71b964c8fa026a86",
+      "type": 0,
+      "text": "Garden",
+      "weight": 1,
+      "range": [
+        27,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d02fc802e329e5c",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.0d02fc802e329e5c",
+      "type": 0,
+      "text": "Glade",
+      "weight": 1,
+      "range": [
+        29,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7864950e0cd6755e",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.7864950e0cd6755e",
+      "type": 0,
+      "text": "Glen",
+      "weight": 1,
+      "range": [
+        31,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f0c0c0e4ebf4da78",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.f0c0c0e4ebf4da78",
+      "type": 0,
+      "text": "Grove",
+      "weight": 1,
+      "range": [
+        33,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5baacc62e5d4c970",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.5baacc62e5d4c970",
+      "type": 0,
+      "text": "Heid",
+      "weight": 1,
+      "range": [
+        35,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f92def7674cfc459",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.f92def7674cfc459",
+      "type": 0,
+      "text": "Helm",
+      "weight": 1,
+      "range": [
+        37,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "afb6d8fc611c5719",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.afb6d8fc611c5719",
+      "type": 0,
+      "text": "Hill",
+      "weight": 1,
+      "range": [
+        39,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bbe50bd62bd7f920",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.bbe50bd62bd7f920",
+      "type": 0,
+      "text": "Hold",
+      "weight": 1,
+      "range": [
+        41,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82d75b74db29012c",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.82d75b74db29012c",
+      "type": 0,
+      "text": "Hole",
+      "weight": 1,
+      "range": [
+        43,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b536a5ec789b1f0a",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.b536a5ec789b1f0a",
+      "type": 0,
+      "text": "Hollow",
+      "weight": 1,
+      "range": [
+        45,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "830b63f9032ae7ce",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.830b63f9032ae7ce",
+      "type": 0,
+      "text": "Island",
+      "weight": 1,
+      "range": [
+        47,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e302193acb0ec14",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.4e302193acb0ec14",
+      "type": 0,
+      "text": "Lake",
+      "weight": 1,
+      "range": [
+        49,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "05183dabd6c1ae2b",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.05183dabd6c1ae2b",
+      "type": 0,
+      "text": "Land",
+      "weight": 1,
+      "range": [
+        51,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b991eebd0a9b9f5e",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.b991eebd0a9b9f5e",
+      "type": 0,
+      "text": "Limit",
+      "weight": 1,
+      "range": [
+        53,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb52477decf62247",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.fb52477decf62247",
+      "type": 0,
+      "text": "Marsh",
+      "weight": 1,
+      "range": [
+        55,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eafdaaae9f1ab15a",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.eafdaaae9f1ab15a",
+      "type": 0,
+      "text": "Mont",
+      "weight": 1,
+      "range": [
+        57,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "55753b920d0d1c23",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.55753b920d0d1c23",
+      "type": 0,
+      "text": "Moor",
+      "weight": 1,
+      "range": [
+        59,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "982d8b4e6169487e",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.982d8b4e6169487e",
+      "type": 0,
+      "text": "Mount",
+      "weight": 1,
+      "range": [
+        61,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f7b5dda95ffbe7c",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.6f7b5dda95ffbe7c",
+      "type": 0,
+      "text": "Mountain",
+      "weight": 1,
+      "range": [
+        63,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82dc61375afd7207",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.82dc61375afd7207",
+      "type": 0,
+      "text": "Park",
+      "weight": 1,
+      "range": [
+        65,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f580bc3b95c8bdf",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.8f580bc3b95c8bdf",
+      "type": 0,
+      "text": "Pass",
+      "weight": 1,
+      "range": [
+        67,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e5efcf914d3d5c6",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.3e5efcf914d3d5c6",
+      "type": 0,
+      "text": "Path",
+      "weight": 1,
+      "range": [
+        69,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c1f8f0fc42ea676e",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.c1f8f0fc42ea676e",
+      "type": 0,
+      "text": "Peak",
+      "weight": 1,
+      "range": [
+        71,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2808d736663b2bb0",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.2808d736663b2bb0",
+      "type": 0,
+      "text": "Plain",
+      "weight": 1,
+      "range": [
+        73,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b8d743f0599e9fe3",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.b8d743f0599e9fe3",
+      "type": 0,
+      "text": "Point",
+      "weight": 1,
+      "range": [
+        75,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c53f6e747174fc7d",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.c53f6e747174fc7d",
+      "type": 0,
+      "text": "Pool",
+      "weight": 1,
+      "range": [
+        77,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "af1647a0abe79f27",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.af1647a0abe79f27",
+      "type": 0,
+      "text": "Rest",
+      "weight": 1,
+      "range": [
+        79,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6ad5aa0e0a1f96e3",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.6ad5aa0e0a1f96e3",
+      "type": 0,
+      "text": "Run",
+      "weight": 1,
+      "range": [
+        81,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "81bebe37551b88ca",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.81bebe37551b88ca",
+      "type": 0,
+      "text": "Source",
+      "weight": 1,
+      "range": [
+        83,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "54597a19a8fb0f2d",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.54597a19a8fb0f2d",
+      "type": 0,
+      "text": "Summit",
+      "weight": 1,
+      "range": [
+        85,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dc24ed14c3b856f9",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.dc24ed14c3b856f9",
+      "type": 0,
+      "text": "Trail",
+      "weight": 1,
+      "range": [
+        87,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dfd10ac45c00e81b",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.dfd10ac45c00e81b",
+      "type": 0,
+      "text": "Tree",
+      "weight": 1,
+      "range": [
+        89,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2320bab066b030e6",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.2320bab066b030e6",
+      "type": 0,
+      "text": "Valley",
+      "weight": 1,
+      "range": [
+        91,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6805ec135f865a89",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.6805ec135f865a89",
+      "type": 0,
+      "text": "View",
+      "weight": 1,
+      "range": [
+        93,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "76977e508de610f2",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.76977e508de610f2",
+      "type": 0,
+      "text": "Way",
+      "weight": 1,
+      "range": [
+        95,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d9bbc239a6da48d6",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.d9bbc239a6da48d6",
+      "type": 0,
+      "text": "Well",
+      "weight": 1,
+      "range": [
+        97,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c4b43d5b7c7bbc48",
+      "_key": "!tables.results!86cf79a9ce3a0ef1.c4b43d5b7c7bbc48",
+      "type": 0,
+      "text": "Wood",
+      "weight": 1,
+      "range": [
+        99,
+        0
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d98",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

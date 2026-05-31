@@ -1,0 +1,89 @@
+{
+  "_id": "db9e98cae63ee298",
+  "_key": "!tables!db9e98cae63ee298",
+  "name": "Village Disposition",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "07ceaaf0073e8bf3",
+      "_key": "!tables.results!db9e98cae63ee298.07ceaaf0073e8bf3",
+      "type": 0,
+      "text": "Attack on sight",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "38053a69815bb614",
+      "_key": "!tables.results!db9e98cae63ee298.38053a69815bb614",
+      "type": 0,
+      "text": "Hostile",
+      "weight": 1,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "033eff923add9574",
+      "_key": "!tables.results!db9e98cae63ee298.033eff923add9574",
+      "type": 0,
+      "text": "Neutral",
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "924690249b5a7437",
+      "_key": "!tables.results!db9e98cae63ee298.924690249b5a7437",
+      "type": 0,
+      "text": "Welcoming",
+      "weight": 1,
+      "range": [
+        9,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2df1f78962f3c471",
+      "_key": "!tables.results!db9e98cae63ee298.2df1f78962f3c471",
+      "type": 0,
+      "text": "Enthusiastic",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

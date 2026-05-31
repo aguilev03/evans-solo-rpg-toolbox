@@ -1,0 +1,554 @@
+{
+  "_id": "2de2af9fa5726046",
+  "_key": "!tables!2de2af9fa5726046",
+  "name": "d66 Traits",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate an investigator trait.",
+  "results": [
+    {
+      "_id": "baf1b79c78e10b8d",
+      "_key": "!tables.results!2de2af9fa5726046.baf1b79c78e10b8d",
+      "type": 0,
+      "text": "Optimistic",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8c73466903628c85",
+      "_key": "!tables.results!2de2af9fa5726046.8c73466903628c85",
+      "type": 0,
+      "text": "Lazy",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c77ac5506cb515f9",
+      "_key": "!tables.results!2de2af9fa5726046.c77ac5506cb515f9",
+      "type": 0,
+      "text": "Blind",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "461a1cb95e785272",
+      "_key": "!tables.results!2de2af9fa5726046.461a1cb95e785272",
+      "type": 0,
+      "text": "Alter ego",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a91b4a0ab73eaa83",
+      "_key": "!tables.results!2de2af9fa5726046.a91b4a0ab73eaa83",
+      "type": 0,
+      "text": "Cocky",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cda76ac1798df755",
+      "_key": "!tables.results!2de2af9fa5726046.cda76ac1798df755",
+      "type": 0,
+      "text": "Narcissistic",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b03f1dde1d7551f2",
+      "_key": "!tables.results!2de2af9fa5726046.b03f1dde1d7551f2",
+      "type": 0,
+      "text": "Soft",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "29776e7a290e78e3",
+      "_key": "!tables.results!2de2af9fa5726046.29776e7a290e78e3",
+      "type": 0,
+      "text": "Missing limb",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d292b2325967937a",
+      "_key": "!tables.results!2de2af9fa5726046.d292b2325967937a",
+      "type": 0,
+      "text": "Insomniac",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e20c683bf5e2a46e",
+      "_key": "!tables.results!2de2af9fa5726046.e20c683bf5e2a46e",
+      "type": 0,
+      "text": "Cowardly",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "79c97c64d8d5830b",
+      "_key": "!tables.results!2de2af9fa5726046.79c97c64d8d5830b",
+      "type": 0,
+      "text": "Superstitious",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9b9c296541d7e7b2",
+      "_key": "!tables.results!2de2af9fa5726046.9b9c296541d7e7b2",
+      "type": 0,
+      "text": "Adventurous",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f8de2e1db785cff0",
+      "_key": "!tables.results!2de2af9fa5726046.f8de2e1db785cff0",
+      "type": 0,
+      "text": "Tattooed",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6381a6d64639948a",
+      "_key": "!tables.results!2de2af9fa5726046.6381a6d64639948a",
+      "type": 0,
+      "text": "Charming",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "75073bd184b8c558",
+      "_key": "!tables.results!2de2af9fa5726046.75073bd184b8c558",
+      "type": 0,
+      "text": "Cold",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "923572b2f775f05e",
+      "_key": "!tables.results!2de2af9fa5726046.923572b2f775f05e",
+      "type": 0,
+      "text": "Heavyset",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f7b369e2a93e2d9e",
+      "_key": "!tables.results!2de2af9fa5726046.f7b369e2a93e2d9e",
+      "type": 0,
+      "text": "Resilient",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6e44106dc0895d4d",
+      "_key": "!tables.results!2de2af9fa5726046.6e44106dc0895d4d",
+      "type": 0,
+      "text": "Elegant",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dedb4f66c5b8ceb0",
+      "_key": "!tables.results!2de2af9fa5726046.dedb4f66c5b8ceb0",
+      "type": 0,
+      "text": "Pessimistic",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a8498adec851c0d",
+      "_key": "!tables.results!2de2af9fa5726046.6a8498adec851c0d",
+      "type": 0,
+      "text": "Verbal stutter",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f5617b7ba966e39",
+      "_key": "!tables.results!2de2af9fa5726046.3f5617b7ba966e39",
+      "type": 0,
+      "text": "Ruthless",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f456b4d69401eed",
+      "_key": "!tables.results!2de2af9fa5726046.3f456b4d69401eed",
+      "type": 0,
+      "text": "Paranoid",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9b210469c72cf422",
+      "_key": "!tables.results!2de2af9fa5726046.9b210469c72cf422",
+      "type": 0,
+      "text": "Greedy",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "22186d91da124105",
+      "_key": "!tables.results!2de2af9fa5726046.22186d91da124105",
+      "type": 0,
+      "text": "Depressed",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9db9bd25b4c4e78b",
+      "_key": "!tables.results!2de2af9fa5726046.9db9bd25b4c4e78b",
+      "type": 0,
+      "text": "Lean",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "20fb7f71c2311d03",
+      "_key": "!tables.results!2de2af9fa5726046.20fb7f71c2311d03",
+      "type": 0,
+      "text": "Stoic",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dfdf8b67a4c09be8",
+      "_key": "!tables.results!2de2af9fa5726046.dfdf8b67a4c09be8",
+      "type": 0,
+      "text": "Prosthetic eye",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fc67ac9e760480f3",
+      "_key": "!tables.results!2de2af9fa5726046.fc67ac9e760480f3",
+      "type": 0,
+      "text": "Fidgety",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e1e2a8c9ac13897",
+      "_key": "!tables.results!2de2af9fa5726046.3e1e2a8c9ac13897",
+      "type": 0,
+      "text": "Mute",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0917a0daca6c52a2",
+      "_key": "!tables.results!2de2af9fa5726046.0917a0daca6c52a2",
+      "type": 0,
+      "text": "Scarred",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a3ceb1559939d13e",
+      "_key": "!tables.results!2de2af9fa5726046.a3ceb1559939d13e",
+      "type": 0,
+      "text": "Forgetful",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84595de09d2993f9",
+      "_key": "!tables.results!2de2af9fa5726046.84595de09d2993f9",
+      "type": 0,
+      "text": "Angry",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f7186d1adb67be1",
+      "_key": "!tables.results!2de2af9fa5726046.3f7186d1adb67be1",
+      "type": 0,
+      "text": "Loud",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "46ec4ff936cbd1ae",
+      "_key": "!tables.results!2de2af9fa5726046.46ec4ff936cbd1ae",
+      "type": 0,
+      "text": "Sickly",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7cb5e33f2a15b1ae",
+      "_key": "!tables.results!2de2af9fa5726046.7cb5e33f2a15b1ae",
+      "type": 0,
+      "text": "Law-abiding",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d01ebd9a77a5337f",
+      "_key": "!tables.results!2de2af9fa5726046.d01ebd9a77a5337f",
+      "type": 0,
+      "text": "Germaphobe",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

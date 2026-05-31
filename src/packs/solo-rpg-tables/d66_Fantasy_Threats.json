@@ -1,0 +1,524 @@
+{
+  "_id": "44caddf34a927e06",
+  "_key": "!tables!44caddf34a927e06",
+  "name": "d66 Fantasy Threats",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a fantasy threat.",
+  "results": [
+    {
+      "_id": "246dcd300f577113",
+      "_key": "!tables.results!44caddf34a927e06.246dcd300f577113",
+      "type": 0,
+      "text": "Dark mage",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3b8034ef35c1ce5f",
+      "_key": "!tables.results!44caddf34a927e06.3b8034ef35c1ce5f",
+      "type": 0,
+      "text": "Hungry bandits",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cbd1c91d906048de",
+      "_key": "!tables.results!44caddf34a927e06.cbd1c91d906048de",
+      "type": 0,
+      "text": "Black magic",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ece0e1ccaf47dde9",
+      "_key": "!tables.results!44caddf34a927e06.ece0e1ccaf47dde9",
+      "type": 0,
+      "text": "Town guards",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "785e746098a9d3fe",
+      "_key": "!tables.results!44caddf34a927e06.785e746098a9d3fe",
+      "type": 0,
+      "text": "Paid mercenaries",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4bc1f3a2cd77afbe",
+      "_key": "!tables.results!44caddf34a927e06.4bc1f3a2cd77afbe",
+      "type": 0,
+      "text": "Ferocious winds",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "01f4064e77b00575",
+      "_key": "!tables.results!44caddf34a927e06.01f4064e77b00575",
+      "type": 0,
+      "text": "Hostile wildlife",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "78e9165027b363f4",
+      "_key": "!tables.results!44caddf34a927e06.78e9165027b363f4",
+      "type": 0,
+      "text": "Dangerous creature",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a107b1e182ed03b3",
+      "_key": "!tables.results!44caddf34a927e06.a107b1e182ed03b3",
+      "type": 0,
+      "text": "Crazed zealot",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b637dc09b10882c9",
+      "_key": "!tables.results!44caddf34a927e06.b637dc09b10882c9",
+      "type": 0,
+      "text": "Magical ward",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e421e95e1bd37013",
+      "_key": "!tables.results!44caddf34a927e06.e421e95e1bd37013",
+      "type": 0,
+      "text": "Irritating bard",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0b15ab482bef1f35",
+      "_key": "!tables.results!44caddf34a927e06.0b15ab482bef1f35",
+      "type": 0,
+      "text": "Manipulative faerie",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0407e9278c1855ed",
+      "_key": "!tables.results!44caddf34a927e06.0407e9278c1855ed",
+      "type": 0,
+      "text": "Protective nomads",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0007f6c205067c5a",
+      "_key": "!tables.results!44caddf34a927e06.0007f6c205067c5a",
+      "type": 0,
+      "text": "Belligerent drunk",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "115c5da40a5c2b72",
+      "_key": "!tables.results!44caddf34a927e06.115c5da40a5c2b72",
+      "type": 0,
+      "text": "Possessed guide",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5a33f24494071957",
+      "_key": "!tables.results!44caddf34a927e06.5a33f24494071957",
+      "type": 0,
+      "text": "Divine interference",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3d70f717afc5b11",
+      "_key": "!tables.results!44caddf34a927e06.b3d70f717afc5b11",
+      "type": 0,
+      "text": "Fickle elemental",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a3c090c982568411",
+      "_key": "!tables.results!44caddf34a927e06.a3c090c982568411",
+      "type": 0,
+      "text": "Spreading necrosis",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc441422241afcd7",
+      "_key": "!tables.results!44caddf34a927e06.bc441422241afcd7",
+      "type": 0,
+      "text": "Undead swarm",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "083f750bdeaccc22",
+      "_key": "!tables.results!44caddf34a927e06.083f750bdeaccc22",
+      "type": 0,
+      "text": "Treacherous terrain",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb5f4baa568e1cbd",
+      "_key": "!tables.results!44caddf34a927e06.eb5f4baa568e1cbd",
+      "type": 0,
+      "text": "Cursed relic",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "88e0826adb5c9c2f",
+      "_key": "!tables.results!44caddf34a927e06.88e0826adb5c9c2f",
+      "type": 0,
+      "text": "Arcane interference",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "19c61f68d1e1bf57",
+      "_key": "!tables.results!44caddf34a927e06.19c61f68d1e1bf57",
+      "type": 0,
+      "text": "Doppelganger",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd3e9508f11f924a",
+      "_key": "!tables.results!44caddf34a927e06.cd3e9508f11f924a",
+      "type": 0,
+      "text": "Scouting party",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a05e78b0f1b0b42",
+      "_key": "!tables.results!44caddf34a927e06.1a05e78b0f1b0b42",
+      "type": 0,
+      "text": "Violent raiders",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2e87d1d58cf10a58",
+      "_key": "!tables.results!44caddf34a927e06.2e87d1d58cf10a58",
+      "type": 0,
+      "text": "Sinister townsfolk",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a295e0273dda1ac",
+      "_key": "!tables.results!44caddf34a927e06.6a295e0273dda1ac",
+      "type": 0,
+      "text": "Scaled beast",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d1ced2fca854ee6c",
+      "_key": "!tables.results!44caddf34a927e06.d1ced2fca854ee6c",
+      "type": 0,
+      "text": "Diseased bystanders",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1fbd24951197951a",
+      "_key": "!tables.results!44caddf34a927e06.1fbd24951197951a",
+      "type": 0,
+      "text": "Sneaky pickpocket",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1e791629d169c5fe",
+      "_key": "!tables.results!44caddf34a927e06.1e791629d169c5fe",
+      "type": 0,
+      "text": "Heckling priest",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2995bbeb7441e69c",
+      "_key": "!tables.results!44caddf34a927e06.2995bbeb7441e69c",
+      "type": 0,
+      "text": "Dense parade",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "58008083715a0edb",
+      "_key": "!tables.results!44caddf34a927e06.58008083715a0edb",
+      "type": 0,
+      "text": "Cruel monarch",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "270636170221b43c",
+      "_key": "!tables.results!44caddf34a927e06.270636170221b43c",
+      "type": 0,
+      "text": "Blood moon",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "153db95eaf038ec7",
+      "_key": "!tables.results!44caddf34a927e06.153db95eaf038ec7",
+      "type": 0,
+      "text": "Fallen knight",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

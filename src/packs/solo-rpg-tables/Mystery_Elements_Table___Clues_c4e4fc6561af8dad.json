@@ -1,0 +1,134 @@
+{
+  "_id": "c4e4fc6561af8dad",
+  "_key": "!tables!c4e4fc6561af8dad",
+  "name": "Mystery Elements Table - Clues",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Mystery Elements Table - Clues",
+  "results": [
+    {
+      "_id": "a774945ee46ac03e",
+      "_key": "!tables.results!c4e4fc6561af8dad.a774945ee46ac03e",
+      "type": 0,
+      "text": "New Clue",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5002ef91689ed288",
+      "_key": "!tables.results!c4e4fc6561af8dad.5002ef91689ed288",
+      "type": 0,
+      "text": "New Linked Clue",
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ed792e3138faeda3",
+      "_key": "!tables.results!c4e4fc6561af8dad.ed792e3138faeda3",
+      "type": 0,
+      "text": "Link Clue To Suspect or New Clue",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2bcf1d08c1905bee",
+      "_key": "!tables.results!c4e4fc6561af8dad.2bcf1d08c1905bee",
+      "type": 0,
+      "text": "Roll Twice or Link Clue To Suspect",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a026ac0bc9da0a45",
+      "_key": "!tables.results!c4e4fc6561af8dad.a026ac0bc9da0a45",
+      "type": 0,
+      "text": "New Clue",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f9ab6a855ab4ec6a",
+      "_key": "!tables.results!c4e4fc6561af8dad.f9ab6a855ab4ec6a",
+      "type": 0,
+      "text": "Special",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aef00fcbd49750a3",
+      "_key": "!tables.results!c4e4fc6561af8dad.aef00fcbd49750a3",
+      "type": 0,
+      "text": "Clincher Clue",
+      "weight": 1,
+      "range": [
+        14,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b9ecb2c33fed2001",
+      "_key": "!tables.results!c4e4fc6561af8dad.b9ecb2c33fed2001",
+      "type": 0,
+      "text": "Link Clue To Suspect, PP-6",
+      "weight": 1,
+      "range": [
+        16,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1D10+PP",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ea1602b5c5be5ea6",
+  "flags": {}
+}

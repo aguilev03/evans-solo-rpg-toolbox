@@ -1,0 +1,554 @@
+{
+  "_id": "33dc74268914e509",
+  "_key": "!tables!33dc74268914e509",
+  "name": "Noir Locations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a location with a noir theme.",
+  "results": [
+    {
+      "_id": "6d905157d1baa2c4",
+      "_key": "!tables.results!33dc74268914e509.6d905157d1baa2c4",
+      "type": 0,
+      "text": "Café",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a2a3d64266f3f51",
+      "_key": "!tables.results!33dc74268914e509.1a2a3d64266f3f51",
+      "type": 0,
+      "text": "Prison",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d17121b02162fbbc",
+      "_key": "!tables.results!33dc74268914e509.d17121b02162fbbc",
+      "type": 0,
+      "text": "Boat",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c6ab1acf47ecc5ae",
+      "_key": "!tables.results!33dc74268914e509.c6ab1acf47ecc5ae",
+      "type": 0,
+      "text": "Alleyway",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3ab5f2e1410d2422",
+      "_key": "!tables.results!33dc74268914e509.3ab5f2e1410d2422",
+      "type": 0,
+      "text": "Abandoned building",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f2688ad679d3931e",
+      "_key": "!tables.results!33dc74268914e509.f2688ad679d3931e",
+      "type": 0,
+      "text": "Church",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d796d1ec0324a755",
+      "_key": "!tables.results!33dc74268914e509.d796d1ec0324a755",
+      "type": 0,
+      "text": "University",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "29803c39c1555b2e",
+      "_key": "!tables.results!33dc74268914e509.29803c39c1555b2e",
+      "type": 0,
+      "text": "Home",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a9f91f973617725",
+      "_key": "!tables.results!33dc74268914e509.9a9f91f973617725",
+      "type": 0,
+      "text": "Gallery",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "05303c1a61d59904",
+      "_key": "!tables.results!33dc74268914e509.05303c1a61d59904",
+      "type": 0,
+      "text": "Train station",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b4d358f98d07b82",
+      "_key": "!tables.results!33dc74268914e509.7b4d358f98d07b82",
+      "type": 0,
+      "text": "Beach",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "50567fa2ec97ece2",
+      "_key": "!tables.results!33dc74268914e509.50567fa2ec97ece2",
+      "type": 0,
+      "text": "Apartment",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "071c58a057e8cca2",
+      "_key": "!tables.results!33dc74268914e509.071c58a057e8cca2",
+      "type": 0,
+      "text": "Car park",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be06c1ca174bc64a",
+      "_key": "!tables.results!33dc74268914e509.be06c1ca174bc64a",
+      "type": 0,
+      "text": "Zoo",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb5367326a1cbca3",
+      "_key": "!tables.results!33dc74268914e509.fb5367326a1cbca3",
+      "type": 0,
+      "text": "Restaurant",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "221019b911cc8a6d",
+      "_key": "!tables.results!33dc74268914e509.221019b911cc8a6d",
+      "type": 0,
+      "text": "Gas station",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "578864d88cd25fdd",
+      "_key": "!tables.results!33dc74268914e509.578864d88cd25fdd",
+      "type": 0,
+      "text": "Basement",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ff678f81298db86",
+      "_key": "!tables.results!33dc74268914e509.8ff678f81298db86",
+      "type": 0,
+      "text": "Police station",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8bce381d3a04b3fd",
+      "_key": "!tables.results!33dc74268914e509.8bce381d3a04b3fd",
+      "type": 0,
+      "text": "Morgue",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4281b81d1c0256d9",
+      "_key": "!tables.results!33dc74268914e509.4281b81d1c0256d9",
+      "type": 0,
+      "text": "Museum",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "691f1b6d101335e9",
+      "_key": "!tables.results!33dc74268914e509.691f1b6d101335e9",
+      "type": 0,
+      "text": "Hotel",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d5152b9d54fd0cf6",
+      "_key": "!tables.results!33dc74268914e509.d5152b9d54fd0cf6",
+      "type": 0,
+      "text": "Factory",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cdc153c59323e058",
+      "_key": "!tables.results!33dc74268914e509.cdc153c59323e058",
+      "type": 0,
+      "text": "Warehouse",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4846e9008e501cb7",
+      "_key": "!tables.results!33dc74268914e509.4846e9008e501cb7",
+      "type": 0,
+      "text": "Pub",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8996d00d23b41731",
+      "_key": "!tables.results!33dc74268914e509.8996d00d23b41731",
+      "type": 0,
+      "text": "Casino",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7cc0158e1522aec8",
+      "_key": "!tables.results!33dc74268914e509.7cc0158e1522aec8",
+      "type": 0,
+      "text": "Gym",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "701bf7f9c1d0ec22",
+      "_key": "!tables.results!33dc74268914e509.701bf7f9c1d0ec22",
+      "type": 0,
+      "text": "Amusement park",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a8f03907a35b054",
+      "_key": "!tables.results!33dc74268914e509.1a8f03907a35b054",
+      "type": 0,
+      "text": "Courthouse",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "380ba2b31a156a9c",
+      "_key": "!tables.results!33dc74268914e509.380ba2b31a156a9c",
+      "type": 0,
+      "text": "Park",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a63a026fa5d20a4f",
+      "_key": "!tables.results!33dc74268914e509.a63a026fa5d20a4f",
+      "type": 0,
+      "text": "Bank",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f8fb0d7cf0b3bd0f",
+      "_key": "!tables.results!33dc74268914e509.f8fb0d7cf0b3bd0f",
+      "type": 0,
+      "text": "Storage unit",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ac37fb5cf00d4653",
+      "_key": "!tables.results!33dc74268914e509.ac37fb5cf00d4653",
+      "type": 0,
+      "text": "Pier",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53b38e8b4fcaf0c4",
+      "_key": "!tables.results!33dc74268914e509.53b38e8b4fcaf0c4",
+      "type": 0,
+      "text": "Shopping centre",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aae4134d3f5b5195",
+      "_key": "!tables.results!33dc74268914e509.aae4134d3f5b5195",
+      "type": 0,
+      "text": "Airport",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e39e18b5a1e02cd2",
+      "_key": "!tables.results!33dc74268914e509.e39e18b5a1e02cd2",
+      "type": 0,
+      "text": "Backyard",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d10f1633c05a23c8",
+      "_key": "!tables.results!33dc74268914e509.d10f1633c05a23c8",
+      "type": 0,
+      "text": "Stadium",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

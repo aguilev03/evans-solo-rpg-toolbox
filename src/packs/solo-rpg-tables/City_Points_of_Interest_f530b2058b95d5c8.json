@@ -1,0 +1,314 @@
+{
+  "_id": "f530b2058b95d5c8",
+  "_key": "!tables!f530b2058b95d5c8",
+  "name": "City Points of Interest",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "6d2b4dac8b438611",
+      "_key": "!tables.results!f530b2058b95d5c8.6d2b4dac8b438611",
+      "type": 0,
+      "text": "Abandoned building",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "075c514b00c2089a",
+      "_key": "!tables.results!f530b2058b95d5c8.075c514b00c2089a",
+      "type": 0,
+      "text": "Aqueduct",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "218e374e7981fb1a",
+      "_key": "!tables.results!f530b2058b95d5c8.218e374e7981fb1a",
+      "type": 0,
+      "text": "Archaeological site",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "739cb05726931841",
+      "_key": "!tables.results!f530b2058b95d5c8.739cb05726931841",
+      "type": 0,
+      "text": "Bridge",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8e31b288add2871a",
+      "_key": "!tables.results!f530b2058b95d5c8.8e31b288add2871a",
+      "type": 0,
+      "text": "Burnt/Ruined building",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4319bec2d89c483d",
+      "_key": "!tables.results!f530b2058b95d5c8.4319bec2d89c483d",
+      "type": 0,
+      "text": "Calvary",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d21919b56133923f",
+      "_key": "!tables.results!f530b2058b95d5c8.d21919b56133923f",
+      "type": 0,
+      "text": "Carriage stop",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "79f6d243ea620f0e",
+      "_key": "!tables.results!f530b2058b95d5c8.79f6d243ea620f0e",
+      "type": 0,
+      "text": "Construction site",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ce282f1698c268f9",
+      "_key": "!tables.results!f530b2058b95d5c8.ce282f1698c268f9",
+      "type": 0,
+      "text": "Famous street",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "10007aea50e6bc69",
+      "_key": "!tables.results!f530b2058b95d5c8.10007aea50e6bc69",
+      "type": 0,
+      "text": "Fighting pit",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c62b91436e5c0e36",
+      "_key": "!tables.results!f530b2058b95d5c8.c62b91436e5c0e36",
+      "type": 0,
+      "text": "Fountain",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c2101b699310b56",
+      "_key": "!tables.results!f530b2058b95d5c8.7c2101b699310b56",
+      "type": 0,
+      "text": "Gallows",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb41f64938b2e0ff",
+      "_key": "!tables.results!f530b2058b95d5c8.eb41f64938b2e0ff",
+      "type": 0,
+      "text": "Junkyard",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c0e8e44b399685ae",
+      "_key": "!tables.results!f530b2058b95d5c8.c0e8e44b399685ae",
+      "type": 0,
+      "text": "Market hall",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "efe5b87e63cc1df0",
+      "_key": "!tables.results!f530b2058b95d5c8.efe5b87e63cc1df0",
+      "type": 0,
+      "text": "Military cemetery",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "646ad0c1febb08f5",
+      "_key": "!tables.results!f530b2058b95d5c8.646ad0c1febb08f5",
+      "type": 0,
+      "text": "Monument/Memorial",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a9460606428bc8b1",
+      "_key": "!tables.results!f530b2058b95d5c8.a9460606428bc8b1",
+      "type": 0,
+      "text": "Park",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ff413b1a0490c1f6",
+      "_key": "!tables.results!f530b2058b95d5c8.ff413b1a0490c1f6",
+      "type": 0,
+      "text": "Pilgrimage",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa15fb9f0991b371",
+      "_key": "!tables.results!f530b2058b95d5c8.aa15fb9f0991b371",
+      "type": 0,
+      "text": "Plaza",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9007fbd25501b829",
+      "_key": "!tables.results!f530b2058b95d5c8.9007fbd25501b829",
+      "type": 0,
+      "text": "Slave pit",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

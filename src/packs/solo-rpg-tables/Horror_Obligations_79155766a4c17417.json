@@ -1,0 +1,554 @@
+{
+  "_id": "79155766a4c17417",
+  "_key": "!tables!79155766a4c17417",
+  "name": "Horror Obligations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a horror obligation.",
+  "results": [
+    {
+      "_id": "e314122ee207e513",
+      "_key": "!tables.results!79155766a4c17417.e314122ee207e513",
+      "type": 0,
+      "text": "Sunder a dark curse",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "885d3b6466eac360",
+      "_key": "!tables.results!79155766a4c17417.885d3b6466eac360",
+      "type": 0,
+      "text": "Repair an estate",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9782f8f02820f7db",
+      "_key": "!tables.results!79155766a4c17417.9782f8f02820f7db",
+      "type": 0,
+      "text": "Trace your lineage",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9ccf1ecf775d3a3c",
+      "_key": "!tables.results!79155766a4c17417.9ccf1ecf775d3a3c",
+      "type": 0,
+      "text": "Punish the wicked",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1cba1122dd8ba6a1",
+      "_key": "!tables.results!79155766a4c17417.1cba1122dd8ba6a1",
+      "type": 0,
+      "text": "Attend a meeting",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3fb5d6229000f03b",
+      "_key": "!tables.results!79155766a4c17417.3fb5d6229000f03b",
+      "type": 0,
+      "text": "Honour a family pact",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ae9ce1fe7c2e1e2e",
+      "_key": "!tables.results!79155766a4c17417.ae9ce1fe7c2e1e2e",
+      "type": 0,
+      "text": "Write a letter",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f72a90cdbff92d19",
+      "_key": "!tables.results!79155766a4c17417.f72a90cdbff92d19",
+      "type": 0,
+      "text": "Discover a cure",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3bbffbee244ee95",
+      "_key": "!tables.results!79155766a4c17417.f3bbffbee244ee95",
+      "type": 0,
+      "text": "Serve your master",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "61594d619d0a3add",
+      "_key": "!tables.results!79155766a4c17417.61594d619d0a3add",
+      "type": 0,
+      "text": "Maintain your nobility",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5d368cb879b1d559",
+      "_key": "!tables.results!79155766a4c17417.5d368cb879b1d559",
+      "type": 0,
+      "text": "Obtain wealth",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e07e72c58942672a",
+      "_key": "!tables.results!79155766a4c17417.e07e72c58942672a",
+      "type": 0,
+      "text": "Attend church",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ec99e0d3f53cd82e",
+      "_key": "!tables.results!79155766a4c17417.ec99e0d3f53cd82e",
+      "type": 0,
+      "text": "Further your research",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "09e901c702d9a0a5",
+      "_key": "!tables.results!79155766a4c17417.09e901c702d9a0a5",
+      "type": 0,
+      "text": "Oust your rival",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2deb69d42643986b",
+      "_key": "!tables.results!79155766a4c17417.2deb69d42643986b",
+      "type": 0,
+      "text": "Exonerate a sibling",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "156fb750e069af50",
+      "_key": "!tables.results!79155766a4c17417.156fb750e069af50",
+      "type": 0,
+      "text": "Satiate your blood lust",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9eefdf27de6c3f14",
+      "_key": "!tables.results!79155766a4c17417.9eefdf27de6c3f14",
+      "type": 0,
+      "text": "Run an apothecary",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ed1d44a94761e76f",
+      "_key": "!tables.results!79155766a4c17417.ed1d44a94761e76f",
+      "type": 0,
+      "text": "Find the family crypt",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "defffbf4aea97e57",
+      "_key": "!tables.results!79155766a4c17417.defffbf4aea97e57",
+      "type": 0,
+      "text": "Guard sacred grounds",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "265c03087b33f909",
+      "_key": "!tables.results!79155766a4c17417.265c03087b33f909",
+      "type": 0,
+      "text": "Enact your visions",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3a358ce7ccbaa8b3",
+      "_key": "!tables.results!79155766a4c17417.3a358ce7ccbaa8b3",
+      "type": 0,
+      "text": "Nourish a creature",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f0a495d5fce2e4e4",
+      "_key": "!tables.results!79155766a4c17417.f0a495d5fce2e4e4",
+      "type": 0,
+      "text": "Stalk a gentleperson",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e8d61edf230a9702",
+      "_key": "!tables.results!79155766a4c17417.e8d61edf230a9702",
+      "type": 0,
+      "text": "Overcome your fears",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cf6296b10fb4cf9b",
+      "_key": "!tables.results!79155766a4c17417.cf6296b10fb4cf9b",
+      "type": 0,
+      "text": "Advise an aristocrat",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0c6493ec224ddc45",
+      "_key": "!tables.results!79155766a4c17417.0c6493ec224ddc45",
+      "type": 0,
+      "text": "Maintain your sanity",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ea6d2cad937ba65f",
+      "_key": "!tables.results!79155766a4c17417.ea6d2cad937ba65f",
+      "type": 0,
+      "text": "Feed the ravens",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d65f6d31c8111a4c",
+      "_key": "!tables.results!79155766a4c17417.d65f6d31c8111a4c",
+      "type": 0,
+      "text": "Plan a ball",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "19c3e5dbf7dd9d93",
+      "_key": "!tables.results!79155766a4c17417.19c3e5dbf7dd9d93",
+      "type": 0,
+      "text": "Atone for your sins",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bdfe08b6d770e645",
+      "_key": "!tables.results!79155766a4c17417.bdfe08b6d770e645",
+      "type": 0,
+      "text": "Escape your marriage",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dfa940823567e7ee",
+      "_key": "!tables.results!79155766a4c17417.dfa940823567e7ee",
+      "type": 0,
+      "text": "Assist a relative",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e309d74ba53421c",
+      "_key": "!tables.results!79155766a4c17417.4e309d74ba53421c",
+      "type": 0,
+      "text": "Obfuscate a truth",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "91b8cd058a5fc08d",
+      "_key": "!tables.results!79155766a4c17417.91b8cd058a5fc08d",
+      "type": 0,
+      "text": "Forget your dreams",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "170c40d8a1632450",
+      "_key": "!tables.results!79155766a4c17417.170c40d8a1632450",
+      "type": 0,
+      "text": "Decode an old tome",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d3896f8c85f81ac",
+      "_key": "!tables.results!79155766a4c17417.9d3896f8c85f81ac",
+      "type": 0,
+      "text": "Answer the call",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4a09e8cc07f73a91",
+      "_key": "!tables.results!79155766a4c17417.4a09e8cc07f73a91",
+      "type": 0,
+      "text": "Pay off a benefactor",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ea6c0ebb056e9366",
+      "_key": "!tables.results!79155766a4c17417.ea6c0ebb056e9366",
+      "type": 0,
+      "text": "Hide your vile affliction",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

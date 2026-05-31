@@ -1,0 +1,374 @@
+{
+  "_id": "b411060d32ce9112",
+  "_key": "!tables!b411060d32ce9112",
+  "name": "D) City names",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "b080c1b2ed45052d",
+      "_key": "!tables.results!b411060d32ce9112.b080c1b2ed45052d",
+      "type": 0,
+      "text": "Avery",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7f0bd0875c848e2f",
+      "_key": "!tables.results!b411060d32ce9112.7f0bd0875c848e2f",
+      "type": 0,
+      "text": "Bayley",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5162270a6b532d8b",
+      "_key": "!tables.results!b411060d32ce9112.5162270a6b532d8b",
+      "type": 0,
+      "text": "Carm",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "df0bf2165e804d1b",
+      "_key": "!tables.results!b411060d32ce9112.df0bf2165e804d1b",
+      "type": 0,
+      "text": "Dun",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "991971aab5930e61",
+      "_key": "!tables.results!b411060d32ce9112.991971aab5930e61",
+      "type": 0,
+      "text": "Ensal",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "662450fcae117df9",
+      "_key": "!tables.results!b411060d32ce9112.662450fcae117df9",
+      "type": 0,
+      "text": "Folton",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "64d848e725b551f2",
+      "_key": "!tables.results!b411060d32ce9112.64d848e725b551f2",
+      "type": 0,
+      "text": "Galgar",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a901278741bbfdc",
+      "_key": "!tables.results!b411060d32ce9112.1a901278741bbfdc",
+      "type": 0,
+      "text": "Haye",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b0de25a2c2dd1e39",
+      "_key": "!tables.results!b411060d32ce9112.b0de25a2c2dd1e39",
+      "type": 0,
+      "text": "Idar",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f8e1172ff1328ece",
+      "_key": "!tables.results!b411060d32ce9112.f8e1172ff1328ece",
+      "type": 0,
+      "text": "Julvet",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a6f563f9a19dc97d",
+      "_key": "!tables.results!b411060d32ce9112.a6f563f9a19dc97d",
+      "type": 0,
+      "text": "Kanth",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0e490dc5aaedb875",
+      "_key": "!tables.results!b411060d32ce9112.0e490dc5aaedb875",
+      "type": 0,
+      "text": "Loy",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "71367ffce8990f72",
+      "_key": "!tables.results!b411060d32ce9112.71367ffce8990f72",
+      "type": 0,
+      "text": "Marsan",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5198a65135383796",
+      "_key": "!tables.results!b411060d32ce9112.5198a65135383796",
+      "type": 0,
+      "text": "Nisme",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b7d39ec282bc281c",
+      "_key": "!tables.results!b411060d32ce9112.b7d39ec282bc281c",
+      "type": 0,
+      "text": "Ourar",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3ba6d15efb1a665",
+      "_key": "!tables.results!b411060d32ce9112.f3ba6d15efb1a665",
+      "type": 0,
+      "text": "Peulin",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "11efd51102de74f0",
+      "_key": "!tables.results!b411060d32ce9112.11efd51102de74f0",
+      "type": 0,
+      "text": "Rundur",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e4e01fd83b81e945",
+      "_key": "!tables.results!b411060d32ce9112.e4e01fd83b81e945",
+      "type": 0,
+      "text": "Solin",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2676cf946d4a69db",
+      "_key": "!tables.results!b411060d32ce9112.2676cf946d4a69db",
+      "type": 0,
+      "text": "Thaas",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "56ade398aad3fa01",
+      "_key": "!tables.results!b411060d32ce9112.56ade398aad3fa01",
+      "type": 0,
+      "text": "Unvary",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ed85bcf9bbf41921",
+      "_key": "!tables.results!b411060d32ce9112.ed85bcf9bbf41921",
+      "type": 0,
+      "text": "Vanau",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "24c45ee9b273c763",
+      "_key": "!tables.results!b411060d32ce9112.24c45ee9b273c763",
+      "type": 0,
+      "text": "Wark",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "978a10881027c9a2",
+      "_key": "!tables.results!b411060d32ce9112.978a10881027c9a2",
+      "type": 0,
+      "text": "Yverne",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "03ddc053f0aef8e6",
+      "_key": "!tables.results!b411060d32ce9112.03ddc053f0aef8e6",
+      "type": 0,
+      "text": "Zalek",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d24",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

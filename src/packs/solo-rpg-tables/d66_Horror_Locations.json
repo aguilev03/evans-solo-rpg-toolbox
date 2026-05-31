@@ -1,0 +1,554 @@
+{
+  "_id": "beffc555665c6b0a",
+  "_key": "!tables!beffc555665c6b0a",
+  "name": "d66 Horror Locations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a location with a horror theme.",
+  "results": [
+    {
+      "_id": "a592e5f7a50d3a42",
+      "_key": "!tables.results!beffc555665c6b0a.a592e5f7a50d3a42",
+      "type": 0,
+      "text": "Manor",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3c87669f85f146da",
+      "_key": "!tables.results!beffc555665c6b0a.3c87669f85f146da",
+      "type": 0,
+      "text": "Cellar",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b0f6a2fd6f880041",
+      "_key": "!tables.results!beffc555665c6b0a.b0f6a2fd6f880041",
+      "type": 0,
+      "text": "Townhouse",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f23f1cca91ee67a2",
+      "_key": "!tables.results!beffc555665c6b0a.f23f1cca91ee67a2",
+      "type": 0,
+      "text": "Garden",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1216f19a67e38a4",
+      "_key": "!tables.results!beffc555665c6b0a.a1216f19a67e38a4",
+      "type": 0,
+      "text": "Servant's quarters",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e005af0d0262f3a",
+      "_key": "!tables.results!beffc555665c6b0a.5e005af0d0262f3a",
+      "type": 0,
+      "text": "Ballroom",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "91b28ea92488beef",
+      "_key": "!tables.results!beffc555665c6b0a.91b28ea92488beef",
+      "type": 0,
+      "text": "Docks",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d808bfcbff4d8b7e",
+      "_key": "!tables.results!beffc555665c6b0a.d808bfcbff4d8b7e",
+      "type": 0,
+      "text": "Private study",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6c54cea15e853cc5",
+      "_key": "!tables.results!beffc555665c6b0a.6c54cea15e853cc5",
+      "type": 0,
+      "text": "Rural farmhouse",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f4ccf96116bd1145",
+      "_key": "!tables.results!beffc555665c6b0a.f4ccf96116bd1145",
+      "type": 0,
+      "text": "Surveyor camp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b327bafce8a9ca8",
+      "_key": "!tables.results!beffc555665c6b0a.7b327bafce8a9ca8",
+      "type": 0,
+      "text": "Hospital",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d5a870960c07be35",
+      "_key": "!tables.results!beffc555665c6b0a.d5a870960c07be35",
+      "type": 0,
+      "text": "Attic",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "81ada198d14fd0b5",
+      "_key": "!tables.results!beffc555665c6b0a.81ada198d14fd0b5",
+      "type": 0,
+      "text": "Chapel",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2833f17c8f90d696",
+      "_key": "!tables.results!beffc555665c6b0a.2833f17c8f90d696",
+      "type": 0,
+      "text": "Library",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bb9b787bb0003506",
+      "_key": "!tables.results!beffc555665c6b0a.bb9b787bb0003506",
+      "type": 0,
+      "text": "Cemetery",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2762040f3e0e92d7",
+      "_key": "!tables.results!beffc555665c6b0a.2762040f3e0e92d7",
+      "type": 0,
+      "text": "Family mansion",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "76e18218552dc941",
+      "_key": "!tables.results!beffc555665c6b0a.76e18218552dc941",
+      "type": 0,
+      "text": "City streets",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a143eba829040882",
+      "_key": "!tables.results!beffc555665c6b0a.a143eba829040882",
+      "type": 0,
+      "text": "Moor",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "deb63705dbad1d81",
+      "_key": "!tables.results!beffc555665c6b0a.deb63705dbad1d81",
+      "type": 0,
+      "text": "Country road",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b8d2388006f6921b",
+      "_key": "!tables.results!beffc555665c6b0a.b8d2388006f6921b",
+      "type": 0,
+      "text": "Theatre",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dd357eca02f35c19",
+      "_key": "!tables.results!beffc555665c6b0a.dd357eca02f35c19",
+      "type": 0,
+      "text": "Asylum",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "83cd20bfb4c05b36",
+      "_key": "!tables.results!beffc555665c6b0a.83cd20bfb4c05b36",
+      "type": 0,
+      "text": "Inn",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cf25526317cb045f",
+      "_key": "!tables.results!beffc555665c6b0a.cf25526317cb045f",
+      "type": 0,
+      "text": "Catacombs",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "83e1212232949cde",
+      "_key": "!tables.results!beffc555665c6b0a.83e1212232949cde",
+      "type": 0,
+      "text": "Reading room",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e4d63e5cbf712746",
+      "_key": "!tables.results!beffc555665c6b0a.e4d63e5cbf712746",
+      "type": 0,
+      "text": "Lighthouse",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fe6c9bda6ab1ec33",
+      "_key": "!tables.results!beffc555665c6b0a.fe6c9bda6ab1ec33",
+      "type": 0,
+      "text": "Sewers",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d6338d2941e7f53b",
+      "_key": "!tables.results!beffc555665c6b0a.d6338d2941e7f53b",
+      "type": 0,
+      "text": "Bell tower",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d7eba362d155296",
+      "_key": "!tables.results!beffc555665c6b0a.0d7eba362d155296",
+      "type": 0,
+      "text": "Cabin",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b081f1da93fb1180",
+      "_key": "!tables.results!beffc555665c6b0a.b081f1da93fb1180",
+      "type": 0,
+      "text": "Parlour",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0c457af52abcf1f4",
+      "_key": "!tables.results!beffc555665c6b0a.0c457af52abcf1f4",
+      "type": 0,
+      "text": "Estate",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "731094ef9716ec5a",
+      "_key": "!tables.results!beffc555665c6b0a.731094ef9716ec5a",
+      "type": 0,
+      "text": "Stables",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1b4e8f37017e516e",
+      "_key": "!tables.results!beffc555665c6b0a.1b4e8f37017e516e",
+      "type": 0,
+      "text": "Island",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ecff41f3101c214",
+      "_key": "!tables.results!beffc555665c6b0a.2ecff41f3101c214",
+      "type": 0,
+      "text": "Observatory",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02961a9992c9bbcc",
+      "_key": "!tables.results!beffc555665c6b0a.02961a9992c9bbcc",
+      "type": 0,
+      "text": "Shipwreck",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4a67e2685193344d",
+      "_key": "!tables.results!beffc555665c6b0a.4a67e2685193344d",
+      "type": 0,
+      "text": "Windmill",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "80ac663c312a8da5",
+      "_key": "!tables.results!beffc555665c6b0a.80ac663c312a8da5",
+      "type": 0,
+      "text": "Office",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

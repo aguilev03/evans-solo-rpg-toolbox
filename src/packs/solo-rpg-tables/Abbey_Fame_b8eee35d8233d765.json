@@ -1,0 +1,194 @@
+{
+  "_id": "b8eee35d8233d765",
+  "_key": "!tables!b8eee35d8233d765",
+  "name": "Abbey Fame",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "839c745808c7fca5",
+      "_key": "!tables.results!b8eee35d8233d765.839c745808c7fca5",
+      "type": 0,
+      "text": "Age",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "57f9684e143fe6cf",
+      "_key": "!tables.results!b8eee35d8233d765.57f9684e143fe6cf",
+      "type": 0,
+      "text": "Architecture",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "88f90ddf2da94ceb",
+      "_key": "!tables.results!b8eee35d8233d765.88f90ddf2da94ceb",
+      "type": 0,
+      "text": "Cattle baptism",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9559e0afb5426912",
+      "_key": "!tables.results!b8eee35d8233d765.9559e0afb5426912",
+      "type": 0,
+      "text": "Curative (hot) springs",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c817b9229fb1446",
+      "_key": "!tables.results!b8eee35d8233d765.5c817b9229fb1446",
+      "type": 0,
+      "text": "Domain and landscapes",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6bd2263615173c6c",
+      "_key": "!tables.results!b8eee35d8233d765.6bd2263615173c6c",
+      "type": 0,
+      "text": "Grave of well known bishop",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d4776cf5bcb5076f",
+      "_key": "!tables.results!b8eee35d8233d765.d4776cf5bcb5076f",
+      "type": 0,
+      "text": "Key religious celebration",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc1765dacfccbb09",
+      "_key": "!tables.results!b8eee35d8233d765.bc1765dacfccbb09",
+      "type": 0,
+      "text": "Meals served to travelers",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6fa55bde16b7b15d",
+      "_key": "!tables.results!b8eee35d8233d765.6fa55bde16b7b15d",
+      "type": 0,
+      "text": "Pilgrimage",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2f89cc8a8673bf49",
+      "_key": "!tables.results!b8eee35d8233d765.2f89cc8a8673bf49",
+      "type": 0,
+      "text": "Power",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "86dd3660e1a2ab7a",
+      "_key": "!tables.results!b8eee35d8233d765.86dd3660e1a2ab7a",
+      "type": 0,
+      "text": "Quality of products",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "279c4c7b4f85fb95",
+      "_key": "!tables.results!b8eee35d8233d765.279c4c7b4f85fb95",
+      "type": 0,
+      "text": "Religious artifact",
+      "weight": 1,
+      "range": [
+        12,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

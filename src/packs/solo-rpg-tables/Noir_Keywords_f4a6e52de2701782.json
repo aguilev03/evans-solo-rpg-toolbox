@@ -1,0 +1,554 @@
+{
+  "_id": "f4a6e52de2701782",
+  "_key": "!tables!f4a6e52de2701782",
+  "name": "Noir Keywords",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a keyword with a noir theme.",
+  "results": [
+    {
+      "_id": "66678218b153f33e",
+      "_key": "!tables.results!f4a6e52de2701782.66678218b153f33e",
+      "type": 0,
+      "text": "Mantra",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d265835b3a92fede",
+      "_key": "!tables.results!f4a6e52de2701782.d265835b3a92fede",
+      "type": 0,
+      "text": "Weapon",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f34a1736408c2fb",
+      "_key": "!tables.results!f4a6e52de2701782.3f34a1736408c2fb",
+      "type": 0,
+      "text": "Companion",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8d1b2bc243490d68",
+      "_key": "!tables.results!f4a6e52de2701782.8d1b2bc243490d68",
+      "type": 0,
+      "text": "Knowledge",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8c4017c83ab50951",
+      "_key": "!tables.results!f4a6e52de2701782.8c4017c83ab50951",
+      "type": 0,
+      "text": "Jewellery",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aab76fdde0db4076",
+      "_key": "!tables.results!f4a6e52de2701782.aab76fdde0db4076",
+      "type": 0,
+      "text": "Dialect",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "74f68641da020b0a",
+      "_key": "!tables.results!f4a6e52de2701782.74f68641da020b0a",
+      "type": 0,
+      "text": "Artefact",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1a009171720d1bb4",
+      "_key": "!tables.results!f4a6e52de2701782.1a009171720d1bb4",
+      "type": 0,
+      "text": "Key",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a2c379434f49ed30",
+      "_key": "!tables.results!f4a6e52de2701782.a2c379434f49ed30",
+      "type": 0,
+      "text": "Polaroid",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e2d962b1ae2b5be",
+      "_key": "!tables.results!f4a6e52de2701782.3e2d962b1ae2b5be",
+      "type": 0,
+      "text": "Tool",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3fcdae73c8aaff27",
+      "_key": "!tables.results!f4a6e52de2701782.3fcdae73c8aaff27",
+      "type": 0,
+      "text": "Distraction",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d7fffc33bb00415",
+      "_key": "!tables.results!f4a6e52de2701782.7d7fffc33bb00415",
+      "type": 0,
+      "text": "Connection",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e7afc81e46fc0d9f",
+      "_key": "!tables.results!f4a6e52de2701782.e7afc81e46fc0d9f",
+      "type": 0,
+      "text": "Clothing",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e722324e6a89256d",
+      "_key": "!tables.results!f4a6e52de2701782.e722324e6a89256d",
+      "type": 0,
+      "text": "Code",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "98d3e0e2f5fa8564",
+      "_key": "!tables.results!f4a6e52de2701782.98d3e0e2f5fa8564",
+      "type": 0,
+      "text": "Cabal",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0bafe9d48cbec377",
+      "_key": "!tables.results!f4a6e52de2701782.0bafe9d48cbec377",
+      "type": 0,
+      "text": "Forgotten",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bd801401db2a5b67",
+      "_key": "!tables.results!f4a6e52de2701782.bd801401db2a5b67",
+      "type": 0,
+      "text": "Reason",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "93eb9313bdda539a",
+      "_key": "!tables.results!f4a6e52de2701782.93eb9313bdda539a",
+      "type": 0,
+      "text": "Scent",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5f59d156177c857d",
+      "_key": "!tables.results!f4a6e52de2701782.5f59d156177c857d",
+      "type": 0,
+      "text": "Kidnapping",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "916d9f6c8fefa8e6",
+      "_key": "!tables.results!f4a6e52de2701782.916d9f6c8fefa8e6",
+      "type": 0,
+      "text": "Stolen",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b74d8c0760d0b328",
+      "_key": "!tables.results!f4a6e52de2701782.b74d8c0760d0b328",
+      "type": 0,
+      "text": "Grudge",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "81e3a0ddf837e71f",
+      "_key": "!tables.results!f4a6e52de2701782.81e3a0ddf837e71f",
+      "type": 0,
+      "text": "Family",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7311fbafb3eea596",
+      "_key": "!tables.results!f4a6e52de2701782.7311fbafb3eea596",
+      "type": 0,
+      "text": "Carving",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "caae4c5c9c849362",
+      "_key": "!tables.results!f4a6e52de2701782.caae4c5c9c849362",
+      "type": 0,
+      "text": "Backdoor",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "75f34cf16102241f",
+      "_key": "!tables.results!f4a6e52de2701782.75f34cf16102241f",
+      "type": 0,
+      "text": "Medicine",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "239ee68e04112d62",
+      "_key": "!tables.results!f4a6e52de2701782.239ee68e04112d62",
+      "type": 0,
+      "text": "Aid",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8bfa9ed1d265fa48",
+      "_key": "!tables.results!f4a6e52de2701782.8bfa9ed1d265fa48",
+      "type": 0,
+      "text": "Dream",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6727168ef5979ece",
+      "_key": "!tables.results!f4a6e52de2701782.6727168ef5979ece",
+      "type": 0,
+      "text": "Missing",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f71043271788c13",
+      "_key": "!tables.results!f4a6e52de2701782.6f71043271788c13",
+      "type": 0,
+      "text": "Conspiracy",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "68cd69674e542939",
+      "_key": "!tables.results!f4a6e52de2701782.68cd69674e542939",
+      "type": 0,
+      "text": "Lie",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb557edb13420719",
+      "_key": "!tables.results!f4a6e52de2701782.eb557edb13420719",
+      "type": 0,
+      "text": "Betrayal",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f62af619a675be43",
+      "_key": "!tables.results!f4a6e52de2701782.f62af619a675be43",
+      "type": 0,
+      "text": "Avenue of escape",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a4fa8e5038ca5ef8",
+      "_key": "!tables.results!f4a6e52de2701782.a4fa8e5038ca5ef8",
+      "type": 0,
+      "text": "Presence",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c9cb13da8a65ce77",
+      "_key": "!tables.results!f4a6e52de2701782.c9cb13da8a65ce77",
+      "type": 0,
+      "text": "Powerful ally",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "beea75fa0a16312a",
+      "_key": "!tables.results!f4a6e52de2701782.beea75fa0a16312a",
+      "type": 0,
+      "text": "Voice",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b663827ae768e585",
+      "_key": "!tables.results!f4a6e52de2701782.b663827ae768e585",
+      "type": 0,
+      "text": "Trail",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

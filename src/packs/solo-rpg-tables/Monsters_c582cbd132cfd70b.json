@@ -1,0 +1,359 @@
+{
+  "_id": "c582cbd132cfd70b",
+  "_key": "!tables!c582cbd132cfd70b",
+  "name": "Monsters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Proactively compiled list of monsters from Biome Encounters",
+  "results": [
+    {
+      "_id": "3d59c394ce3d5da2",
+      "_key": "!tables.results!c582cbd132cfd70b.3d59c394ce3d5da2",
+      "type": 0,
+      "text": "Dinosaurs",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13cb362f95124484",
+      "_key": "!tables.results!c582cbd132cfd70b.13cb362f95124484",
+      "type": 0,
+      "text": "Ogres",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4cfe197ccbcff9a4",
+      "_key": "!tables.results!c582cbd132cfd70b.4cfe197ccbcff9a4",
+      "type": 0,
+      "text": "Giant rats",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1de7d692f22f0c69",
+      "_key": "!tables.results!c582cbd132cfd70b.1de7d692f22f0c69",
+      "type": 0,
+      "text": "Wolves",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ece5cfe80bed92e",
+      "_key": "!tables.results!c582cbd132cfd70b.8ece5cfe80bed92e",
+      "type": 0,
+      "text": "Worgs",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd7b7e8d31436c75",
+      "_key": "!tables.results!c582cbd132cfd70b.cd7b7e8d31436c75",
+      "type": 0,
+      "text": "Werewolves",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd36160bbe989fbe",
+      "_key": "!tables.results!c582cbd132cfd70b.cd36160bbe989fbe",
+      "type": 0,
+      "text": "Ents",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c5704379df2b285e",
+      "_key": "!tables.results!c582cbd132cfd70b.c5704379df2b285e",
+      "type": 0,
+      "text": "Giant spiders",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6b6d81552116a335",
+      "_key": "!tables.results!c582cbd132cfd70b.6b6d81552116a335",
+      "type": 0,
+      "text": "Bears",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d24e56f9a4dcd854",
+      "_key": "!tables.results!c582cbd132cfd70b.d24e56f9a4dcd854",
+      "type": 0,
+      "text": "Boars",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3db5d5def570bad",
+      "_key": "!tables.results!c582cbd132cfd70b.b3db5d5def570bad",
+      "type": 0,
+      "text": "Dryads",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fab6ea6e468c7fb0",
+      "_key": "!tables.results!c582cbd132cfd70b.fab6ea6e468c7fb0",
+      "type": 0,
+      "text": "Manticores",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "87a09e4446932e7b",
+      "_key": "!tables.results!c582cbd132cfd70b.87a09e4446932e7b",
+      "type": 0,
+      "text": "Basilisks",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "63aa4c23ae0df12b",
+      "_key": "!tables.results!c582cbd132cfd70b.63aa4c23ae0df12b",
+      "type": 0,
+      "text": "Giants",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b1026f433dc0c7d2",
+      "_key": "!tables.results!c582cbd132cfd70b.b1026f433dc0c7d2",
+      "type": 0,
+      "text": "Wyverns",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "82c499f5e38196f2",
+      "_key": "!tables.results!c582cbd132cfd70b.82c499f5e38196f2",
+      "type": 0,
+      "text": "Trolls",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fd851c23fac29dd9",
+      "_key": "!tables.results!c582cbd132cfd70b.fd851c23fac29dd9",
+      "type": 0,
+      "text": "Skeletons",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "537d85baf1d63ec9",
+      "_key": "!tables.results!c582cbd132cfd70b.537d85baf1d63ec9",
+      "type": 0,
+      "text": "Crocodiles",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ef9def9093ef334a",
+      "_key": "!tables.results!c582cbd132cfd70b.ef9def9093ef334a",
+      "type": 0,
+      "text": "Zombies",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5c3c48682050f0a1",
+      "_key": "!tables.results!c582cbd132cfd70b.5c3c48682050f0a1",
+      "type": 0,
+      "text": "Hydras",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9a5baa1e9be05c43",
+      "_key": "!tables.results!c582cbd132cfd70b.9a5baa1e9be05c43",
+      "type": 0,
+      "text": "Griffins",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e852dec66f2bf233",
+      "_key": "!tables.results!c582cbd132cfd70b.e852dec66f2bf233",
+      "type": 0,
+      "text": "Smilodons",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e7cc60ee5de41d9",
+      "_key": "!tables.results!c582cbd132cfd70b.4e7cc60ee5de41d9",
+      "type": 0,
+      "text": "Vampires",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d23",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "4895ee3b8e827a5c",
+  "flags": {}
+}

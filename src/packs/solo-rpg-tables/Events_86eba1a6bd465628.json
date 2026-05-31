@@ -1,0 +1,59 @@
+{
+  "_id": "86eba1a6bd465628",
+  "_key": "!tables!86eba1a6bd465628",
+  "name": "Events",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "19eda6f1ceb5caa2",
+      "_key": "!tables.results!86eba1a6bd465628.19eda6f1ceb5caa2",
+      "type": 0,
+      "text": "Ended earlier",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9889c6f30def1a4f",
+      "_key": "!tables.results!86eba1a6bd465628.9889c6f30def1a4f",
+      "type": 0,
+      "text": "Is happening now",
+      "weight": 1,
+      "range": [
+        2,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ac5a308b7bc17a63",
+      "_key": "!tables.results!86eba1a6bd465628.ac5a308b7bc17a63",
+      "type": 0,
+      "text": "Will take place in the future",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

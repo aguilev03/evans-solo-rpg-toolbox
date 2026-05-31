@@ -1,0 +1,74 @@
+{
+  "_id": "27865f00a3182175",
+  "_key": "!tables!27865f00a3182175",
+  "name": "Landmark Content",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "b018e2a6b6cca6c4",
+      "_key": "!tables.results!27865f00a3182175.b018e2a6b6cca6c4",
+      "type": 0,
+      "text": "Hazard 25%",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "342025156f8446a2",
+      "_key": "!tables.results!27865f00a3182175.342025156f8446a2",
+      "type": 0,
+      "text": "Empty 15%",
+      "weight": 1,
+      "range": [
+        2,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17dbce624492fa0a",
+      "_key": "!tables.results!27865f00a3182175.17dbce624492fa0a",
+      "type": 0,
+      "text": "Special variable",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f50838a8d4ad8da",
+      "_key": "!tables.results!27865f00a3182175.3f50838a8d4ad8da",
+      "type": 0,
+      "text": "Monsters 50%",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

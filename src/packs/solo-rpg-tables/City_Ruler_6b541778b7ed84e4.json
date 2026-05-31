@@ -1,0 +1,119 @@
+{
+  "_id": "6b541778b7ed84e4",
+  "_key": "!tables!6b541778b7ed84e4",
+  "name": "City Ruler",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "817e8873ac90e4c2",
+      "_key": "!tables.results!6b541778b7ed84e4.817e8873ac90e4c2",
+      "type": 0,
+      "text": "Noble",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "adc26fc28a4051a1",
+      "_key": "!tables.results!6b541778b7ed84e4.adc26fc28a4051a1",
+      "type": 0,
+      "text": "Clergy",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2a632b2987a3ec8c",
+      "_key": "!tables.results!6b541778b7ed84e4.2a632b2987a3ec8c",
+      "type": 0,
+      "text": "Council",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8812390f66b4342a",
+      "_key": "!tables.results!6b541778b7ed84e4.8812390f66b4342a",
+      "type": 0,
+      "text": "Mayor",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c62c9be0a6c8231",
+      "_key": "!tables.results!6b541778b7ed84e4.4c62c9be0a6c8231",
+      "type": 0,
+      "text": "Merchants’ guild",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "90d2881cd97dbaeb",
+      "_key": "!tables.results!6b541778b7ed84e4.90d2881cd97dbaeb",
+      "type": 0,
+      "text": "Thieves’ guild",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "58ce4a15a5cdf598",
+      "_key": "!tables.results!6b541778b7ed84e4.58ce4a15a5cdf598",
+      "type": 0,
+      "text": "Vampire",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

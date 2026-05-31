@@ -1,0 +1,194 @@
+{
+  "_id": "638515affb260533",
+  "_key": "!tables!638515affb260533",
+  "name": "Hamlet Main Building",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "f8e612a7ff1eab80",
+      "_key": "!tables.results!638515affb260533.f8e612a7ff1eab80",
+      "type": 0,
+      "text": "Brewery/Vineyard",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "797683ccbda703dc",
+      "_key": "!tables.results!638515affb260533.797683ccbda703dc",
+      "type": 0,
+      "text": "Chapel",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5216984b3b4f60fa",
+      "_key": "!tables.results!638515affb260533.5216984b3b4f60fa",
+      "type": 0,
+      "text": "Farm/Ranch",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d63d3c5fd79f6bc1",
+      "_key": "!tables.results!638515affb260533.d63d3c5fd79f6bc1",
+      "type": 0,
+      "text": "Manor",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e753f4f633816b08",
+      "_key": "!tables.results!638515affb260533.e753f4f633816b08",
+      "type": 0,
+      "text": "Mill",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0c454845ef3fd637",
+      "_key": "!tables.results!638515affb260533.0c454845ef3fd637",
+      "type": 0,
+      "text": "Mine",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a58c41a3177c1d4e",
+      "_key": "!tables.results!638515affb260533.a58c41a3177c1d4e",
+      "type": 0,
+      "text": "Sawmill",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "16f174a9c73ad4c6",
+      "_key": "!tables.results!638515affb260533.16f174a9c73ad4c6",
+      "type": 0,
+      "text": "Shop",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "05b71393da11dcac",
+      "_key": "!tables.results!638515affb260533.05b71393da11dcac",
+      "type": 0,
+      "text": "Tavern",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e45d93ec0d043367",
+      "_key": "!tables.results!638515affb260533.e45d93ec0d043367",
+      "type": 0,
+      "text": "Toll",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0b20f36be6c3c08a",
+      "_key": "!tables.results!638515affb260533.0b20f36be6c3c08a",
+      "type": 0,
+      "text": "Tourney grounds",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0b26fd8ecd89d1f6",
+      "_key": "!tables.results!638515affb260533.0b26fd8ecd89d1f6",
+      "type": 0,
+      "text": "Watchtower",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

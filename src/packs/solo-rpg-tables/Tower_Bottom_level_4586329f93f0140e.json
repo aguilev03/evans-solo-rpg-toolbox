@@ -1,0 +1,329 @@
+{
+  "_id": "4586329f93f0140e",
+  "_key": "!tables!4586329f93f0140e",
+  "name": "Tower Bottom level",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "2285acb3b7d7c819",
+      "_key": "!tables.results!4586329f93f0140e.2285acb3b7d7c819",
+      "type": 0,
+      "text": "Abyss",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6ab51f99eb14ee51",
+      "_key": "!tables.results!4586329f93f0140e.6ab51f99eb14ee51",
+      "type": 0,
+      "text": "Ancient ruins",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a923fd43c3291430",
+      "_key": "!tables.results!4586329f93f0140e.a923fd43c3291430",
+      "type": 0,
+      "text": "Arena",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5defdb86fcf6ba34",
+      "_key": "!tables.results!4586329f93f0140e.5defdb86fcf6ba34",
+      "type": 0,
+      "text": "Boudoir",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fd9ccd466cac750c",
+      "_key": "!tables.results!4586329f93f0140e.fd9ccd466cac750c",
+      "type": 0,
+      "text": "Creature mouth",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "717b47323f7ec917",
+      "_key": "!tables.results!4586329f93f0140e.717b47323f7ec917",
+      "type": 0,
+      "text": "Excavation site",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "15d2645095448900",
+      "_key": "!tables.results!4586329f93f0140e.15d2645095448900",
+      "type": 0,
+      "text": "Flesh pit",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1edb926105482e7e",
+      "_key": "!tables.results!4586329f93f0140e.1edb926105482e7e",
+      "type": 0,
+      "text": "Flooded pit",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0375d7b564fa256b",
+      "_key": "!tables.results!4586329f93f0140e.0375d7b564fa256b",
+      "type": 0,
+      "text": "Gambling den",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "17830c8e7ec1362f",
+      "_key": "!tables.results!4586329f93f0140e.17830c8e7ec1362f",
+      "type": 0,
+      "text": "Magic portal",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "16d6e79e5114a5dc",
+      "_key": "!tables.results!4586329f93f0140e.16d6e79e5114a5dc",
+      "type": 0,
+      "text": "Magic well",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "71e507a118355164",
+      "_key": "!tables.results!4586329f93f0140e.71e507a118355164",
+      "type": 0,
+      "text": "Mine",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2bb1e25b412cd819",
+      "_key": "!tables.results!4586329f93f0140e.2bb1e25b412cd819",
+      "type": 0,
+      "text": "Oubliette",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "219240116bef9564",
+      "_key": "!tables.results!4586329f93f0140e.219240116bef9564",
+      "type": 0,
+      "text": "Secret society headquarters",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f5de2f5a4f6d4c4",
+      "_key": "!tables.results!4586329f93f0140e.1f5de2f5a4f6d4c4",
+      "type": 0,
+      "text": "Tomb",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7da50b6e5e7a85d6",
+      "_key": "!tables.results!4586329f93f0140e.7da50b6e5e7a85d6",
+      "type": 0,
+      "text": "Tunnel to a lair",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "35c4d25fe7bce7e1",
+      "_key": "!tables.results!4586329f93f0140e.35c4d25fe7bce7e1",
+      "type": 0,
+      "text": "Tunnel to the center of the",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cb46b9d9f986b086",
+      "_key": "!tables.results!4586329f93f0140e.cb46b9d9f986b086",
+      "type": 0,
+      "text": "planet",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "88084fe31f36b171",
+      "_key": "!tables.results!4586329f93f0140e.88084fe31f36b171",
+      "type": 0,
+      "text": "Tunnel to the surface",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b47b0faa0304ccd3",
+      "_key": "!tables.results!4586329f93f0140e.b47b0faa0304ccd3",
+      "type": 0,
+      "text": "Vault",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "54f690dea065a946",
+      "_key": "!tables.results!4586329f93f0140e.54f690dea065a946",
+      "type": 0,
+      "text": "Well",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

@@ -1,0 +1,194 @@
+{
+  "_id": "73adefacc97883b9",
+  "_key": "!tables!73adefacc97883b9",
+  "name": "Village Event",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "a5ad71183ef09517",
+      "_key": "!tables.results!73adefacc97883b9.a5ad71183ef09517",
+      "type": 0,
+      "text": "Adventurers passing by",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "41c419e9f1f3383b",
+      "_key": "!tables.results!73adefacc97883b9.41c419e9f1f3383b",
+      "type": 0,
+      "text": "Announcement by a crier",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb6c5ad1db1a2a0c",
+      "_key": "!tables.results!73adefacc97883b9.fb6c5ad1db1a2a0c",
+      "type": 0,
+      "text": "Ceremony (wedding, etc.)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "31cbefaa56664e95",
+      "_key": "!tables.results!73adefacc97883b9.31cbefaa56664e95",
+      "type": 0,
+      "text": "Controlled by monsters",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "70d215052522fb69",
+      "_key": "!tables.results!73adefacc97883b9.70d215052522fb69",
+      "type": 0,
+      "text": "Disappearances",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "df893f78818b3444",
+      "_key": "!tables.results!73adefacc97883b9.df893f78818b3444",
+      "type": 0,
+      "text": "Famine",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0ff5820940b64280",
+      "_key": "!tables.results!73adefacc97883b9.0ff5820940b64280",
+      "type": 0,
+      "text": "Festival/Fair",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b5fd4fde9fa14d6a",
+      "_key": "!tables.results!73adefacc97883b9.b5fd4fde9fa14d6a",
+      "type": 0,
+      "text": "Fire",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "543e2f8b4a8b3d6f",
+      "_key": "!tables.results!73adefacc97883b9.543e2f8b4a8b3d6f",
+      "type": 0,
+      "text": "Looting",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "66f8c9aaab14d3af",
+      "_key": "!tables.results!73adefacc97883b9.66f8c9aaab14d3af",
+      "type": 0,
+      "text": "Market day",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3b17a2f6220d6d87",
+      "_key": "!tables.results!73adefacc97883b9.3b17a2f6220d6d87",
+      "type": 0,
+      "text": "Plague",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b853e5e01b15713e",
+      "_key": "!tables.results!73adefacc97883b9.b853e5e01b15713e",
+      "type": 0,
+      "text": "Visit of a notable (lord, etc.)",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

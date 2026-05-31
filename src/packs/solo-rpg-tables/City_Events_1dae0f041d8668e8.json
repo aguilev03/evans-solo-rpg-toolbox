@@ -1,0 +1,194 @@
+{
+  "_id": "1dae0f041d8668e8",
+  "_key": "!tables!1dae0f041d8668e8",
+  "name": "City Events",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "ec5813bf3037755c",
+      "_key": "!tables.results!1dae0f041d8668e8.ec5813bf3037755c",
+      "type": 0,
+      "text": "Announcement by a crier",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "69c1b4ab76a0f332",
+      "_key": "!tables.results!1dae0f041d8668e8.69c1b4ab76a0f332",
+      "type": 0,
+      "text": "Assassination",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "70820936e686f1f4",
+      "_key": "!tables.results!1dae0f041d8668e8.70820936e686f1f4",
+      "type": 0,
+      "text": "Ceremony (wedding, etc.)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a252b7ae43e3b47e",
+      "_key": "!tables.results!1dae0f041d8668e8.a252b7ae43e3b47e",
+      "type": 0,
+      "text": "Disappearances",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c2559b7212d5a833",
+      "_key": "!tables.results!1dae0f041d8668e8.c2559b7212d5a833",
+      "type": 0,
+      "text": "Festival/Fair",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "50efa45fd30563c1",
+      "_key": "!tables.results!1dae0f041d8668e8.50efa45fd30563c1",
+      "type": 0,
+      "text": "Fire",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "34f8b72985c6b083",
+      "_key": "!tables.results!1dae0f041d8668e8.34f8b72985c6b083",
+      "type": 0,
+      "text": "Market day",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "35d10d523cc8e16d",
+      "_key": "!tables.results!1dae0f041d8668e8.35d10d523cc8e16d",
+      "type": 0,
+      "text": "Plague",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be0e0003c1c4b9c1",
+      "_key": "!tables.results!1dae0f041d8668e8.be0e0003c1c4b9c1",
+      "type": 0,
+      "text": "Siege/Looting",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8b50d7a1d6b8d513",
+      "_key": "!tables.results!1dae0f041d8668e8.8b50d7a1d6b8d513",
+      "type": 0,
+      "text": "Tournament",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d7ccbbb23d7e52a7",
+      "_key": "!tables.results!1dae0f041d8668e8.d7ccbbb23d7e52a7",
+      "type": 0,
+      "text": "Vermin invasion",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c659c5cd2f6e1072",
+      "_key": "!tables.results!1dae0f041d8668e8.c659c5cd2f6e1072",
+      "type": 0,
+      "text": "Visit of a religious person",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

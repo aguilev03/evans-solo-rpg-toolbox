@@ -1,0 +1,74 @@
+{
+  "_id": "c7042e0b6c7d1847",
+  "_key": "!tables!c7042e0b6c7d1847",
+  "name": "City Specific Color Scheme",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "6a23464496be5dbd",
+      "_key": "!tables.results!c7042e0b6c7d1847.6a23464496be5dbd",
+      "type": 0,
+      "text": "1. Black and white",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "80130d3f48ade8a7",
+      "_key": "!tables.results!c7042e0b6c7d1847.80130d3f48ade8a7",
+      "type": 0,
+      "text": "2. Blue and white",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0db5682060ebc185",
+      "_key": "!tables.results!c7042e0b6c7d1847.0db5682060ebc185",
+      "type": 0,
+      "text": "3. Grayscale",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5cc30b3abc8693c1",
+      "_key": "!tables.results!c7042e0b6c7d1847.5cc30b3abc8693c1",
+      "type": 0,
+      "text": "4. Sand and terracotta",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

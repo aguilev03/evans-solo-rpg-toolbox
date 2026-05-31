@@ -1,0 +1,554 @@
+{
+  "_id": "c50d45729ae89022",
+  "_key": "!tables!c50d45729ae89022",
+  "name": "Horror Objects",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate an object with a horror theme.",
+  "results": [
+    {
+      "_id": "edd13aa03d9928c0",
+      "_key": "!tables.results!c50d45729ae89022.edd13aa03d9928c0",
+      "type": 0,
+      "text": "Sun",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be36399dd171dff1",
+      "_key": "!tables.results!c50d45729ae89022.be36399dd171dff1",
+      "type": 0,
+      "text": "Servant",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6be791bab61c1e55",
+      "_key": "!tables.results!c50d45729ae89022.6be791bab61c1e55",
+      "type": 0,
+      "text": "Doll",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2450f0fa3120520a",
+      "_key": "!tables.results!c50d45729ae89022.2450f0fa3120520a",
+      "type": 0,
+      "text": "Letter",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd84c48ac890919f",
+      "_key": "!tables.results!c50d45729ae89022.cd84c48ac890919f",
+      "type": 0,
+      "text": "Heirloom",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4bef155f34885539",
+      "_key": "!tables.results!c50d45729ae89022.4bef155f34885539",
+      "type": 0,
+      "text": "Sibling",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f6db7d7faec4e000",
+      "_key": "!tables.results!c50d45729ae89022.f6db7d7faec4e000",
+      "type": 0,
+      "text": "Grimoire",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b56b7c2ac949505c",
+      "_key": "!tables.results!c50d45729ae89022.b56b7c2ac949505c",
+      "type": 0,
+      "text": "Partygoer",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5ff2633b838b9b36",
+      "_key": "!tables.results!c50d45729ae89022.5ff2633b838b9b36",
+      "type": 0,
+      "text": "Fortune",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d0f07ecd596b56b4",
+      "_key": "!tables.results!c50d45729ae89022.d0f07ecd596b56b4",
+      "type": 0,
+      "text": "Family",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "61f2bfd0c8843f68",
+      "_key": "!tables.results!c50d45729ae89022.61f2bfd0c8843f68",
+      "type": 0,
+      "text": "Animal",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "980781bb73622cda",
+      "_key": "!tables.results!c50d45729ae89022.980781bb73622cda",
+      "type": 0,
+      "text": "Deed",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "419b8551d7d5959b",
+      "_key": "!tables.results!c50d45729ae89022.419b8551d7d5959b",
+      "type": 0,
+      "text": "Gentleperson",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "937d6ad89c0cd337",
+      "_key": "!tables.results!c50d45729ae89022.937d6ad89c0cd337",
+      "type": 0,
+      "text": "Cult",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "39e340e27b6f4cfa",
+      "_key": "!tables.results!c50d45729ae89022.39e340e27b6f4cfa",
+      "type": 0,
+      "text": "Reflection",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d78c75347d75ce67",
+      "_key": "!tables.results!c50d45729ae89022.d78c75347d75ce67",
+      "type": 0,
+      "text": "Creature",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3221109c6fa8d77c",
+      "_key": "!tables.results!c50d45729ae89022.3221109c6fa8d77c",
+      "type": 0,
+      "text": "Spirit",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a54cbaa9b5e064a9",
+      "_key": "!tables.results!c50d45729ae89022.a54cbaa9b5e064a9",
+      "type": 0,
+      "text": "Lord",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b8234d07f5da3c77",
+      "_key": "!tables.results!c50d45729ae89022.b8234d07f5da3c77",
+      "type": 0,
+      "text": "Vampire",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e50fb3c23a0c50bb",
+      "_key": "!tables.results!c50d45729ae89022.e50fb3c23a0c50bb",
+      "type": 0,
+      "text": "Storm",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e93051c781548f1b",
+      "_key": "!tables.results!c50d45729ae89022.e93051c781548f1b",
+      "type": 0,
+      "text": "Journal",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c0d17447a0e82a75",
+      "_key": "!tables.results!c50d45729ae89022.c0d17447a0e82a75",
+      "type": 0,
+      "text": "Memory",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "90c21e56f7baf1d0",
+      "_key": "!tables.results!c50d45729ae89022.90c21e56f7baf1d0",
+      "type": 0,
+      "text": "Heiress",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53b6e3b27a17c10b",
+      "_key": "!tables.results!c50d45729ae89022.53b6e3b27a17c10b",
+      "type": 0,
+      "text": "Painting",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dcf0665bd0601397",
+      "_key": "!tables.results!c50d45729ae89022.dcf0665bd0601397",
+      "type": 0,
+      "text": "Curse",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "463cbd52af3935ff",
+      "_key": "!tables.results!c50d45729ae89022.463cbd52af3935ff",
+      "type": 0,
+      "text": "Vagrant",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a6f9cfaaaac6e9ef",
+      "_key": "!tables.results!c50d45729ae89022.a6f9cfaaaac6e9ef",
+      "type": 0,
+      "text": "Corpse",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "11c4b41589df0cff",
+      "_key": "!tables.results!c50d45729ae89022.11c4b41589df0cff",
+      "type": 0,
+      "text": "Oracle",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f2d7253103525cf9",
+      "_key": "!tables.results!c50d45729ae89022.f2d7253103525cf9",
+      "type": 0,
+      "text": "Secret",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8341dbab62075e3",
+      "_key": "!tables.results!c50d45729ae89022.d8341dbab62075e3",
+      "type": 0,
+      "text": "Veil",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4bfaf7e439e7ed9f",
+      "_key": "!tables.results!c50d45729ae89022.4bfaf7e439e7ed9f",
+      "type": 0,
+      "text": "Statue",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0cb01e0176b527be",
+      "_key": "!tables.results!c50d45729ae89022.0cb01e0176b527be",
+      "type": 0,
+      "text": "Light",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "839a102bf86b5c7d",
+      "_key": "!tables.results!c50d45729ae89022.839a102bf86b5c7d",
+      "type": 0,
+      "text": "Thrall",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "99bb39967151b856",
+      "_key": "!tables.results!c50d45729ae89022.99bb39967151b856",
+      "type": 0,
+      "text": "Memoir",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "52573451cfcb2375",
+      "_key": "!tables.results!c50d45729ae89022.52573451cfcb2375",
+      "type": 0,
+      "text": "Lady",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f559cb518a565a65",
+      "_key": "!tables.results!c50d45729ae89022.f559cb518a565a65",
+      "type": 0,
+      "text": "Decorative saber",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

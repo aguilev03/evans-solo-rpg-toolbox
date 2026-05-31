@@ -1,0 +1,554 @@
+{
+  "_id": "2e8dcffa5a5a1af4",
+  "_key": "!tables!2e8dcffa5a5a1af4",
+  "name": "First Names",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a first name.",
+  "results": [
+    {
+      "_id": "d1fac86d048de07c",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.d1fac86d048de07c",
+      "type": 0,
+      "text": "Kit",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c15d0987dc3792ba",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.c15d0987dc3792ba",
+      "type": 0,
+      "text": "Anahera",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2c42dbdaafb5f940",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.2c42dbdaafb5f940",
+      "type": 0,
+      "text": "Elijah",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a8bbc1b671cac94d",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.a8bbc1b671cac94d",
+      "type": 0,
+      "text": "Silas",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e146c531c930eac4",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.e146c531c930eac4",
+      "type": 0,
+      "text": "Zephyr",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a15d6b5043fb3215",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.a15d6b5043fb3215",
+      "type": 0,
+      "text": "Imogen",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b934addb76a9faf7",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.b934addb76a9faf7",
+      "type": 0,
+      "text": "Richter",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c97178c84a311d1b",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.c97178c84a311d1b",
+      "type": 0,
+      "text": "Amelia",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "893d6ced5b6d36a5",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.893d6ced5b6d36a5",
+      "type": 0,
+      "text": "Zayd",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5154f07df53b4c0f",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.5154f07df53b4c0f",
+      "type": 0,
+      "text": "Yoko",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "30a501cf72823395",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.30a501cf72823395",
+      "type": 0,
+      "text": "Oliver",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9c182eb90b5b06a5",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.9c182eb90b5b06a5",
+      "type": 0,
+      "text": "Cecil",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5acf97df44dc127a",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.5acf97df44dc127a",
+      "type": 0,
+      "text": "Ike",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb1faa1f718af5f4",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.eb1faa1f718af5f4",
+      "type": 0,
+      "text": "Lorenzo",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb5d529501c8c542",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.fb5d529501c8c542",
+      "type": 0,
+      "text": "Penny",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d6ba71c11f2375b",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.0d6ba71c11f2375b",
+      "type": 0,
+      "text": "Jon",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "93e0fa5d761365db",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.93e0fa5d761365db",
+      "type": 0,
+      "text": "Hafsah",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "847b21cdb98fa9ff",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.847b21cdb98fa9ff",
+      "type": 0,
+      "text": "Tamsin",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3a7c2d2d2686becb",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.3a7c2d2d2686becb",
+      "type": 0,
+      "text": "Ripley",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dd33b2540c2d8631",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.dd33b2540c2d8631",
+      "type": 0,
+      "text": "Willow",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9b2b5a6c43b80422",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.9b2b5a6c43b80422",
+      "type": 0,
+      "text": "Cristiano",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fb0ade2bf8ad3acf",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.fb0ade2bf8ad3acf",
+      "type": 0,
+      "text": "Nixa",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1cbab6e4bb4a9eda",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.1cbab6e4bb4a9eda",
+      "type": 0,
+      "text": "Leif",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "866275a119d43974",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.866275a119d43974",
+      "type": 0,
+      "text": "Charlie",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f51efe84777b732",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.1f51efe84777b732",
+      "type": 0,
+      "text": "Jasher",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aeb712227442155a",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.aeb712227442155a",
+      "type": 0,
+      "text": "Fatima",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0d5f4fb09fd958d8",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.0d5f4fb09fd958d8",
+      "type": 0,
+      "text": "Montgomery",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d227645c31602806",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.d227645c31602806",
+      "type": 0,
+      "text": "Gilda",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f7371ec337d76394",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.f7371ec337d76394",
+      "type": 0,
+      "text": "Camille",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "606b0ee96cc31cf7",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.606b0ee96cc31cf7",
+      "type": 0,
+      "text": "Pearl",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd295c9b936501c3",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.cd295c9b936501c3",
+      "type": 0,
+      "text": "Wren",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9819949758d86253",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.9819949758d86253",
+      "type": 0,
+      "text": "Percy",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "73434ba42f2a43f5",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.73434ba42f2a43f5",
+      "type": 0,
+      "text": "Estella",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5dbded0be2541ba7",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.5dbded0be2541ba7",
+      "type": 0,
+      "text": "Leah",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "51e57bc3e5fa20e8",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.51e57bc3e5fa20e8",
+      "type": 0,
+      "text": "Yorinna",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ba68fe96810a1d4",
+      "_key": "!tables.results!2e8dcffa5a5a1af4.8ba68fe96810a1d4",
+      "type": 0,
+      "text": "Landon",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

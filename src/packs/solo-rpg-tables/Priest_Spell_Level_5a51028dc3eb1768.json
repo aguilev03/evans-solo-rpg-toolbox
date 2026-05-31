@@ -1,0 +1,89 @@
+{
+  "_id": "5a51028dc3eb1768",
+  "_key": "!tables!5a51028dc3eb1768",
+  "name": "Priest Spell Level",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "b27724f9bb83104b",
+      "_key": "!tables.results!5a51028dc3eb1768.b27724f9bb83104b",
+      "type": 0,
+      "text": "Level 1",
+      "weight": 1,
+      "range": [
+        1,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c9c2396bd89cb157",
+      "_key": "!tables.results!5a51028dc3eb1768.c9c2396bd89cb157",
+      "type": 0,
+      "text": "Level 2",
+      "weight": 1,
+      "range": [
+        9,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b1402c8deda28e51",
+      "_key": "!tables.results!5a51028dc3eb1768.b1402c8deda28e51",
+      "type": 0,
+      "text": "Level 3",
+      "weight": 1,
+      "range": [
+        15,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "440a68eb38a66807",
+      "_key": "!tables.results!5a51028dc3eb1768.440a68eb38a66807",
+      "type": 0,
+      "text": "Level 4",
+      "weight": 1,
+      "range": [
+        18,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "65f3736eb2c058e5",
+      "_key": "!tables.results!5a51028dc3eb1768.65f3736eb2c058e5",
+      "type": 0,
+      "text": "Level 5",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

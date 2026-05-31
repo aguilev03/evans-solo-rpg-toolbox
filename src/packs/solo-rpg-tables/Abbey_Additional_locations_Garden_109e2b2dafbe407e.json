@@ -1,0 +1,74 @@
+{
+  "_id": "109e2b2dafbe407e",
+  "_key": "!tables!109e2b2dafbe407e",
+  "name": "Abbey Additional locations Garden",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "091d2714698ded80",
+      "_key": "!tables.results!109e2b2dafbe407e.091d2714698ded80",
+      "type": 0,
+      "text": "Flower garden",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "585d5bcd528efc2e",
+      "_key": "!tables.results!109e2b2dafbe407e.585d5bcd528efc2e",
+      "type": 0,
+      "text": "Fountain",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e1483a984f44f7d",
+      "_key": "!tables.results!109e2b2dafbe407e.5e1483a984f44f7d",
+      "type": 0,
+      "text": "Kitchen garden",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "60eb69098e92456f",
+      "_key": "!tables.results!109e2b2dafbe407e.60eb69098e92456f",
+      "type": 0,
+      "text": "Physic garden (medicine)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

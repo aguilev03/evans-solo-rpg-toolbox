@@ -1,0 +1,554 @@
+{
+  "_id": "bf46439eaca3312b",
+  "_key": "!tables!bf46439eaca3312b",
+  "name": "Noir Objects",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate an object with a noir theme.",
+  "results": [
+    {
+      "_id": "db84bd424ff30395",
+      "_key": "!tables.results!bf46439eaca3312b.db84bd424ff30395",
+      "type": 0,
+      "text": "Family",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "69841f7804aa8833",
+      "_key": "!tables.results!bf46439eaca3312b.69841f7804aa8833",
+      "type": 0,
+      "text": "Figurehead",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb440010de525a9e",
+      "_key": "!tables.results!bf46439eaca3312b.eb440010de525a9e",
+      "type": 0,
+      "text": "Artefact",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7f4c3ca284522a8f",
+      "_key": "!tables.results!bf46439eaca3312b.7f4c3ca284522a8f",
+      "type": 0,
+      "text": "Secret document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6680f728fca72bb3",
+      "_key": "!tables.results!bf46439eaca3312b.6680f728fca72bb3",
+      "type": 0,
+      "text": "Plant",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ab84d0363a4c3336",
+      "_key": "!tables.results!bf46439eaca3312b.ab84d0363a4c3336",
+      "type": 0,
+      "text": "Animal",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "81b35ccfdbb8b955",
+      "_key": "!tables.results!bf46439eaca3312b.81b35ccfdbb8b955",
+      "type": 0,
+      "text": "Vehicle",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d5d4d7657ad01929",
+      "_key": "!tables.results!bf46439eaca3312b.d5d4d7657ad01929",
+      "type": 0,
+      "text": "Money",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b53e00a4bd8a32ac",
+      "_key": "!tables.results!bf46439eaca3312b.b53e00a4bd8a32ac",
+      "type": 0,
+      "text": "Medicine",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3ee2401054546903",
+      "_key": "!tables.results!bf46439eaca3312b.3ee2401054546903",
+      "type": 0,
+      "text": "Weapons",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "43bb276db2ea1d27",
+      "_key": "!tables.results!bf46439eaca3312b.43bb276db2ea1d27",
+      "type": 0,
+      "text": "Officer",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "529d26560741cae2",
+      "_key": "!tables.results!bf46439eaca3312b.529d26560741cae2",
+      "type": 0,
+      "text": "Disease",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bcacf606d38ec368",
+      "_key": "!tables.results!bf46439eaca3312b.bcacf606d38ec368",
+      "type": 0,
+      "text": "Investigation",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "70bd0587ccfe4722",
+      "_key": "!tables.results!bf46439eaca3312b.70bd0587ccfe4722",
+      "type": 0,
+      "text": "Criminal",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa46a326bc98a287",
+      "_key": "!tables.results!bf46439eaca3312b.aa46a326bc98a287",
+      "type": 0,
+      "text": "Interloper",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "01ed7557aadd50c8",
+      "_key": "!tables.results!bf46439eaca3312b.01ed7557aadd50c8",
+      "type": 0,
+      "text": "Passerby",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ba809bb4086a189",
+      "_key": "!tables.results!bf46439eaca3312b.8ba809bb4086a189",
+      "type": 0,
+      "text": "Key",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd81972df6b5a8eb",
+      "_key": "!tables.results!bf46439eaca3312b.cd81972df6b5a8eb",
+      "type": 0,
+      "text": "Community",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b49c3acd48412a64",
+      "_key": "!tables.results!bf46439eaca3312b.b49c3acd48412a64",
+      "type": 0,
+      "text": "Drug",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e3e8fd3708959418",
+      "_key": "!tables.results!bf46439eaca3312b.e3e8fd3708959418",
+      "type": 0,
+      "text": "Reporter",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a9970effd2db1981",
+      "_key": "!tables.results!bf46439eaca3312b.a9970effd2db1981",
+      "type": 0,
+      "text": "Paperwork",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a63515d6f07b18a6",
+      "_key": "!tables.results!bf46439eaca3312b.a63515d6f07b18a6",
+      "type": 0,
+      "text": "Evidence",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "051c4e1ac930b0bf",
+      "_key": "!tables.results!bf46439eaca3312b.051c4e1ac930b0bf",
+      "type": 0,
+      "text": "Owner",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a57957b2ebe2daf1",
+      "_key": "!tables.results!bf46439eaca3312b.a57957b2ebe2daf1",
+      "type": 0,
+      "text": "Safe",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ae0cae2ceb8f9650",
+      "_key": "!tables.results!bf46439eaca3312b.ae0cae2ceb8f9650",
+      "type": 0,
+      "text": "Group",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b93f65abfad55dce",
+      "_key": "!tables.results!bf46439eaca3312b.b93f65abfad55dce",
+      "type": 0,
+      "text": "Witness",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "10068cbb54d1ca41",
+      "_key": "!tables.results!bf46439eaca3312b.10068cbb54d1ca41",
+      "type": 0,
+      "text": "Map",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "294a2da9ed21362c",
+      "_key": "!tables.results!bf46439eaca3312b.294a2da9ed21362c",
+      "type": 0,
+      "text": "Photograph",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d9ad02a072e0adf",
+      "_key": "!tables.results!bf46439eaca3312b.9d9ad02a072e0adf",
+      "type": 0,
+      "text": "Rival",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ba7c94de8bdf921",
+      "_key": "!tables.results!bf46439eaca3312b.4ba7c94de8bdf921",
+      "type": 0,
+      "text": "Prisoner",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2471cd5b478f50be",
+      "_key": "!tables.results!bf46439eaca3312b.2471cd5b478f50be",
+      "type": 0,
+      "text": "Discovery",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d8501bfa8504e90",
+      "_key": "!tables.results!bf46439eaca3312b.7d8501bfa8504e90",
+      "type": 0,
+      "text": "Structure",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "25c813c2aadb7e21",
+      "_key": "!tables.results!bf46439eaca3312b.25c813c2aadb7e21",
+      "type": 0,
+      "text": "Survivor",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e8d367ae012c093",
+      "_key": "!tables.results!bf46439eaca3312b.4e8d367ae012c093",
+      "type": 0,
+      "text": "Resident",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "664e34ad3585a193",
+      "_key": "!tables.results!bf46439eaca3312b.664e34ad3585a193",
+      "type": 0,
+      "text": "Visitor",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "708e95114d016586",
+      "_key": "!tables.results!bf46439eaca3312b.708e95114d016586",
+      "type": 0,
+      "text": "Goods",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

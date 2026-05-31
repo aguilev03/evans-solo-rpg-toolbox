@@ -1,0 +1,104 @@
+{
+  "_id": "8823f14cb991d980",
+  "_key": "!tables!8823f14cb991d980",
+  "name": "Next Hexes",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "8a9daa0924bcdcaa",
+      "_key": "!tables.results!8823f14cb991d980.8a9daa0924bcdcaa",
+      "type": 0,
+      "text": "Same as previous hex",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4f6d9d6ff290ef76",
+      "_key": "!tables.results!8823f14cb991d980.4f6d9d6ff290ef76",
+      "type": 0,
+      "text": "Grassland",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "06840dc844eb4315",
+      "_key": "!tables.results!8823f14cb991d980.06840dc844eb4315",
+      "type": 0,
+      "text": "Forest",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6de2ef228c5fb121",
+      "_key": "!tables.results!8823f14cb991d980.6de2ef228c5fb121",
+      "type": 0,
+      "text": "Hills",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aabf8139e6fc6a5c",
+      "_key": "!tables.results!8823f14cb991d980.aabf8139e6fc6a5c",
+      "type": 0,
+      "text": "Marsh",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3af50f7b5e612fa6",
+      "_key": "!tables.results!8823f14cb991d980.3af50f7b5e612fa6",
+      "type": 0,
+      "text": "Mountains",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "cc4650a6ff36d76a",
+  "flags": {}
+}

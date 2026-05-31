@@ -1,0 +1,134 @@
+{
+  "_id": "a2d47250d72579f6",
+  "_key": "!tables!a2d47250d72579f6",
+  "name": "Village People Ruler",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "7f14b592271d68b4",
+      "_key": "!tables.results!a2d47250d72579f6.7f14b592271d68b4",
+      "type": 0,
+      "text": "Bandits",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f5bc3b03cd3e9acc",
+      "_key": "!tables.results!a2d47250d72579f6.f5bc3b03cd3e9acc",
+      "type": 0,
+      "text": "Council",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c1efeac8521c412c",
+      "_key": "!tables.results!a2d47250d72579f6.c1efeac8521c412c",
+      "type": 0,
+      "text": "Mayor",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4a96ca4abb025572",
+      "_key": "!tables.results!a2d47250d72579f6.4a96ca4abb025572",
+      "type": 0,
+      "text": "Merchant",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "69bde54ba97e5dfb",
+      "_key": "!tables.results!a2d47250d72579f6.69bde54ba97e5dfb",
+      "type": 0,
+      "text": "Priest",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "889df07ea39e237d",
+      "_key": "!tables.results!a2d47250d72579f6.889df07ea39e237d",
+      "type": 0,
+      "text": "Vampire/Lycanthrope",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "160846dfb2b35742",
+      "_key": "!tables.results!a2d47250d72579f6.160846dfb2b35742",
+      "type": 0,
+      "text": "Village elder",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eadaf4e8bbfa8c85",
+      "_key": "!tables.results!a2d47250d72579f6.eadaf4e8bbfa8c85",
+      "type": 0,
+      "text": "Witch",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

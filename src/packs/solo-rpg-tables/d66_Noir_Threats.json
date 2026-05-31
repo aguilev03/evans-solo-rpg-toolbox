@@ -1,0 +1,554 @@
+{
+  "_id": "1ae25462c74221d5",
+  "_key": "!tables!1ae25462c74221d5",
+  "name": "d66 Noir Threats",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a noir threat.",
+  "results": [
+    {
+      "_id": "3994bfc4007f8bd5",
+      "_key": "!tables.results!1ae25462c74221d5.3994bfc4007f8bd5",
+      "type": 0,
+      "text": "Invasive thoughts",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d16d815aa166d4be",
+      "_key": "!tables.results!1ae25462c74221d5.d16d815aa166d4be",
+      "type": 0,
+      "text": "Sudden landslide",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "60958ce644fae97c",
+      "_key": "!tables.results!1ae25462c74221d5.60958ce644fae97c",
+      "type": 0,
+      "text": "Armed individual",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ba65c9040961776b",
+      "_key": "!tables.results!1ae25462c74221d5.ba65c9040961776b",
+      "type": 0,
+      "text": "Government agent",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a0bb154712b0738e",
+      "_key": "!tables.results!1ae25462c74221d5.a0bb154712b0738e",
+      "type": 0,
+      "text": "Restless crowd",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "adef37f6f54f1d46",
+      "_key": "!tables.results!1ae25462c74221d5.adef37f6f54f1d46",
+      "type": 0,
+      "text": "Dangerous animal",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f31edd6597774b1b",
+      "_key": "!tables.results!1ae25462c74221d5.f31edd6597774b1b",
+      "type": 0,
+      "text": "Blazing fire",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a9d7baf3f38f7308",
+      "_key": "!tables.results!1ae25462c74221d5.a9d7baf3f38f7308",
+      "type": 0,
+      "text": "Guard patrol",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "746a0ad8c5fa218c",
+      "_key": "!tables.results!1ae25462c74221d5.746a0ad8c5fa218c",
+      "type": 0,
+      "text": "Angry boss",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4ddeb6b812b5c451",
+      "_key": "!tables.results!1ae25462c74221d5.4ddeb6b812b5c451",
+      "type": 0,
+      "text": "Unrelenting stalker",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f8b49c03af7bcd21",
+      "_key": "!tables.results!1ae25462c74221d5.f8b49c03af7bcd21",
+      "type": 0,
+      "text": "Security system",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "97111c91a0f6d5e6",
+      "_key": "!tables.results!1ae25462c74221d5.97111c91a0f6d5e6",
+      "type": 0,
+      "text": "Man-made trap",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ca6f724ecef5ed4",
+      "_key": "!tables.results!1ae25462c74221d5.2ca6f724ecef5ed4",
+      "type": 0,
+      "text": "Eerie darkness",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6fd481b002b6ccb2",
+      "_key": "!tables.results!1ae25462c74221d5.6fd481b002b6ccb2",
+      "type": 0,
+      "text": "Interested faction",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "19526b09c81d2679",
+      "_key": "!tables.results!1ae25462c74221d5.19526b09c81d2679",
+      "type": 0,
+      "text": "Criminal activity",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8cdaf5e789f1eeff",
+      "_key": "!tables.results!1ae25462c74221d5.8cdaf5e789f1eeff",
+      "type": 0,
+      "text": "Police presence",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e517427d6804cff0",
+      "_key": "!tables.results!1ae25462c74221d5.e517427d6804cff0",
+      "type": 0,
+      "text": "Rival detective",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1d9f813c3e3dc8a9",
+      "_key": "!tables.results!1ae25462c74221d5.1d9f813c3e3dc8a9",
+      "type": 0,
+      "text": "Toxic chemical",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c202bf2bb3fb1d84",
+      "_key": "!tables.results!1ae25462c74221d5.c202bf2bb3fb1d84",
+      "type": 0,
+      "text": "Unstable structure",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4fd976fb65299155",
+      "_key": "!tables.results!1ae25462c74221d5.4fd976fb65299155",
+      "type": 0,
+      "text": "Media presence",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4434b139da9b3c72",
+      "_key": "!tables.results!1ae25462c74221d5.4434b139da9b3c72",
+      "type": 0,
+      "text": "Hidden fanatic",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d39d5958b367deb1",
+      "_key": "!tables.results!1ae25462c74221d5.d39d5958b367deb1",
+      "type": 0,
+      "text": "Drunk bystander",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f64650d9a25ac2d9",
+      "_key": "!tables.results!1ae25462c74221d5.f64650d9a25ac2d9",
+      "type": 0,
+      "text": "Nauseating stench",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a5d8cbe2c78babb3",
+      "_key": "!tables.results!1ae25462c74221d5.a5d8cbe2c78babb3",
+      "type": 0,
+      "text": "Distant pursuer",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a5e550a40d768618",
+      "_key": "!tables.results!1ae25462c74221d5.a5e550a40d768618",
+      "type": 0,
+      "text": "Environmental anomaly",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "81cf7a437dfd1549",
+      "_key": "!tables.results!1ae25462c74221d5.81cf7a437dfd1549",
+      "type": 0,
+      "text": "Altered state",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0bb47e489c36c190",
+      "_key": "!tables.results!1ae25462c74221d5.0bb47e489c36c190",
+      "type": 0,
+      "text": "Imposter syndrome",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f93083d4fb3162b4",
+      "_key": "!tables.results!1ae25462c74221d5.f93083d4fb3162b4",
+      "type": 0,
+      "text": "Heavy rain",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e16d2f5737e14987",
+      "_key": "!tables.results!1ae25462c74221d5.e16d2f5737e14987",
+      "type": 0,
+      "text": "Faulty equipment",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e6c8e39a9fb8d4f3",
+      "_key": "!tables.results!1ae25462c74221d5.e6c8e39a9fb8d4f3",
+      "type": 0,
+      "text": "Distracting noise",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7413e10aef2c717e",
+      "_key": "!tables.results!1ae25462c74221d5.7413e10aef2c717e",
+      "type": 0,
+      "text": "Consuming fear",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "427019c0a7ba01d3",
+      "_key": "!tables.results!1ae25462c74221d5.427019c0a7ba01d3",
+      "type": 0,
+      "text": "Inconsolable victim",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6f3fe98b6b82f090",
+      "_key": "!tables.results!1ae25462c74221d5.6f3fe98b6b82f090",
+      "type": 0,
+      "text": "Assassin",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "121d6e08c24e4411",
+      "_key": "!tables.results!1ae25462c74221d5.121d6e08c24e4411",
+      "type": 0,
+      "text": "Trauma trigger",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c9d01fb641bd4b55",
+      "_key": "!tables.results!1ae25462c74221d5.c9d01fb641bd4b55",
+      "type": 0,
+      "text": "Persistent exhaustion",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f124399faf1b18a",
+      "_key": "!tables.results!1ae25462c74221d5.1f124399faf1b18a",
+      "type": 0,
+      "text": "Frustrated resident",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

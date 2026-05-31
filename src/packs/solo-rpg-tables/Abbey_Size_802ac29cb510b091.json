@@ -1,0 +1,44 @@
+{
+  "_id": "802ac29cb510b091",
+  "_key": "!tables!802ac29cb510b091",
+  "name": "Abbey Size",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "c012ed9d65417d6a",
+      "_key": "!tables.results!802ac29cb510b091.c012ed9d65417d6a",
+      "type": 0,
+      "text": "Small",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4b5b60ce8181b2c8",
+      "_key": "!tables.results!802ac29cb510b091.4b5b60ce8181b2c8",
+      "type": 0,
+      "text": "Major",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

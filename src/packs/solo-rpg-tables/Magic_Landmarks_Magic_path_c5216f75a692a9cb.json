@@ -1,0 +1,164 @@
+{
+  "_id": "c5216f75a692a9cb",
+  "_key": "!tables!c5216f75a692a9cb",
+  "name": "Magic Landmarks Magic path",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "8e348bc78d6d1813",
+      "_key": "!tables.results!c5216f75a692a9cb.8e348bc78d6d1813",
+      "type": 0,
+      "text": "Breathable water",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "afc28b82cb23c5f0",
+      "_key": "!tables.results!c5216f75a692a9cb.afc28b82cb23c5f0",
+      "type": 0,
+      "text": "Glowing mushrooms trail",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd1e0e6536713242",
+      "_key": "!tables.results!c5216f75a692a9cb.cd1e0e6536713242",
+      "type": 0,
+      "text": "Illusory path",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e18451ac427d7b70",
+      "_key": "!tables.results!c5216f75a692a9cb.e18451ac427d7b70",
+      "type": 0,
+      "text": "Invisible bridge",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "797725d49fdc42c8",
+      "_key": "!tables.results!c5216f75a692a9cb.797725d49fdc42c8",
+      "type": 0,
+      "text": "Levitating staircase",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "601ec5173d524768",
+      "_key": "!tables.results!c5216f75a692a9cb.601ec5173d524768",
+      "type": 0,
+      "text": "Magic mirror",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d8db4f261a5af47e",
+      "_key": "!tables.results!c5216f75a692a9cb.d8db4f261a5af47e",
+      "type": 0,
+      "text": "Rainbow bridge",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1271f86d310ab84",
+      "_key": "!tables.results!c5216f75a692a9cb.a1271f86d310ab84",
+      "type": 0,
+      "text": "Riddle bridge",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "20aebebebb186d10",
+      "_key": "!tables.results!c5216f75a692a9cb.20aebebebb186d10",
+      "type": 0,
+      "text": "Walkable water",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6fb41430d453ac48",
+      "_key": "!tables.results!c5216f75a692a9cb.6fb41430d453ac48",
+      "type": 0,
+      "text": "Wormhole",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

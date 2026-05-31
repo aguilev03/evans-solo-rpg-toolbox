@@ -1,0 +1,314 @@
+{
+  "_id": "378c8065b7c20f91",
+  "_key": "!tables!378c8065b7c20f91",
+  "name": "Tower Top level",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "84328979cd9d41fc",
+      "_key": "!tables.results!378c8065b7c20f91.84328979cd9d41fc",
+      "type": 0,
+      "text": "Aviary",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a89716084802385e",
+      "_key": "!tables.results!378c8065b7c20f91.a89716084802385e",
+      "type": 0,
+      "text": "Beacon",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "41a4650a0debbdb0",
+      "_key": "!tables.results!378c8065b7c20f91.41a4650a0debbdb0",
+      "type": 0,
+      "text": "Duel platform",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3160f23d600e49e9",
+      "_key": "!tables.results!378c8065b7c20f91.3160f23d600e49e9",
+      "type": 0,
+      "text": "Foghorn",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "766df9385522283f",
+      "_key": "!tables.results!378c8065b7c20f91.766df9385522283f",
+      "type": 0,
+      "text": "Golden apple tree",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "72445841da4a4f80",
+      "_key": "!tables.results!378c8065b7c20f91.72445841da4a4f80",
+      "type": 0,
+      "text": "Greenhouse",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02aa02526a2b5c24",
+      "_key": "!tables.results!378c8065b7c20f91.02aa02526a2b5c24",
+      "type": 0,
+      "text": "High security prison",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ce32ad1c90b386a4",
+      "_key": "!tables.results!378c8065b7c20f91.ce32ad1c90b386a4",
+      "type": 0,
+      "text": "Landing platform",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "63eb4b02816e2338",
+      "_key": "!tables.results!378c8065b7c20f91.63eb4b02816e2338",
+      "type": 0,
+      "text": "Lightning rod",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "93799dabd45ec494",
+      "_key": "!tables.results!378c8065b7c20f91.93799dabd45ec494",
+      "type": 0,
+      "text": "Lookout post",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bddf75386904e0a2",
+      "_key": "!tables.results!378c8065b7c20f91.bddf75386904e0a2",
+      "type": 0,
+      "text": "Magic searchlight",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "453bcc5ea6d43a83",
+      "_key": "!tables.results!378c8065b7c20f91.453bcc5ea6d43a83",
+      "type": 0,
+      "text": "Monster nest",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2be333cee94a8d11",
+      "_key": "!tables.results!378c8065b7c20f91.2be333cee94a8d11",
+      "type": 0,
+      "text": "Observatory",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dbb19b32a04e145e",
+      "_key": "!tables.results!378c8065b7c20f91.dbb19b32a04e145e",
+      "type": 0,
+      "text": "Panic room",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "14172624369e156c",
+      "_key": "!tables.results!378c8065b7c20f91.14172624369e156c",
+      "type": 0,
+      "text": "Ruined/Overgrown",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9e24faf93beeae8c",
+      "_key": "!tables.results!378c8065b7c20f91.9e24faf93beeae8c",
+      "type": 0,
+      "text": "Siege engine",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c8f2cfd88392bfbf",
+      "_key": "!tables.results!378c8065b7c20f91.c8f2cfd88392bfbf",
+      "type": 0,
+      "text": "Throne room",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bd321d0d5c955060",
+      "_key": "!tables.results!378c8065b7c20f91.bd321d0d5c955060",
+      "type": 0,
+      "text": "Treasure room",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d7f696a78701126b",
+      "_key": "!tables.results!378c8065b7c20f91.d7f696a78701126b",
+      "type": 0,
+      "text": "Weather station",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fd5b934e28d7bbba",
+      "_key": "!tables.results!378c8065b7c20f91.fd5b934e28d7bbba",
+      "type": 0,
+      "text": "Windmill",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

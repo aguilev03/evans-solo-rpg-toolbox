@@ -1,0 +1,194 @@
+{
+  "_id": "ec03ccb6097c49d4",
+  "_key": "!tables!ec03ccb6097c49d4",
+  "name": "Tower Underground levels",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "097bd5c0f361ce00",
+      "_key": "!tables.results!ec03ccb6097c49d4.097bd5c0f361ce00",
+      "type": 0,
+      "text": "Abandoned/Cursed level",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3b59fbf0e279d195",
+      "_key": "!tables.results!ec03ccb6097c49d4.3b59fbf0e279d195",
+      "type": 0,
+      "text": "Alchemy lab",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "635b0ef4053e9a92",
+      "_key": "!tables.results!ec03ccb6097c49d4.635b0ef4053e9a92",
+      "type": 0,
+      "text": "Cellar",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b9c1a9fd3b6b1718",
+      "_key": "!tables.results!ec03ccb6097c49d4.b9c1a9fd3b6b1718",
+      "type": 0,
+      "text": "Chapel",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d43dc112536615c3",
+      "_key": "!tables.results!ec03ccb6097c49d4.d43dc112536615c3",
+      "type": 0,
+      "text": "Forge",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "50691f297b78ff10",
+      "_key": "!tables.results!ec03ccb6097c49d4.50691f297b78ff10",
+      "type": 0,
+      "text": "Menagerie",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "687ef83cb7e37c0d",
+      "_key": "!tables.results!ec03ccb6097c49d4.687ef83cb7e37c0d",
+      "type": 0,
+      "text": "Mushroom cave",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a1fc35b521dcd78b",
+      "_key": "!tables.results!ec03ccb6097c49d4.a1fc35b521dcd78b",
+      "type": 0,
+      "text": "Prison",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f3c0e06c30c20f8",
+      "_key": "!tables.results!ec03ccb6097c49d4.8f3c0e06c30c20f8",
+      "type": 0,
+      "text": "Rituals room",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cb4819d3ff2844aa",
+      "_key": "!tables.results!ec03ccb6097c49d4.cb4819d3ff2844aa",
+      "type": 0,
+      "text": "Storage",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6ed26d88012fe817",
+      "_key": "!tables.results!ec03ccb6097c49d4.6ed26d88012fe817",
+      "type": 0,
+      "text": "Torture room",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "092e1b76e86c15bd",
+      "_key": "!tables.results!ec03ccb6097c49d4.092e1b76e86c15bd",
+      "type": 0,
+      "text": "Wine cellar",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

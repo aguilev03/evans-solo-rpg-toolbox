@@ -1,0 +1,464 @@
+{
+  "_id": "f37ed7f7ae3f5ecc",
+  "_key": "!tables!f37ed7f7ae3f5ecc",
+  "name": "A) Buildings, Outdoors",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "4f06f5a554a855fd",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.4f06f5a554a855fd",
+      "type": 0,
+      "text": "Abbey",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7bd6292631fe25f4",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.7bd6292631fe25f4",
+      "type": 0,
+      "text": "Arch",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "55bede35d1060d65",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.55bede35d1060d65",
+      "type": 0,
+      "text": "Bank",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "80a84e392006e833",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.80a84e392006e833",
+      "type": 0,
+      "text": "Barrack",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a38d8f1d354781cb",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.a38d8f1d354781cb",
+      "type": 0,
+      "text": "Bench",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "042c898a7c081a4a",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.042c898a7c081a4a",
+      "type": 0,
+      "text": "Bridge",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3333d5e229ffdf95",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.3333d5e229ffdf95",
+      "type": 0,
+      "text": "Castle",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a80a792b44f14509",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.a80a792b44f14509",
+      "type": 0,
+      "text": "Chapel",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "51c80fd125ff6a88",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.51c80fd125ff6a88",
+      "type": 0,
+      "text": "Church",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6073921457ae79d1",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.6073921457ae79d1",
+      "type": 0,
+      "text": "Court",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb7a5024200fc767",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.eb7a5024200fc767",
+      "type": 0,
+      "text": "Cross",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fef9869bca330e71",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.fef9869bca330e71",
+      "type": 0,
+      "text": "Farm",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "094de846af1a808d",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.094de846af1a808d",
+      "type": 0,
+      "text": "Forge",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd5e00bfceafa39c",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.cd5e00bfceafa39c",
+      "type": 0,
+      "text": "Gate",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "55936b4aba00fb9e",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.55936b4aba00fb9e",
+      "type": 0,
+      "text": "Hall",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3eacebed8568131a",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.3eacebed8568131a",
+      "type": 0,
+      "text": "Home",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3bb2e906e3463493",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.3bb2e906e3463493",
+      "type": 0,
+      "text": "Hospital",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "45e39a54648b7fe8",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.45e39a54648b7fe8",
+      "type": 0,
+      "text": "House",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c369d96df77d2a2f",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.c369d96df77d2a2f",
+      "type": 0,
+      "text": "Inn",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "925ea82d408d3229",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.925ea82d408d3229",
+      "type": 0,
+      "text": "Mall",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0db8fc6bfcc00729",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.0db8fc6bfcc00729",
+      "type": 0,
+      "text": "Market",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a82a98f1470a446f",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.a82a98f1470a446f",
+      "type": 0,
+      "text": "Mill",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "781e6467bac56d8f",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.781e6467bac56d8f",
+      "type": 0,
+      "text": "Mine",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "080841cb5ad75fd2",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.080841cb5ad75fd2",
+      "type": 0,
+      "text": "Post",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "11129b23e375a04d",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.11129b23e375a04d",
+      "type": 0,
+      "text": "Road",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "927f7d9ab281d34f",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.927f7d9ab281d34f",
+      "type": 0,
+      "text": "Stall",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0b166013bd5a6117",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.0b166013bd5a6117",
+      "type": 0,
+      "text": "Temple",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0dec5b725895c8aa",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.0dec5b725895c8aa",
+      "type": 0,
+      "text": "Tower",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f05b3eaa9af1e71",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.3f05b3eaa9af1e71",
+      "type": 0,
+      "text": "Union",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8d0597e13d196d4c",
+      "_key": "!tables.results!f37ed7f7ae3f5ecc.8d0597e13d196d4c",
+      "type": 0,
+      "text": "Wall",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d30",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

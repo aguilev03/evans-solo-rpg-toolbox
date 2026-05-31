@@ -1,0 +1,89 @@
+{
+  "_id": "21443434ea4c04d4",
+  "_key": "!tables!21443434ea4c04d4",
+  "name": "Village Defense",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "95b6c4e08af823b2",
+      "_key": "!tables.results!21443434ea4c04d4.95b6c4e08af823b2",
+      "type": 0,
+      "text": "Wooden palisade",
+      "weight": 1,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f92662b8a07186c",
+      "_key": "!tables.results!21443434ea4c04d4.3f92662b8a07186c",
+      "type": 0,
+      "text": "Motte (= mound)",
+      "weight": 1,
+      "range": [
+        4,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b0025d0af5f67b90",
+      "_key": "!tables.results!21443434ea4c04d4.b0025d0af5f67b90",
+      "type": 0,
+      "text": "Chevaux de frise",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6ad80f4919987f83",
+      "_key": "!tables.results!21443434ea4c04d4.6ad80f4919987f83",
+      "type": 0,
+      "text": "Moat (= trench)",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "573eea35667f3299",
+      "_key": "!tables.results!21443434ea4c04d4.573eea35667f3299",
+      "type": 0,
+      "text": "Watchtowers",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

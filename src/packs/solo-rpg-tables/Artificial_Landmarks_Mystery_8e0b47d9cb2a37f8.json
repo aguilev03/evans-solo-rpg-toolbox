@@ -1,0 +1,164 @@
+{
+  "_id": "8e0b47d9cb2a37f8",
+  "_key": "!tables!8e0b47d9cb2a37f8",
+  "name": "Artificial Landmarks Mystery",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "4841ae79bd8d9ed6",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.4841ae79bd8d9ed6",
+      "type": 0,
+      "text": "Carved rock",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6303a71ee828c4c0",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.6303a71ee828c4c0",
+      "type": 0,
+      "text": "Dolmen",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5343c8893cbdec9e",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.5343c8893cbdec9e",
+      "type": 0,
+      "text": "Hanging bones",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b43624d9042f96b8",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.b43624d9042f96b8",
+      "type": 0,
+      "text": "Heads on spikes",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e4106561e678f085",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.e4106561e678f085",
+      "type": 0,
+      "text": "Masks",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "573a0ed64fcd1906",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.573a0ed64fcd1906",
+      "type": 0,
+      "text": "Pile of bones",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "efcb24d445aeccec",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.efcb24d445aeccec",
+      "type": 0,
+      "text": "Rock stack",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "80a416908c317a6d",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.80a416908c317a6d",
+      "type": 0,
+      "text": "Standing stones",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d6488a3104ad7a8",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.9d6488a3104ad7a8",
+      "type": 0,
+      "text": "Straw dolls",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fe674c10f0e1b4a0",
+      "_key": "!tables.results!8e0b47d9cb2a37f8.fe674c10f0e1b4a0",
+      "type": 0,
+      "text": "Totem",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

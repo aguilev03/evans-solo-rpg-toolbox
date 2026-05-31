@@ -1,0 +1,179 @@
+{
+  "_id": "a9846993de842eeb",
+  "_key": "!tables!a9846993de842eeb",
+  "name": "Grassland",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "ec248841ee03fd4b",
+      "_key": "!tables.results!a9846993de842eeb.ec248841ee03fd4b",
+      "type": 0,
+      "text": "Dinosaurs",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9294fdc84ecb81e7",
+      "_key": "!tables.results!a9846993de842eeb.9294fdc84ecb81e7",
+      "type": 0,
+      "text": "Ogres",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c8c6da3b2a2c168a",
+      "_key": "!tables.results!a9846993de842eeb.c8c6da3b2a2c168a",
+      "type": 0,
+      "text": "Gnolls",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "092e3219ea76ebae",
+      "_key": "!tables.results!a9846993de842eeb.092e3219ea76ebae",
+      "type": 0,
+      "text": "Orcs",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "730542fbc6a30f40",
+      "_key": "!tables.results!a9846993de842eeb.730542fbc6a30f40",
+      "type": 0,
+      "text": "Goblins",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a0a550c67f2c55c8",
+      "_key": "!tables.results!a9846993de842eeb.a0a550c67f2c55c8",
+      "type": 0,
+      "text": "Giant rats",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a78503c82b49bc2f",
+      "_key": "!tables.results!a9846993de842eeb.a78503c82b49bc2f",
+      "type": 0,
+      "text": "Wolves",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c8fcc6ec2f6ec7ef",
+      "_key": "!tables.results!a9846993de842eeb.c8fcc6ec2f6ec7ef",
+      "type": 0,
+      "text": "Bandits",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a44c8c2efb179efb",
+      "_key": "!tables.results!a9846993de842eeb.a44c8c2efb179efb",
+      "type": 0,
+      "text": "Berserkers",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3e2127d91a0b270d",
+      "_key": "!tables.results!a9846993de842eeb.3e2127d91a0b270d",
+      "type": 0,
+      "text": "Worgs",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ce4343768cd878d9",
+      "_key": "!tables.results!a9846993de842eeb.ce4343768cd878d9",
+      "type": 0,
+      "text": "Werewolves",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "4895ee3b8e827a5c",
+  "flags": {}
+}

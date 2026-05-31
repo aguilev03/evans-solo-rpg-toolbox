@@ -1,0 +1,314 @@
+{
+  "_id": "9f702763ce0b3cc2",
+  "_key": "!tables!9f702763ce0b3cc2",
+  "name": "Village People Notable NPCs",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "74189beb9c7d261a",
+      "_key": "!tables.results!9f702763ce0b3cc2.74189beb9c7d261a",
+      "type": 0,
+      "text": "Aggressive guard",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f975650f5f9c545e",
+      "_key": "!tables.results!9f702763ce0b3cc2.f975650f5f9c545e",
+      "type": 0,
+      "text": "Annoying minstrel",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e5d7270f5e51a8f2",
+      "_key": "!tables.results!9f702763ce0b3cc2.e5d7270f5e51a8f2",
+      "type": 0,
+      "text": "Bandit in disguise",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8120ad070537450a",
+      "_key": "!tables.results!9f702763ce0b3cc2.8120ad070537450a",
+      "type": 0,
+      "text": "Beggar who knows a lot",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d1259352a34726ba",
+      "_key": "!tables.results!9f702763ce0b3cc2.d1259352a34726ba",
+      "type": 0,
+      "text": "Curious waitress",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6e6dd3ca50428ac5",
+      "_key": "!tables.results!9f702763ce0b3cc2.6e6dd3ca50428ac5",
+      "type": 0,
+      "text": "Cute dog",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a63401d5bbda7327",
+      "_key": "!tables.results!9f702763ce0b3cc2.a63401d5bbda7327",
+      "type": 0,
+      "text": "Frightened peasant",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6ad4899e93eb8fd7",
+      "_key": "!tables.results!9f702763ce0b3cc2.6ad4899e93eb8fd7",
+      "type": 0,
+      "text": "Lonely widow",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e696756483710a07",
+      "_key": "!tables.results!9f702763ce0b3cc2.e696756483710a07",
+      "type": 0,
+      "text": "Misunderstood witch",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8096163131f0a9b6",
+      "_key": "!tables.results!9f702763ce0b3cc2.8096163131f0a9b6",
+      "type": 0,
+      "text": "Old fool/hag",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "595fc1550251b7e5",
+      "_key": "!tables.results!9f702763ce0b3cc2.595fc1550251b7e5",
+      "type": 0,
+      "text": "One-handed lumberjack",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ce39dd3aa766d63d",
+      "_key": "!tables.results!9f702763ce0b3cc2.ce39dd3aa766d63d",
+      "type": 0,
+      "text": "Retired mercenary",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "036057d4bd17ec00",
+      "_key": "!tables.results!9f702763ce0b3cc2.036057d4bd17ec00",
+      "type": 0,
+      "text": "Seasoned adventurer",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8b6da30f06cdaeac",
+      "_key": "!tables.results!9f702763ce0b3cc2.8b6da30f06cdaeac",
+      "type": 0,
+      "text": "Sick child",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c8808d21737a52c9",
+      "_key": "!tables.results!9f702763ce0b3cc2.c8808d21737a52c9",
+      "type": 0,
+      "text": "Stubborn magician",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b3bfa339fc977675",
+      "_key": "!tables.results!9f702763ce0b3cc2.b3bfa339fc977675",
+      "type": 0,
+      "text": "Talented craftsman",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a2e5d575c4554770",
+      "_key": "!tables.results!9f702763ce0b3cc2.a2e5d575c4554770",
+      "type": 0,
+      "text": "Traveling merchant",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "559ec6bb97b8a3e2",
+      "_key": "!tables.results!9f702763ce0b3cc2.559ec6bb97b8a3e2",
+      "type": 0,
+      "text": "Troubled hunter",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "04d224e9deacf62b",
+      "_key": "!tables.results!9f702763ce0b3cc2.04d224e9deacf62b",
+      "type": 0,
+      "text": "Vampire/Werewolf hunter",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "836822a4019950d2",
+      "_key": "!tables.results!9f702763ce0b3cc2.836822a4019950d2",
+      "type": 0,
+      "text": "Village idiot",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

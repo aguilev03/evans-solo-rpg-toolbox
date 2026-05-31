@@ -1,0 +1,554 @@
+{
+  "_id": "b7822f1d1bcc0eaa",
+  "_key": "!tables!b7822f1d1bcc0eaa",
+  "name": "d66 Fantasy Objects",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate an object with a fantasy theme.",
+  "results": [
+    {
+      "_id": "f09fa83ec80cdc9a",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.f09fa83ec80cdc9a",
+      "type": 0,
+      "text": "Sky",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a2a392489af7e7f2",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.a2a392489af7e7f2",
+      "type": 0,
+      "text": "Vow",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7f20d5ae394749a3",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.7f20d5ae394749a3",
+      "type": 0,
+      "text": "Warrior",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dea1b62866116f62",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.dea1b62866116f62",
+      "type": 0,
+      "text": "Royalty",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a51b291d506d50ae",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.a51b291d506d50ae",
+      "type": 0,
+      "text": "Assassin",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d6d0af514f75229a",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.d6d0af514f75229a",
+      "type": 0,
+      "text": "Treasure",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9bbbe0904d3b5232",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.9bbbe0904d3b5232",
+      "type": 0,
+      "text": "Treaty",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "882a725852248adb",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.882a725852248adb",
+      "type": 0,
+      "text": "Priest",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f97bf781edcec2fd",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.f97bf781edcec2fd",
+      "type": 0,
+      "text": "Adviser",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f531352d7891288",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.1f531352d7891288",
+      "type": 0,
+      "text": "Tapestry",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "13de19dedb8bd9af",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.13de19dedb8bd9af",
+      "type": 0,
+      "text": "Elder",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f4b08c1ee595017f",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.f4b08c1ee595017f",
+      "type": 0,
+      "text": "Relative",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "729cace0f198d92c",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.729cace0f198d92c",
+      "type": 0,
+      "text": "Prophecy",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9ba1845ecb68a08b",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.9ba1845ecb68a08b",
+      "type": 0,
+      "text": "Townsfolk",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5777dfe751ec74c5",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.5777dfe751ec74c5",
+      "type": 0,
+      "text": "Guild",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e1cf458475b9c560",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.e1cf458475b9c560",
+      "type": 0,
+      "text": "Party",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "cd0af2fba54cf2eb",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.cd0af2fba54cf2eb",
+      "type": 0,
+      "text": "Traveller",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4a0ce02a0324d60a",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.4a0ce02a0324d60a",
+      "type": 0,
+      "text": "Messenger",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1f35b66d8175fd95",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.1f35b66d8175fd95",
+      "type": 0,
+      "text": "Merchant",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ddc72a8e7ea5d03f",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.ddc72a8e7ea5d03f",
+      "type": 0,
+      "text": "Bodyguard",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f07a30ac1911e32a",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.f07a30ac1911e32a",
+      "type": 0,
+      "text": "Sorcerer",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "724ba88fd39e1154",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.724ba88fd39e1154",
+      "type": 0,
+      "text": "Amulet",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d485e180d707851",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.9d485e180d707851",
+      "type": 0,
+      "text": "Golem",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "a00ae4c3cb4f54cb",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.a00ae4c3cb4f54cb",
+      "type": 0,
+      "text": "God",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b621932596a9e26",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.7b621932596a9e26",
+      "type": 0,
+      "text": "Sword",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2616c882b00fab65",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.2616c882b00fab65",
+      "type": 0,
+      "text": "Horde",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62ddcebc6dccda45",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.62ddcebc6dccda45",
+      "type": 0,
+      "text": "Natural feature",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6e0a1a857416643c",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.6e0a1a857416643c",
+      "type": 0,
+      "text": "Performer",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bc39abaf13ee856a",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.bc39abaf13ee856a",
+      "type": 0,
+      "text": "Relic",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "08d80869b95b5d91",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.08d80869b95b5d91",
+      "type": 0,
+      "text": "Dragon",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2ba838f6cf6e7fa6",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.2ba838f6cf6e7fa6",
+      "type": 0,
+      "text": "Magic",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "e372fcb08536e7b2",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.e372fcb08536e7b2",
+      "type": 0,
+      "text": "Successor",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7d72a009447badf7",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.7d72a009447badf7",
+      "type": 0,
+      "text": "Wand",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "649220f1b1f4dabb",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.649220f1b1f4dabb",
+      "type": 0,
+      "text": "Faerie",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "605173633f1a3184",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.605173633f1a3184",
+      "type": 0,
+      "text": "Sentient object",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "93309319f13a82d7",
+      "_key": "!tables.results!b7822f1d1bcc0eaa.93309319f13a82d7",
+      "type": 0,
+      "text": "Sacrifice",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

@@ -1,0 +1,104 @@
+{
+  "_id": "b244eed9d5a41d69",
+  "_key": "!tables!b244eed9d5a41d69",
+  "name": "City Buildings of Interest",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "57aab3459d3d5ae6",
+      "_key": "!tables.results!b244eed9d5a41d69.57aab3459d3d5ae6",
+      "type": 0,
+      "text": "Housing",
+      "weight": 1,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1121ed5b02bb7ce8",
+      "_key": "!tables.results!b244eed9d5a41d69.1121ed5b02bb7ce8",
+      "type": 0,
+      "text": "Business",
+      "weight": 1,
+      "range": [
+        4,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "478a5778971ccfc4",
+      "_key": "!tables.results!b244eed9d5a41d69.478a5778971ccfc4",
+      "type": 0,
+      "text": "Official",
+      "weight": 1,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "480bf7472a51d15c",
+      "_key": "!tables.results!b244eed9d5a41d69.480bf7472a51d15c",
+      "type": 0,
+      "text": "Religious",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "133167be30150781",
+      "_key": "!tables.results!b244eed9d5a41d69.133167be30150781",
+      "type": 0,
+      "text": "Public",
+      "weight": 1,
+      "range": [
+        15,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ed4fb5ce98c8d795",
+      "_key": "!tables.results!b244eed9d5a41d69.ed4fb5ce98c8d795",
+      "type": 0,
+      "text": "Military",
+      "weight": 1,
+      "range": [
+        18,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

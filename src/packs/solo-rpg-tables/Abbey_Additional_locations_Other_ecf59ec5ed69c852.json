@@ -1,0 +1,104 @@
+{
+  "_id": "ecf59ec5ed69c852",
+  "_key": "!tables!ecf59ec5ed69c852",
+  "name": "Abbey Additional locations Other",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "51ac6f62141bd194",
+      "_key": "!tables.results!ecf59ec5ed69c852.51ac6f62141bd194",
+      "type": 0,
+      "text": "Abbot’s gateway",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d2a7080236b51ef3",
+      "_key": "!tables.results!ecf59ec5ed69c852.d2a7080236b51ef3",
+      "type": 0,
+      "text": "Barns and stables",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f9f9eba9e565808a",
+      "_key": "!tables.results!ecf59ec5ed69c852.f9f9eba9e565808a",
+      "type": 0,
+      "text": "Guest rooms",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5854afabae4e2520",
+      "_key": "!tables.results!ecf59ec5ed69c852.5854afabae4e2520",
+      "type": 0,
+      "text": "Vestarium (clothing storage)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9d53875e67c08e9c",
+      "_key": "!tables.results!ecf59ec5ed69c852.9d53875e67c08e9c",
+      "type": 0,
+      "text": "Washhouse",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "444c073f55610aee",
+      "_key": "!tables.results!ecf59ec5ed69c852.444c073f55610aee",
+      "type": 0,
+      "text": "Watchtower",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

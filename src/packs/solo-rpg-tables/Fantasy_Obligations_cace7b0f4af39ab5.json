@@ -1,0 +1,554 @@
+{
+  "_id": "cace7b0f4af39ab5",
+  "_key": "!tables!cace7b0f4af39ab5",
+  "name": "Fantasy Obligations",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Generate a fantasy obligation.",
+  "results": [
+    {
+      "_id": "3df22a8a05ed219e",
+      "_key": "!tables.results!cace7b0f4af39ab5.3df22a8a05ed219e",
+      "type": 0,
+      "text": "Protect a relic",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "28cc17a990621be8",
+      "_key": "!tables.results!cace7b0f4af39ab5.28cc17a990621be8",
+      "type": 0,
+      "text": "Serve a monarch",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2bf4476076329f95",
+      "_key": "!tables.results!cace7b0f4af39ab5.2bf4476076329f95",
+      "type": 0,
+      "text": "Avoid a prophecy",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6fb29ae998d18f3b",
+      "_key": "!tables.results!cace7b0f4af39ab5.6fb29ae998d18f3b",
+      "type": 0,
+      "text": "Mentor young warriors",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0fd534123aefff78",
+      "_key": "!tables.results!cace7b0f4af39ab5.0fd534123aefff78",
+      "type": 0,
+      "text": "Sustain a devotion",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2887985e50f2ef4a",
+      "_key": "!tables.results!cace7b0f4af39ab5.2887985e50f2ef4a",
+      "type": 0,
+      "text": "Secure a bloodline",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "dbaf4f38c992714f",
+      "_key": "!tables.results!cace7b0f4af39ab5.dbaf4f38c992714f",
+      "type": 0,
+      "text": "Provide for a household",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "30a988d8f18d41b1",
+      "_key": "!tables.results!cace7b0f4af39ab5.30a988d8f18d41b1",
+      "type": 0,
+      "text": "Reclaim a lost title",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c181586812df293",
+      "_key": "!tables.results!cace7b0f4af39ab5.7c181586812df293",
+      "type": 0,
+      "text": "Discover lost archives",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f043072971fd10d8",
+      "_key": "!tables.results!cace7b0f4af39ab5.f043072971fd10d8",
+      "type": 0,
+      "text": "Seek power",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "1c0a6bafeee157f5",
+      "_key": "!tables.results!cace7b0f4af39ab5.1c0a6bafeee157f5",
+      "type": 0,
+      "text": "Revive a lost craft",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "45126cc4491ae92f",
+      "_key": "!tables.results!cace7b0f4af39ab5.45126cc4491ae92f",
+      "type": 0,
+      "text": "Prepare for a war",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6a51c471ecb185bd",
+      "_key": "!tables.results!cace7b0f4af39ab5.6a51c471ecb185bd",
+      "type": 0,
+      "text": "Fend off creatures",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0e0ea1f90bb66677",
+      "_key": "!tables.results!cace7b0f4af39ab5.0e0ea1f90bb66677",
+      "type": 0,
+      "text": "Rebuild a hometown",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "94ccfe0fbc366a8b",
+      "_key": "!tables.results!cace7b0f4af39ab5.94ccfe0fbc366a8b",
+      "type": 0,
+      "text": "Support a guild",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ba77b97d1eca0540",
+      "_key": "!tables.results!cace7b0f4af39ab5.ba77b97d1eca0540",
+      "type": 0,
+      "text": "Forge a weapon",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8ced2a7953d704bf",
+      "_key": "!tables.results!cace7b0f4af39ab5.8ced2a7953d704bf",
+      "type": 0,
+      "text": "Repair an old castle",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "140c513eba478319",
+      "_key": "!tables.results!cace7b0f4af39ab5.140c513eba478319",
+      "type": 0,
+      "text": "Care for a beast",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b6de96378dc37dea",
+      "_key": "!tables.results!cace7b0f4af39ab5.b6de96378dc37dea",
+      "type": 0,
+      "text": "Interrogate a prisoner",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4db1942c5801749d",
+      "_key": "!tables.results!cace7b0f4af39ab5.4db1942c5801749d",
+      "type": 0,
+      "text": "Ward off corruption",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6722d1d388eb8da2",
+      "_key": "!tables.results!cace7b0f4af39ab5.6722d1d388eb8da2",
+      "type": 0,
+      "text": "Repel invaders",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "47224f2a81f4c6b3",
+      "_key": "!tables.results!cace7b0f4af39ab5.47224f2a81f4c6b3",
+      "type": 0,
+      "text": "Learn magic",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3f6bf3dd81841346",
+      "_key": "!tables.results!cace7b0f4af39ab5.3f6bf3dd81841346",
+      "type": 0,
+      "text": "Obey a demon",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "024737cf5f565ec3",
+      "_key": "!tables.results!cace7b0f4af39ab5.024737cf5f565ec3",
+      "type": 0,
+      "text": "Protect a village",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "10dd5d4701d6b14f",
+      "_key": "!tables.results!cace7b0f4af39ab5.10dd5d4701d6b14f",
+      "type": 0,
+      "text": "Learn from a mentor",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "aa9766a9cd967c6c",
+      "_key": "!tables.results!cace7b0f4af39ab5.aa9766a9cd967c6c",
+      "type": 0,
+      "text": "Gamble in a tavern",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62ab1454c6fd2ac2",
+      "_key": "!tables.results!cace7b0f4af39ab5.62ab1454c6fd2ac2",
+      "type": 0,
+      "text": "Run a tavern",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "345bf2b7007f55ff",
+      "_key": "!tables.results!cace7b0f4af39ab5.345bf2b7007f55ff",
+      "type": 0,
+      "text": "Overthrow a leader",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8bcdbc181b03fa5e",
+      "_key": "!tables.results!cace7b0f4af39ab5.8bcdbc181b03fa5e",
+      "type": 0,
+      "text": "Guard ancestral lands",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "44ebe8b4eb66c779",
+      "_key": "!tables.results!cace7b0f4af39ab5.44ebe8b4eb66c779",
+      "type": 0,
+      "text": "Tax peasants",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5327a743d263da04",
+      "_key": "!tables.results!cace7b0f4af39ab5.5327a743d263da04",
+      "type": 0,
+      "text": "Train with a weapon",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bd8ecc207389720f",
+      "_key": "!tables.results!cace7b0f4af39ab5.bd8ecc207389720f",
+      "type": 0,
+      "text": "Find bounty work",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "84284d734074986a",
+      "_key": "!tables.results!cace7b0f4af39ab5.84284d734074986a",
+      "type": 0,
+      "text": "Replenish supplies",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bea503d0be8a00c0",
+      "_key": "!tables.results!cace7b0f4af39ab5.bea503d0be8a00c0",
+      "type": 0,
+      "text": "Honour the gods",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4567b233f631d13d",
+      "_key": "!tables.results!cace7b0f4af39ab5.4567b233f631d13d",
+      "type": 0,
+      "text": "Best your rival",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c61fae2866fd29c3",
+      "_key": "!tables.results!cace7b0f4af39ab5.c61fae2866fd29c3",
+      "type": 0,
+      "text": "Hone skills",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6 * 10 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "b4e3836709c2a39b",
+  "flags": {}
+}

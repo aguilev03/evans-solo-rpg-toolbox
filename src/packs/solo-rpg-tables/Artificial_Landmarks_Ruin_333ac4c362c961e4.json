@@ -1,0 +1,164 @@
+{
+  "_id": "333ac4c362c961e4",
+  "_key": "!tables!333ac4c362c961e4",
+  "name": "Artificial Landmarks Ruin",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "ec8191d33aca2872",
+      "_key": "!tables.results!333ac4c362c961e4.ec8191d33aca2872",
+      "type": 0,
+      "text": "Abandoned tavern",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "be773e65e8f79b76",
+      "_key": "!tables.results!333ac4c362c961e4.be773e65e8f79b76",
+      "type": 0,
+      "text": "Burnt barn",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "38dcf4b886f2d261",
+      "_key": "!tables.results!333ac4c362c961e4.38dcf4b886f2d261",
+      "type": 0,
+      "text": "Collapsed mine entrance",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f3164beed43b74f",
+      "_key": "!tables.results!333ac4c362c961e4.8f3164beed43b74f",
+      "type": 0,
+      "text": "Decrepit mansion",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "07d82d80838f922a",
+      "_key": "!tables.results!333ac4c362c961e4.07d82d80838f922a",
+      "type": 0,
+      "text": "Desecrated church",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "662a31bd728f51a8",
+      "_key": "!tables.results!333ac4c362c961e4.662a31bd728f51a8",
+      "type": 0,
+      "text": "Destroyed house",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "36af4541c1cb9746",
+      "_key": "!tables.results!333ac4c362c961e4.36af4541c1cb9746",
+      "type": 0,
+      "text": "Overgrown tower",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bd1238ce5740186f",
+      "_key": "!tables.results!333ac4c362c961e4.bd1238ce5740186f",
+      "type": 0,
+      "text": "Pile of rubble",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4c9ce20994bb14b4",
+      "_key": "!tables.results!333ac4c362c961e4.4c9ce20994bb14b4",
+      "type": 0,
+      "text": "Razed village",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c7bc3a54ceb9f64e",
+      "_key": "!tables.results!333ac4c362c961e4.c7bc3a54ceb9f64e",
+      "type": 0,
+      "text": "Ruined castle",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

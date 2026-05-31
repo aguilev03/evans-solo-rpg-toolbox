@@ -1,0 +1,314 @@
+{
+  "_id": "6fe89197942e9a21",
+  "_key": "!tables!6fe89197942e9a21",
+  "name": "City Official",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "a6624896284d6992",
+      "_key": "!tables.results!6fe89197942e9a21.a6624896284d6992",
+      "type": 0,
+      "text": "Arcane university",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f6053ccdc9f8283f",
+      "_key": "!tables.results!6fe89197942e9a21.f6053ccdc9f8283f",
+      "type": 0,
+      "text": "Archives",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "eb6ec96caff42ed7",
+      "_key": "!tables.results!6fe89197942e9a21.eb6ec96caff42ed7",
+      "type": 0,
+      "text": "Asylum",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2e794e12ac761ce0",
+      "_key": "!tables.results!6fe89197942e9a21.2e794e12ac761ce0",
+      "type": 0,
+      "text": "City hall",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b9be8a6ec2bf3b86",
+      "_key": "!tables.results!6fe89197942e9a21.b9be8a6ec2bf3b86",
+      "type": 0,
+      "text": "Conservatory",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d39d277d1f8c6d96",
+      "_key": "!tables.results!6fe89197942e9a21.d39d277d1f8c6d96",
+      "type": 0,
+      "text": "Dispensary",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "89cd4abbdb1f7734",
+      "_key": "!tables.results!6fe89197942e9a21.89cd4abbdb1f7734",
+      "type": 0,
+      "text": "Embassy",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "29319d274ed70f09",
+      "_key": "!tables.results!6fe89197942e9a21.29319d274ed70f09",
+      "type": 0,
+      "text": "Fire station",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f987337c2626232a",
+      "_key": "!tables.results!6fe89197942e9a21.f987337c2626232a",
+      "type": 0,
+      "text": "Mayor office",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "583434a36a1f2fb1",
+      "_key": "!tables.results!6fe89197942e9a21.583434a36a1f2fb1",
+      "type": 0,
+      "text": "Meteorological institute",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "ddf961ddcd639f56",
+      "_key": "!tables.results!6fe89197942e9a21.ddf961ddcd639f56",
+      "type": 0,
+      "text": "Mint",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bbabef89980ba8d2",
+      "_key": "!tables.results!6fe89197942e9a21.bbabef89980ba8d2",
+      "type": 0,
+      "text": "Palace",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c0a026ed7b3d36d3",
+      "_key": "!tables.results!6fe89197942e9a21.c0a026ed7b3d36d3",
+      "type": 0,
+      "text": "Post office",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "28559edf015c071f",
+      "_key": "!tables.results!6fe89197942e9a21.28559edf015c071f",
+      "type": 0,
+      "text": "School",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "4e29a040439e150d",
+      "_key": "!tables.results!6fe89197942e9a21.4e29a040439e150d",
+      "type": 0,
+      "text": "Sewers",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "195b3b076a7af8c6",
+      "_key": "!tables.results!6fe89197942e9a21.195b3b076a7af8c6",
+      "type": 0,
+      "text": "Tax office",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8cff74dbd17e6fe2",
+      "_key": "!tables.results!6fe89197942e9a21.8cff74dbd17e6fe2",
+      "type": 0,
+      "text": "Tourist office",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0edb59756f65e9c4",
+      "_key": "!tables.results!6fe89197942e9a21.0edb59756f65e9c4",
+      "type": 0,
+      "text": "Tribunal",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8f97225c2d732a38",
+      "_key": "!tables.results!6fe89197942e9a21.8f97225c2d732a38",
+      "type": 0,
+      "text": "University",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f2a115c2c6c02848",
+      "_key": "!tables.results!6fe89197942e9a21.f2a115c2c6c02848",
+      "type": 0,
+      "text": "Water tower",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

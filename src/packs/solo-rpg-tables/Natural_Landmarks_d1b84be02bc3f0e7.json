@@ -1,0 +1,104 @@
+{
+  "_id": "d1b84be02bc3f0e7",
+  "_key": "!tables!d1b84be02bc3f0e7",
+  "name": "Natural Landmarks",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "1780b085e1ff9c5f",
+      "_key": "!tables.results!d1b84be02bc3f0e7.1780b085e1ff9c5f",
+      "type": 0,
+      "text": "Fauna",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "792d24e981a2aee4",
+      "_key": "!tables.results!d1b84be02bc3f0e7.792d24e981a2aee4",
+      "type": 0,
+      "text": "Flora (A)",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "bde77af3cc4310b4",
+      "_key": "!tables.results!d1b84be02bc3f0e7.bde77af3cc4310b4",
+      "type": 0,
+      "text": "Flora (B)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "54e31f68fc3a2601",
+      "_key": "!tables.results!d1b84be02bc3f0e7.54e31f68fc3a2601",
+      "type": 0,
+      "text": "Geology (A)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "38b8d7fafc0558e2",
+      "_key": "!tables.results!d1b84be02bc3f0e7.38b8d7fafc0558e2",
+      "type": 0,
+      "text": "Geology (B)",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c77d81879110e550",
+      "_key": "!tables.results!d1b84be02bc3f0e7.c77d81879110e550",
+      "type": 0,
+      "text": "Hydrology",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

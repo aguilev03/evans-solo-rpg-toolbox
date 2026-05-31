@@ -1,0 +1,179 @@
+{
+  "_id": "00e195a1311f95f9",
+  "_key": "!tables!00e195a1311f95f9",
+  "name": "Hills",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "ecabcec029f8eea6",
+      "_key": "!tables.results!00e195a1311f95f9.ecabcec029f8eea6",
+      "type": 0,
+      "text": "Manticores",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "35f8ccf6f6438b2f",
+      "_key": "!tables.results!00e195a1311f95f9.35f8ccf6f6438b2f",
+      "type": 0,
+      "text": "Basilisks",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53186e25bfaaed48",
+      "_key": "!tables.results!00e195a1311f95f9.53186e25bfaaed48",
+      "type": 0,
+      "text": "Ogres",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "25eb387b87fe0f3b",
+      "_key": "!tables.results!00e195a1311f95f9.25eb387b87fe0f3b",
+      "type": 0,
+      "text": "Orcs",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "62c49f13330a3ac0",
+      "_key": "!tables.results!00e195a1311f95f9.62c49f13330a3ac0",
+      "type": 0,
+      "text": "Goblins",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "c81dc98d5f12a7f6",
+      "_key": "!tables.results!00e195a1311f95f9.c81dc98d5f12a7f6",
+      "type": 0,
+      "text": "Giant rats",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b03e4b2a2295df8d",
+      "_key": "!tables.results!00e195a1311f95f9.b03e4b2a2295df8d",
+      "type": 0,
+      "text": "Wolves",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "34f6abe3394fadf7",
+      "_key": "!tables.results!00e195a1311f95f9.34f6abe3394fadf7",
+      "type": 0,
+      "text": "Bandits",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3b9b4d1acdc2efcd",
+      "_key": "!tables.results!00e195a1311f95f9.3b9b4d1acdc2efcd",
+      "type": 0,
+      "text": "Beastmen",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7b251eac5af309e8",
+      "_key": "!tables.results!00e195a1311f95f9.7b251eac5af309e8",
+      "type": 0,
+      "text": "Giants",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f3e26b3074185713",
+      "_key": "!tables.results!00e195a1311f95f9.f3e26b3074185713",
+      "type": 0,
+      "text": "Wyverns",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "4895ee3b8e827a5c",
+  "flags": {}
+}
