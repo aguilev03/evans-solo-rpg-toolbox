@@ -13,6 +13,8 @@
       "discord": ""
     }
   ],
+  "manifest": "https://raw.githubusercontent.com/aguilev03/evans-solo-rpg-toolbox/main/module.json",
+  "download": "https://github.com/aguilev03/evans-solo-rpg-toolbox/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "solo-rpg-tables",
