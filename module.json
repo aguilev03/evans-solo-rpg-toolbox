@@ -1,0 +1,32 @@
+{
+  "id": "evans-solo-rpg-toolbox",
+  "title": "Evans Solo RPG Toolbox",
+  "description": "A comprehensive solo RPG toolbox containing custom roll tables, random encounter tables, and helper macros.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Evan",
+      "discord": ""
+    }
+  ],
+  "packs": [
+    {
+      "name": "solo-rpg-tables",
+      "label": "Solo RPG Tables",
+      "path": "packs/solo-rpg-tables",
+      "type": "RollTable",
+      "system": "any"
+    },
+    {
+      "name": "solo-rpg-macros",
+      "label": "Solo RPG Macros",
+      "path": "packs/solo-rpg-macros",
+      "type": "Macro",
+      "system": "any"
+    }
+  ]
+}

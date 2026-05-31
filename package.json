@@ -1,0 +1,19 @@
+{
+  "name": "evans-solo-rpg-toolbox",
+  "version": "1.0.0",
+  "description": "Foundry VTT content module for solo RPG utilities.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node compile.js",
+    "pack:tables": "npx fvtt package pack --id evans-solo-rpg-toolbox --type Module --compendiumName solo-rpg-tables --inputDirectory src/packs/solo-rpg-tables --outputDirectory packs",
+    "pack:macros": "npx fvtt package pack --id evans-solo-rpg-toolbox --type Module --compendiumName solo-rpg-macros --inputDirectory src/packs/solo-rpg-macros --outputDirectory packs",
+    "build": "npm run compile && rm -rf packs && npm run pack:tables && npm run pack:macros"
+  },
+  "keywords": ["foundryvtt", "solo-rpg", "roll-tables", "macros"],
+  "author": "Evan",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.3"
+  }
+}

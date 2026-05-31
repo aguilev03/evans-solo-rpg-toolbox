@@ -1,0 +1,125 @@
+{
+  "_id": "b9b6d8821094f37a",
+  "name": "Mystery Elements Table - Clues",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Mystery Elements Table - Clues",
+  "results": [
+    {
+      "_id": "76bc632c298ce30b",
+      "type": 0,
+      "text": "New Clue",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9377a00175275ae4",
+      "type": 0,
+      "text": "New Linked Clue",
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6e45af22172458ec",
+      "type": 0,
+      "text": "Link Clue To Suspect or New Clue",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "92ab63d240fb9687",
+      "type": 0,
+      "text": "Roll Twice or Link Clue To Suspect",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "90899dcbe26d822e",
+      "type": 0,
+      "text": "New Clue",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7cb3da46ca115bd5",
+      "type": 0,
+      "text": "Special",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "0bfe63d300d43d8a",
+      "type": 0,
+      "text": "Clincher Clue",
+      "weight": 1,
+      "range": [
+        14,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "584c91a33b273a88",
+      "type": 0,
+      "text": "Link Clue To Suspect, PP-6",
+      "weight": 1,
+      "range": [
+        16,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1D10+PP",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {}
+}

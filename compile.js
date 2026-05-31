@@ -1,0 +1,344 @@
+const fs = require('fs');
+const path = require('path');
+const crypto = require('crypto');
+
+const sourceDir = '/home/evan/projects/foundry_modules/SOLO RPG TOOLBOX';
+const destDir = '/home/evan/projects/foundry_modules/evans-solo-rpg-toolbox';
+
+const parsedTables = [];
+const parsedMacros = [];
+
+function getStableId(name) {
+  const hash = crypto.createHash('sha256').update(name).digest('hex');
+  return hash.substring(0, 16);
+}
+
+function parseTextTables(filePath, relativePath) {
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const lines = content.split(/\r?\n/);
+  let currentTable = null;
+
+  const saveCurrentTable = () => {
+    if (currentTable && currentTable.results.length > 0) {
+      // Determine formula
+      if (!currentTable.formula) {
+        const hasD66 = currentTable.name.toLowerCase().includes('d66');
+        const hasD6 = currentTable.name.toLowerCase().includes('d6');
+        const hasD8 = currentTable.name.toLowerCase().includes('d8');
+        const hasD10 = currentTable.name.toLowerCase().includes('d10');
+        const hasD12 = currentTable.name.toLowerCase().includes('d12');
+        const hasD20 = currentTable.name.toLowerCase().includes('d20');
+        const hasD100 = currentTable.name.toLowerCase().includes('d100');
+
+        const explicit = currentTable.results.some(r => r.isExplicit);
+        if (explicit) {
+          let maxVal = 1;
+          let minVal = 1;
+          currentTable.results.forEach(r => {
+            if (r.range[1] > maxVal) maxVal = r.range[1];
+            if (r.range[0] < minVal) minVal = r.range[0];
+          });
+          if (minVal === 2 && maxVal === 12) {
+            currentTable.formula = '2d6';
+          } else if (minVal === 3 && maxVal === 18) {
+            currentTable.formula = '3d6';
+          } else {
+            currentTable.formula = `1d${maxVal}`;
+          }
+        } else {
+          // Implicit
+          if (hasD66 || currentTable.results.length === 36) {
+            currentTable.formula = '1d6 * 10 + 1d6';
+            // Rewrite ranges to d66 values
+            currentTable.results.forEach((r, idx) => {
+              const tens = Math.floor(idx / 6) + 1;
+              const ones = (idx % 6) + 1;
+              const val = tens * 10 + ones;
+              r.range = [val, val];
+            });
+          } else if (hasD6 || currentTable.results.length === 6) {
+            currentTable.formula = '1d6';
+          } else if (hasD8 || currentTable.results.length === 8) {
+            currentTable.formula = '1d8';
+          } else if (hasD10 || currentTable.results.length === 10) {
+            currentTable.formula = '1d10';
+          } else if (hasD12 || currentTable.results.length === 12) {
+            currentTable.formula = '1d12';
+          } else if (hasD20 || currentTable.results.length === 20) {
+            currentTable.formula = '1d20';
+          } else if (hasD100 || currentTable.results.length === 100) {
+            currentTable.formula = '1d100';
+          } else {
+            currentTable.formula = `1d${currentTable.results.length}`;
+          }
+        }
+      }
+
+      // Clean table name (remove leading d6, d66, d20 etc.)
+      currentTable.name = currentTable.name.replace(/^d\d+\s+/i, '').trim();
+
+      // Resolve name clashes by prepending file context if it is prone to clashing
+      if (currentTable.name.toLowerCase() === 'next hexes') {
+        if (relativePath.includes('features')) {
+          currentTable.name = 'Hex Features - Next Hexes';
+        } else {
+          currentTable.name = 'Hex Map - Next Hexes';
+        }
+      } else if (currentTable.name.toLowerCase() === 'landmarks') {
+        currentTable.name = 'Hex Map - Landmarks';
+      }
+
+      parsedTables.push(currentTable);
+    }
+    currentTable = null;
+  };
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+
+    if (line === '') {
+      continue;
+    }
+
+    const isHeader = (line.startsWith('#') && !line.startsWith('###')) || line.toLowerCase().match(/^d\d+\b/);
+
+    if (isHeader) {
+      saveCurrentTable();
+      let tableName = line;
+      if (line.startsWith('#')) {
+        tableName = line.replace(/^#+\s*/, '').trim();
+      }
+      currentTable = {
+        name: tableName,
+        description: '',
+        results: [],
+        formula: null
+      };
+      if (tableName.toLowerCase().includes('d66')) {
+        currentTable.formula = '1d6 * 10 + 1d6';
+      }
+    } else if (line.startsWith('###')) {
+      if (currentTable) {
+        currentTable.description = line.replace(/^###+\s*/, '').trim();
+      }
+    } else {
+      if (currentTable) {
+        const rangeMatch = line.match(/^(\d+)(?:-(\d+))?\s+(.*)$/);
+        if (rangeMatch) {
+          const min = parseInt(rangeMatch[1]);
+          const max = rangeMatch[2] ? parseInt(rangeMatch[2]) : min;
+          const text = rangeMatch[3].trim();
+          currentTable.results.push({
+            range: [min, max],
+            text: text,
+            isExplicit: true
+          });
+        } else {
+          const min = currentTable.results.length + 1;
+          const max = min;
+          currentTable.results.push({
+            range: [min, max],
+            text: line,
+            isExplicit: false
+          });
+        }
+      }
+    }
+  }
+  saveCurrentTable();
+}
+
+function parseJsonTable(filePath) {
+  const raw = fs.readFileSync(filePath, 'utf-8');
+  let obj;
+  try {
+    obj = JSON.parse(raw);
+  } catch (e) {
+    console.error(`Failed to parse JSON file ${filePath}:`, e);
+    return;
+  }
+
+  if (!obj.results || !Array.isArray(obj.results)) {
+    return;
+  }
+
+  let name = obj.name || path.basename(filePath, '.json');
+  if (name === "Clues" && filePath.includes("Mysteries_Clues")) {
+    name = "Mystery Descriptors - Clues";
+  }
+
+  const results = obj.results.map((r, idx) => {
+    const text = r.text || r.name || r.description || "";
+    const range = r.range || [idx + 1, idx + 1];
+    return {
+      range: range,
+      text: text
+    };
+  });
+
+  parsedTables.push({
+    name: name,
+    description: obj.description || "",
+    results: results,
+    formula: obj.formula || `1d${results.length}`
+  });
+}
+
+function parseMacro(filePath) {
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const basename = path.basename(filePath);
+  const ext = path.extname(filePath);
+  let name = basename.substring(0, basename.length - ext.length);
+
+  name = name.split(/[-_\s]+/)
+    .map(w => {
+      if (w.toLowerCase() === 'npc') return 'NPC';
+      if (w.toLowerCase() === 'rpg') return 'RPG';
+      return w.charAt(0).toUpperCase() + w.slice(1);
+    })
+    .join(' ');
+
+  parsedMacros.push({
+    name: name,
+    command: content
+  });
+}
+
+function walkDir(dir) {
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      walkDir(fullPath);
+    } else if (entry.isFile()) {
+      const relativePath = path.relative(sourceDir, fullPath);
+      const lowercasePath = relativePath.toLowerCase();
+
+      const isMacroDir = lowercasePath.includes('/macro/') || lowercasePath.includes('/macros/') || lowercasePath.startsWith('macro/') || lowercasePath.startsWith('macros/');
+
+      if (isMacroDir) {
+        parseMacro(fullPath);
+      } else if (entry.name.endsWith('.json')) {
+        const snippet = fs.readFileSync(fullPath, 'utf-8').trim();
+        if (snippet.startsWith('{') || snippet.startsWith('[')) {
+          try {
+            const parsed = JSON.parse(snippet);
+            if (parsed.results) {
+              parseJsonTable(fullPath);
+            } else {
+              parseMacro(fullPath);
+            }
+          } catch (e) {
+            parseMacro(fullPath);
+          }
+        } else {
+          parseMacro(fullPath);
+        }
+      } else if (entry.name.endsWith('.txt') || entry.name.includes('roll tables')) {
+        parseTextTables(fullPath, relativePath);
+      }
+    }
+  }
+}
+
+console.log('Scanning files...');
+walkDir(sourceDir);
+
+// Add proactive Monsters and Humanoids tables to support Create Encounters macro
+const monstersList = [
+  "Dinosaurs", "Ogres", "Giant rats", "Wolves", "Worgs", "Werewolves",
+  "Ents", "Giant spiders", "Bears", "Boars", "Dryads", "Manticores",
+  "Basilisks", "Giants", "Wyverns", "Trolls", "Skeletons", "Crocodiles",
+  "Zombies", "Hydras", "Griffins", "Smilodons", "Vampires"
+];
+
+const humanoidsList = [
+  "Bandits", "Berserkers", "Dwarves", "Elves", "Orcs", "Goblins",
+  "Gnolls", "Kobolds", "Lizard-men", "Snake-men", "Frog-men",
+  "Moth-men", "Mushroom-men", "Beastmen"
+];
+
+parsedTables.push({
+  name: "Monsters",
+  description: "Proactively compiled list of monsters from Biome Encounters",
+  formula: `1d${monstersList.length}`,
+  results: monstersList.map((m, idx) => ({
+    range: [idx + 1, idx + 1],
+    text: m
+  }))
+});
+
+parsedTables.push({
+  name: "Humanoids",
+  description: "Proactively compiled list of humanoids from Biome Encounters",
+  formula: `1d${humanoidsList.length}`,
+  results: humanoidsList.map((h, idx) => ({
+    range: [idx + 1, idx + 1],
+    text: h
+  }))
+});
+
+console.log(`Parsed ${parsedTables.length} Roll Tables.`);
+console.log(`Parsed ${parsedMacros.length} Macros.`);
+
+// Write RollTables to src
+const tableFolder = path.join(destDir, 'src/packs/solo-rpg-tables');
+fs.mkdirSync(tableFolder, { recursive: true });
+
+parsedTables.forEach(table => {
+  const id = getStableId(`table-${table.name}`);
+  const results = table.results.map((r, idx) => {
+    const rId = getStableId(`table-${table.name}-result-${idx}-${r.text}`);
+    return {
+      _id: rId,
+      type: 0,
+      text: r.text,
+      weight: 1,
+      range: r.range,
+      drawn: false,
+      img: "icons/svg/d20-black.svg",
+      documentId: null,
+      flags: {}
+    };
+  });
+
+  const rollTableDoc = {
+    _id: id,
+    name: table.name,
+    img: "icons/svg/d20-grey.svg",
+    description: table.description || "",
+    results: results,
+    formula: table.formula || "1d6",
+    replacement: true,
+    displayRoll: true,
+    folder: null,
+    flags: {}
+  };
+
+  const fileName = table.name.replace(/[^a-z0-9]/gi, '_') + '.json';
+  fs.writeFileSync(path.join(tableFolder, fileName), JSON.stringify(rollTableDoc, null, 2));
+});
+
+// Write Macros to src
+const macroFolder = path.join(destDir, 'src/packs/solo-rpg-macros');
+fs.mkdirSync(macroFolder, { recursive: true });
+
+parsedMacros.forEach(macro => {
+  const id = getStableId(`macro-${macro.name}`);
+  const macroDoc = {
+    _id: id,
+    name: macro.name,
+    type: "script",
+    author: getStableId("evans-solo-rpg-toolbox"),
+    img: "icons/svg/dice-target.svg",
+    scope: "global",
+    command: macro.command,
+    folder: null,
+    flags: {}
+  };
+
+  const fileName = macro.name.replace(/[^a-z0-9]/gi, '_') + '.json';
+  fs.writeFileSync(path.join(macroFolder, fileName), JSON.stringify(macroDoc, null, 2));
+});
+
+console.log('Source JSON files written successfully.');

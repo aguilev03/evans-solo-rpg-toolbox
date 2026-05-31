@@ -1,0 +1,11 @@
+{
+  "_id": "8049129553934bf8",
+  "name": "Morale Check",
+  "type": "script",
+  "author": "b62c2cffcb8be30d",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "const tableName = \"Morale Checks\";\n\nconst table = game.tables.getName(tableName);\n\nif (!table) {\n  ui.notifications.error(`RollTable \"${tableName}\" not found.`);\n  return;\n}\n\nconst roll = await table.roll();\nconst result = roll.results[0];\n\nlet content = `\n<h2>🏳️ Morale Check</h2>\n\n<p><strong>Result:</strong> [${result.range[0]}] ${result.text}</p>\n`;\n\nChatMessage.create({\n  user: game.user.id,\n  speaker: ChatMessage.getSpeaker(),\n  content\n});\n",
+  "folder": null,
+  "flags": {}
+}

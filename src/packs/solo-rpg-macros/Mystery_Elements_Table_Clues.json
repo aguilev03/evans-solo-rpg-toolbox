@@ -1,0 +1,11 @@
+{
+  "_id": "f241fbdf828be356",
+  "name": "Mystery Elements Table Clues",
+  "type": "script",
+  "author": "b62c2cffcb8be30d",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "const tableName = \"Mystery Elements Table - Clues\";\n\nconst table = game.tables.getName(tableName);\n\nif (!table) {\n  ui.notifications.error(`RollTable \"${tableName}\" not found.`);\n  return;\n}\n\n// Ask for PP\nconst pp = await Dialog.prompt({\n  title: \"Power Points\",\n  content: `\n  <form>\n  <div class=\"form-group\">\n  <label>Enter PP Modifier:</label>\n  <input type=\"number\" name=\"pp\" value=\"0\"/>\n  </div>\n  </form>\n  `,\n  callback: html => Number(html.find('[name=\"pp\"]').val())\n});\n\n// Roll 1d10\nconst baseRoll = await new Roll(\"1d10\").evaluate();\n\n// Final total\nconst total = baseRoll.total + pp;\n\n// Create final roll object for table lookup\nconst finalRoll = await new Roll(`${total}`).evaluate();\n\n// Draw from table\nconst draw = await table.draw({\n  roll: finalRoll,\n  displayChat: false\n});\n\nconst result = draw.results[0];\n\n// Chat output\nlet content = `\n<h2>🔎 Mystery Clue</h2>\n\n<p>\n<strong>Roll:</strong> ${baseRoll.total}\n+\n<strong>PP:</strong> ${pp}\n=\n<strong>Total:</strong> ${total}\n</p>\n\n<p>\n<strong>Table Result [${total}]:</strong> ${result.text}\n</p>\n`;\n\nChatMessage.create({\n  user: game.user.id,\n  speaker: ChatMessage.getSpeaker(),\n                   content: content\n});\n",
+  "folder": null,
+  "flags": {}
+}

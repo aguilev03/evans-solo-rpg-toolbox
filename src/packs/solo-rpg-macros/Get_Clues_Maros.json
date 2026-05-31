@@ -1,0 +1,11 @@
+{
+  "_id": "317a041a1df6dfca",
+  "name": "Get Clues Maros",
+  "type": "script",
+  "author": "b62c2cffcb8be30d",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "const tableName = \"Mystery Descriptors - Clues\";\n\nconst table = game.tables.getName(tableName);\n\nif (!table) {\n  ui.notifications.error(`RollTable \"${tableName}\" not found.`);\n  return;\n}\n\nconst results = await table.drawMany(2, { displayChat: false });\n\nlet content = `<h2>🔎 Mystery Clues</h2><ol>`;\n\nfor (let r of results.results) {\n  const rollNumber = r.range[0];\n  content += `<li><strong>[${rollNumber}]</strong> ${r.text}</li>`;\n}\n\ncontent += `</ol>`;\n\nChatMessage.create({\n  user: game.user.id,\n  speaker: ChatMessage.getSpeaker(),\n  content: content\n});\n",
+  "folder": null,
+  "flags": {}
+}

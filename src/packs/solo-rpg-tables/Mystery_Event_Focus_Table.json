@@ -1,0 +1,195 @@
+{
+  "_id": "18fb582829052dad",
+  "name": "Mystery Event Focus Table",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Mystery Event Focus Table",
+  "results": [
+    {
+      "_id": "4cb9ef7ab351e572",
+      "type": 0,
+      "text": "CLUE ELEMENT",
+      "weight": 1,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3aabe069c622ea70",
+      "type": 0,
+      "text": "SUSPECT ELEMENT",
+      "weight": 1,
+      "range": [
+        16,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "42404cf064463597",
+      "type": 0,
+      "text": "REMOTE EVENT",
+      "weight": 1,
+      "range": [
+        31,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d283a35f288b88a5",
+      "type": 0,
+      "text": "AMBIGUOUS EVENT",
+      "weight": 1,
+      "range": [
+        35,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b40dd2d2be2e25c2",
+      "type": 0,
+      "text": "NEW NPC",
+      "weight": 1,
+      "range": [
+        39,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e9f710a71956fb6",
+      "type": 0,
+      "text": "NPC ACTION",
+      "weight": 1,
+      "range": [
+        45,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "8c0095cb7f4a5139",
+      "type": 0,
+      "text": "NPC NEGATIVE",
+      "weight": 1,
+      "range": [
+        59,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "08562e5619b6c9dd",
+      "type": 0,
+      "text": "NPC POSITIVE",
+      "weight": 1,
+      "range": [
+        67,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b6e1bef3120b77d8",
+      "type": 0,
+      "text": "MOVE TOWARD A THREAD",
+      "weight": 1,
+      "range": [
+        72,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "36f56ddd2089611e",
+      "type": 0,
+      "text": "MOVE AWAY FROM A THREAD",
+      "weight": 1,
+      "range": [
+        80,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "b4b7f92aef9e1b0c",
+      "type": 0,
+      "text": "CLOSE A THREAD",
+      "weight": 1,
+      "range": [
+        85,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f5516b1a70542da1",
+      "type": 0,
+      "text": "PC NEGATIVE",
+      "weight": 1,
+      "range": [
+        87,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "52424a5fb4c0e775",
+      "type": 0,
+      "text": "PC POSITIVE",
+      "weight": 1,
+      "range": [
+        95,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {}
+}
