@@ -1,0 +1,12 @@
+{
+  "_id": "cd3dbfe5770fb68d",
+  "_key": "!macros!cd3dbfe5770fb68d",
+  "name": "Generate Hex Context",
+  "type": "script",
+  "author": "b62c2cffcb8be30d",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "function rollDie(sides) {\n    return Math.ceil(Math.random() * sides);\n}\n\nfunction fromTable(roll, table) {\n    return table.find(row => roll >= row.min && roll <= row.max)?.result;\n}\n\nconst featureTable = [\n    { min: 1, max: 3, result: \"Landmark\" },\n{ min: 4, max: 4, result: \"Settlement\" },\n{ min: 5, max: 5, result: \"Lair\" },\n{ min: 6, max: 6, result: \"Dungeon\" }\n];\n\nconst settlementTable = [\n    { min: 1, max: 1, result: \"Hamlet\" },\n{ min: 2, max: 2, result: \"Village\" },\n{ min: 3, max: 3, result: \"City\" },\n{ min: 4, max: 4, result: \"Castle\" },\n{ min: 5, max: 5, result: \"Tower\" },\n{ min: 6, max: 6, result: \"Abbey\" }\n];\n\nconst landmarkTypeTable = [\n    { min: 1, max: 3, result: \"Natural Landmark\" },\n{ min: 4, max: 5, result: \"Artificial Landmark\" },\n{ min: 6, max: 6, result: \"Magic Landmark\" }\n];\n\nconst landmarkContentTable = [\n    { min: 1, max: 1, result: \"Hazard\" },\n{ min: 2, max: 3, result: \"Empty\" },\n{ min: 4, max: 4, result: \"Special\" },\n{ min: 5, max: 6, result: \"Monsters\" }\n];\n\nlet featureRoll = rollDie(6);\nlet feature = fromTable(featureRoll, featureTable);\n\nlet output = `\n<h2>Hex Contents</h2>\n<p><b>Feature Roll:</b> d6 = ${featureRoll}</p>\n<p><b>Feature:</b> ${feature}</p>\n`;\n\nif (feature === \"Settlement\") {\n    let settlementRoll = rollDie(6);\n    let settlement = fromTable(settlementRoll, settlementTable);\n\n    output += `\n    <hr>\n    <p><b>Settlement Roll:</b> d6 = ${settlementRoll}</p>\n    <p><b>Settlement Type:</b> ${settlement}</p>\n    `;\n}\n\nif (feature === \"Landmark\") {\n    let landmarkTypeRoll = rollDie(6);\n    let landmarkType = fromTable(landmarkTypeRoll, landmarkTypeTable);\n\n    let contentRoll = rollDie(6);\n    let content = fromTable(contentRoll, landmarkContentTable);\n\n    output += `\n    <hr>\n    <p><b>Landmark Type Roll:</b> d6 = ${landmarkTypeRoll}</p>\n    <p><b>Landmark Type:</b> ${landmarkType}</p>\n\n    <p><b>Content Roll:</b> d6 = ${contentRoll}</p>\n    <p><b>Content:</b> ${content}</p>\n    `;\n}\n\nChatMessage.create({\n    speaker: ChatMessage.getSpeaker(),\n                   content: output\n});\n",
+  "folder": "3666b45e4022bd8b",
+  "flags": {}
+}

@@ -1,0 +1,464 @@
+{
+  "_id": "fccab048af7036a2",
+  "_key": "!tables!fccab048af7036a2",
+  "name": "Names formatting",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "b3c7df0fc679468e",
+      "_key": "!tables.results!fccab048af7036a2.b3c7df0fc679468e",
+      "type": 0,
+      "text": "$B $A",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "02aed86fd516b261",
+      "_key": "!tables.results!fccab048af7036a2.02aed86fd516b261",
+      "type": 0,
+      "text": "$B $F",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5e86ca866c8b7654",
+      "_key": "!tables.results!fccab048af7036a2.5e86ca866c8b7654",
+      "type": 0,
+      "text": "$B $H",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d22926b8a1b5e1e9",
+      "_key": "!tables.results!fccab048af7036a2.d22926b8a1b5e1e9",
+      "type": 0,
+      "text": "$B $H",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "53fe685f8b1b4564",
+      "_key": "!tables.results!fccab048af7036a2.53fe685f8b1b4564",
+      "type": 0,
+      "text": "$C $A",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f62775c3a7587e42",
+      "_key": "!tables.results!fccab048af7036a2.f62775c3a7587e42",
+      "type": 0,
+      "text": "$C $F",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "806435463f361b0a",
+      "_key": "!tables.results!fccab048af7036a2.806435463f361b0a",
+      "type": 0,
+      "text": "$C $H",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "adf402d9093c4424",
+      "_key": "!tables.results!fccab048af7036a2.adf402d9093c4424",
+      "type": 0,
+      "text": "$D+Ourar",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "938b7be4b863114a",
+      "_key": "!tables.results!fccab048af7036a2.938b7be4b863114a",
+      "type": 0,
+      "text": "$D $A",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "83aeca841a4a9b0d",
+      "_key": "!tables.results!fccab048af7036a2.83aeca841a4a9b0d",
+      "type": 0,
+      "text": "$D $F",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "14da1f67402a714c",
+      "_key": "!tables.results!fccab048af7036a2.14da1f67402a714c",
+      "type": 0,
+      "text": "$D $H",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f7ada25bf603830a",
+      "_key": "!tables.results!fccab048af7036a2.f7ada25bf603830a",
+      "type": 0,
+      "text": "$D+-by-sea",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "67664f29c46d001f",
+      "_key": "!tables.results!fccab048af7036a2.67664f29c46d001f",
+      "type": 0,
+      "text": "$D+-in-+$D",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "595ce45d350b51af",
+      "_key": "!tables.results!fccab048af7036a2.595ce45d350b51af",
+      "type": 0,
+      "text": "$D+-le-+$D",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "5a503ecc48feaa5f",
+      "_key": "!tables.results!fccab048af7036a2.5a503ecc48feaa5f",
+      "type": 0,
+      "text": "D+-les-bains",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "73d9f35fd72b2c05",
+      "_key": "!tables.results!fccab048af7036a2.73d9f35fd72b2c05",
+      "type": 0,
+      "text": "$D+-on-the-hill",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9e5d509bf99a5612",
+      "_key": "!tables.results!fccab048af7036a2.9e5d509bf99a5612",
+      "type": 0,
+      "text": "$D+ington",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "2aafd9bd94232aba",
+      "_key": "!tables.results!fccab048af7036a2.2aafd9bd94232aba",
+      "type": 0,
+      "text": "$D+sby",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "72f7766c661f13f4",
+      "_key": "!tables.results!fccab048af7036a2.72f7766c661f13f4",
+      "type": 0,
+      "text": "$D+thorpe",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "952d9e12297cf397",
+      "_key": "!tables.results!fccab048af7036a2.952d9e12297cf397",
+      "type": 0,
+      "text": "$D+ton",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d3851df2608802d3",
+      "_key": "!tables.results!fccab048af7036a2.d3851df2608802d3",
+      "type": 0,
+      "text": "$E $A",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "3a23ec854d7907e5",
+      "_key": "!tables.results!fccab048af7036a2.3a23ec854d7907e5",
+      "type": 0,
+      "text": "$E $B",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "7c0c6afa7057b956",
+      "_key": "!tables.results!fccab048af7036a2.7c0c6afa7057b956",
+      "type": 0,
+      "text": "$E $D",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "6bed02f2173e6d40",
+      "_key": "!tables.results!fccab048af7036a2.6bed02f2173e6d40",
+      "type": 0,
+      "text": "$E $F",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "18c5cbb70ae95a91",
+      "_key": "!tables.results!fccab048af7036a2.18c5cbb70ae95a91",
+      "type": 0,
+      "text": "$E $H",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "f2e03d19e449b100",
+      "_key": "!tables.results!fccab048af7036a2.f2e03d19e449b100",
+      "type": 0,
+      "text": "$G $B",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "fd78c17be3973cbf",
+      "_key": "!tables.results!fccab048af7036a2.fd78c17be3973cbf",
+      "type": 0,
+      "text": "$G $D",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "88f65ab12de482e3",
+      "_key": "!tables.results!fccab048af7036a2.88f65ab12de482e3",
+      "type": 0,
+      "text": "Trou-au-+$D",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "9e93a8366b528b32",
+      "_key": "!tables.results!fccab048af7036a2.9e93a8366b528b32",
+      "type": 0,
+      "text": "Trou-de-+$D",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "_id": "d5dc4ec8abf538a4",
+      "_key": "!tables.results!fccab048af7036a2.d5dc4ec8abf538a4",
+      "type": 0,
+      "text": "Val-+$D",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "1d30",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "f41eb6c854728b22",
+  "flags": {}
+}

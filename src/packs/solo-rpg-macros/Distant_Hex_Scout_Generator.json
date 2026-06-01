@@ -1,0 +1,12 @@
+{
+  "_id": "febd9ad9b7c6c230",
+  "_key": "!macros!febd9ad9b7c6c230",
+  "name": "Distant Hex Scout Generator",
+  "type": "script",
+  "author": "b62c2cffcb8be30d",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// =========================\n// DISTANT HEX SCOUT GENERATOR\n// \"What might be there?\"\n// =========================\n\nfunction roll(sides) {\n    return Math.ceil(Math.random() * sides);\n}\n\nfunction tableRoll(value, table) {\n    return table.find(row => value >= row.min && value <= row.max);\n}\n\nconst featureTable = [\n    { min: 1, max: 3, result: \"Landmark\" },\n{ min: 4, max: 4, result: \"Settlement\" },\n{ min: 5, max: 5, result: \"Lair\" },\n{ min: 6, max: 6, result: \"Dungeon\" }\n];\n\nconst settlementTable = [\n    { roll: 1, result: \"Hamlet\" },\n{ roll: 2, result: \"Village\" },\n{ roll: 3, result: \"City\" },\n{ roll: 4, result: \"Castle\" },\n{ roll: 5, result: \"Tower\" },\n{ roll: 6, result: \"Abbey\" }\n];\n\nconst featureRoll = roll(6);\nconst feature = tableRoll(featureRoll, featureTable).result;\n\nlet output = `\n<h2>Distant Hex Scout</h2>\n\n<p><i>You are too far away to see details, but you can make out the general shape of something in the hex.</i></p>\n\n<hr>\n\n<p><b>Feature Roll:</b> d6 = ${featureRoll}</p>\n<p><b>Visible Feature:</b> ${feature}</p>\n`;\n\nif (feature === \"Settlement\") {\n    const settlementRoll = roll(6);\n    const settlement = settlementTable.find(s => s.roll === settlementRoll).result;\n\n    output += `\n    <hr>\n    <p><b>Settlement Type Roll:</b> d6 = ${settlementRoll}</p>\n    <p><b>Visible Settlement Type:</b> ${settlement}</p>\n    `;\n}\n\noutput += `\n<hr>\n\n<h3>Scout Summary</h3>\n<p>\nFrom a distance, this hex appears to contain:\n<b>${feature === \"Settlement\" ? \"a settlement\" : \"a \" + feature.toLowerCase()}</b>.\n</p>\n`;\n\nChatMessage.create({\n    speaker: ChatMessage.getSpeaker(),\n                   content: output\n});\n",
+  "folder": "3666b45e4022bd8b",
+  "flags": {}
+}

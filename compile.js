@@ -265,8 +265,9 @@ function walkDir(dir) {
       const lowercasePath = relativePath.toLowerCase();
 
       const isMacroDir = lowercasePath.includes('/macro/') || lowercasePath.includes('/macros/') || lowercasePath.startsWith('macro/') || lowercasePath.startsWith('macros/');
+      const isMacro = entry.name.endsWith('.js') || isMacroDir;
 
-      if (isMacroDir) {
+      if (isMacro) {
         parseMacro(fullPath, relativePath);
       } else if (entry.name.endsWith('.json')) {
         const snippet = fs.readFileSync(fullPath, 'utf-8').trim();
